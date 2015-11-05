@@ -3,6 +3,7 @@
 .settings/
 target/
 logging.log
+MyLog.log
 similar-datatrain
 src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/DataPreprocess.java
 src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/LevenshteinDistance.java
