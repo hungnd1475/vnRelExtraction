@@ -1,0 +1,9 @@
+c="ho" 4:2 4:2||r="PIP"||c="sốt" 4:4 4:4
+c="ho" 4:2 4:2||r="PIP"||c="khó thở nhập ICU_" 4:6 4:9
+c="khí dung" 4:14 4:15||r="TrAP"||c="ho" 4:2 4:2
+c="kháng_sinh" 4:19 4:19||r="TrAP"||c="ho" 4:2 4:2
+c="sốt" 4:4 4:4||r="PIP"||c="khó thở nhập ICU_" 4:6 4:9
+c="khí dung" 4:14 4:15||r="TrAP"||c="sốt" 4:4 4:4
+c="kháng_sinh" 4:19 4:19||r="TrAP"||c="sốt" 4:4 4:4
+c="khí dung" 4:14 4:15||r="TrAP"||c="khó thở nhập ICU_" 4:6 4:9
+c="kháng_sinh" 4:19 4:19||r="TrAP"||c="khó thở nhập ICU_" 4:6 4:9

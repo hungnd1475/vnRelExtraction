@@ -1,0 +1,7 @@
+c="tiêu lỏng không đàm máu 4-5 lần" 2:6 2:12||t="problem"
+c="đau quặn bụng quanh rốn khi đi_tiêu" 2:16 2:22||t="problem"
+c="sốt âm_ỉ" 2:24 2:25||t="problem"
+c="mệt" 2:27 2:27||t="problem"
+c="mua thuốc uống" 3:3 3:5||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"

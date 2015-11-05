@@ -1,0 +1,11 @@
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+Nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 53 tuổi vào viện với lý_do : Bệnh_nhân khai cách 02 ngày bệnh_nhân bị vỡ mụn_nhọt trên đầu , sau đó đến trạm y_tế địa_phương sơ_cứu khâu vết_thương .
+Hiện_tại , thấy chóng_mặt - - > vào viện
+Chẩn_đoán : Vết_thương đầu + chóng_mặt
+Điều_trị nội_khoa , sau điều tri , bệnh ốn VT khô , bớt chóng_mặt - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+Nội_khoa

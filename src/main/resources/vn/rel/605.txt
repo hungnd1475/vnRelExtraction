@@ -1,0 +1,52 @@
+c="sốt" 2:9 2:9||r="PIP"||c="sốt vừa" 2:11 2:12
+c="sốt" 2:9 2:9||r="PIP"||c="tiêu phân lỏng" 2:18 2:20
+c="sốt" 2:9 2:9||r="PIP"||c="ho" 2:30 2:30
+c="sốt" 2:9 2:9||r="PIP"||c="sổ_mũi" 2:32 2:32
+c="sốt" 2:9 2:9||r="PIP"||c="Viêm_Mũi họng cấp" 2:40 2:42
+c="sốt" 2:9 2:9||r="PIP"||c="sổ_mũi" 2:55 2:55
+c="sốt" 2:9 2:9||r="PIP"||c="tiêu phân lỏng" 2:57 2:59
+c="sốt" 2:9 2:9||r="PIP"||c="mệt" 2:61 2:61
+c="sốt" 2:9 2:9||r="PIP"||c="ăn kém" 2:63 2:64
+c="sốt vừa" 2:11 2:12||r="PIP"||c="tiêu phân lỏng" 2:18 2:20
+c="sốt vừa" 2:11 2:12||r="PIP"||c="ho" 2:30 2:30
+c="sốt vừa" 2:11 2:12||r="PIP"||c="sổ_mũi" 2:32 2:32
+c="sốt vừa" 2:11 2:12||r="PIP"||c="Viêm_Mũi họng cấp" 2:40 2:42
+c="sốt vừa" 2:11 2:12||r="PIP"||c="sốt" 2:53 2:53
+c="sốt vừa" 2:11 2:12||r="PIP"||c="sổ_mũi" 2:55 2:55
+c="sốt vừa" 2:11 2:12||r="PIP"||c="tiêu phân lỏng" 2:57 2:59
+c="sốt vừa" 2:11 2:12||r="PIP"||c="mệt" 2:61 2:61
+c="sốt vừa" 2:11 2:12||r="PIP"||c="ăn kém" 2:63 2:64
+c="tiêu phân lỏng" 2:18 2:20||r="PIP"||c="ho" 2:30 2:30
+c="tiêu phân lỏng" 2:18 2:20||r="PIP"||c="sổ_mũi" 2:32 2:32
+c="tiêu phân lỏng" 2:18 2:20||r="PIP"||c="Viêm_Mũi họng cấp" 2:40 2:42
+c="tiêu phân lỏng" 2:18 2:20||r="PIP"||c="sốt" 2:53 2:53
+c="tiêu phân lỏng" 2:18 2:20||r="PIP"||c="sổ_mũi" 2:55 2:55
+c="tiêu phân lỏng" 2:18 2:20||r="PIP"||c="mệt" 2:61 2:61
+c="tiêu phân lỏng" 2:18 2:20||r="PIP"||c="ăn kém" 2:63 2:64
+c="ho" 2:30 2:30||r="PIP"||c="sổ_mũi" 2:32 2:32
+c="ho" 2:30 2:30||r="PIP"||c="Viêm_Mũi họng cấp" 2:40 2:42
+c="ho" 2:30 2:30||r="PIP"||c="sốt" 2:53 2:53
+c="ho" 2:30 2:30||r="PIP"||c="sổ_mũi" 2:55 2:55
+c="ho" 2:30 2:30||r="PIP"||c="tiêu phân lỏng" 2:57 2:59
+c="ho" 2:30 2:30||r="PIP"||c="mệt" 2:61 2:61
+c="ho" 2:30 2:30||r="PIP"||c="ăn kém" 2:63 2:64
+c="sổ_mũi" 2:32 2:32||r="PIP"||c="Viêm_Mũi họng cấp" 2:40 2:42
+c="sổ_mũi" 2:32 2:32||r="PIP"||c="sốt" 2:53 2:53
+c="sổ_mũi" 2:32 2:32||r="PIP"||c="tiêu phân lỏng" 2:57 2:59
+c="sổ_mũi" 2:32 2:32||r="PIP"||c="mệt" 2:61 2:61
+c="sổ_mũi" 2:32 2:32||r="PIP"||c="ăn kém" 2:63 2:64
+c="Viêm_Mũi họng cấp" 2:40 2:42||r="PIP"||c="sốt" 2:53 2:53
+c="Viêm_Mũi họng cấp" 2:40 2:42||r="PIP"||c="sổ_mũi" 2:55 2:55
+c="Viêm_Mũi họng cấp" 2:40 2:42||r="PIP"||c="tiêu phân lỏng" 2:57 2:59
+c="Viêm_Mũi họng cấp" 2:40 2:42||r="PIP"||c="mệt" 2:61 2:61
+c="Viêm_Mũi họng cấp" 2:40 2:42||r="PIP"||c="ăn kém" 2:63 2:64
+c="sốt" 2:53 2:53||r="PIP"||c="sổ_mũi" 2:55 2:55
+c="sốt" 2:53 2:53||r="PIP"||c="tiêu phân lỏng" 2:57 2:59
+c="sốt" 2:53 2:53||r="PIP"||c="mệt" 2:61 2:61
+c="sốt" 2:53 2:53||r="PIP"||c="ăn kém" 2:63 2:64
+c="sổ_mũi" 2:55 2:55||r="PIP"||c="tiêu phân lỏng" 2:57 2:59
+c="sổ_mũi" 2:55 2:55||r="PIP"||c="mệt" 2:61 2:61
+c="sổ_mũi" 2:55 2:55||r="PIP"||c="ăn kém" 2:63 2:64
+c="tiêu phân lỏng" 2:57 2:59||r="PIP"||c="mệt" 2:61 2:61
+c="tiêu phân lỏng" 2:57 2:59||r="PIP"||c="ăn kém" 2:63 2:64
+c="mệt" 2:61 2:61||r="PIP"||c="ăn kém" 2:63 2:64

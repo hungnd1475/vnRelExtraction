@@ -1,0 +1,15 @@
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="ho đàm trắng" 2:12 2:14
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="đau họng khi nuốt" 2:16 2:19
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="chóng_mặt khi đi_lại" 2:21 2:23
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="ăn_uống kém" 2:25 2:26
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="mệt" 2:28 2:28
+c="ho đàm trắng" 2:12 2:14||r="PIP"||c="đau họng khi nuốt" 2:16 2:19
+c="ho đàm trắng" 2:12 2:14||r="PIP"||c="chóng_mặt khi đi_lại" 2:21 2:23
+c="ho đàm trắng" 2:12 2:14||r="PIP"||c="ăn_uống kém" 2:25 2:26
+c="ho đàm trắng" 2:12 2:14||r="PIP"||c="mệt" 2:28 2:28
+c="đau họng khi nuốt" 2:16 2:19||r="PIP"||c="chóng_mặt khi đi_lại" 2:21 2:23
+c="đau họng khi nuốt" 2:16 2:19||r="PIP"||c="ăn_uống kém" 2:25 2:26
+c="đau họng khi nuốt" 2:16 2:19||r="PIP"||c="mệt" 2:28 2:28
+c="chóng_mặt khi đi_lại" 2:21 2:23||r="PIP"||c="ăn_uống kém" 2:25 2:26
+c="chóng_mặt khi đi_lại" 2:21 2:23||r="PIP"||c="mệt" 2:28 2:28
+c="ăn_uống kém" 2:25 2:26||r="PIP"||c="mệt" 2:28 2:28

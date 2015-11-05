@@ -1,0 +1,4 @@
+c="Tăng huyết_áp" 2:1 2:2||t="problem"
+c="mệt" 4:4 4:4||t="problem"
+c="huyết_áp_cao" 4:10 4:10||t="problem"
+c="mệt nhiều" 4:12 4:13||t="problem"

@@ -1,0 +1,7 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt cao liên_tục" 4:6 4:8||t="problem"
+c="ho đàm khó khạc" 4:12 4:15||t="problem"
+c="đau tức ngực khi ho" 4:17 4:21||t="problem"
+c="mệt nhiều" 4:23 4:24||t="problem"
+c="điều tr 5i" 5:12 5:14||t="treatment"
+c="Kháng_sinh" 7:1 7:1||t="treatment"

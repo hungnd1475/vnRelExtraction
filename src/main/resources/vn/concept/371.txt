@@ -1,0 +1,6 @@
+c="nôn ói nhiều" 4:11 4:13||t="problem"
+c="nhợn ói liên_tục" 4:15 4:17||t="problem"
+c="không ăn_uống được" 4:19 4:21||t="problem"
+c="tức ngực" 4:23 4:24||t="problem"
+c="mệt_mỏi nhiều" 4:26 4:27||t="problem"
+c="điều_trị" 4:39 4:39||t="treatment"

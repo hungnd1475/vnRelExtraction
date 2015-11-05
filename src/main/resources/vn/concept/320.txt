@@ -1,0 +1,7 @@
+c="mất_ngủ" 2:7 2:7||t="problem"
+c="chóng_mặt khi thay_đổi tư_thế" 2:9 2:12||t="problem"
+c="ăn kém" 2:14 2:15||t="problem"
+c="người mệt_mỏi" 3:2 3:3||t="problem"
+c="bủn_rủn tay_chân" 3:5 3:6||t="problem"
+c="chóng_mặt nhiều" 3:8 3:9||t="problem"
+c="điều_trị" 4:3 4:3||t="treatment"

@@ -1,0 +1,8 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt cao" 6:6 6:7||t="problem"
+c="đau họng" 6:9 6:10||t="problem"
+c="ho" 6:12 6:12||t="problem"
+c="đau họng" 6:25 6:26||t="problem"
+c="ho_khan" 6:28 6:28||t="problem"
+c="ăn_uống kém" 6:30 6:31||t="problem"
+c="chóng_mặt" 6:33 6:33||t="problem"

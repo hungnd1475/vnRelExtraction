@@ -1,0 +1,4 @@
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="ăn_uống kém" 2:9 2:10
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="nôn ói sau ăn" 2:12 2:15
+c="ăn_uống kém" 2:9 2:10||r="PIP"||c="nôn ói sau ăn" 2:12 2:15
+c="khó thở khi nằm đầu thấp" 3:2 3:7||r="PIP"||c="mệt" 3:9 3:9

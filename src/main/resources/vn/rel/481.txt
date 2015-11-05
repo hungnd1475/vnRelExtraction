@@ -1,0 +1,7 @@
+c="đau tức vùng thượng_vị" 2:9 2:12||r="PIP"||c="ợ hơi" 2:14 2:15
+c="đau bụng nhiều" 3:3 3:5||r="PIP"||c="đau_đầu" 3:7 3:7
+c="đau bụng nhiều" 3:3 3:5||r="PIP"||c="chóng_mặt" 3:9 3:9
+c="đau bụng nhiều" 3:3 3:5||r="PIP"||c="uống thuốc không giảm" 3:13 3:16
+c="đau_đầu" 3:7 3:7||r="PIP"||c="chóng_mặt" 3:9 3:9
+c="đau_đầu" 3:7 3:7||r="PIP"||c="uống thuốc không giảm" 3:13 3:16
+c="chóng_mặt" 3:9 3:9||r="PIP"||c="uống thuốc không giảm" 3:13 3:16

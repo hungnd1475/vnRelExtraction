@@ -1,0 +1,3 @@
+c="lọc máu" 2:6 2:7||r="TrWP"||c="ói 4-5 la62nra thức_ăn buoi 6433 trưa" 2:59 2:65
+c="lọc máu" 2:6 2:7||r="TrWP"||c="lạnh run sốt 38 độ 5" 2:77 2:82
+c="ói 4-5 la62nra thức_ăn buoi 6433 trưa" 2:59 2:65||r="PIP"||c="lạnh run sốt 38 độ 5" 2:77 2:82

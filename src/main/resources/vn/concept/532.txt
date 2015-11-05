@@ -1,0 +1,4 @@
+c="Phì đại tiền_liệt_tuyến" 2:1 2:3||t="problem"
+c="ho_khan khoảng 1 tuần nay" 4:3 4:7||t="problem"
+c="uống thuốc ngoại_trú nhưng không giảm" 4:9 4:14||t="problem"
+c="Tối_qua ho khạc đàm nhiều , khó ngủ" 5:1 5:8||t="problem"

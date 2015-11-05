@@ -1,0 +1,4 @@
+Bệnh Lý
+Bệnh_nhân sốt + ho 3 ngày_nay khám tại BV Vũ_Anh uống thuốc không bớt - - > nhập_viện .
+Điều Trị
+Kháng_sinh , kháng_viêm , nâng tổng trạng .

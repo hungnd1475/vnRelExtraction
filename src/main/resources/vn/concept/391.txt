@@ -1,0 +1,5 @@
+c="mệt nhiều" 2:5 2:6||t="problem"
+c="tiểu ít" 2:8 2:9||t="problem"
+c="đau vùng mạn sườn ( P" 2:11 2:16||t="problem"
+c="điều_trị" 2:29 2:29||t="treatment"
+c="bụng còn báng" 2:34 2:36||t="problem"

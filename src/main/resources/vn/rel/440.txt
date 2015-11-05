@@ -1,0 +1,6 @@
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="nổi hồng ban mụn nước mụn mủ rải_rác toàn_thân" 2:12 2:20
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="ăn_uống kém" 2:22 2:23
+c="sốt ớn lạnh" 2:6 2:8||r="PIP"||c="mệt" 2:25 2:25
+c="nổi hồng ban mụn nước mụn mủ rải_rác toàn_thân" 2:12 2:20||r="PIP"||c="ăn_uống kém" 2:22 2:23
+c="nổi hồng ban mụn nước mụn mủ rải_rác toàn_thân" 2:12 2:20||r="PIP"||c="mệt" 2:25 2:25
+c="ăn_uống kém" 2:22 2:23||r="PIP"||c="mệt" 2:25 2:25

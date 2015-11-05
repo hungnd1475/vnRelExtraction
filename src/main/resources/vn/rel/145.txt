@@ -1,0 +1,4 @@
+c="khối phồng vùng bìu ( T )" 2:5 2:11||r="PIP"||c="thoát_vị bìu ( T )" 2:16 2:20
+c="khối phồng vùng bìu ( T )" 8:9 8:15||r="PIP"||c="thoát_vị bìu ( T )" 8:20 8:24
+c="siêu_âm" 2:14 2:14||r="TeCP"||c="khối phồng vùng bìu ( T )" 2:5 2:11
+c="siêu_âm" 2:14 2:14||r="TeRP"||c="thoát_vị bìu ( T )" 2:16 2:20

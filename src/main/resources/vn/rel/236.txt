@@ -1,0 +1,6 @@
+c="đau quặn từng cơn vùng thượng_vị" 2:5 2:10||r="PIP"||c="buồn_nôn" 2:14 2:14
+c="đau quặn từng cơn vùng thượng_vị" 2:5 2:10||r="PIP"||c="ăn_uống kém" 2:16 2:17
+c="đau quặn từng cơn vùng thượng_vị" 2:5 2:10||r="PIP"||c="mệt" 2:19 2:19
+c="buồn_nôn" 2:14 2:14||r="PIP"||c="ăn_uống kém" 2:16 2:17
+c="buồn_nôn" 2:14 2:14||r="PIP"||c="mệt" 2:19 2:19
+c="ăn_uống kém" 2:16 2:17||r="PIP"||c="mệt" 2:19 2:19

@@ -1,0 +1,6 @@
+c="khám điều_trị ngoại_trú" 4:7 4:9||r="TrWP"||c="sốt" 4:2 4:2
+c="sốt" 4:2 4:2||r="PIP"||c="không bớt" 4:13 4:14
+c="sốt" 4:2 4:2||r="PIP"||c="sốt cao kèm đau họng" 4:16 4:20
+c="khám điều_trị ngoại_trú" 4:7 4:9||r="TrWP"||c="không bớt" 4:13 4:14
+c="khám điều_trị ngoại_trú" 4:7 4:9||r="TrWP"||c="sốt cao kèm đau họng" 4:16 4:20
+c="không bớt" 4:13 4:14||r="PIP"||c="sốt cao kèm đau họng" 4:16 4:20

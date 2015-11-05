@@ -1,0 +1,6 @@
+c="khu_trú HC" 6:13 6:14||r="TrIP"||c="đau âm_ỉ" 6:2 6:3
+c="đau" 8:3 8:3||r="PIP"||c="sốt" 8:6 8:6
+c="đau" 8:3 8:3||r="PIP"||c="ruột_thừa viêm" 8:16 8:17
+c="sốt" 8:6 8:6||r="PIP"||c="ruột_thừa viêm" 8:16 8:17
+c="Phẫu_thuật cắt RT" 10:12 10:14||r="TrAP"||c="Viêm ruột_thừa muộn" 10:3 10:5
+c="lau ổ_bụng" 10:16 10:17||r="TrAP"||c="Viêm ruột_thừa muộn" 10:3 10:5

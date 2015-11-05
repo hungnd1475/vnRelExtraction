@@ -1,0 +1,6 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau bụng" 4:2 4:3||t="problem"
+c="ói" 4:7 4:7||t="problem"
+c="tiêu phân vàng" 4:11 4:13||t="problem"
+c="đau lan khắp bụng" 4:19 4:22||t="problem"
+c="Tăng huyết_áp" 6:1 6:2||t="problem"

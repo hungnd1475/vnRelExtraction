@@ -1,0 +1,15 @@
+c="nhìn và sờ vùng cổ lớn bất_thường" 2:3 2:9||r="PIP"||c="bướu_cổ" 2:12 2:12
+c="nhìn và sờ vùng cổ lớn bất_thường" 2:3 2:9||r="PIP"||c="Bướu tuyến_giáp 2 bên" 2:19 2:22
+c="phẫu_thuật" 2:26 2:26||r="TrAP"||c="nhìn và sờ vùng cổ lớn bất_thường" 2:3 2:9
+c="bướu_cổ" 2:12 2:12||r="PIP"||c="Bướu tuyến_giáp 2 bên" 2:19 2:22
+c="phẫu_thuật" 2:26 2:26||r="TrAP"||c="bướu_cổ" 2:12 2:12
+c="phẫu_thuật" 2:26 2:26||r="TrAP"||c="Bướu tuyến_giáp 2 bên" 2:19 2:22
+c="nhìn và sờ vùng cổ lớn bất_thường" 8:8 8:14||r="PIP"||c="bướu_cổ" 8:17 8:17
+c="nhìn và sờ vùng cổ lớn bất_thường" 8:8 8:14||r="PIP"||c="Bướu tuyến_giáp 2 bên" 8:24 8:27
+c="phẫu_thuật" 8:31 8:31||r="TrAP"||c="nhìn và sờ vùng cổ lớn bất_thường" 8:8 8:14
+c="bướu_cổ" 8:17 8:17||r="PIP"||c="Bướu tuyến_giáp 2 bên" 8:24 8:27
+c="phẫu_thuật" 8:31 8:31||r="TrAP"||c="bướu_cổ" 8:17 8:17
+c="phẫu_thuật" 8:31 8:31||r="TrAP"||c="Bướu tuyến_giáp 2 bên" 8:24 8:27
+c="siêu_âm tuyến" 2:16 2:17||r="TeCP"||c="nhìn và sờ vùng cổ lớn bất_thường" 2:3 2:9
+c="siêu_âm tuyến" 2:16 2:17||r="TeCP"||c="bướu_cổ" 2:12 2:12
+c="siêu_âm tuyến" 2:16 2:17||r="TeRP"||c="Bướu tuyến_giáp 2 bên" 2:19 2:22

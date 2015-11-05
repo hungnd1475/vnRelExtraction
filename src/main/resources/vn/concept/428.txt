@@ -1,0 +1,8 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt âm_ỉ" 4:6 4:7||t="problem"
+c="ho_khan" 4:11 4:11||t="problem"
+c="đau rát họng khi nuốt" 4:13 4:17||t="problem"
+c="mệt nhiều" 4:19 4:20||t="problem"
+c="điều tr 5i" 5:2 5:4||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"
+c="Kháng_sinh" 8:1 8:1||t="treatment"

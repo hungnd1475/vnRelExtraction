@@ -1,0 +1,8 @@
+c="Ho" 2:1 2:1||t="problem"
+c="ho đàm trắng từng cơn" 4:6 4:10||t="problem"
+c="ăn_uống kém" 4:14 4:15||t="problem"
+c="mệt nhiều khi đi_lại" 4:17 4:20||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"
+c="Kháng_sinh" 8:1 8:1||t="treatment"
+c="Hạ_áp" 9:1 9:1||t="treatment"

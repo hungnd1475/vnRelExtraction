@@ -1,0 +1,3 @@
+c="sốt cao" 4:2 4:3||t="problem"
+c="ói" 4:5 4:5||t="problem"
+c="phân lỏng" 4:7 4:8||t="problem"

@@ -1,0 +1,10 @@
+c="ho" 2:9 2:9||r="PIP"||c="sốt" 2:11 2:11
+c="ho" 2:9 2:9||r="PIP"||c="đau họng" 2:13 2:14
+c="ho" 2:9 2:9||r="PIP"||c="ho nhiều liên_tục cả đêm không ngủ được" 2:16 2:23
+c="ho" 2:9 2:9||r="PIP"||c="mệt" 2:25 2:25
+c="sốt" 2:11 2:11||r="PIP"||c="đau họng" 2:13 2:14
+c="sốt" 2:11 2:11||r="PIP"||c="ho nhiều liên_tục cả đêm không ngủ được" 2:16 2:23
+c="sốt" 2:11 2:11||r="PIP"||c="mệt" 2:25 2:25
+c="đau họng" 2:13 2:14||r="PIP"||c="ho nhiều liên_tục cả đêm không ngủ được" 2:16 2:23
+c="đau họng" 2:13 2:14||r="PIP"||c="mệt" 2:25 2:25
+c="ho nhiều liên_tục cả đêm không ngủ được" 2:16 2:23||r="PIP"||c="mệt" 2:25 2:25

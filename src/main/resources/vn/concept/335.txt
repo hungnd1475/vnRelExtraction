@@ -1,0 +1,6 @@
+c="ho đàm khó khạc" 2:6 2:9||t="problem"
+c="thở khò_khè về đêm" 2:13 2:16||t="problem"
+c="cảm_giác khó thở" 2:18 2:20||t="problem"
+c="mệt nhiều khi đi_lại" 2:22 2:25||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 3:12 3:12||t="treatment"

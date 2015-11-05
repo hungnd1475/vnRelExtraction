@@ -1,0 +1,10 @@
+c="sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="sốt" 2:1 2:1||r="PIP"||c="sổ_mũi" 2:5 2:5
+c="ho" 2:3 2:3||r="PIP"||c="sổ_mũi" 2:5 2:5
+c="viêm mũi họng" 4:4 4:6||r="PIP"||c="sốt cao" 4:9 4:10
+c="viêm mũi họng" 4:4 4:6||r="PIP"||c="sốt_xuất_huyết" 4:14 4:14
+c="sốt cao" 4:9 4:10||r="PIP"||c="sốt_xuất_huyết" 4:14 4:14
+c="kháng_sinh" 4:18 4:18||r="TrWP"||c="sốt_xuất_huyết" 4:14 4:14
+c="kháng_sinh" 4:18 4:18||r="TrWP"||c="viêm mũi họng" 4:4 4:6
+c="kháng_sinh" 4:18 4:18||r="TrWP"||c="sốt cao" 4:9 4:10
+c="sốt cao" 5:3 5:4||r="PIP"||c="quấy khóc" 5:7 5:8

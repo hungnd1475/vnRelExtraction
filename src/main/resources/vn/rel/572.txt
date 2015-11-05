@@ -1,0 +1,6 @@
+c="đột_ngột đau dữ_dội vùng sau gáy khi xoay cổ" 2:5 2:13||r="PIP"||c="đau lói ngực phía sau lưng" 2:17 2:22
+c="đột_ngột đau dữ_dội vùng sau gáy khi xoay cổ" 2:5 2:13||r="PIP"||c="ho đàm khó khạc" 2:24 2:27
+c="đột_ngột đau dữ_dội vùng sau gáy khi xoay cổ" 2:5 2:13||r="PIP"||c="mệt" 2:29 2:29
+c="đau lói ngực phía sau lưng" 2:17 2:22||r="PIP"||c="ho đàm khó khạc" 2:24 2:27
+c="đau lói ngực phía sau lưng" 2:17 2:22||r="PIP"||c="mệt" 2:29 2:29
+c="ho đàm khó khạc" 2:24 2:27||r="PIP"||c="mệt" 2:29 2:29

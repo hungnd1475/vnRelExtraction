@@ -1,0 +1,21 @@
+c="sốt cao" 4:6 4:7||r="PIP"||c="tái đi tái lại" 4:9 4:12
+c="dùng thuốc hạ sốt" 4:14 4:17||r="TrWP"||c="sốt cao" 4:6 4:7
+c="sốt cao" 4:6 4:7||r="PIP"||c="vòm họng có chấm đỏ" 4:19 4:23
+c="sốt cao" 4:6 4:7||r="PIP"||c="ói nhiều" 4:30 4:31
+c="sốt cao" 4:6 4:7||r="PIP"||c="ăn_uống kém" 4:33 4:34
+c="sốt cao" 4:6 4:7||r="PIP"||c="quấy khóc" 4:36 4:37
+c="dùng thuốc hạ sốt" 4:14 4:17||r="TrWP"||c="tái đi tái lại" 4:9 4:12
+c="tái đi tái lại" 4:9 4:12||r="PIP"||c="vòm họng có chấm đỏ" 4:19 4:23
+c="tái đi tái lại" 4:9 4:12||r="PIP"||c="ói nhiều" 4:30 4:31
+c="tái đi tái lại" 4:9 4:12||r="PIP"||c="ăn_uống kém" 4:33 4:34
+c="tái đi tái lại" 4:9 4:12||r="PIP"||c="quấy khóc" 4:36 4:37
+c="dùng thuốc hạ sốt" 4:14 4:17||r="TrWP"||c="vòm họng có chấm đỏ" 4:19 4:23
+c="dùng thuốc hạ sốt" 4:14 4:17||r="TrWP"||c="ói nhiều" 4:30 4:31
+c="dùng thuốc hạ sốt" 4:14 4:17||r="TrWP"||c="ăn_uống kém" 4:33 4:34
+c="dùng thuốc hạ sốt" 4:14 4:17||r="TrWP"||c="quấy khóc" 4:36 4:37
+c="vòm họng có chấm đỏ" 4:19 4:23||r="PIP"||c="ói nhiều" 4:30 4:31
+c="vòm họng có chấm đỏ" 4:19 4:23||r="PIP"||c="ăn_uống kém" 4:33 4:34
+c="vòm họng có chấm đỏ" 4:19 4:23||r="PIP"||c="quấy khóc" 4:36 4:37
+c="ói nhiều" 4:30 4:31||r="PIP"||c="ăn_uống kém" 4:33 4:34
+c="ói nhiều" 4:30 4:31||r="PIP"||c="quấy khóc" 4:36 4:37
+c="ăn_uống kém" 4:33 4:34||r="PIP"||c="quấy khóc" 4:36 4:37

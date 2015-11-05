@@ -1,0 +1,6 @@
+c="tiểu buốt rát" 2:9 2:11||r="PIP"||c="tiểu khó" 2:13 2:14
+c="tiểu buốt rát" 2:9 2:11||r="PIP"||c="tia tiểu yếu" 2:16 2:18
+c="tiểu buốt rát" 2:9 2:11||r="PIP"||c="thỉnh_thoảng ớn lạnh" 2:20 2:22
+c="tiểu khó" 2:13 2:14||r="PIP"||c="tia tiểu yếu" 2:16 2:18
+c="tiểu khó" 2:13 2:14||r="PIP"||c="thỉnh_thoảng ớn lạnh" 2:20 2:22
+c="tia tiểu yếu" 2:16 2:18||r="PIP"||c="thỉnh_thoảng ớn lạnh" 2:20 2:22

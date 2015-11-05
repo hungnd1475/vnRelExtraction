@@ -1,0 +1,21 @@
+c="sốt" 2:4 2:4||r="PIP"||c="ho" 2:6 2:6
+c="sốt" 2:4 2:4||r="PIP"||c="đau họng" 2:8 2:9
+c="sốt" 2:4 2:4||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:11 2:14
+c="sốt" 2:4 2:4||r="PIP"||c="ù tai" 2:16 2:17
+c="sốt" 2:4 2:4||r="PIP"||c="cảm_giác nặng ngực" 2:19 2:21
+c="điều_trị" 2:32 2:32||r="TrIP"||c="sốt" 2:4 2:4
+c="ho" 2:6 2:6||r="PIP"||c="đau họng" 2:8 2:9
+c="ho" 2:6 2:6||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:11 2:14
+c="ho" 2:6 2:6||r="PIP"||c="ù tai" 2:16 2:17
+c="ho" 2:6 2:6||r="PIP"||c="cảm_giác nặng ngực" 2:19 2:21
+c="điều_trị" 2:32 2:32||r="TrIP"||c="ho" 2:6 2:6
+c="đau họng" 2:8 2:9||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:11 2:14
+c="đau họng" 2:8 2:9||r="PIP"||c="ù tai" 2:16 2:17
+c="đau họng" 2:8 2:9||r="PIP"||c="cảm_giác nặng ngực" 2:19 2:21
+c="điều_trị" 2:32 2:32||r="TrIP"||c="đau họng" 2:8 2:9
+c="chóng_mặt khi thay_đổi tư_thế" 2:11 2:14||r="PIP"||c="ù tai" 2:16 2:17
+c="chóng_mặt khi thay_đổi tư_thế" 2:11 2:14||r="PIP"||c="cảm_giác nặng ngực" 2:19 2:21
+c="điều_trị" 2:32 2:32||r="TrIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:11 2:14
+c="ù tai" 2:16 2:17||r="PIP"||c="cảm_giác nặng ngực" 2:19 2:21
+c="điều_trị" 2:32 2:32||r="TrIP"||c="ù tai" 2:16 2:17
+c="điều_trị" 2:32 2:32||r="TrIP"||c="cảm_giác nặng ngực" 2:19 2:21

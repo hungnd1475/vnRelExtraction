@@ -1,0 +1,6 @@
+c="BN đột_ngột yếu nữa người ( P )" 2:5 2:12||r="PIP"||c="kèm theo đau_đầu" 2:14 2:16
+c="BN đột_ngột yếu nữa người ( P )" 2:5 2:12||r="PIP"||c="chóng_mặt" 2:18 2:18
+c="BN đột_ngột yếu nữa người ( P )" 2:5 2:12||r="PIP"||c="mệt nhiều" 2:20 2:21
+c="kèm theo đau_đầu" 2:14 2:16||r="PIP"||c="chóng_mặt" 2:18 2:18
+c="kèm theo đau_đầu" 2:14 2:16||r="PIP"||c="mệt nhiều" 2:20 2:21
+c="chóng_mặt" 2:18 2:18||r="PIP"||c="mệt nhiều" 2:20 2:21

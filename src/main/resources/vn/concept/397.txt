@@ -1,0 +1,7 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt ớn lạnh từng cơn" 4:7 4:11||t="problem"
+c="nhức đầu" 4:15 4:16||t="problem"
+c="đau ngang cột_sống thắt_lưng" 4:18 4:21||t="problem"
+c="mệt" 4:23 4:23||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"

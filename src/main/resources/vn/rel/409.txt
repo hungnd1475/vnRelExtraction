@@ -1,0 +1,2 @@
+c="phẫu_thuật cắt 1/2 đại_tràng ( P )" 2:9 2:15||r="TrAP"||c="K đại_tràng góc gan" 2:3 2:6
+c="hóa_trị" 2:23 2:23||r="TrAP"||c="K đại_tràng góc gan" 2:3 2:6

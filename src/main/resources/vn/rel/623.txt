@@ -1,0 +1,20 @@
+c="sốt cao" 6:6 6:7||r="PIP"||c="đau họng" 6:9 6:10
+c="sốt cao" 6:6 6:7||r="PIP"||c="ho" 6:12 6:12
+c="sốt cao" 6:6 6:7||r="PIP"||c="đau họng" 6:25 6:26
+c="sốt cao" 6:6 6:7||r="PIP"||c="ho_khan" 6:28 6:28
+c="sốt cao" 6:6 6:7||r="PIP"||c="ăn_uống kém" 6:30 6:31
+c="sốt cao" 6:6 6:7||r="PIP"||c="chóng_mặt" 6:33 6:33
+c="đau họng" 6:9 6:10||r="PIP"||c="ho" 6:12 6:12
+c="đau họng" 6:9 6:10||r="PIP"||c="ho_khan" 6:28 6:28
+c="đau họng" 6:9 6:10||r="PIP"||c="ăn_uống kém" 6:30 6:31
+c="đau họng" 6:9 6:10||r="PIP"||c="chóng_mặt" 6:33 6:33
+c="ho" 6:12 6:12||r="PIP"||c="đau họng" 6:25 6:26
+c="ho" 6:12 6:12||r="PIP"||c="ho_khan" 6:28 6:28
+c="ho" 6:12 6:12||r="PIP"||c="ăn_uống kém" 6:30 6:31
+c="ho" 6:12 6:12||r="PIP"||c="chóng_mặt" 6:33 6:33
+c="đau họng" 6:25 6:26||r="PIP"||c="ho_khan" 6:28 6:28
+c="đau họng" 6:25 6:26||r="PIP"||c="ăn_uống kém" 6:30 6:31
+c="đau họng" 6:25 6:26||r="PIP"||c="chóng_mặt" 6:33 6:33
+c="ho_khan" 6:28 6:28||r="PIP"||c="ăn_uống kém" 6:30 6:31
+c="ho_khan" 6:28 6:28||r="PIP"||c="chóng_mặt" 6:33 6:33
+c="ăn_uống kém" 6:30 6:31||r="PIP"||c="chóng_mặt" 6:33 6:33

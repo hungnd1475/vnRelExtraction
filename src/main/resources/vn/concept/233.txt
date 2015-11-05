@@ -1,0 +1,6 @@
+c="ho đàm khó khạc" 4:5 4:8||t="problem"
+c="đau họng" 4:10 4:11||t="problem"
+c="ăn_uống kém" 4:13 4:14||t="problem"
+c="buồn_nôn sau ăn" 4:16 4:18||t="problem"
+c="khám" 4:20 4:20||t="treatment"
+c="điều_trị" 5:2 5:2||t="treatment"

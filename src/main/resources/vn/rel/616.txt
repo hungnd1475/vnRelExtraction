@@ -1,0 +1,14 @@
+c="tiêm ngừa VNNB_B" 4:15 4:17||r="TrWP"||c="sốt" 4:8 4:8
+c="sốt" 4:8 4:8||r="PIP"||c="sốt nhẹ" 4:20 4:21
+c="sốt" 4:8 4:8||r="PIP"||c="sốt vừa" 4:23 4:24
+c="sốt" 4:8 4:8||r="PIP"||c="sốt cao" 4:41 4:42
+c="nhét HM 1 viên efferalgan" 4:47 4:51||r="TrWP"||c="sốt" 4:8 4:8
+c="tiêm ngừa VNNB_B" 4:15 4:17||r="TrWP"||c="sốt nhẹ" 4:20 4:21
+c="tiêm ngừa VNNB_B" 4:15 4:17||r="TrWP"||c="sốt vừa" 4:23 4:24
+c="tiêm ngừa VNNB_B" 4:15 4:17||r="TrWP"||c="sốt cao" 4:41 4:42
+c="sốt nhẹ" 4:20 4:21||r="PIP"||c="sốt vừa" 4:23 4:24
+c="sốt nhẹ" 4:20 4:21||r="PIP"||c="sốt cao" 4:41 4:42
+c="nhét HM 1 viên efferalgan" 4:47 4:51||r="TrWP"||c="sốt nhẹ" 4:20 4:21
+c="sốt vừa" 4:23 4:24||r="PIP"||c="sốt cao" 4:41 4:42
+c="nhét HM 1 viên efferalgan" 4:47 4:51||r="TrWP"||c="sốt vừa" 4:23 4:24
+c="nhét HM 1 viên efferalgan" 4:47 4:51||r="TrWP"||c="sốt cao" 4:41 4:42

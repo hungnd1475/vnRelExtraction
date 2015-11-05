@@ -1,0 +1,10 @@
+c="đau bụng tiêu lỏng 2 ngày" 2:3 2:8||r="PIP"||c="nôn ói" 2:10 2:11
+c="đau bụng tiêu lỏng 2 ngày" 2:3 2:8||r="PIP"||c="ho" 2:13 2:13
+c="đau bụng tiêu lỏng 2 ngày" 2:3 2:8||r="PIP"||c="mệt" 2:15 2:15
+c="điều_trị" 2:25 2:25||r="TrWP"||c="đau bụng tiêu lỏng 2 ngày" 2:3 2:8
+c="nôn ói" 2:10 2:11||r="PIP"||c="ho" 2:13 2:13
+c="nôn ói" 2:10 2:11||r="PIP"||c="mệt" 2:15 2:15
+c="điều_trị" 2:25 2:25||r="TrWP"||c="nôn ói" 2:10 2:11
+c="ho" 2:13 2:13||r="PIP"||c="mệt" 2:15 2:15
+c="điều_trị" 2:25 2:25||r="TrWP"||c="ho" 2:13 2:13
+c="điều_trị" 2:25 2:25||r="TrWP"||c="mệt" 2:15 2:15

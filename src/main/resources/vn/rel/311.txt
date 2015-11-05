@@ -1,0 +1,22 @@
+c="sốt ớn lạnh" 4:8 4:10||r="PIP"||c="ho đàm khó khạc" 4:14 4:17
+c="sốt ớn lạnh" 4:8 4:10||r="PIP"||c="đau rát họng khi ho" 4:19 4:23
+c="sốt ớn lạnh" 4:8 4:10||r="PIP"||c="tức ngực sau xương ức" 4:25 4:29
+c="sốt ớn lạnh" 4:8 4:10||r="PIP"||c="đau_đầu nhiều" 4:31 4:32
+c="sốt ớn lạnh" 4:8 4:10||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="sốt ớn lạnh" 4:8 4:10||r="PIP"||c="mệt" 4:37 4:37
+c="ho đàm khó khạc" 4:14 4:17||r="PIP"||c="đau rát họng khi ho" 4:19 4:23
+c="ho đàm khó khạc" 4:14 4:17||r="PIP"||c="tức ngực sau xương ức" 4:25 4:29
+c="ho đàm khó khạc" 4:14 4:17||r="PIP"||c="đau_đầu nhiều" 4:31 4:32
+c="ho đàm khó khạc" 4:14 4:17||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="ho đàm khó khạc" 4:14 4:17||r="PIP"||c="mệt" 4:37 4:37
+c="đau rát họng khi ho" 4:19 4:23||r="PIP"||c="tức ngực sau xương ức" 4:25 4:29
+c="đau rát họng khi ho" 4:19 4:23||r="PIP"||c="đau_đầu nhiều" 4:31 4:32
+c="đau rát họng khi ho" 4:19 4:23||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="đau rát họng khi ho" 4:19 4:23||r="PIP"||c="mệt" 4:37 4:37
+c="tức ngực sau xương ức" 4:25 4:29||r="PIP"||c="đau_đầu nhiều" 4:31 4:32
+c="tức ngực sau xương ức" 4:25 4:29||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="tức ngực sau xương ức" 4:25 4:29||r="PIP"||c="mệt" 4:37 4:37
+c="đau_đầu nhiều" 4:31 4:32||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="đau_đầu nhiều" 4:31 4:32||r="PIP"||c="mệt" 4:37 4:37
+c="ăn_uống kém" 4:34 4:35||r="PIP"||c="mệt" 4:37 4:37
+c="điều_trị" 5:2 5:2||r="TrWP"||c="sốt" 5:10 5:10

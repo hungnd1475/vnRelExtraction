@@ -1,0 +1,6 @@
+c="tiếu gắt buốt" 2:6 2:8||r="PIP"||c="kèm theo đau hạ_vị" 2:10 2:13
+c="tiếu gắt buốt" 2:6 2:8||r="PIP"||c="sốt âm_ỉ" 2:15 2:16
+c="tiếu gắt buốt" 2:6 2:8||r="PIP"||c="mệt" 2:18 2:18
+c="kèm theo đau hạ_vị" 2:10 2:13||r="PIP"||c="sốt âm_ỉ" 2:15 2:16
+c="kèm theo đau hạ_vị" 2:10 2:13||r="PIP"||c="mệt" 2:18 2:18
+c="sốt âm_ỉ" 2:15 2:16||r="PIP"||c="mệt" 2:18 2:18

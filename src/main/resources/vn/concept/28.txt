@@ -1,0 +1,8 @@
+c="Ho" 2:1 2:1||t="problem"
+c="mệt" 2:3 2:3||t="problem"
+c="ho khạc đàm" 4:10 4:12||t="problem"
+c="ho khạc đàm" 4:22 4:24||t="problem"
+c="mệt nhiều" 4:32 4:33||t="problem"
+c="khó thở" 4:35 4:36||t="problem"
+c="Tăng huyết_áp" 6:1 6:2||t="problem"
+c="nội_khoa" 8:1 8:1||t="treatment"

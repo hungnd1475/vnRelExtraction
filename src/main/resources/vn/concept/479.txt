@@ -1,0 +1,7 @@
+c="ho đàm khó khạc" 2:7 2:10||t="problem"
+c="tức ngực khi ho" 2:14 2:17||t="problem"
+c="sốt cao liên_tục" 2:19 2:21||t="problem"
+c="đau_đầu" 2:23 2:23||t="problem"
+c="ăn_uống kém" 2:25 2:26||t="problem"
+c="mua thuốc uống" 3:3 3:5||t="treatment"
+c="đều trị" 4:2 4:3||t="treatment"

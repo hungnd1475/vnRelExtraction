@@ -1,0 +1,3 @@
+c="150/80 mmHg" 2:5 2:6||t="problem"
+c="uống thuốc không rõ sau uống thuốc thấy chóng_mặt khi đi_lại" 2:12 2:22||t="problem"
+c="mệt nhiều" 2:25 2:26||t="problem"

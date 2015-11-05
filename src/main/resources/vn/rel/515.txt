@@ -1,0 +1,21 @@
+c="sốt" 2:6 2:6||r="PIP"||c="ho nhiều khi thay_đổi tư_thế" 2:8 2:12
+c="sốt" 2:6 2:6||r="PIP"||c="cảm_giác khó thở khi nằm" 2:14 2:18
+c="sốt" 2:6 2:6||r="PIP"||c="ăn_uống kém" 2:20 2:21
+c="sốt" 2:6 2:6||r="PIP"||c="phù mặt" 2:23 2:24
+c="sốt" 2:6 2:6||r="PIP"||c="mệt" 2:26 2:26
+c="điều_trị" 2:30 2:30||r="TrAP"||c="sốt" 2:6 2:6
+c="ho nhiều khi thay_đổi tư_thế" 2:8 2:12||r="PIP"||c="cảm_giác khó thở khi nằm" 2:14 2:18
+c="ho nhiều khi thay_đổi tư_thế" 2:8 2:12||r="PIP"||c="ăn_uống kém" 2:20 2:21
+c="ho nhiều khi thay_đổi tư_thế" 2:8 2:12||r="PIP"||c="phù mặt" 2:23 2:24
+c="ho nhiều khi thay_đổi tư_thế" 2:8 2:12||r="PIP"||c="mệt" 2:26 2:26
+c="điều_trị" 2:30 2:30||r="TrAP"||c="ho nhiều khi thay_đổi tư_thế" 2:8 2:12
+c="cảm_giác khó thở khi nằm" 2:14 2:18||r="PIP"||c="ăn_uống kém" 2:20 2:21
+c="cảm_giác khó thở khi nằm" 2:14 2:18||r="PIP"||c="phù mặt" 2:23 2:24
+c="cảm_giác khó thở khi nằm" 2:14 2:18||r="PIP"||c="mệt" 2:26 2:26
+c="điều_trị" 2:30 2:30||r="TrAP"||c="cảm_giác khó thở khi nằm" 2:14 2:18
+c="ăn_uống kém" 2:20 2:21||r="PIP"||c="phù mặt" 2:23 2:24
+c="ăn_uống kém" 2:20 2:21||r="PIP"||c="mệt" 2:26 2:26
+c="điều_trị" 2:30 2:30||r="TrAP"||c="ăn_uống kém" 2:20 2:21
+c="phù mặt" 2:23 2:24||r="PIP"||c="mệt" 2:26 2:26
+c="điều_trị" 2:30 2:30||r="TrAP"||c="phù mặt" 2:23 2:24
+c="điều_trị" 2:30 2:30||r="TrAP"||c="mệt" 2:26 2:26

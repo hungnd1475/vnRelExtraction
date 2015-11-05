@@ -1,0 +1,10 @@
+c="đau quặn bụng thượng_vị từ sáng" 2:2 2:7||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:9 2:13
+c="đau quặn bụng thượng_vị từ sáng" 2:2 2:7||r="PIP"||c="buồn_nôn" 2:15 2:15
+c="đau quặn bụng thượng_vị từ sáng" 2:2 2:7||r="PIP"||c="sốt" 2:17 2:17
+c="đau quặn bụng thượng_vị từ sáng" 2:2 2:7||r="PIP"||c="lạnh run" 2:19 2:20
+c="tiêu phân lỏng nhiều lần" 2:9 2:13||r="PIP"||c="buồn_nôn" 2:15 2:15
+c="tiêu phân lỏng nhiều lần" 2:9 2:13||r="PIP"||c="sốt" 2:17 2:17
+c="tiêu phân lỏng nhiều lần" 2:9 2:13||r="PIP"||c="lạnh run" 2:19 2:20
+c="buồn_nôn" 2:15 2:15||r="PIP"||c="sốt" 2:17 2:17
+c="buồn_nôn" 2:15 2:15||r="PIP"||c="lạnh run" 2:19 2:20
+c="sốt" 2:17 2:17||r="PIP"||c="lạnh run" 2:19 2:20

@@ -1,0 +1,15 @@
+c="mất_ngủ liên_tục" 2:6 2:7||r="PIP"||c="HA tăng cao" 2:11 2:13
+c="mất_ngủ liên_tục" 2:6 2:7||r="PIP"||c="mệt" 2:15 2:15
+c="mất_ngủ liên_tục" 2:6 2:7||r="PIP"||c="đau_đầu" 2:17 2:17
+c="mất_ngủ liên_tục" 2:6 2:7||r="PIP"||c="chóng_mặt khi đi_lại" 2:19 2:21
+c="mất_ngủ liên_tục" 2:6 2:7||r="PIP"||c="tức ngực sau xương ức" 2:23 2:27
+c="HA tăng cao" 2:11 2:13||r="PIP"||c="mệt" 2:15 2:15
+c="HA tăng cao" 2:11 2:13||r="PIP"||c="đau_đầu" 2:17 2:17
+c="HA tăng cao" 2:11 2:13||r="PIP"||c="chóng_mặt khi đi_lại" 2:19 2:21
+c="HA tăng cao" 2:11 2:13||r="PIP"||c="tức ngực sau xương ức" 2:23 2:27
+c="mệt" 2:15 2:15||r="PIP"||c="đau_đầu" 2:17 2:17
+c="mệt" 2:15 2:15||r="PIP"||c="chóng_mặt khi đi_lại" 2:19 2:21
+c="mệt" 2:15 2:15||r="PIP"||c="tức ngực sau xương ức" 2:23 2:27
+c="đau_đầu" 2:17 2:17||r="PIP"||c="chóng_mặt khi đi_lại" 2:19 2:21
+c="đau_đầu" 2:17 2:17||r="PIP"||c="tức ngực sau xương ức" 2:23 2:27
+c="chóng_mặt khi đi_lại" 2:19 2:21||r="PIP"||c="tức ngực sau xương ức" 2:23 2:27

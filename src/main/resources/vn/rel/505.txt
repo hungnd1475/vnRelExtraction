@@ -1,0 +1,5 @@
+c="đau_đầu" 4:4 4:4||r="PIP"||c="hồi_hộp" 4:6 4:6
+c="ở nhà uống 01 viên thuốc hạ huyết_áp" 4:13 4:20||r="TrAP"||c="đau_đầu" 4:4 4:4
+c="điều_trị" 4:32 4:32||r="TrIP"||c="đau_đầu" 4:4 4:4
+c="ở nhà uống 01 viên thuốc hạ huyết_áp" 4:13 4:20||r="TrAP"||c="hồi_hộp" 4:6 4:6
+c="điều_trị" 4:32 4:32||r="TrIP"||c="hồi_hộp" 4:6 4:6

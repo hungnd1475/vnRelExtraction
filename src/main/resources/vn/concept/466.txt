@@ -1,0 +1,6 @@
+c="ho" 2:7 2:7||t="problem"
+c="sốt" 2:9 2:9||t="problem"
+c="đau họng" 2:11 2:12||t="problem"
+c="chóng_mặt" 2:14 2:14||t="problem"
+c="đau nặng đầu" 2:16 2:18||t="problem"
+c="đau tức vùng thượng_vị" 2:20 2:23||t="problem"

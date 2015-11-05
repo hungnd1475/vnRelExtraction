@@ -1,0 +1,10 @@
+c="khám định_kỳ tại BV Vũ ANh" 2:5 2:10||r="TrWP"||c="phù" 2:13 2:13
+c="khám định_kỳ tại BV Vũ ANh" 2:5 2:10||r="TrWP"||c="kết_mạc mắt vàng" 2:15 2:17
+c="khám định_kỳ tại BV Vũ ANh" 2:5 2:10||r="TrWP"||c="bụng chướng to" 2:19 2:21
+c="khám định_kỳ tại BV Vũ ANh" 2:5 2:10||r="TrWP"||c="da sạm" 2:23 2:24
+c="phù" 2:13 2:13||r="PIP"||c="kết_mạc mắt vàng" 2:15 2:17
+c="phù" 2:13 2:13||r="PIP"||c="bụng chướng to" 2:19 2:21
+c="phù" 2:13 2:13||r="PIP"||c="da sạm" 2:23 2:24
+c="kết_mạc mắt vàng" 2:15 2:17||r="PIP"||c="bụng chướng to" 2:19 2:21
+c="kết_mạc mắt vàng" 2:15 2:17||r="PIP"||c="da sạm" 2:23 2:24
+c="bụng chướng to" 2:19 2:21||r="PIP"||c="da sạm" 2:23 2:24

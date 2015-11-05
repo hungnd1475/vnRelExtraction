@@ -1,0 +1,6 @@
+c="mất_ngủ" 2:7 2:7||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:9 2:12
+c="mất_ngủ" 2:7 2:7||r="PIP"||c="ăn kém" 2:14 2:15
+c="chóng_mặt khi thay_đổi tư_thế" 2:9 2:12||r="PIP"||c="ăn kém" 2:14 2:15
+c="người mệt_mỏi" 3:2 3:3||r="PIP"||c="bủn_rủn tay_chân" 3:5 3:6
+c="người mệt_mỏi" 3:2 3:3||r="PIP"||c="chóng_mặt nhiều" 3:8 3:9
+c="bủn_rủn tay_chân" 3:5 3:6||r="PIP"||c="chóng_mặt nhiều" 3:8 3:9

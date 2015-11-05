@@ -1,0 +1,28 @@
+c="Mệt" 2:1 2:1||r="PIP"||c="chóng_mặt" 2:3 2:3
+c="chóng_mặt" 4:4 4:4||r="PIP"||c="choáng_váng" 4:6 4:6
+c="chóng_mặt" 4:4 4:4||r="PIP"||c="đau_đầu" 4:8 4:8
+c="chóng_mặt" 4:4 4:4||r="PIP"||c="mệt" 4:10 4:10
+c="chóng_mặt" 4:4 4:4||r="PIP"||c="chóng_mặt khi xoay_trở" 4:12 4:14
+c="chóng_mặt" 4:4 4:4||r="PIP"||c="buồn_nôn nhiều về chiều" 4:16 4:19
+c="chóng_mặt" 4:4 4:4||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="chóng_mặt" 4:4 4:4||r="PIP"||c="mệt" 4:24 4:24
+c="choáng_váng" 4:6 4:6||r="PIP"||c="đau_đầu" 4:8 4:8
+c="choáng_váng" 4:6 4:6||r="PIP"||c="mệt" 4:10 4:10
+c="choáng_váng" 4:6 4:6||r="PIP"||c="chóng_mặt khi xoay_trở" 4:12 4:14
+c="choáng_váng" 4:6 4:6||r="PIP"||c="buồn_nôn nhiều về chiều" 4:16 4:19
+c="choáng_váng" 4:6 4:6||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="choáng_váng" 4:6 4:6||r="PIP"||c="mệt" 4:24 4:24
+c="đau_đầu" 4:8 4:8||r="PIP"||c="mệt" 4:10 4:10
+c="đau_đầu" 4:8 4:8||r="PIP"||c="chóng_mặt khi xoay_trở" 4:12 4:14
+c="đau_đầu" 4:8 4:8||r="PIP"||c="buồn_nôn nhiều về chiều" 4:16 4:19
+c="đau_đầu" 4:8 4:8||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="đau_đầu" 4:8 4:8||r="PIP"||c="mệt" 4:24 4:24
+c="mệt" 4:10 4:10||r="PIP"||c="chóng_mặt khi xoay_trở" 4:12 4:14
+c="mệt" 4:10 4:10||r="PIP"||c="buồn_nôn nhiều về chiều" 4:16 4:19
+c="mệt" 4:10 4:10||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="chóng_mặt khi xoay_trở" 4:12 4:14||r="PIP"||c="buồn_nôn nhiều về chiều" 4:16 4:19
+c="chóng_mặt khi xoay_trở" 4:12 4:14||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="chóng_mặt khi xoay_trở" 4:12 4:14||r="PIP"||c="mệt" 4:24 4:24
+c="buồn_nôn nhiều về chiều" 4:16 4:19||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="buồn_nôn nhiều về chiều" 4:16 4:19||r="PIP"||c="mệt" 4:24 4:24
+c="ăn_uống kém" 4:21 4:22||r="PIP"||c="mệt" 4:24 4:24

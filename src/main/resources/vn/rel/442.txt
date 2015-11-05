@@ -1,0 +1,6 @@
+c="đau quặn bụng thượng_vị" 2:6 2:9||r="PIP"||c="tiêu lỏng 4-5 lần không đàm máu" 2:13 2:19
+c="đau quặn bụng thượng_vị" 2:6 2:9||r="PIP"||c="buồn_nôn sau ăn" 2:21 2:23
+c="đau quặn bụng thượng_vị" 2:6 2:9||r="PIP"||c="mệt nhiều" 2:25 2:26
+c="tiêu lỏng 4-5 lần không đàm máu" 2:13 2:19||r="PIP"||c="buồn_nôn sau ăn" 2:21 2:23
+c="tiêu lỏng 4-5 lần không đàm máu" 2:13 2:19||r="PIP"||c="mệt nhiều" 2:25 2:26
+c="buồn_nôn sau ăn" 2:21 2:23||r="PIP"||c="mệt nhiều" 2:25 2:26

@@ -1,0 +1,8 @@
+c="Đau thượng_vị quanh rốn râm_ran" 8:1 8:5||r="PIP"||c="Bụng mềm" 8:23 8:24
+c="Đau thượng_vị quanh rốn râm_ran" 8:1 8:5||r="PIP"||c="ấn đau vùng hố_chậu phải" 8:26 8:30
+c="Đau thượng_vị quanh rốn râm_ran" 8:1 8:5||r="PIP"||c="sốt 37,5 độ" 8:32 8:34
+c="Bụng mềm" 8:23 8:24||r="PIP"||c="ấn đau vùng hố_chậu phải" 8:26 8:30
+c="Bụng mềm" 8:23 8:24||r="PIP"||c="sốt 37,5 độ" 8:32 8:34
+c="ấn đau vùng hố_chậu phải" 8:26 8:30||r="PIP"||c="sốt 37,5 độ" 8:32 8:34
+c="xét_nghiệm" 8:36 8:36||r="TeRP"||c="bạch_cầu tăng cao" 8:37 8:39
+c="chụp CT bụng" 8:41 8:43||r="TeRP"||c="Viêm ruột_thừa" 8:45 8:46

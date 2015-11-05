@@ -1,0 +1,8 @@
+c="đau lói ngực ( T )" 2:3 2:8||t="problem"
+c="mệt cảm_giác khó thở" 2:12 2:15||t="problem"
+c="Đau không lan" 3:1 3:3||t="problem"
+c="Đau không lan" 4:1 4:3||t="problem"
+c="uống thuốc" 5:2 5:3||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"
+c="Hạ_áp" 8:1 8:1||t="treatment"
+c="Hạ đường_huyết" 9:1 9:2||t="treatment"

@@ -1,0 +1,42 @@
+c="ho" 2:4 2:4||r="PIP"||c="đau ngực" 2:6 2:7
+c="ho" 2:4 2:4||r="PIP"||c="ói ra máu tươi toàn bãi khoảng 100 ml" 2:9 2:17
+c="Khám và điều_trị" 2:20 2:22||r="TrAP"||c="ho" 2:4 2:4
+c="đau ngực" 2:6 2:7||r="PIP"||c="ói ra máu tươi toàn bãi khoảng 100 ml" 2:9 2:17
+c="Khám và điều_trị" 2:20 2:22||r="TrAP"||c="đau ngực" 2:6 2:7
+c="Khám và điều_trị" 2:20 2:22||r="TrAP"||c="ói ra máu tươi toàn bãi khoảng 100 ml" 2:9 2:17
+c="ho nhiều" 3:4 3:5||r="PIP"||c="đau ngực" 3:8 3:9
+c="ho nhiều" 3:4 3:5||r="PIP"||c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21
+c="ho nhiều" 3:4 3:5||r="PIP"||c="đau_đầu" 3:23 3:23
+c="ho nhiều" 3:4 3:5||r="PIP"||c="sổ_mũi" 3:25 3:25
+c="ho nhiều" 3:4 3:5||r="PIP"||c="đau tức vùng thượng_vị" 3:28 3:31
+c="ho nhiều" 3:4 3:5||r="PIP"||c="ăn_uống kém" 3:33 3:34
+c="ho nhiều" 3:4 3:5||r="PIP"||c="mệt_mỏi" 3:36 3:36
+c="điều_trị" 3:42 3:42||r="TrIP"||c="ho nhiều" 3:4 3:5
+c="đau ngực" 3:8 3:9||r="PIP"||c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21
+c="đau ngực" 3:8 3:9||r="PIP"||c="đau_đầu" 3:23 3:23
+c="đau ngực" 3:8 3:9||r="PIP"||c="sổ_mũi" 3:25 3:25
+c="đau ngực" 3:8 3:9||r="PIP"||c="đau tức vùng thượng_vị" 3:28 3:31
+c="đau ngực" 3:8 3:9||r="PIP"||c="ăn_uống kém" 3:33 3:34
+c="đau ngực" 3:8 3:9||r="PIP"||c="mệt_mỏi" 3:36 3:36
+c="điều_trị" 3:42 3:42||r="TrIP"||c="đau ngực" 3:8 3:9
+c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21||r="PIP"||c="đau_đầu" 3:23 3:23
+c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21||r="PIP"||c="sổ_mũi" 3:25 3:25
+c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21||r="PIP"||c="đau tức vùng thượng_vị" 3:28 3:31
+c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21||r="PIP"||c="ăn_uống kém" 3:33 3:34
+c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21||r="PIP"||c="mệt_mỏi" 3:36 3:36
+c="điều_trị" 3:42 3:42||r="TrIP"||c="ho khạc ra máu tươi lượng vừa khoảng 30ml" 3:13 3:21
+c="đau_đầu" 3:23 3:23||r="PIP"||c="sổ_mũi" 3:25 3:25
+c="đau_đầu" 3:23 3:23||r="PIP"||c="đau tức vùng thượng_vị" 3:28 3:31
+c="đau_đầu" 3:23 3:23||r="PIP"||c="ăn_uống kém" 3:33 3:34
+c="đau_đầu" 3:23 3:23||r="PIP"||c="mệt_mỏi" 3:36 3:36
+c="điều_trị" 3:42 3:42||r="TrWP"||c="đau_đầu" 3:23 3:23
+c="sổ_mũi" 3:25 3:25||r="PIP"||c="đau tức vùng thượng_vị" 3:28 3:31
+c="sổ_mũi" 3:25 3:25||r="PIP"||c="ăn_uống kém" 3:33 3:34
+c="sổ_mũi" 3:25 3:25||r="PIP"||c="mệt_mỏi" 3:36 3:36
+c="điều_trị" 3:42 3:42||r="TrIP"||c="sổ_mũi" 3:25 3:25
+c="đau tức vùng thượng_vị" 3:28 3:31||r="PIP"||c="ăn_uống kém" 3:33 3:34
+c="đau tức vùng thượng_vị" 3:28 3:31||r="PIP"||c="mệt_mỏi" 3:36 3:36
+c="điều_trị" 3:42 3:42||r="TrIP"||c="đau tức vùng thượng_vị" 3:28 3:31
+c="ăn_uống kém" 3:33 3:34||r="PIP"||c="mệt_mỏi" 3:36 3:36
+c="điều_trị" 3:42 3:42||r="TrIP"||c="ăn_uống kém" 3:33 3:34
+c="điều_trị" 3:42 3:42||r="TrIP"||c="mệt_mỏi" 3:36 3:36

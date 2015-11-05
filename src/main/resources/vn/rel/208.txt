@@ -1,0 +1,3 @@
+c="ăn_uống kém" 2:6 2:7||r="PIP"||c="mệt nhiều khi đi_lại" 2:9 2:12
+c="ăn_uống kém" 2:6 2:7||r="PIP"||c="tiểu có lúc không kiểm_soát" 2:14 2:18
+c="mệt nhiều khi đi_lại" 2:9 2:12||r="PIP"||c="tiểu có lúc không kiểm_soát" 2:14 2:18

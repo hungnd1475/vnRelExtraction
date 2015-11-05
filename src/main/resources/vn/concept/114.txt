@@ -1,0 +1,5 @@
+c="siêu_âm" 2:8 2:8||t="test"
+c="u_xơ tiền_liệt_tuyến" 2:10 2:11||t="problem"
+c="phẫu_thuật" 4:1 4:1||t="treatment"
+c="tiểu khó" 6:5 6:6||t="problem"
+c="U_xơ tiền_liệt_tuyến" 7:3 7:4||t="problem"

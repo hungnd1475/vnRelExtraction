@@ -1,0 +1,6 @@
+c="mệt nhiều" 2:6 2:7||t="problem"
+c="chóng_mặt khi đi_lại" 2:10 2:12||t="problem"
+c="đau_đầu" 3:14 3:14||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="Hạ_áp" 7:1 7:1||t="treatment"
+c="Tăng tuần_hoàn não" 8:1 8:3||t="treatment"

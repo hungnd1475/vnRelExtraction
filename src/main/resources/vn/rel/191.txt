@@ -1,0 +1,9 @@
+c="tiêu phân sệt" 2:5 2:7||r="PIP"||c="đau quặn bụng dọc khung đại_tràng ( T )" 2:14 2:22
+c="tiêu phân sệt" 2:5 2:7||r="PIP"||c="tiêu lỏng ko đàm nhớt" 2:24 2:28
+c="đau quặn bụng dọc khung đại_tràng ( T )" 2:14 2:22||r="PIP"||c="tiêu lỏng ko đàm nhớt" 2:24 2:28
+c="tiêu phân sệt 3l / ngày" 6:8 6:13||r="PIP"||c="đau quặn bụng dọc khung đại_tràng ( T )" 6:17 6:25
+c="tiêu phân sệt 3l / ngày" 6:8 6:13||r="PIP"||c="tiêu lỏng ko đàm nhớt" 6:27 6:31
+c="đau quặn bụng dọc khung đại_tràng ( T )" 6:17 6:25||r="PIP"||c="tiêu lỏng ko đàm nhớt" 6:27 6:31
+c="Sỏi niệu_quản ( T )" 9:3 9:7||r="PIP"||c="Sỏi thận ( T )" 9:9 9:13
+c="Siêu_âm" 7:1 7:1||r="TeRP"||c="Sỏi 2 thận" 7:3 7:5
+c="CT" 8:1 8:1||r="TeRP"||c="Sỏi niệu_quản ( T )" 8:3 8:7

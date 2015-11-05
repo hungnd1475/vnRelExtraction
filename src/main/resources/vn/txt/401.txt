@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Khởi bệnh cách nhập_viện # 5 ngày với sốt , ho , nhức đầu vùng trán và dọc 2 bên mũi , nghẹt mũi .
+Khám và điều_trị TMH theo hường viêm xoang nhưng bệnh đỡ ít - - - > nhập_viện
+Sau điều_trị bệnh ổn - - - > xuất_viện

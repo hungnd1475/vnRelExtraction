@@ -1,0 +1,10 @@
+c="đầy bụng buồn_nôn" 4:5 4:7||r="PIP"||c="đau tức thượng_vị" 4:9 4:11
+c="đầy bụng buồn_nôn" 4:5 4:7||r="PIP"||c="run tay_chân" 4:13 4:14
+c="đầy bụng buồn_nôn" 4:5 4:7||r="PIP"||c="mệt_mỏi" 4:16 4:16
+c="đầy bụng buồn_nôn" 4:5 4:7||r="PIP"||c="ăn_uống kém" 4:18 4:19
+c="đau tức thượng_vị" 4:9 4:11||r="PIP"||c="run tay_chân" 4:13 4:14
+c="đau tức thượng_vị" 4:9 4:11||r="PIP"||c="mệt_mỏi" 4:16 4:16
+c="đau tức thượng_vị" 4:9 4:11||r="PIP"||c="ăn_uống kém" 4:18 4:19
+c="run tay_chân" 4:13 4:14||r="PIP"||c="mệt_mỏi" 4:16 4:16
+c="run tay_chân" 4:13 4:14||r="PIP"||c="ăn_uống kém" 4:18 4:19
+c="mệt_mỏi" 4:16 4:16||r="PIP"||c="ăn_uống kém" 4:18 4:19

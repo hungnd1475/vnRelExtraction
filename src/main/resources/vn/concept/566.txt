@@ -1,0 +1,6 @@
+c="Nội_khoa" 4:1 4:1||t="treatment"
+c="chóng_mặt khoàng 2 tuần nay" 6:6 6:10||t="problem"
+c="người mệt_mỏi ." 6:32 6:34||t="problem"
+c="Viêm xoang sàng" 7:3 7:5||t="problem"
+c="Rối_loạn tiền_đình" 7:7 7:8||t="problem"
+c="Nội_khoa" 9:1 9:1||t="treatment"

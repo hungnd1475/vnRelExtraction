@@ -1,0 +1,4 @@
+c="Đặt sonde JJ" 4:19 4:21||r="TrAP"||c="tán sỏi niệu_quản" 4:12 4:14
+c="Sonde JJ niệu_quản" 5:3 5:5||r="PIP"||c="Sỏi nhỏ bám JJ" 5:10 5:13
+c="Sonde JJ niệu_quản" 5:3 5:5||r="PIP"||c="Hậu_phẫu tán sỏi niệu_quản" 5:15 5:18
+c="Sỏi nhỏ bám JJ" 5:10 5:13||r="PIP"||c="Hậu_phẫu tán sỏi niệu_quản" 5:15 5:18

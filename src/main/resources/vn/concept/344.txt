@@ -1,0 +1,6 @@
+c="tiểu buốt rát" 2:9 2:11||t="problem"
+c="tiểu khó" 2:13 2:14||t="problem"
+c="tia tiểu yếu" 2:16 2:18||t="problem"
+c="thỉnh_thoảng ớn lạnh" 2:20 2:22||t="problem"
+c="uống thuốc ( không rỏ loại )" 3:3 3:9||t="treatment"
+c="điều_trị" 3:23 3:23||t="treatment"

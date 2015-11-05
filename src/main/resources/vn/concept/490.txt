@@ -1,0 +1,7 @@
+c="sốt" 2:4 2:4||t="problem"
+c="ho" 2:6 2:6||t="problem"
+c="đau họng" 2:8 2:9||t="problem"
+c="chóng_mặt khi thay_đổi tư_thế" 2:11 2:14||t="problem"
+c="ù tai" 2:16 2:17||t="problem"
+c="cảm_giác nặng ngực" 2:19 2:21||t="problem"
+c="điều_trị" 2:32 2:32||t="treatment"

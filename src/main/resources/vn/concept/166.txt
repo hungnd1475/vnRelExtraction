@@ -1,0 +1,5 @@
+c="Khang sinh" 2:1 2:2||t="treatment"
+c="Ổn_định đường_huyết" 2:4 2:5||t="treatment"
+c="Giảm đau" 2:7 2:8||t="treatment"
+c="Kháng bơm proton" 2:10 2:12||t="treatment"
+c="Điều_trị triệu_chứng" 2:14 2:15||t="treatment"

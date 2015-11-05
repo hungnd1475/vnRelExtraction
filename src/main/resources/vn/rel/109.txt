@@ -1,0 +1,13 @@
+c="ho" 2:7 2:7||r="PIP"||c="sổ_mũi" 2:9 2:9
+c="khám" 2:12 2:12||r="TrWP"||c="ho" 2:7 2:7
+c="okenxime" 2:16 2:16||r="TrWP"||c="ho" 2:7 2:7
+c="polaramin" 2:18 2:18||r="TrWP"||c="ho" 2:7 2:7
+c="astex" 2:20 2:20||r="TrWP"||c="ho" 2:7 2:7
+c="c500" 2:22 2:22||r="TrWP"||c="ho" 2:7 2:7
+c="hapacol" 2:24 2:24||r="TrWP"||c="ho" 2:7 2:7
+c="khám" 2:12 2:12||r="TrWP"||c="sổ_mũi" 2:9 2:9
+c="okenxime" 2:16 2:16||r="TrWP"||c="sổ_mũi" 2:9 2:9
+c="polaramin" 2:18 2:18||r="TrWP"||c="sổ_mũi" 2:9 2:9
+c="astex" 2:20 2:20||r="TrWP"||c="sổ_mũi" 2:9 2:9
+c="c500" 2:22 2:22||r="TrWP"||c="sổ_mũi" 2:9 2:9
+c="hapacol" 2:24 2:24||r="TrWP"||c="sổ_mũi" 2:9 2:9

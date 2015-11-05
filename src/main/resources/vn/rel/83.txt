@@ -1,0 +1,6 @@
+c="sốt" 4:8 4:8||r="PIP"||c="sốt tăng dần" 4:14 4:16
+c="sốt" 4:8 4:8||r="PIP"||c="sốt cao liên_tục" 4:21 4:23
+c="sốt tăng dần" 4:14 4:16||r="PIP"||c="sốt cao liên_tục" 4:21 4:23
+c="ăn_uống ít" 5:2 5:3||r="PIP"||c="chưa đại_tiện qua nay" 5:8 5:11
+c="ăn_uống ít" 5:2 5:3||r="PIP"||c="đau bụng ít vùng rốn" 5:14 5:18
+c="chưa đại_tiện qua nay" 5:8 5:11||r="PIP"||c="đau bụng ít vùng rốn" 5:14 5:18

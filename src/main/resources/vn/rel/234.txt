@@ -1,0 +1,3 @@
+c="cảm_giác hồi_hộp đánh_trống_ngực" 3:1 3:3||r="PIP"||c="nhức đầu" 3:5 3:6
+c="cảm_giác hồi_hộp đánh_trống_ngực" 3:1 3:3||r="PIP"||c="choáng_váng khi đi_lại" 3:8 3:10
+c="nhức đầu" 3:5 3:6||r="PIP"||c="choáng_váng khi đi_lại" 3:8 3:10

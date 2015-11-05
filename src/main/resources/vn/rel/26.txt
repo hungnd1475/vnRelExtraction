@@ -1,0 +1,55 @@
+c="sốt" 2:1 2:1||r="PIP"||c="quấy" 2:3 2:3
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="sốt" 4:20 4:20
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="sốt cao" 4:22 4:23
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="quấy" 4:26 4:26
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="bứt_rứt" 4:28 4:28
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="sốt" 4:34 4:34
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="tiêu phân lỏng" 4:37 4:39
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="ăn kém" 4:41 4:42
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="tiêu phân lỏng nhiều lần" 4:7 4:11||r="PIP"||c="mệt" 4:50 4:50
+c="sốt" 4:20 4:20||r="PIP"||c="sốt cao" 4:22 4:23
+c="sốt" 4:20 4:20||r="PIP"||c="quấy" 4:26 4:26
+c="sốt" 4:20 4:20||r="PIP"||c="bứt_rứt" 4:28 4:28
+c="sốt" 4:20 4:20||r="PIP"||c="tiêu phân lỏng" 4:37 4:39
+c="sốt" 4:20 4:20||r="PIP"||c="ăn kém" 4:41 4:42
+c="sốt" 4:20 4:20||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="sốt" 4:20 4:20||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="sốt" 4:20 4:20||r="PIP"||c="mệt" 4:50 4:50
+c="sốt cao" 4:22 4:23||r="PIP"||c="quấy" 4:26 4:26
+c="sốt cao" 4:22 4:23||r="PIP"||c="bứt_rứt" 4:28 4:28
+c="sốt cao" 4:22 4:23||r="PIP"||c="sốt" 4:34 4:34
+c="sốt cao" 4:22 4:23||r="PIP"||c="tiêu phân lỏng" 4:37 4:39
+c="sốt cao" 4:22 4:23||r="PIP"||c="ăn kém" 4:41 4:42
+c="sốt cao" 4:22 4:23||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="sốt cao" 4:22 4:23||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="sốt cao" 4:22 4:23||r="PIP"||c="mệt" 4:50 4:50
+c="quấy" 4:26 4:26||r="PIP"||c="bứt_rứt" 4:28 4:28
+c="quấy" 4:26 4:26||r="PIP"||c="sốt" 4:34 4:34
+c="quấy" 4:26 4:26||r="PIP"||c="tiêu phân lỏng" 4:37 4:39
+c="quấy" 4:26 4:26||r="PIP"||c="ăn kém" 4:41 4:42
+c="quấy" 4:26 4:26||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="quấy" 4:26 4:26||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="quấy" 4:26 4:26||r="PIP"||c="mệt" 4:50 4:50
+c="bứt_rứt" 4:28 4:28||r="PIP"||c="sốt" 4:34 4:34
+c="bứt_rứt" 4:28 4:28||r="PIP"||c="tiêu phân lỏng" 4:37 4:39
+c="bứt_rứt" 4:28 4:28||r="PIP"||c="ăn kém" 4:41 4:42
+c="bứt_rứt" 4:28 4:28||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="bứt_rứt" 4:28 4:28||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="bứt_rứt" 4:28 4:28||r="PIP"||c="mệt" 4:50 4:50
+c="sốt" 4:34 4:34||r="PIP"||c="tiêu phân lỏng" 4:37 4:39
+c="sốt" 4:34 4:34||r="PIP"||c="ăn kém" 4:41 4:42
+c="sốt" 4:34 4:34||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="sốt" 4:34 4:34||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="sốt" 4:34 4:34||r="PIP"||c="mệt" 4:50 4:50
+c="tiêu phân lỏng" 4:37 4:39||r="PIP"||c="ăn kém" 4:41 4:42
+c="tiêu phân lỏng" 4:37 4:39||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="tiêu phân lỏng" 4:37 4:39||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="tiêu phân lỏng" 4:37 4:39||r="PIP"||c="mệt" 4:50 4:50
+c="ăn kém" 4:41 4:42||r="PIP"||c="quấy nhiều" 4:44 4:45
+c="ăn kém" 4:41 4:42||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="ăn kém" 4:41 4:42||r="PIP"||c="mệt" 4:50 4:50
+c="quấy nhiều" 4:44 4:45||r="PIP"||c="bứt_rứt nhiều" 4:47 4:48
+c="quấy nhiều" 4:44 4:45||r="PIP"||c="mệt" 4:50 4:50
+c="bứt_rứt nhiều" 4:47 4:48||r="PIP"||c="mệt" 4:50 4:50

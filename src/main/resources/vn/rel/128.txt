@@ -1,0 +1,16 @@
+c="sổ_mũi trong" 3:3 3:4||r="PIP"||c="ho_khan" 3:6 3:6
+c="sổ_mũi trong" 3:3 3:4||r="PIP"||c="sốt cơn nhẹ" 3:10 3:12
+c="điều_trị Hagimox" 3:17 3:18||r="TrWP"||c="sổ_mũi trong" 3:3 3:4
+c="ho_khan" 3:6 3:6||r="PIP"||c="sốt cơn nhẹ" 3:10 3:12
+c="điều_trị Hagimox" 3:17 3:18||r="TrWP"||c="ho_khan" 3:6 3:6
+c="điều_trị Hagimox" 3:17 3:18||r="TrWP"||c="sốt cơn nhẹ" 3:10 3:12
+c="sốt cao 39 độ C khó hạ" 4:4 4:10||r="PIP"||c="khàn tiếng nhiều" 4:12 4:14
+c="sốt cao 39 độ C khó hạ" 4:4 4:10||r="PIP"||c="ho ông_ổng" 4:16 4:17
+c="sốt cao 39 độ C khó hạ" 4:4 4:10||r="PIP"||c="ói sau ăn 2-3 lần" 4:19 4:23
+c="sốt cao 39 độ C khó hạ" 4:4 4:10||r="PIP"||c="ăn kém" 4:25 4:26
+c="khàn tiếng nhiều" 4:12 4:14||r="PIP"||c="ho ông_ổng" 4:16 4:17
+c="khàn tiếng nhiều" 4:12 4:14||r="PIP"||c="ói sau ăn 2-3 lần" 4:19 4:23
+c="khàn tiếng nhiều" 4:12 4:14||r="PIP"||c="ăn kém" 4:25 4:26
+c="ho ông_ổng" 4:16 4:17||r="PIP"||c="ói sau ăn 2-3 lần" 4:19 4:23
+c="ho ông_ổng" 4:16 4:17||r="PIP"||c="ăn kém" 4:25 4:26
+c="ói sau ăn 2-3 lần" 4:19 4:23||r="PIP"||c="ăn kém" 4:25 4:26

@@ -1,0 +1,4 @@
+c="uống thuốc" 4:8 4:9||r="TrWP"||c="ho" 4:2 4:2
+c="sốt cao liên_tục" 5:4 5:6||r="PIP"||c="lên_cơn co_giật toàn_thân" 5:8 5:10
+c="sốt cao liên_tục" 5:4 5:6||r="PIP"||c="tím môi" 5:15 5:16
+c="lên_cơn co_giật toàn_thân" 5:8 5:10||r="PIP"||c="tím môi" 5:15 5:16

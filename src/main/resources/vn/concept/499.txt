@@ -1,0 +1,6 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="làm_việc căng_thẳng" 4:5 4:6||t="problem"
+c="ngủ ít" 4:10 4:11||t="problem"
+c="khó thở từng cơn" 4:13 4:16||t="problem"
+c="mệt" 4:18 4:18||t="problem"
+c="điều_trị" 4:30 4:30||t="treatment"

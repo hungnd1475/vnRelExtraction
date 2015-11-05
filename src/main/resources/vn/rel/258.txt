@@ -1,0 +1,6 @@
+c="cảm_giác mệt" 2:4 2:5||r="PIP"||c="hồi_hộp đánh_trống_ngực" 2:7 2:8
+c="cảm_giác mệt" 2:4 2:5||r="PIP"||c="buồn_nôn sau ăn" 2:10 2:12
+c="cảm_giác mệt" 2:4 2:5||r="PIP"||c="tiểu ít hơn bình_thường" 2:14 2:17
+c="hồi_hộp đánh_trống_ngực" 2:7 2:8||r="PIP"||c="buồn_nôn sau ăn" 2:10 2:12
+c="hồi_hộp đánh_trống_ngực" 2:7 2:8||r="PIP"||c="tiểu ít hơn bình_thường" 2:14 2:17
+c="buồn_nôn sau ăn" 2:10 2:12||r="PIP"||c="tiểu ít hơn bình_thường" 2:14 2:17

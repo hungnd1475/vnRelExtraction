@@ -1,0 +1,6 @@
+c="Viêm phế_quản" 2:1 2:2||t="problem"
+c="khàn tiếng kèm ho đàm đục" 4:5 4:10||t="problem"
+c="sốt ớn lạnh" 4:12 4:14||t="problem"
+c="thở khò_khè" 4:16 4:17||t="problem"
+c="thuốc nmhu 7ng" 4:20 4:22||t="treatment"
+c="điều_trị" 5:2 5:2||t="treatment"

@@ -1,0 +1,3 @@
+c="ho đàm vàng" 4:4 4:6||r="PIP"||c="sốt_lạnh run" 4:8 4:9
+c="ho đàm vàng" 4:4 4:6||r="PIP"||c="khó thở" 4:11 4:12
+c="sốt_lạnh run" 4:8 4:9||r="PIP"||c="khó thở" 4:11 4:12

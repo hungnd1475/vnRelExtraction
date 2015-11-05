@@ -1,0 +1,8 @@
+c="điều_trị áp xe cạnh hậu_môn" 4:7 4:11||t="treatment"
+c="đau vùng hậu_môn" 4:14 4:16||t="problem"
+c="rĩ dịch" 4:18 4:19||t="problem"
+c="phẫu_thuật" 4:27 4:27||t="treatment"
+c="Áp xe cạnh hậu_môn" 5:3 5:6||t="problem"
+c="đang điều_trị áp xe cạnh hậu_môn , hiện_tại đau vùng hậu_môn , rĩ dịch , vào viện tái khám có chỉ_định phẫu_thuật ." 7:6 7:28||t="problem"
+c="Phẫu_thuật rạch áp xe cạnh hậu_môn , sau phẫu_thuật bệnh ổn_định , bớt đau , cho bệnh_nhân xuất_viện , hẹn tái khám ." 9:1 9:23||t="treatment"
+c="Phẫu_thuật" 11:1 11:1||t="treatment"

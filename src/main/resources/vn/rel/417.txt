@@ -1,0 +1,52 @@
+c="tức ngực ( T )" 4:3 4:7||r="PIP"||c="thở" 4:10 4:10
+c="tức ngực ( T )" 4:3 4:7||r="PIP"||c="mệt nhiều" 4:16 4:17
+c="tức ngực ( T )" 4:3 4:7||r="PIP"||c="chóng_mặt" 4:19 4:19
+c="tức ngực ( T )" 4:3 4:7||r="PIP"||c="đau tức thượng_vị" 4:22 4:24
+c="tức ngực ( T )" 4:3 4:7||r="PIP"||c="tiêu" 4:30 4:30
+c="tức ngực ( T )" 4:3 4:7||r="PIP"||c="ợ hơi" 4:32 4:33
+c="thở" 4:10 4:10||r="PIP"||c="mệt nhiều" 4:16 4:17
+c="thở" 4:10 4:10||r="PIP"||c="chóng_mặt" 4:19 4:19
+c="thở" 4:10 4:10||r="PIP"||c="đau tức thượng_vị" 4:22 4:24
+c="thở" 4:10 4:10||r="PIP"||c="tiêu" 4:30 4:30
+c="thở" 4:10 4:10||r="PIP"||c="ợ hơi" 4:32 4:33
+c="mệt nhiều" 4:16 4:17||r="PIP"||c="chóng_mặt" 4:19 4:19
+c="mệt nhiều" 4:16 4:17||r="PIP"||c="đau tức thượng_vị" 4:22 4:24
+c="mệt nhiều" 4:16 4:17||r="PIP"||c="tiêu" 4:30 4:30
+c="mệt nhiều" 4:16 4:17||r="PIP"||c="ợ hơi" 4:32 4:33
+c="chóng_mặt" 4:19 4:19||r="PIP"||c="đau tức thượng_vị" 4:22 4:24
+c="chóng_mặt" 4:19 4:19||r="PIP"||c="tiêu" 4:30 4:30
+c="chóng_mặt" 4:19 4:19||r="PIP"||c="ợ hơi" 4:32 4:33
+c="đau tức thượng_vị" 4:22 4:24||r="PIP"||c="tiêu" 4:30 4:30
+c="đau tức thượng_vị" 4:22 4:24||r="PIP"||c="ợ hơi" 4:32 4:33
+c="tiêu" 4:30 4:30||r="PIP"||c="ợ hơi" 4:32 4:33
+c="Tăng huyết_áp" 6:1 6:2||r="PIP"||c="Thiếu máu cơ tim" 6:4 6:7
+c="Tăng huyết_áp" 6:1 6:2||r="PIP"||c="Rối_loạn tiền_đình" 6:9 6:10
+c="Tăng huyết_áp" 6:1 6:2||r="PIP"||c="RLCH lipid máu" 6:12 6:14
+c="Tăng huyết_áp" 6:1 6:2||r="PIP"||c="Viêm dạ_dày HP ( + )" 6:16 6:21
+c="Thiếu máu cơ tim" 6:4 6:7||r="PIP"||c="Rối_loạn tiền_đình" 6:9 6:10
+c="Thiếu máu cơ tim" 6:4 6:7||r="PIP"||c="RLCH lipid máu" 6:12 6:14
+c="Thiếu máu cơ tim" 6:4 6:7||r="PIP"||c="Viêm dạ_dày HP ( + )" 6:16 6:21
+c="Rối_loạn tiền_đình" 6:9 6:10||r="PIP"||c="RLCH lipid máu" 6:12 6:14
+c="Rối_loạn tiền_đình" 6:9 6:10||r="PIP"||c="Viêm dạ_dày HP ( + )" 6:16 6:21
+c="RLCH lipid máu" 6:12 6:14||r="PIP"||c="Viêm dạ_dày HP ( + )" 6:16 6:21
+c="tức ngực ( T )" 10:3 10:7||r="PIP"||c="thở" 10:10 10:10
+c="tức ngực ( T )" 10:3 10:7||r="PIP"||c="mệt nhiều" 10:16 10:17
+c="tức ngực ( T )" 10:3 10:7||r="PIP"||c="chóng_mặt" 10:19 10:19
+c="tức ngực ( T )" 10:3 10:7||r="PIP"||c="đau tức thượng_vị" 10:22 10:24
+c="tức ngực ( T )" 10:3 10:7||r="PIP"||c="ăn_uống khó tiêu" 10:28 10:30
+c="tức ngực ( T )" 10:3 10:7||r="PIP"||c="ợ hơi" 10:32 10:33
+c="thở" 10:10 10:10||r="PIP"||c="mệt nhiều" 10:16 10:17
+c="thở" 10:10 10:10||r="PIP"||c="chóng_mặt" 10:19 10:19
+c="thở" 10:10 10:10||r="PIP"||c="đau tức thượng_vị" 10:22 10:24
+c="thở" 10:10 10:10||r="PIP"||c="ăn_uống khó tiêu" 10:28 10:30
+c="thở" 10:10 10:10||r="PIP"||c="ợ hơi" 10:32 10:33
+c="mệt nhiều" 10:16 10:17||r="PIP"||c="chóng_mặt" 10:19 10:19
+c="mệt nhiều" 10:16 10:17||r="PIP"||c="đau tức thượng_vị" 10:22 10:24
+c="mệt nhiều" 10:16 10:17||r="PIP"||c="ăn_uống khó tiêu" 10:28 10:30
+c="mệt nhiều" 10:16 10:17||r="PIP"||c="ợ hơi" 10:32 10:33
+c="chóng_mặt" 10:19 10:19||r="PIP"||c="đau tức thượng_vị" 10:22 10:24
+c="chóng_mặt" 10:19 10:19||r="PIP"||c="ăn_uống khó tiêu" 10:28 10:30
+c="chóng_mặt" 10:19 10:19||r="PIP"||c="ợ hơi" 10:32 10:33
+c="đau tức thượng_vị" 10:22 10:24||r="PIP"||c="ăn_uống khó tiêu" 10:28 10:30
+c="đau tức thượng_vị" 10:22 10:24||r="PIP"||c="ợ hơi" 10:32 10:33
+c="ăn_uống khó tiêu" 10:28 10:30||r="PIP"||c="ợ hơi" 10:32 10:33

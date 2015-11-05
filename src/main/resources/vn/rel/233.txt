@@ -1,0 +1,10 @@
+c="ho đàm khó khạc" 4:5 4:8||r="PIP"||c="đau họng" 4:10 4:11
+c="ho đàm khó khạc" 4:5 4:8||r="PIP"||c="ăn_uống kém" 4:13 4:14
+c="ho đàm khó khạc" 4:5 4:8||r="PIP"||c="buồn_nôn sau ăn" 4:16 4:18
+c="khám" 4:20 4:20||r="TrAP"||c="ho đàm khó khạc" 4:5 4:8
+c="đau họng" 4:10 4:11||r="PIP"||c="ăn_uống kém" 4:13 4:14
+c="đau họng" 4:10 4:11||r="PIP"||c="buồn_nôn sau ăn" 4:16 4:18
+c="khám" 4:20 4:20||r="TrAP"||c="đau họng" 4:10 4:11
+c="ăn_uống kém" 4:13 4:14||r="PIP"||c="buồn_nôn sau ăn" 4:16 4:18
+c="khám" 4:20 4:20||r="TrAP"||c="ăn_uống kém" 4:13 4:14
+c="khám" 4:20 4:20||r="TrAP"||c="buồn_nôn sau ăn" 4:16 4:18

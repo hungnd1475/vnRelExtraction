@@ -1,0 +1,3 @@
+c="đau nhiều vùng hạ sườn ( P )" 2:7 2:14||r="PIP"||c="ăn_uống kém" 2:18 2:19
+c="đau nhiều vùng hạ sườn ( P )" 2:7 2:14||r="PIP"||c="tiểu sậm màu" 2:21 2:23
+c="ăn_uống kém" 2:18 2:19||r="PIP"||c="tiểu sậm màu" 2:21 2:23

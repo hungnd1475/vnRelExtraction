@@ -1,0 +1,8 @@
+Tiền Sử Bệnh
+khỏe_mạnh
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân tự độc thuốc - - > nhập ICU điều_trị - - > theo_dõi , điều_trị ngăn hấp_thu thuốc - - > bệnh ổn_định - - > cho bệnh_nhân xuất_viện về
+Tổng Kết Phương Pháp Điều Trị
+nội_khoa

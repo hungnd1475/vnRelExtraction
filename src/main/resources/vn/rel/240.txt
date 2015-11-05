@@ -1,0 +1,6 @@
+c="mệt" 2:6 2:6||r="PIP"||c="ăn_uống kém" 2:8 2:9
+c="mệt" 2:6 2:6||r="PIP"||c="khó thở khi đi_lại" 2:11 2:14
+c="mệt" 2:6 2:6||r="PIP"||c="phù hai bàn_tay , hạ chi" 2:16 2:21
+c="ăn_uống kém" 2:8 2:9||r="PIP"||c="khó thở khi đi_lại" 2:11 2:14
+c="ăn_uống kém" 2:8 2:9||r="PIP"||c="phù hai bàn_tay , hạ chi" 2:16 2:21
+c="khó thở khi đi_lại" 2:11 2:14||r="PIP"||c="phù hai bàn_tay , hạ chi" 2:16 2:21

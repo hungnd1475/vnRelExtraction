@@ -1,0 +1,6 @@
+c="Tăng huyết_áp" 2:1 2:2||t="problem"
+c="chóng_mặt" 4:2 4:2||t="problem"
+c="chóng_mặt khi thay_đổi tư_thế" 4:13 4:16||t="problem"
+c="không nôn ói" 4:18 4:20||t="problem"
+c="mệt_mỏi" 4:22 4:22||t="problem"
+c="điều_trị" 4:33 4:33||t="treatment"

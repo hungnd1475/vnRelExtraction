@@ -1,0 +1,7 @@
+c="đau bụng" 2:3 2:4||r="PIP"||c="tiểu gắt buốt" 2:8 2:10
+c="chóng_mặt nhiều" 3:2 3:3||r="PIP"||c="buồn_nôn" 3:5 3:5
+c="chóng_mặt nhiều" 3:2 3:3||r="PIP"||c="tiểu gắt buốt" 3:7 3:9
+c="chóng_mặt nhiều" 3:2 3:3||r="PIP"||c="mệt" 3:11 3:11
+c="buồn_nôn" 3:5 3:5||r="PIP"||c="tiểu gắt buốt" 3:7 3:9
+c="buồn_nôn" 3:5 3:5||r="PIP"||c="mệt" 3:11 3:11
+c="tiểu gắt buốt" 3:7 3:9||r="PIP"||c="mệt" 3:11 3:11

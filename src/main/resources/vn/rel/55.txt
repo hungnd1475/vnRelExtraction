@@ -1,0 +1,14 @@
+c="khám" 4:8 4:8||r="TrWP"||c="ho khò_khè" 4:2 4:3
+c="uống thuốc" 4:11 4:12||r="TrWP"||c="ho khò_khè" 4:2 4:3
+c="ho khò_khè" 4:2 4:3||r="PIP"||c="đau tai ( T )" 4:24 4:28
+c="ho khò_khè" 4:2 4:3||r="PIP"||c="viêm tai giữa cấp_tính" 4:33 4:36
+c="khám" 4:8 4:8||r="TrWP"||c="ho khò_khè" 4:19 4:20
+c="khám" 4:8 4:8||r="TrWP"||c="đau tai ( T )" 4:24 4:28
+c="khám" 4:8 4:8||r="TrWP"||c="viêm tai giữa cấp_tính" 4:33 4:36
+c="uống thuốc" 4:11 4:12||r="TrWP"||c="ho khò_khè" 4:19 4:20
+c="uống thuốc" 4:11 4:12||r="TrWP"||c="đau tai ( T )" 4:24 4:28
+c="uống thuốc" 4:11 4:12||r="TrWP"||c="viêm tai giữa cấp_tính" 4:33 4:36
+c="ho khò_khè" 4:19 4:20||r="PIP"||c="đau tai ( T )" 4:24 4:28
+c="ho khò_khè" 4:19 4:20||r="PIP"||c="viêm tai giữa cấp_tính" 4:33 4:36
+c="đau tai ( T )" 4:24 4:28||r="PIP"||c="viêm tai giữa cấp_tính" 4:33 4:36
+c="nội_soi" 4:30 4:30||r="TeRP"||c="viêm tai giữa cấp_tính" 4:33 4:36

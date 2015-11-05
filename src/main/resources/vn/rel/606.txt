@@ -1,0 +1,9 @@
+c="sốt cao" 2:2 2:3||r="PIP"||c="đau bụng" 2:9 2:10
+c="sốt cao" 2:2 2:3||r="PIP"||c="đi_tiêu lỏng" 2:12 2:13
+c="sốt cao" 2:2 2:3||r="PIP"||c="đau họng nhẹ" 2:21 2:23
+c="đau bụng" 2:9 2:10||r="PIP"||c="đi_tiêu lỏng" 2:12 2:13
+c="đau bụng" 2:9 2:10||r="PIP"||c="đau họng nhẹ" 2:21 2:23
+c="đi_tiêu lỏng" 2:12 2:13||r="PIP"||c="đau họng nhẹ" 2:21 2:23
+c="thuốc hạ sốt" 3:4 3:6||r="TrWP"||c="bệnh không giảm" 3:8 3:10
+c="thuốc hạ sốt" 3:4 3:6||r="TrWP"||c="người mệt nhiều" 3:12 3:14
+c="bệnh không giảm" 3:8 3:10||r="PIP"||c="người mệt nhiều" 3:12 3:14

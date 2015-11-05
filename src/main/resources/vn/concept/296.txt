@@ -1,0 +1,5 @@
+c="đau thượng_vị" 2:2 2:3||t="problem"
+c="ăn_uống kém" 2:5 2:6||t="problem"
+c="không ngủ được" 2:8 2:10||t="problem"
+c="mệt nhiều" 2:12 2:13||t="problem"
+c="điều_trị" 2:23 2:23||t="treatment"

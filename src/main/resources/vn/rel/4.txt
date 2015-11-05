@@ -1,0 +1,21 @@
+c="khám uống thuốc viêm mũi họng" 4:8 4:13||r="TrWP"||c="ho khò_khè" 4:2 4:3
+c="ho khò_khè" 4:2 4:3||r="PIP"||c="ho nhiều" 4:24 4:25
+c="ho khò_khè" 4:2 4:3||r="PIP"||c="thở khò_khè" 4:27 4:28
+c="ho khò_khè" 4:2 4:3||r="PIP"||c="ăn_uống kém" 4:30 4:31
+c="ho khò_khè" 4:2 4:3||r="PIP"||c="tiêu phân lỏng 4 ngày_nay" 4:33 4:37
+c="ho khò_khè" 4:2 4:3||r="PIP"||c="người mệt nhiều" 4:39 4:41
+c="khám uống thuốc viêm mũi họng" 4:8 4:13||r="TrWP"||c="ho nhiều" 4:24 4:25
+c="khám uống thuốc viêm mũi họng" 4:8 4:13||r="TrWP"||c="thở khò_khè" 4:27 4:28
+c="khám uống thuốc viêm mũi họng" 4:8 4:13||r="TrWP"||c="ăn_uống kém" 4:30 4:31
+c="khám uống thuốc viêm mũi họng" 4:8 4:13||r="TrWP"||c="tiêu phân lỏng 4 ngày_nay" 4:33 4:37
+c="khám uống thuốc viêm mũi họng" 4:8 4:13||r="TrWP"||c="người mệt nhiều" 4:39 4:41
+c="ho nhiều" 4:24 4:25||r="PIP"||c="thở khò_khè" 4:27 4:28
+c="ho nhiều" 4:24 4:25||r="PIP"||c="ăn_uống kém" 4:30 4:31
+c="ho nhiều" 4:24 4:25||r="PIP"||c="tiêu phân lỏng 4 ngày_nay" 4:33 4:37
+c="ho nhiều" 4:24 4:25||r="PIP"||c="người mệt nhiều" 4:39 4:41
+c="thở khò_khè" 4:27 4:28||r="PIP"||c="ăn_uống kém" 4:30 4:31
+c="thở khò_khè" 4:27 4:28||r="PIP"||c="tiêu phân lỏng 4 ngày_nay" 4:33 4:37
+c="thở khò_khè" 4:27 4:28||r="PIP"||c="người mệt nhiều" 4:39 4:41
+c="ăn_uống kém" 4:30 4:31||r="PIP"||c="tiêu phân lỏng 4 ngày_nay" 4:33 4:37
+c="ăn_uống kém" 4:30 4:31||r="PIP"||c="người mệt nhiều" 4:39 4:41
+c="tiêu phân lỏng 4 ngày_nay" 4:33 4:37||r="PIP"||c="người mệt nhiều" 4:39 4:41

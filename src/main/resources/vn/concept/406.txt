@@ -1,0 +1,8 @@
+c="bệnh_bạch_cầu" 2:12 2:12||t="problem"
+c="đặt buồng tiêm tĩnh_mạch vùng ngực ( T )" 2:14 2:22||t="treatment"
+c="Buồng tiêm tĩnh_mạch vùng ngực ( T )" 3:3 3:10||t="problem"
+c="bệnh_bạch_cầu" 5:12 5:12||t="problem"
+c="đặt buồng tiêm tĩnh_mạch vùng ngực ( T )" 5:14 5:22||t="treatment"
+c="Buồng tiêm tĩnh_mạch vùng ngực ( T )" 6:3 6:10||t="problem"
+c="Phẫu_thuật lấy buồng tiêm vùng ngực" 7:1 7:6||t="treatment"
+c="Phẫu_thuật" 9:1 9:1||t="treatment"

@@ -1,0 +1,36 @@
+c="gãy cổ xương đùi phải" 2:3 2:7||r="PIP"||c="đi trượt chân té ngã ở trong nhà" 2:12 2:19
+c="khám Bệnh_viện Chấn_Thương_Chỉnh_Hình" 2:21 2:23||r="TrWP"||c="gãy cổ xương đùi phải" 2:3 2:7
+c="điều_trị nội_khoa" 2:25 2:26||r="TrWP"||c="gãy cổ xương đùi phải" 2:3 2:7
+c="khám Bệnh_viện Chấn_Thương_Chỉnh_Hình" 2:21 2:23||r="TrWP"||c="đi trượt chân té ngã ở trong nhà" 2:12 2:19
+c="điều_trị nội_khoa" 2:25 2:26||r="TrWP"||c="đi trượt chân té ngã ở trong nhà" 2:12 2:19
+c="chấn_thương xuất_hiện vết loét vùng cùng cụt" 3:4 3:10||r="PIP"||c="ngày_càng to" 3:12 3:13
+c="chấn_thương xuất_hiện vết loét vùng cùng cụt" 3:4 3:10||r="PIP"||c="sâu" 3:15 3:15
+c="chấn_thương xuất_hiện vết loét vùng cùng cụt" 3:4 3:10||r="PIP"||c="mủ thối" 3:17 3:18
+c="chấn_thương xuất_hiện vết loét vùng cùng cụt" 3:4 3:10||r="PIP"||c="sốt nhẹ" 3:20 3:21
+c="chấn_thương xuất_hiện vết loét vùng cùng cụt" 3:4 3:10||r="PIP"||c="không lạnh run" 3:23 3:25
+c="Điều_dưỡng chăm_sóc tại nhà" 3:28 3:31||r="TrWP"||c="chấn_thương xuất_hiện vết loét vùng cùng cụt" 3:4 3:10
+c="chấn_thương xuất_hiện vết loét vùng cùng cụt" 3:4 3:10||r="PIP"||c="vết loét ngày_càng rộng và sâu hơn" 3:33 3:39
+c="ngày_càng to" 3:12 3:13||r="PIP"||c="sâu" 3:15 3:15
+c="ngày_càng to" 3:12 3:13||r="PIP"||c="mủ thối" 3:17 3:18
+c="ngày_càng to" 3:12 3:13||r="PIP"||c="sốt nhẹ" 3:20 3:21
+c="ngày_càng to" 3:12 3:13||r="PIP"||c="không lạnh run" 3:23 3:25
+c="Điều_dưỡng chăm_sóc tại nhà" 3:28 3:31||r="TrWP"||c="ngày_càng to" 3:12 3:13
+c="ngày_càng to" 3:12 3:13||r="PIP"||c="vết loét ngày_càng rộng và sâu hơn" 3:33 3:39
+c="sâu" 3:15 3:15||r="PIP"||c="mủ thối" 3:17 3:18
+c="sâu" 3:15 3:15||r="PIP"||c="sốt nhẹ" 3:20 3:21
+c="sâu" 3:15 3:15||r="PIP"||c="không lạnh run" 3:23 3:25
+c="Điều_dưỡng chăm_sóc tại nhà" 3:28 3:31||r="TrWP"||c="sâu" 3:15 3:15
+c="sâu" 3:15 3:15||r="PIP"||c="vết loét ngày_càng rộng và sâu hơn" 3:33 3:39
+c="mủ thối" 3:17 3:18||r="PIP"||c="sốt nhẹ" 3:20 3:21
+c="mủ thối" 3:17 3:18||r="PIP"||c="không lạnh run" 3:23 3:25
+c="Điều_dưỡng chăm_sóc tại nhà" 3:28 3:31||r="TrWP"||c="mủ thối" 3:17 3:18
+c="mủ thối" 3:17 3:18||r="PIP"||c="vết loét ngày_càng rộng và sâu hơn" 3:33 3:39
+c="sốt nhẹ" 3:20 3:21||r="PIP"||c="không lạnh run" 3:23 3:25
+c="Điều_dưỡng chăm_sóc tại nhà" 3:28 3:31||r="TrWP"||c="sốt nhẹ" 3:20 3:21
+c="sốt nhẹ" 3:20 3:21||r="PIP"||c="vết loét ngày_càng rộng và sâu hơn" 3:33 3:39
+c="Điều_dưỡng chăm_sóc tại nhà" 3:28 3:31||r="TrWP"||c="không lạnh run" 3:23 3:25
+c="không lạnh run" 3:23 3:25||r="PIP"||c="vết loét ngày_càng rộng và sâu hơn" 3:33 3:39
+c="Điều_dưỡng chăm_sóc tại nhà" 3:28 3:31||r="TrWP"||c="vết loét ngày_càng rộng và sâu hơn" 3:33 3:39
+c="lên_cơn mệt nhiều" 4:4 4:6||r="PIP"||c="không sốt" 4:8 4:9
+c="lên_cơn mệt nhiều" 4:4 4:6||r="PIP"||c="không lạnh run" 4:11 4:13
+c="không sốt" 4:8 4:9||r="PIP"||c="không lạnh run" 4:11 4:13

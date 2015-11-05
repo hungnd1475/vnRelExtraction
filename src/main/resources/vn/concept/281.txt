@@ -1,0 +1,8 @@
+c="Sôt" 2:1 2:1||t="problem"
+c="ho" 2:3 2:3||t="problem"
+c="sốt" 4:3 4:3||t="problem"
+c="ho" 4:5 4:5||t="problem"
+c="mua thuốc uống" 4:11 4:13||t="treatment"
+c="ho đàm nhiều" 5:2 5:4||t="problem"
+c="đau họng" 5:6 5:7||t="problem"
+c="ăn_uống kém" 5:9 5:10||t="problem"

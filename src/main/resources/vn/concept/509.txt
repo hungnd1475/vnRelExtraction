@@ -1,0 +1,7 @@
+c="sốt cao liên_tục" 2:2 2:4||t="problem"
+c="kèm đau_đầu" 2:7 2:8||t="problem"
+c="đau họng" 2:10 2:11||t="problem"
+c="đau cơ" 2:13 2:14||t="problem"
+c="ho_khan" 2:16 2:16||t="problem"
+c="điều_trị" 2:29 2:29||t="treatment"
+c="ho_khan" 2:35 2:35||t="problem"

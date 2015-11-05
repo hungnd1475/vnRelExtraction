@@ -1,0 +1,10 @@
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="đau_đầu" 2:9 2:9
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="chóng_mặt khi đi_lại" 2:11 2:13
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="cảm_giác lói ngực sau xương ức" 2:15 2:20
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="mất_ngủ" 2:22 2:22
+c="đau_đầu" 2:9 2:9||r="PIP"||c="chóng_mặt khi đi_lại" 2:11 2:13
+c="đau_đầu" 2:9 2:9||r="PIP"||c="cảm_giác lói ngực sau xương ức" 2:15 2:20
+c="đau_đầu" 2:9 2:9||r="PIP"||c="mất_ngủ" 2:22 2:22
+c="chóng_mặt khi đi_lại" 2:11 2:13||r="PIP"||c="cảm_giác lói ngực sau xương ức" 2:15 2:20
+c="chóng_mặt khi đi_lại" 2:11 2:13||r="PIP"||c="mất_ngủ" 2:22 2:22
+c="cảm_giác lói ngực sau xương ức" 2:15 2:20||r="PIP"||c="mất_ngủ" 2:22 2:22

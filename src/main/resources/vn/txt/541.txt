@@ -1,0 +1,7 @@
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng nhập ICU điều_trị - - - > kháng_sinh - - > nâng đở cơ_thể
+Sau 7 ngày điều_trị bệnh_nhân tạm ổn_định - - - > cho bệnh_nhân xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+Kháng_sinh

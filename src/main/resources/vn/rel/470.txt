@@ -1,0 +1,10 @@
+c="đau quặn bụng hạ_vị" 4:6 4:9||r="PIP"||c="mệt" 4:13 4:13
+c="đau quặn bụng hạ_vị" 4:6 4:9||r="PIP"||c="không tiêu lỏng" 4:15 4:17
+c="đau quặn bụng hạ_vị" 4:6 4:9||r="PIP"||c="không no 6o ói" 4:19 4:22
+c="đau quặn bụng hạ_vị" 4:6 4:9||r="PIP"||c="không sốt" 4:24 4:25
+c="mệt" 4:13 4:13||r="PIP"||c="không tiêu lỏng" 4:15 4:17
+c="mệt" 4:13 4:13||r="PIP"||c="không no 6o ói" 4:19 4:22
+c="mệt" 4:13 4:13||r="PIP"||c="không sốt" 4:24 4:25
+c="không tiêu lỏng" 4:15 4:17||r="PIP"||c="không no 6o ói" 4:19 4:22
+c="không tiêu lỏng" 4:15 4:17||r="PIP"||c="không sốt" 4:24 4:25
+c="không no 6o ói" 4:19 4:22||r="PIP"||c="không sốt" 4:24 4:25

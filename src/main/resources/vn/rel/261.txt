@@ -1,0 +1,6 @@
+c="sốt cao" 4:3 4:4||r="PIP"||c="ớn lạnh" 4:6 4:7
+c="sốt cao" 4:3 4:4||r="PIP"||c="đau_đầu" 4:9 4:9
+c="dùng thuốc" 4:12 4:13||r="TrWP"||c="sốt cao" 4:3 4:4
+c="ớn lạnh" 4:6 4:7||r="PIP"||c="đau_đầu" 4:9 4:9
+c="dùng thuốc" 4:12 4:13||r="TrWP"||c="ớn lạnh" 4:6 4:7
+c="dùng thuốc" 4:12 4:13||r="TrWP"||c="đau_đầu" 4:9 4:9

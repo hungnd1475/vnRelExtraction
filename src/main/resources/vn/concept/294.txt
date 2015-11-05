@@ -1,0 +1,8 @@
+c="co_giật" 2:1 2:1||t="problem"
+c="độtv ngột co gồng rồi co_giật toàn_thân" 4:14 4:20||t="problem"
+c="trợn mắt sùi bọt mép cơn kéo_dài khoảng 15 phút > 30 phút tỉnh lại" 4:22 4:36||t="problem"
+c="Tăng huyết_áp" 6:1 6:2||t="problem"
+c="độtv ngột co gồng rồi co_giật toàn_thân" 8:14 8:20||t="problem"
+c="trợn mắt sùi bọt mép cơn kéo_dài" 8:22 8:28||t="problem"
+c="điều_trị" 9:2 9:2||t="treatment"
+c="Kháng_sinh" 11:1 11:1||t="treatment"

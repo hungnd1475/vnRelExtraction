@@ -1,0 +1,7 @@
+c="đau bụng" 4:5 4:6||t="problem"
+c="chướng bụng sau ăn" 4:11 4:14||t="problem"
+c="ợ hơi" 4:16 4:17||t="problem"
+c="đau bụng" 4:21 4:22||t="problem"
+c="nôn ói ra dịch màu hồng" 4:26 4:31||t="problem"
+c="ăn_uống kém" 4:33 4:34||t="problem"
+c="mệt_mỏi" 4:36 4:36||t="problem"

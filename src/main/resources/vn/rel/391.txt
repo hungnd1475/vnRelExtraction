@@ -1,0 +1,10 @@
+c="mệt nhiều" 2:5 2:6||r="PIP"||c="tiểu ít" 2:8 2:9
+c="mệt nhiều" 2:5 2:6||r="PIP"||c="đau vùng mạn sườn ( P" 2:11 2:16
+c="điều_trị" 2:29 2:29||r="TrIP"||c="mệt nhiều" 2:5 2:6
+c="mệt nhiều" 2:5 2:6||r="PIP"||c="bụng còn báng" 2:34 2:36
+c="tiểu ít" 2:8 2:9||r="PIP"||c="đau vùng mạn sườn ( P" 2:11 2:16
+c="điều_trị" 2:29 2:29||r="TrIP"||c="tiểu ít" 2:8 2:9
+c="tiểu ít" 2:8 2:9||r="PIP"||c="bụng còn báng" 2:34 2:36
+c="điều_trị" 2:29 2:29||r="TrIP"||c="đau vùng mạn sườn ( P" 2:11 2:16
+c="đau vùng mạn sườn ( P" 2:11 2:16||r="PIP"||c="bụng còn báng" 2:34 2:36
+c="điều_trị" 2:29 2:29||r="TrWP"||c="bụng còn báng" 2:34 2:36

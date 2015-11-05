@@ -1,0 +1,25 @@
+c="sốt" 4:2 4:2||r="PIP"||c="ho" 4:4 4:4
+c="khám" 4:8 4:8||r="TrWP"||c="sốt" 4:2 4:2
+c="uống thuốc" 4:16 4:17||r="TrWP"||c="sốt" 4:2 4:2
+c="sốt" 4:2 4:2||r="PIP"||c="ho" 4:29 4:29
+c="sốt" 4:2 4:2||r="PIP"||c="tiêu phân lõng" 4:31 4:33
+c="sốt" 4:2 4:2||r="PIP"||c="ăn_uống kém" 4:35 4:36
+c="khám" 4:8 4:8||r="TrWP"||c="ho" 4:4 4:4
+c="uống thuốc" 4:16 4:17||r="TrWP"||c="ho" 4:4 4:4
+c="ho" 4:4 4:4||r="PIP"||c="sốt" 4:27 4:27
+c="ho" 4:4 4:4||r="PIP"||c="tiêu phân lõng" 4:31 4:33
+c="ho" 4:4 4:4||r="PIP"||c="ăn_uống kém" 4:35 4:36
+c="khám" 4:8 4:8||r="TrWP"||c="sốt" 4:27 4:27
+c="khám" 4:8 4:8||r="TrWP"||c="ho" 4:29 4:29
+c="khám" 4:8 4:8||r="TrWP"||c="tiêu phân lõng" 4:31 4:33
+c="khám" 4:8 4:8||r="TrWP"||c="ăn_uống kém" 4:35 4:36
+c="uống thuốc" 4:16 4:17||r="TrWP"||c="sốt" 4:27 4:27
+c="uống thuốc" 4:16 4:17||r="TrWP"||c="ho" 4:29 4:29
+c="uống thuốc" 4:16 4:17||r="TrWP"||c="tiêu phân lõng" 4:31 4:33
+c="uống thuốc" 4:16 4:17||r="TrWP"||c="ăn_uống kém" 4:35 4:36
+c="sốt" 4:27 4:27||r="PIP"||c="ho" 4:29 4:29
+c="sốt" 4:27 4:27||r="PIP"||c="tiêu phân lõng" 4:31 4:33
+c="sốt" 4:27 4:27||r="PIP"||c="ăn_uống kém" 4:35 4:36
+c="ho" 4:29 4:29||r="PIP"||c="tiêu phân lõng" 4:31 4:33
+c="ho" 4:29 4:29||r="PIP"||c="ăn_uống kém" 4:35 4:36
+c="tiêu phân lõng" 4:31 4:33||r="PIP"||c="ăn_uống kém" 4:35 4:36

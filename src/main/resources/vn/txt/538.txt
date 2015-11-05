@@ -1,0 +1,6 @@
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh nặng - - > nhập ICU điều_trị - - > Sau 1 ngày điều_trị , bệnh diễn_biến nặng , gia_đình xin xuất_viện đưa bệnh_nhân về
+Tổng Kết Phương Pháp Điều Trị
+nội_khoa

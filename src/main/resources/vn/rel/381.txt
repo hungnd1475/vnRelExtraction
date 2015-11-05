@@ -1,0 +1,15 @@
+c="đau rát thượng_vị" 4:7 4:9||r="PIP"||c="ợ chua khó tiêu" 4:11 4:14
+c="đau rát thượng_vị" 4:7 4:9||r="PIP"||c="đau quặn vùng thượng_vị" 4:17 4:20
+c="đau rát thượng_vị" 4:7 4:9||r="PIP"||c="đầy bụng" 4:22 4:23
+c="đau rát thượng_vị" 4:7 4:9||r="PIP"||c="ăn_uống không tiêu" 4:25 4:27
+c="điều_trị" 4:39 4:39||r="TrIP"||c="đau rát thượng_vị" 4:7 4:9
+c="ợ chua khó tiêu" 4:11 4:14||r="PIP"||c="đau quặn vùng thượng_vị" 4:17 4:20
+c="ợ chua khó tiêu" 4:11 4:14||r="PIP"||c="đầy bụng" 4:22 4:23
+c="ợ chua khó tiêu" 4:11 4:14||r="PIP"||c="ăn_uống không tiêu" 4:25 4:27
+c="điều_trị" 4:39 4:39||r="TrIP"||c="ợ chua khó tiêu" 4:11 4:14
+c="đau quặn vùng thượng_vị" 4:17 4:20||r="PIP"||c="đầy bụng" 4:22 4:23
+c="đau quặn vùng thượng_vị" 4:17 4:20||r="PIP"||c="ăn_uống không tiêu" 4:25 4:27
+c="điều_trị" 4:39 4:39||r="TrIP"||c="đau quặn vùng thượng_vị" 4:17 4:20
+c="đầy bụng" 4:22 4:23||r="PIP"||c="ăn_uống không tiêu" 4:25 4:27
+c="điều_trị" 4:39 4:39||r="TrIP"||c="đầy bụng" 4:22 4:23
+c="điều_trị" 4:39 4:39||r="TrWP"||c="ăn_uống không tiêu" 4:25 4:27

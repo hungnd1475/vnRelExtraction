@@ -1,0 +1,1 @@
+c="đau thắt_lưng" 2:8 2:9||r="PIP"||c="HA tăng cao 200/100mmHg" 2:15 2:18

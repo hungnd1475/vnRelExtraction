@@ -1,0 +1,6 @@
+c="chóng_mặt khi thay_đổi tư_thế" 2:2 2:5||r="PIP"||c="nôn ói" 2:7 2:8
+c="chóng_mặt khi thay_đổi tư_thế" 2:2 2:5||r="PIP"||c="mệt_mỏi" 2:10 2:10
+c="chóng_mặt khi thay_đổi tư_thế" 2:2 2:5||r="PIP"||c="ăn_uống kém" 2:12 2:13
+c="nôn ói" 2:7 2:8||r="PIP"||c="mệt_mỏi" 2:10 2:10
+c="nôn ói" 2:7 2:8||r="PIP"||c="ăn_uống kém" 2:12 2:13
+c="mệt_mỏi" 2:10 2:10||r="PIP"||c="ăn_uống kém" 2:12 2:13

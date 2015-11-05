@@ -1,0 +1,6 @@
+c="phát_ban" 2:1 2:1||t="problem"
+c="ho_khan" 5:9 5:9||t="problem"
+c="sổ_mũi trong" 5:11 5:12||t="problem"
+c="phát_ban sau tai , chân tóc - - > mặt" 5:16 5:25||t="problem"
+c="tiêu phân lỏng 1 lần" 7:5 7:9||t="problem"
+c="điều_trị triệu_chứng" 11:1 11:2||t="treatment"

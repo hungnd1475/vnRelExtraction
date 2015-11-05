@@ -1,0 +1,7 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau bụng dọc theo khung đại_tràng trái" 4:3 4:9||t="problem"
+c="tiêu phân nhầy nhớt" 4:11 4:14||t="problem"
+c="mệt" 5:4 5:4||t="problem"
+c="sốt cao" 5:6 5:7||t="problem"
+c="Cắt ruột do hoại_tử ( ? )" 7:1 7:7||t="treatment"
+c="nộ khoa" 9:1 9:2||t="treatment"

@@ -1,0 +1,8 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt cao" 4:2 4:3||t="problem"
+c="đau họng" 4:7 4:8||t="problem"
+c="đau bụng nhiều vùng thượng_vị" 4:10 4:14||t="problem"
+c="nôn ói" 4:16 4:17||t="problem"
+c="tiêu lỏng" 4:19 4:20||t="problem"
+c="mệt_mỏi" 4:22 4:22||t="problem"
+c="điều_trị" 4:34 4:34||t="treatment"

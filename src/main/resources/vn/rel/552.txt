@@ -1,0 +1,5 @@
+c="đau hạn_chế vận_động vai" 4:2 4:5||r="PIP"||c="MRI rách gân trên gai" 4:7 4:11
+c="cắt ọc" 4:16 4:17||r="TrIP"||c="đau hạn_chế vận_động vai" 4:2 4:5
+c="tạo_hình mõm cùng vai" 4:19 4:22||r="TrIP"||c="đau hạn_chế vận_động vai" 4:2 4:5
+c="cắt ọc" 4:16 4:17||r="TrIP"||c="MRI rách gân trên gai" 4:7 4:11
+c="tạo_hình mõm cùng vai" 4:19 4:22||r="TrIP"||c="MRI rách gân trên gai" 4:7 4:11

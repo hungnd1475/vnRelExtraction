@@ -1,0 +1,7 @@
+c="Ho" 2:1 2:1||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="nhập ICU" 6:6 6:7||t="treatment"
+c="kháng_sinh" 7:5 7:5||t="treatment"
+c="Khí dung" 7:9 7:10||t="treatment"
+c="nâng đở cơ_thể" 7:14 7:16||t="treatment"
+c="Kháng_sinh" 10:1 10:1||t="treatment"

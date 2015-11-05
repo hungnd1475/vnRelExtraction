@@ -1,0 +1,5 @@
+c="khò_khè" 2:4 2:4||t="problem"
+c="khó thở" 2:7 2:8||t="problem"
+c="mệt" 2:10 2:10||t="problem"
+c="chóng_mặt" 2:12 2:12||t="problem"
+c="ăn_uống kém" 2:17 2:18||t="problem"

@@ -1,0 +1,4 @@
+c="ho" 4:9 4:9||r="PIP"||c="ho nhiều liên_tục" 4:11 4:13
+c="ho" 4:9 4:9||r="PIP"||c="khó thở sáng giờ" 4:19 4:22
+c="ho nhiều liên_tục" 4:11 4:13||r="PIP"||c="khó thở sáng giờ" 4:19 4:22
+c="dị_ứng không rõ loại" 8:1 8:4||r="PIP"||c="thỉnh_thoảng khò_khè" 8:6 8:7

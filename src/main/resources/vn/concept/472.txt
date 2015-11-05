@@ -1,0 +1,7 @@
+c="đàm khó khạc kèm theo khó thở" 2:7 2:13||t="problem"
+c="thở khò_khè về đêm" 2:15 2:18||t="problem"
+c="mệt nhiều" 2:20 2:21||t="problem"
+c="mất_ngủ" 2:23 2:23||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"

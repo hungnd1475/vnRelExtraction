@@ -1,0 +1,12 @@
+c="ói đàm" 2:7 2:8||r="PIP"||c="môi tím_tái" 2:10 2:11
+c="ói đàm" 2:7 2:8||r="PIP"||c="da xanh" 2:13 2:14
+c="Glucose" 2:21 2:21||r="TrAP"||c="ói đàm" 2:7 2:8
+c="Ringerlactat" 2:25 2:25||r="TrAP"||c="ói đàm" 2:7 2:8
+c="Motilium" 2:27 2:27||r="TrAP"||c="ói đàm" 2:7 2:8
+c="môi tím_tái" 2:10 2:11||r="PIP"||c="da xanh" 2:13 2:14
+c="Glucose" 2:21 2:21||r="TrAP"||c="môi tím_tái" 2:10 2:11
+c="Ringerlactat" 2:25 2:25||r="TrAP"||c="môi tím_tái" 2:10 2:11
+c="Motilium" 2:27 2:27||r="TrAP"||c="môi tím_tái" 2:10 2:11
+c="Glucose" 2:21 2:21||r="TrAP"||c="da xanh" 2:13 2:14
+c="Ringerlactat" 2:25 2:25||r="TrAP"||c="da xanh" 2:13 2:14
+c="Motilium" 2:27 2:27||r="TrAP"||c="da xanh" 2:13 2:14

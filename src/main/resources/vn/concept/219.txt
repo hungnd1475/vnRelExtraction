@@ -1,0 +1,7 @@
+c="ăn_uống kém" 2:6 2:7||t="problem"
+c="suy_kiệt dần" 2:9 2:10||t="problem"
+c="đi_lại yếu" 2:12 2:13||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"
+c="Ức_chế bơm proton" 7:1 7:3||t="treatment"

@@ -1,0 +1,4 @@
+c="ra mồ_hôi tay" 2:4 2:6||t="problem"
+c="phẫu_thuật" 6:1 6:1||t="treatment"
+c="ra mồ_hôi tay" 8:7 8:9||t="problem"
+c="Tăng tiết mồ_hôi tay" 9:3 9:6||t="problem"

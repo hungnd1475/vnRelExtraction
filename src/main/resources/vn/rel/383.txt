@@ -1,0 +1,15 @@
+c="đau bụng nhiều vùng thượng_vị" 4:6 4:10||r="PIP"||c="ăn_uống khó tiêu" 4:14 4:16
+c="đau bụng nhiều vùng thượng_vị" 4:6 4:10||r="PIP"||c="nôn ói sau ăn" 4:18 4:21
+c="đau bụng nhiều vùng thượng_vị" 4:6 4:10||r="PIP"||c="ăn_uống kém" 4:23 4:24
+c="đau bụng nhiều vùng thượng_vị" 4:6 4:10||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="điều_trị" 4:38 4:38||r="TrIP"||c="đau bụng nhiều vùng thượng_vị" 4:6 4:10
+c="ăn_uống khó tiêu" 4:14 4:16||r="PIP"||c="nôn ói sau ăn" 4:18 4:21
+c="ăn_uống khó tiêu" 4:14 4:16||r="PIP"||c="ăn_uống kém" 4:23 4:24
+c="ăn_uống khó tiêu" 4:14 4:16||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="điều_trị" 4:38 4:38||r="TrIP"||c="ăn_uống khó tiêu" 4:14 4:16
+c="nôn ói sau ăn" 4:18 4:21||r="PIP"||c="ăn_uống kém" 4:23 4:24
+c="nôn ói sau ăn" 4:18 4:21||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="điều_trị" 4:38 4:38||r="TrIP"||c="nôn ói sau ăn" 4:18 4:21
+c="ăn_uống kém" 4:23 4:24||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="điều_trị" 4:38 4:38||r="TrIP"||c="ăn_uống kém" 4:23 4:24
+c="điều_trị" 4:38 4:38||r="TrIP"||c="mệt nhiều" 4:26 4:27

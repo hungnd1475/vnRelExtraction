@@ -1,0 +1,3 @@
+c="Khoảng 8 ngày_trước BN đau lưng khám và điệu trị bệnh_lý cột_sống bằng giảm đau và giãn cơ" 2:1 2:18||t="problem"
+c="5 ngày trở lai đây BN táo_bón , ăn_uống kém , buồn_nôn" 3:1 3:12||t="problem"
+c="Sáng nay đi_tiêu phân lỏng , nôn 3 lần kèm đau bụng quặn từng cơn , mệt_mỏi nhiên" 4:1 4:18||t="problem"

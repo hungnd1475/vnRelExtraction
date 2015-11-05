@@ -1,0 +1,7 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="Viêm tụy cấp" 6:5 6:7||t="problem"
+c="khang sinh" 6:23 6:24||t="treatment"
+c="sandostatin" 6:28 6:28||t="treatment"
+c="bù dịch" 6:32 6:33||t="treatment"
+c="Kháng_sinh" 9:1 9:1||t="treatment"

@@ -1,0 +1,8 @@
+c="Đau_nhức chân ( P )" 2:1 2:5||t="problem"
+c="đau_nhức nhiều chân ( P )" 4:4 4:9||t="problem"
+c="đau ngang cột_sống thắt_lưng" 4:11 4:14||t="problem"
+c="đau tăng khi vận_động" 4:16 4:19||t="problem"
+c="Khám và điều_trị" 4:24 4:26||t="treatment"
+c="Viêm dạ_dày" 6:1 6:2||t="problem"
+c="Loãng_xương" 6:4 6:4||t="problem"
+c="Thoái_hóa khớp" 6:6 6:7||t="problem"

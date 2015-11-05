@@ -1,0 +1,5 @@
+c="kháng_sinh" 4:16 4:16||r="TrAP"||c="Bệnh_nhân lơ_mơ" 4:1 4:2
+c="đạt sonde bàng_quang" 4:18 4:20||r="TrAP"||c="Bệnh_nhân lơ_mơ" 4:1 4:2
+c="đạt sonde bàng_quang" 4:18 4:20||r="TrAP"||c="huyết_áp_thấp" 4:4 4:4
+c="kháng_sinh" 4:16 4:16||r="TrAP"||c="huyết_áp_thấp" 4:4 4:4
+c="Bệnh_nhân lơ_mơ" 4:1 4:2||r="PIP"||c="huyết_áp_thấp" 4:4 4:4

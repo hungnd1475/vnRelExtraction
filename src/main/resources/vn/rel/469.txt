@@ -1,0 +1,6 @@
+c="tiêu lỏng không đàm máu 4-5 lần" 2:6 2:12||r="PIP"||c="đau quặn bụng quanh rốn khi đi_tiêu" 2:16 2:22
+c="tiêu lỏng không đàm máu 4-5 lần" 2:6 2:12||r="PIP"||c="sốt âm_ỉ" 2:24 2:25
+c="tiêu lỏng không đàm máu 4-5 lần" 2:6 2:12||r="PIP"||c="mệt" 2:27 2:27
+c="đau quặn bụng quanh rốn khi đi_tiêu" 2:16 2:22||r="PIP"||c="sốt âm_ỉ" 2:24 2:25
+c="đau quặn bụng quanh rốn khi đi_tiêu" 2:16 2:22||r="PIP"||c="mệt" 2:27 2:27
+c="sốt âm_ỉ" 2:24 2:25||r="PIP"||c="mệt" 2:27 2:27

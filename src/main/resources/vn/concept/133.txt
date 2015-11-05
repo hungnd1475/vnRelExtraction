@@ -1,0 +1,5 @@
+c="nôn ói" 2:19 2:20||t="problem"
+c="nôn nhiều" 2:25 2:26||t="problem"
+c="nôn ra ít máu tươi lẫn nhầy trắng" 2:29 2:36||t="problem"
+c="nôn ra ít dịch nâu" 2:38 2:42||t="problem"
+c="uống thuốc" 2:46 2:47||t="treatment"

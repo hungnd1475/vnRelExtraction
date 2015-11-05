@@ -1,0 +1,8 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="nôn ra máu" 4:4 4:6||t="problem"
+c="diều trị truyền máu" 4:16 4:19||t="treatment"
+c="truyền dịch" 4:21 4:22||t="treatment"
+c="kháng_sinh" 4:24 4:24||t="treatment"
+c="khí dung" 4:26 4:27||t="treatment"
+c="Kháng_sinh" 7:1 7:1||t="treatment"
+c="ức_chế bơm proton" 8:1 8:3||t="treatment"

@@ -1,0 +1,7 @@
+c="tán sỏi niệu_quản" 4:12 4:14||t="problem"
+c="Đặt sonde JJ" 4:19 4:21||t="treatment"
+c="Sonde JJ niệu_quản" 5:3 5:5||t="problem"
+c="Sỏi nhỏ bám JJ" 5:10 5:13||t="problem"
+c="Hậu_phẫu tán sỏi niệu_quản" 5:15 5:18||t="problem"
+c="Nội_soi rút JJ" 6:1 6:3||t="treatment"
+c="lôi sỏi" 6:5 6:6||t="treatment"

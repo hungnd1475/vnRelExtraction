@@ -1,0 +1,15 @@
+c="sớt cao liên_tục" 4:6 4:8||r="PIP"||c="ho đàm khó khạc" 4:12 4:15
+c="sớt cao liên_tục" 4:6 4:8||r="PIP"||c="cảm_giác khó thở" 4:17 4:19
+c="sớt cao liên_tục" 4:6 4:8||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="sớt cao liên_tục" 4:6 4:8||r="PIP"||c="đau_đầu" 4:24 4:24
+c="sớt cao liên_tục" 4:6 4:8||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="cảm_giác khó thở" 4:17 4:19
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="đau_đầu" 4:24 4:24
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="cảm_giác khó thở" 4:17 4:19||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="cảm_giác khó thở" 4:17 4:19||r="PIP"||c="đau_đầu" 4:24 4:24
+c="cảm_giác khó thở" 4:17 4:19||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="ăn_uống kém" 4:21 4:22||r="PIP"||c="đau_đầu" 4:24 4:24
+c="ăn_uống kém" 4:21 4:22||r="PIP"||c="mệt nhiều" 4:26 4:27
+c="đau_đầu" 4:24 4:24||r="PIP"||c="mệt nhiều" 4:26 4:27

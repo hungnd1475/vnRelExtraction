@@ -1,0 +1,4 @@
+c="chóng_mặt khi thay_đổi tư_thế" 2:2 2:5||t="problem"
+c="nôn ói" 2:7 2:8||t="problem"
+c="mệt_mỏi" 2:10 2:10||t="problem"
+c="ăn_uống kém" 2:12 2:13||t="problem"

@@ -1,0 +1,15 @@
+c="sốt" 2:1 2:1||r="PIP"||c="tiêu lỏng" 2:3 2:4
+c="tiêu lỏng 2 lần tóe nước" 4:6 4:11||r="PIP"||c="đau bụng" 4:13 4:14
+c="tiêu lỏng 2 lần tóe nước" 4:6 4:11||r="PIP"||c="sốt" 4:17 4:17
+c="dùng thuốc" 4:20 4:21||r="TrWP"||c="tiêu lỏng 2 lần tóe nước" 4:6 4:11
+c="tiêu lỏng 2 lần tóe nước" 4:6 4:11||r="PIP"||c="tiêu lỏng" 4:32 4:33
+c="tiêu lỏng 2 lần tóe nước" 4:6 4:11||r="PIP"||c="đau bụng" 4:35 4:36
+c="đau bụng" 4:13 4:14||r="PIP"||c="sốt" 4:17 4:17
+c="dùng thuốc" 4:20 4:21||r="TrWP"||c="đau bụng" 4:13 4:14
+c="đau bụng" 4:13 4:14||r="PIP"||c="tiêu lỏng" 4:32 4:33
+c="dùng thuốc" 4:20 4:21||r="TrWP"||c="sốt" 4:17 4:17
+c="sốt" 4:17 4:17||r="PIP"||c="tiêu lỏng" 4:32 4:33
+c="sốt" 4:17 4:17||r="PIP"||c="đau bụng" 4:35 4:36
+c="dùng thuốc" 4:20 4:21||r="TrWP"||c="tiêu lỏng" 4:32 4:33
+c="dùng thuốc" 4:20 4:21||r="TrWP"||c="đau bụng" 4:35 4:36
+c="tiêu lỏng" 4:32 4:33||r="PIP"||c="đau bụng" 4:35 4:36

@@ -1,0 +1,6 @@
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ho đàm khó khạc" 4:12 4:15
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="đau tức ngực khi ho" 4:17 4:21
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="mệt nhiều" 4:23 4:24
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="đau tức ngực khi ho" 4:17 4:21
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="mệt nhiều" 4:23 4:24
+c="đau tức ngực khi ho" 4:17 4:21||r="PIP"||c="mệt nhiều" 4:23 4:24

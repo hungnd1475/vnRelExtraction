@@ -1,0 +1,6 @@
+c="đau hạ_vị từng cơn" 2:6 2:9||t="problem"
+c="tiêu bón" 2:13 2:14||t="problem"
+c="đầy bụng sau ăn" 2:19 2:22||t="problem"
+c="mệt" 2:24 2:24||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"

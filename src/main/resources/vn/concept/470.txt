@@ -1,0 +1,8 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau quặn bụng hạ_vị" 4:6 4:9||t="problem"
+c="mệt" 4:13 4:13||t="problem"
+c="không tiêu lỏng" 4:15 4:17||t="problem"
+c="không no 6o ói" 4:19 4:22||t="problem"
+c="không sốt" 4:24 4:25||t="problem"
+c="mua thuốc uống" 5:3 5:5||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"

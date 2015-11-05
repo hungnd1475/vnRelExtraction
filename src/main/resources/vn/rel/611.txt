@@ -1,0 +1,10 @@
+c="sưng đau góc hàm" 2:4 2:7||r="PIP"||c="sốt" 2:12 2:12
+c="sưng đau góc hàm" 2:4 2:7||r="PIP"||c="mệt" 2:14 2:14
+c="sưng đau góc hàm" 2:4 2:7||r="PIP"||c="ăn_không được" 2:16 2:17
+c="sưng đau góc hàm" 2:4 2:7||r="PIP"||c="nuốt đau" 2:19 2:20
+c="sốt" 2:12 2:12||r="PIP"||c="mệt" 2:14 2:14
+c="sốt" 2:12 2:12||r="PIP"||c="ăn_không được" 2:16 2:17
+c="sốt" 2:12 2:12||r="PIP"||c="nuốt đau" 2:19 2:20
+c="mệt" 2:14 2:14||r="PIP"||c="ăn_không được" 2:16 2:17
+c="mệt" 2:14 2:14||r="PIP"||c="nuốt đau" 2:19 2:20
+c="ăn_không được" 2:16 2:17||r="PIP"||c="nuốt đau" 2:19 2:20

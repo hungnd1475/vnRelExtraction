@@ -1,0 +1,13 @@
+c="tăng huyết_áp" 2:4 2:5||r="PIP"||c="Nhồi máu não cũ" 2:7 2:10
+c="uống thuốc theo toa" 3:3 3:6||r="TrWP"||c="chóng_mặt" 3:16 3:16
+c="uống thuốc theo toa" 3:3 3:6||r="TrWP"||c="đau_đầu nhiều" 3:18 3:19
+c="uống thuốc theo toa" 3:3 3:6||r="TrWP"||c="mệt" 3:21 3:21
+c="thuốc huyết_áp" 3:10 3:11||r="TrWP"||c="chóng_mặt" 3:16 3:16
+c="thuốc huyết_áp" 3:10 3:11||r="TrWP"||c="đau_đầu nhiều" 3:18 3:19
+c="thuốc huyết_áp" 3:10 3:11||r="TrWP"||c="mệt" 3:21 3:21
+c="chóng_mặt" 3:16 3:16||r="PIP"||c="đau_đầu nhiều" 3:18 3:19
+c="chóng_mặt" 3:16 3:16||r="PIP"||c="mệt" 3:21 3:21
+c="điều_trị" 3:33 3:33||r="TrIP"||c="chóng_mặt" 3:16 3:16
+c="đau_đầu nhiều" 3:18 3:19||r="PIP"||c="mệt" 3:21 3:21
+c="điều_trị" 3:33 3:33||r="TrIP"||c="đau_đầu nhiều" 3:18 3:19
+c="điều_trị" 3:33 3:33||r="TrIP"||c="mệt" 3:21 3:21

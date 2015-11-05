@@ -1,0 +1,21 @@
+c="sốt cao 3 ngày" 6:2 6:5||r="PIP"||c="đau_đầu nhiều" 6:7 6:8
+c="sốt cao 3 ngày" 6:2 6:5||r="PIP"||c="nhức mỏi cơ" 6:10 6:12
+c="sốt cao 3 ngày" 6:2 6:5||r="PIP"||c="mệt_mỏi" 6:16 6:16
+c="tự uống efferalgan" 6:19 6:21||r="TrWP"||c="sốt cao 3 ngày" 6:2 6:5
+c="sốt cao 3 ngày" 6:2 6:5||r="PIP"||c="mệt nhiều hơn" 6:28 6:30
+c="điều_trị" 6:41 6:41||r="TrIP"||c="sốt cao 3 ngày" 6:2 6:5
+c="đau_đầu nhiều" 6:7 6:8||r="PIP"||c="nhức mỏi cơ" 6:10 6:12
+c="đau_đầu nhiều" 6:7 6:8||r="PIP"||c="mệt_mỏi" 6:16 6:16
+c="tự uống efferalgan" 6:19 6:21||r="TrWP"||c="đau_đầu nhiều" 6:7 6:8
+c="đau_đầu nhiều" 6:7 6:8||r="PIP"||c="mệt nhiều hơn" 6:28 6:30
+c="điều_trị" 6:41 6:41||r="TrWP"||c="đau_đầu nhiều" 6:7 6:8
+c="nhức mỏi cơ" 6:10 6:12||r="PIP"||c="mệt_mỏi" 6:16 6:16
+c="tự uống efferalgan" 6:19 6:21||r="TrWP"||c="nhức mỏi cơ" 6:10 6:12
+c="nhức mỏi cơ" 6:10 6:12||r="PIP"||c="mệt nhiều hơn" 6:28 6:30
+c="điều_trị" 6:41 6:41||r="TrIP"||c="nhức mỏi cơ" 6:10 6:12
+c="tự uống efferalgan" 6:19 6:21||r="TrWP"||c="mệt_mỏi" 6:16 6:16
+c="mệt_mỏi" 6:16 6:16||r="PIP"||c="mệt nhiều hơn" 6:28 6:30
+c="điều_trị" 6:41 6:41||r="TrIP"||c="mệt_mỏi" 6:16 6:16
+c="tự uống efferalgan" 6:19 6:21||r="TrWP"||c="mệt nhiều hơn" 6:28 6:30
+c="điều_trị" 6:41 6:41||r="TrWP"||c="mệt nhiều hơn" 6:28 6:30
+c="điều_trị" 6:41 6:41||r="TrWP"||c="đau_đầu" 6:47 6:47

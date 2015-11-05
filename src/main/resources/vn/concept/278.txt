@@ -1,0 +1,7 @@
+c="đau tức thượng_vị sau ăn" 2:6 2:10||t="problem"
+c="tức ngực" 2:14 2:15||t="problem"
+c="ăn_uống kém" 2:17 2:18||t="problem"
+c="đầy bụng khó tiêu sau ăn" 2:20 2:25||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Ức_chế bơm proton" 6:1 6:3||t="treatment"

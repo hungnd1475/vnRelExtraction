@@ -1,0 +1,5 @@
+c="tiểu gắt buốt từ sáng" 2:3 2:7||t="problem"
+c="sốt cao" 3:3 3:4||t="problem"
+c="tiểu buốt tiểu gắt" 3:6 3:9||t="problem"
+c="điều_trị" 4:4 4:4||t="treatment"
+c="tiểu gắt buốt" 4:7 4:9||t="problem"

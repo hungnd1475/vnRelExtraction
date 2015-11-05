@@ -1,0 +1,3 @@
+c="mệt" 2:2 2:2||t="problem"
+c="ăn_uống kém" 2:4 2:5||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"

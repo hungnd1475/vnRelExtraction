@@ -1,0 +1,3 @@
+c="sốt nhẹ" 5:9 5:10||r="PIP"||c="biếng ăn" 5:14 5:15
+c="sốt nhẹ" 5:9 5:10||r="PIP"||c="loét miệng" 5:17 5:18
+c="biếng ăn" 5:14 5:15||r="PIP"||c="loét miệng" 5:17 5:18

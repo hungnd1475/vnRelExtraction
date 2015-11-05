@@ -1,0 +1,28 @@
+c="sốt cao" 4:5 4:6||r="PIP"||c="đau_đầu" 4:14 4:14
+c="sốt cao" 4:5 4:6||r="PIP"||c="nhức mỏi cơ" 4:16 4:18
+c="sốt cao" 4:5 4:6||r="PIP"||c="đau họng" 4:20 4:21
+c="sốt cao" 4:5 4:6||r="PIP"||c="ho" 4:23 4:23
+c="sốt cao" 4:5 4:6||r="PIP"||c="đau_nhức vùng khớp háng" 4:30 4:33
+c="sốt cao" 4:5 4:6||r="PIP"||c="buồn_nôn" 4:40 4:40
+c="sốt cao" 4:5 4:6||r="PIP"||c="đầy bụng khó tiêu" 4:44 4:47
+c="đau_đầu" 4:14 4:14||r="PIP"||c="nhức mỏi cơ" 4:16 4:18
+c="đau_đầu" 4:14 4:14||r="PIP"||c="đau họng" 4:20 4:21
+c="đau_đầu" 4:14 4:14||r="PIP"||c="ho" 4:23 4:23
+c="đau_đầu" 4:14 4:14||r="PIP"||c="đau_nhức vùng khớp háng" 4:30 4:33
+c="đau_đầu" 4:14 4:14||r="PIP"||c="buồn_nôn" 4:40 4:40
+c="đau_đầu" 4:14 4:14||r="PIP"||c="đầy bụng khó tiêu" 4:44 4:47
+c="nhức mỏi cơ" 4:16 4:18||r="PIP"||c="đau họng" 4:20 4:21
+c="nhức mỏi cơ" 4:16 4:18||r="PIP"||c="ho" 4:23 4:23
+c="nhức mỏi cơ" 4:16 4:18||r="PIP"||c="đau_nhức vùng khớp háng" 4:30 4:33
+c="nhức mỏi cơ" 4:16 4:18||r="PIP"||c="buồn_nôn" 4:40 4:40
+c="nhức mỏi cơ" 4:16 4:18||r="PIP"||c="đầy bụng khó tiêu" 4:44 4:47
+c="đau họng" 4:20 4:21||r="PIP"||c="ho" 4:23 4:23
+c="đau họng" 4:20 4:21||r="PIP"||c="đau_nhức vùng khớp háng" 4:30 4:33
+c="đau họng" 4:20 4:21||r="PIP"||c="buồn_nôn" 4:40 4:40
+c="đau họng" 4:20 4:21||r="PIP"||c="đầy bụng khó tiêu" 4:44 4:47
+c="ho" 4:23 4:23||r="PIP"||c="đau_nhức vùng khớp háng" 4:30 4:33
+c="ho" 4:23 4:23||r="PIP"||c="buồn_nôn" 4:40 4:40
+c="ho" 4:23 4:23||r="PIP"||c="đầy bụng khó tiêu" 4:44 4:47
+c="đau_nhức vùng khớp háng" 4:30 4:33||r="PIP"||c="buồn_nôn" 4:40 4:40
+c="đau_nhức vùng khớp háng" 4:30 4:33||r="PIP"||c="đầy bụng khó tiêu" 4:44 4:47
+c="buồn_nôn" 4:40 4:40||r="PIP"||c="đầy bụng khó tiêu" 4:44 4:47

@@ -1,0 +1,10 @@
+c="nôn ói" 2:19 2:20||r="PIP"||c="nôn nhiều" 2:25 2:26
+c="nôn ói" 2:19 2:20||r="PIP"||c="nôn ra ít máu tươi lẫn nhầy trắng" 2:29 2:36
+c="nôn ói" 2:19 2:20||r="PIP"||c="nôn ra ít dịch nâu" 2:38 2:42
+c="uống thuốc" 2:46 2:47||r="TrWP"||c="nôn ói" 2:19 2:20
+c="nôn nhiều" 2:25 2:26||r="PIP"||c="nôn ra ít máu tươi lẫn nhầy trắng" 2:29 2:36
+c="nôn nhiều" 2:25 2:26||r="PIP"||c="nôn ra ít dịch nâu" 2:38 2:42
+c="uống thuốc" 2:46 2:47||r="TrWP"||c="nôn nhiều" 2:25 2:26
+c="nôn ra ít máu tươi lẫn nhầy trắng" 2:29 2:36||r="PIP"||c="nôn ra ít dịch nâu" 2:38 2:42
+c="uống thuốc" 2:46 2:47||r="TrWP"||c="nôn ra ít máu tươi lẫn nhầy trắng" 2:29 2:36
+c="uống thuốc" 2:46 2:47||r="TrWP"||c="nôn ra ít dịch nâu" 2:38 2:42

@@ -1,0 +1,4 @@
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 2:7 2:11||t="problem"
+c="đau vùng thường" 2:13 2:15||t="problem"
+c="đi_tiêu phân sống" 2:18 2:20||t="problem"
+c="đau_nhức chân khi đi_lại" 2:22 2:25||t="problem"

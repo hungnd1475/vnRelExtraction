@@ -1,0 +1,10 @@
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="nhức đầu" 4:12 4:13
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="nhức mỏi toàn_thân" 4:15 4:17
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ăn_uống kém" 4:19 4:20
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ban đỏ rải_rác tay_chân" 4:22 4:25
+c="nhức đầu" 4:12 4:13||r="PIP"||c="nhức mỏi toàn_thân" 4:15 4:17
+c="nhức đầu" 4:12 4:13||r="PIP"||c="ăn_uống kém" 4:19 4:20
+c="nhức đầu" 4:12 4:13||r="PIP"||c="ban đỏ rải_rác tay_chân" 4:22 4:25
+c="nhức mỏi toàn_thân" 4:15 4:17||r="PIP"||c="ăn_uống kém" 4:19 4:20
+c="nhức mỏi toàn_thân" 4:15 4:17||r="PIP"||c="ban đỏ rải_rác tay_chân" 4:22 4:25
+c="ăn_uống kém" 4:19 4:20||r="PIP"||c="ban đỏ rải_rác tay_chân" 4:22 4:25

@@ -1,0 +1,5 @@
+c="ho khạc đàm trắng" 2:2 2:5||t="problem"
+c="sốt nhẹ" 2:9 2:10||t="problem"
+c=", đau_đầu" 2:15 2:16||t="problem"
+c=", ưống Efferagan" 2:20 2:22||t="treatment"
+c="prednisolon" 2:24 2:24||t="treatment"

@@ -1,0 +1,20 @@
+c="nổi mẩm đỏ" 2:7 2:9||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:14 2:18
+c="nổi mẩm đỏ" 2:7 2:9||r="PIP"||c="sốt cao" 2:28 2:29
+c="nổi mẩm đỏ" 2:7 2:9||r="PIP"||c="tiêu phân lỏng" 2:35 2:37
+c="nổi mẩm đỏ" 2:7 2:9||r="PIP"||c="sốt cao" 2:43 2:44
+c="nổi mẩm đỏ" 2:7 2:9||r="PIP"||c="co_giật" 2:46 2:46
+c="nổi mẩm đỏ" 2:7 2:9||r="PIP"||c="tím_tái tay_chân" 2:51 2:52
+c="tiêu phân lỏng nhiều lần" 2:14 2:18||r="PIP"||c="sốt cao" 2:28 2:29
+c="tiêu phân lỏng nhiều lần" 2:14 2:18||r="PIP"||c="tiêu phân lỏng" 2:35 2:37
+c="tiêu phân lỏng nhiều lần" 2:14 2:18||r="PIP"||c="sốt cao" 2:43 2:44
+c="tiêu phân lỏng nhiều lần" 2:14 2:18||r="PIP"||c="co_giật" 2:46 2:46
+c="tiêu phân lỏng nhiều lần" 2:14 2:18||r="PIP"||c="tím_tái tay_chân" 2:51 2:52
+c="sốt cao" 2:28 2:29||r="PIP"||c="tiêu phân lỏng" 2:35 2:37
+c="sốt cao" 2:28 2:29||r="PIP"||c="co_giật" 2:46 2:46
+c="sốt cao" 2:28 2:29||r="PIP"||c="tím_tái tay_chân" 2:51 2:52
+c="tiêu phân lỏng" 2:35 2:37||r="PIP"||c="sốt cao" 2:43 2:44
+c="tiêu phân lỏng" 2:35 2:37||r="PIP"||c="co_giật" 2:46 2:46
+c="tiêu phân lỏng" 2:35 2:37||r="PIP"||c="tím_tái tay_chân" 2:51 2:52
+c="sốt cao" 2:43 2:44||r="PIP"||c="co_giật" 2:46 2:46
+c="sốt cao" 2:43 2:44||r="PIP"||c="tím_tái tay_chân" 2:51 2:52
+c="co_giật" 2:46 2:46||r="PIP"||c="tím_tái tay_chân" 2:51 2:52

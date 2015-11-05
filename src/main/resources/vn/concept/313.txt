@@ -1,0 +1,8 @@
+c="đau lói vùng mạn sườn ( T )" 2:6 2:13||t="problem"
+c="đau thượng_vị từng cơn" 2:16 2:19||t="problem"
+c="ăn_uống kém" 2:21 2:22||t="problem"
+c="cảm_giác đầy bụng kh 1o tiêu sau ăn" 2:24 2:31||t="problem"
+c="mệt nhiều" 2:33 2:34||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Ức_chế bơm proton" 6:1 6:3||t="treatment"

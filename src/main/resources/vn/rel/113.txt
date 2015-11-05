@@ -1,0 +1,8 @@
+c="khám bệnh_viện nhi_đồng" 6:2 6:4||r="TrWP"||c="sốt nhiễm_trùng" 6:6 6:7
+c="uống thuốc kháng_sinh Augmentine" 6:11 6:14||r="TrWP"||c="sốt nhiễm_trùng" 6:6 6:7
+c="sốt cao" 7:6 7:7||r="PIP"||c="co_giật toàn_thân" 7:9 7:10
+c="sốt cao" 7:6 7:7||r="PIP"||c="tím môi" 7:12 7:13
+c="viên thuốc hạ sốt efferangal" 7:21 7:25||r="TrAP"||c="sốt cao" 7:6 7:7
+c="co_giật toàn_thân" 7:9 7:10||r="PIP"||c="tím môi" 7:12 7:13
+c="viên thuốc hạ sốt efferangal" 7:21 7:25||r="TrAP"||c="co_giật toàn_thân" 7:9 7:10
+c="viên thuốc hạ sốt efferangal" 7:21 7:25||r="TrAP"||c="tím môi" 7:12 7:13

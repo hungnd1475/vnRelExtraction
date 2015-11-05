@@ -1,0 +1,5 @@
+c="chóng_mặt" 2:3 2:3||r="PIP"||c="nhợn ói" 2:5 2:6
+c="điều_trị" 2:25 2:25||r="TrIP"||c="chóng_mặt" 2:3 2:3
+c="điều_trị" 2:25 2:25||r="TrIP"||c="nhợn ói" 2:5 2:6
+c="đo huyết_áp" 2:9 2:10||r="TeCP"||c="chóng_mặt" 2:3 2:3
+c="đo huyết_áp" 2:9 2:10||r="TeCP"||c="nhợn ói" 2:5 2:6

@@ -1,0 +1,34 @@
+c="sốt" 2:12 2:12||r="PIP"||c="thở khò_khè" 2:15 2:16
+c="sốt" 2:12 2:12||r="PIP"||c="sổ_mũi" 2:18 2:18
+c="sốt" 2:12 2:12||r="PIP"||c="viêm mũi họng cấp" 2:26 2:29
+c="sốt" 2:12 2:12||r="PIP"||c="viêm phế_quản phổi" 2:31 2:33
+c="sốt" 2:12 2:12||r="PIP"||c="dị_ứng da" 2:35 2:36
+c="zenodem" 2:41 2:41||r="TrWP"||c="sốt" 2:12 2:12
+c="solupred" 2:43 2:43||r="TrWP"||c="sốt" 2:12 2:12
+c="salbutamol" 2:45 2:45||r="TrWP"||c="sốt" 2:12 2:12
+c="thở khò_khè" 2:15 2:16||r="PIP"||c="sổ_mũi" 2:18 2:18
+c="thở khò_khè" 2:15 2:16||r="PIP"||c="viêm mũi họng cấp" 2:26 2:29
+c="thở khò_khè" 2:15 2:16||r="PIP"||c="viêm phế_quản phổi" 2:31 2:33
+c="thở khò_khè" 2:15 2:16||r="PIP"||c="dị_ứng da" 2:35 2:36
+c="zenodem" 2:41 2:41||r="TrWP"||c="thở khò_khè" 2:15 2:16
+c="solupred" 2:43 2:43||r="TrWP"||c="thở khò_khè" 2:15 2:16
+c="salbutamol" 2:45 2:45||r="TrWP"||c="thở khò_khè" 2:15 2:16
+c="sổ_mũi" 2:18 2:18||r="PIP"||c="viêm mũi họng cấp" 2:26 2:29
+c="sổ_mũi" 2:18 2:18||r="PIP"||c="viêm phế_quản phổi" 2:31 2:33
+c="sổ_mũi" 2:18 2:18||r="PIP"||c="dị_ứng da" 2:35 2:36
+c="zenodem" 2:41 2:41||r="TrWP"||c="sổ_mũi" 2:18 2:18
+c="solupred" 2:43 2:43||r="TrWP"||c="sổ_mũi" 2:18 2:18
+c="salbutamol" 2:45 2:45||r="TrWP"||c="sổ_mũi" 2:18 2:18
+c="viêm mũi họng cấp" 2:26 2:29||r="PIP"||c="viêm phế_quản phổi" 2:31 2:33
+c="viêm mũi họng cấp" 2:26 2:29||r="PIP"||c="dị_ứng da" 2:35 2:36
+c="zenodem" 2:41 2:41||r="TrWP"||c="viêm mũi họng cấp" 2:26 2:29
+c="solupred" 2:43 2:43||r="TrWP"||c="viêm mũi họng cấp" 2:26 2:29
+c="salbutamol" 2:45 2:45||r="TrWP"||c="viêm mũi họng cấp" 2:26 2:29
+c="viêm phế_quản phổi" 2:31 2:33||r="PIP"||c="dị_ứng da" 2:35 2:36
+c="zenodem" 2:41 2:41||r="TrWP"||c="viêm phế_quản phổi" 2:31 2:33
+c="solupred" 2:43 2:43||r="TrWP"||c="viêm phế_quản phổi" 2:31 2:33
+c="salbutamol" 2:45 2:45||r="TrWP"||c="viêm phế_quản phổi" 2:31 2:33
+c="zenodem" 2:41 2:41||r="TrWP"||c="dị_ứng da" 2:35 2:36
+c="solupred" 2:43 2:43||r="TrWP"||c="dị_ứng da" 2:35 2:36
+c="salbutamol" 2:45 2:45||r="TrWP"||c="dị_ứng da" 2:35 2:36
+c="ói nhiều lần" 3:4 3:6||r="PIP"||c="ho nặng tiếng" 3:8 3:10

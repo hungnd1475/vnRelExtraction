@@ -1,0 +1,1 @@
+c="nhập Icu diều trị" 4:12 4:15||r="TrAP"||c="hai chi dưới không cử_động được" 4:3 4:8

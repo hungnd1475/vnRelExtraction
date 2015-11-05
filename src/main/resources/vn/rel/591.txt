@@ -1,0 +1,6 @@
+c="đau bụng" 4:2 4:3||r="PIP"||c="ói" 4:7 4:7
+c="đau bụng" 4:2 4:3||r="PIP"||c="tiêu phân vàng" 4:11 4:13
+c="đau bụng" 4:2 4:3||r="PIP"||c="đau lan khắp bụng" 4:19 4:22
+c="ói" 4:7 4:7||r="PIP"||c="tiêu phân vàng" 4:11 4:13
+c="ói" 4:7 4:7||r="PIP"||c="đau lan khắp bụng" 4:19 4:22
+c="tiêu phân vàng" 4:11 4:13||r="PIP"||c="đau lan khắp bụng" 4:19 4:22

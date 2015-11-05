@@ -1,0 +1,4 @@
+c="điều_trị viêm đa xoang" 2:3 2:6||t="treatment"
+c="mệt" 2:13 2:13||t="problem"
+c="ăn kém" 2:15 2:16||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"

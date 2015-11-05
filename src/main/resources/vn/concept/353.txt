@@ -1,0 +1,6 @@
+c="chóng_mặt" 2:2 2:2||t="problem"
+c="buốn ói" 2:4 2:5||t="problem"
+c="ói" 2:8 2:8||t="problem"
+c="nhức đầu" 2:10 2:11||t="problem"
+c="co_quắp chân_tay" 2:15 2:16||t="problem"
+c="điều_trị" 2:27 2:27||t="treatment"

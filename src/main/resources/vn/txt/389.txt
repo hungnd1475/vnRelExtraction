@@ -1,0 +1,7 @@
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+bệnh_nhân đau_đầu , chóng_mặt - - > nhập ICU điều_trị
+Hai ngày điều_trị bệnh_nhân ổn_định - - > cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+nội_khoa

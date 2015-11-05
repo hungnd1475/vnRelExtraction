@@ -1,0 +1,8 @@
+c="đau vùng mang_tai" 2:9 2:11||t="problem"
+c="nổi hạch cổ" 2:16 2:18||t="problem"
+c="mệt" 2:20 2:20||t="problem"
+c="ợ hơi" 2:22 2:23||t="problem"
+c="ợ chua" 2:25 2:26||t="problem"
+c="sốt từng cơn" 3:5 3:7||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"

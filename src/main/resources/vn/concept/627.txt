@@ -1,0 +1,7 @@
+c="ho đau rát họng" 2:9 2:12||t="problem"
+c="chóng_mặt" 3:3 3:3||t="problem"
+c="buồn_nôn" 3:5 3:5||t="problem"
+c="nôn" 3:7 3:7||t="problem"
+c="mệt" 4:2 4:2||t="problem"
+c="ho nhiều" 4:4 4:5||t="problem"
+c="MgB6" 4:10 4:10||t="treatment"

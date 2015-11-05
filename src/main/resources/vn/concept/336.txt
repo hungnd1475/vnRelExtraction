@@ -1,0 +1,8 @@
+c="ho đàm khó khạc" 2:6 2:9||t="problem"
+c="thở khò_khè đàm nhớt" 2:13 2:16||t="problem"
+c="ăn_uống kém" 2:18 2:19||t="problem"
+c="khó thở khi nằm" 2:21 2:24||t="problem"
+c="tiêu tiểu không tự_chủ" 2:26 2:29||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Lợi_tiểu" 6:1 6:1||t="treatment"

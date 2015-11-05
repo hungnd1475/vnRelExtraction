@@ -1,0 +1,10 @@
+c="đau vùng mang_tai" 2:9 2:11||r="PIP"||c="nổi hạch cổ" 2:16 2:18
+c="đau vùng mang_tai" 2:9 2:11||r="PIP"||c="mệt" 2:20 2:20
+c="đau vùng mang_tai" 2:9 2:11||r="PIP"||c="ợ hơi" 2:22 2:23
+c="đau vùng mang_tai" 2:9 2:11||r="PIP"||c="ợ chua" 2:25 2:26
+c="nổi hạch cổ" 2:16 2:18||r="PIP"||c="mệt" 2:20 2:20
+c="nổi hạch cổ" 2:16 2:18||r="PIP"||c="ợ hơi" 2:22 2:23
+c="nổi hạch cổ" 2:16 2:18||r="PIP"||c="ợ chua" 2:25 2:26
+c="mệt" 2:20 2:20||r="PIP"||c="ợ hơi" 2:22 2:23
+c="mệt" 2:20 2:20||r="PIP"||c="ợ chua" 2:25 2:26
+c="ợ hơi" 2:22 2:23||r="PIP"||c="ợ chua" 2:25 2:26

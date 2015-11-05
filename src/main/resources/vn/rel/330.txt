@@ -1,0 +1,6 @@
+c="sốt ớn lạnh" 4:6 4:8||r="PIP"||c="ho đàm khó khạc" 4:14 4:17
+c="sốt ớn lạnh" 4:6 4:8||r="PIP"||c="tức ngực khi ho" 4:19 4:22
+c="sốt ớn lạnh" 4:6 4:8||r="PIP"||c="cảm_giác khò_khè về đêm" 4:24 4:27
+c="ho đàm khó khạc" 4:14 4:17||r="PIP"||c="tức ngực khi ho" 4:19 4:22
+c="ho đàm khó khạc" 4:14 4:17||r="PIP"||c="cảm_giác khò_khè về đêm" 4:24 4:27
+c="tức ngực khi ho" 4:19 4:22||r="PIP"||c="cảm_giác khò_khè về đêm" 4:24 4:27

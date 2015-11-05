@@ -1,0 +1,7 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt cao liên_tục" 4:6 4:8||t="problem"
+c="nhức đầu chóng_mặt" 4:12 4:14||t="problem"
+c="nhức mỏi toàn_thân" 4:16 4:18||t="problem"
+c="mệt" 4:20 4:20||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"

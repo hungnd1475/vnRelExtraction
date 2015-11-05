@@ -1,0 +1,6 @@
+c="co cứng toàn_thân" 2:7 2:9||t="problem"
+c="vặn người" 2:13 2:14||t="problem"
+c="co_quắp tay_chân" 2:16 2:17||t="problem"
+c="tái môi" 2:19 2:20||t="problem"
+c="cấp_cứu" 3:5 3:5||t="treatment"
+c="điều_trị" 3:11 3:11||t="treatment"

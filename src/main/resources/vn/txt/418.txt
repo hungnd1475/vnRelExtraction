@@ -1,0 +1,19 @@
+Lý Do
+Đau bụng
+Bệnh Lý
+Bệnh_nhân khai đau bụng cách đây # 01 tuần , đau tức vùng thượng_vị , kèm theo ợ hơi , ợ chua , đau quặn từng cơn , có cảm_giác tức ngực , ăn_không tiêu , người mệt mõi = > Vào khám .
+Tiền Sử Bệnh
+Viêm dạ_dày
+Điều Trị
+Nội_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 42 tuổi , đau bụng cách đây # 01 tuần , đau tức vùng thượng_vị , kèm theo ợ hơi , ợ chua , đau quặn từng cơn , có cảm_giác tức ngực , ăn_không tiêu , người mệt mõi = > Vào khám .
+Soi dạ_dày kết_quả : Viêm xung huyết toàn_bộ dạ_dày mức_độ nặng Clotest ( + ) .
+Chẩn_đoán : Viêm dạ_dày Clotest ( + ) .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 42 tuổi , đau bụng cách đây # 01 tuần , đau tức vùng thượng_vị , kèm theo ợ hơi , ợ chua , đau quặn từng cơn , có cảm_giác tức ngực , ăn_không tiêu , người mệt mõi = > Vào khám .
+Soi dạ_dày kết_quả : Viêm xung huyết toàn_bộ dạ_dày mức_độ nặng Clotest ( + ) .
+Chẩn_đoán : Viêm dạ_dày Clotest ( + ) .
+Điều_trị nội_khoa , bệnh có giảm , bớt đau , ăn_uống được , cho bệnh_nhân xuất_viện .
+Tổng Kết Phương Pháp Điều Trị
+Nội_khoa

@@ -1,0 +1,2 @@
+c="PT tán sỏi niệu_quản ( P )" 5:10 5:16||r="TrIP"||c="Sỏi niệu_quản ( P )" 5:3 5:7
+c="đặt sonde JJ niệu_quản" 5:18 5:21||r="TrIP"||c="Sỏi niệu_quản ( P )" 5:3 5:7

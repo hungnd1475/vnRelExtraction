@@ -1,0 +1,28 @@
+c="ho_khan" 4:6 4:6||r="PIP"||c="đau họng" 4:8 4:9
+c="ho_khan" 4:6 4:6||r="PIP"||c="sốt ớn lạnh" 4:11 4:13
+c="ho_khan" 4:6 4:6||r="PIP"||c="nhức mỏi toàn_thân" 4:15 4:17
+c="ho_khan" 4:6 4:6||r="PIP"||c="đau_đầu" 4:21 4:21
+c="ho_khan" 4:6 4:6||r="PIP"||c="chóng_mặt khi đi_lại" 4:23 4:25
+c="ho_khan" 4:6 4:6||r="PIP"||c="ăn_uống kém" 4:27 4:28
+c="ho_khan" 4:6 4:6||r="PIP"||c="mệt nhiều" 4:30 4:31
+c="đau họng" 4:8 4:9||r="PIP"||c="sốt ớn lạnh" 4:11 4:13
+c="đau họng" 4:8 4:9||r="PIP"||c="nhức mỏi toàn_thân" 4:15 4:17
+c="đau họng" 4:8 4:9||r="PIP"||c="đau_đầu" 4:21 4:21
+c="đau họng" 4:8 4:9||r="PIP"||c="chóng_mặt khi đi_lại" 4:23 4:25
+c="đau họng" 4:8 4:9||r="PIP"||c="ăn_uống kém" 4:27 4:28
+c="đau họng" 4:8 4:9||r="PIP"||c="mệt nhiều" 4:30 4:31
+c="sốt ớn lạnh" 4:11 4:13||r="PIP"||c="nhức mỏi toàn_thân" 4:15 4:17
+c="sốt ớn lạnh" 4:11 4:13||r="PIP"||c="đau_đầu" 4:21 4:21
+c="sốt ớn lạnh" 4:11 4:13||r="PIP"||c="chóng_mặt khi đi_lại" 4:23 4:25
+c="sốt ớn lạnh" 4:11 4:13||r="PIP"||c="ăn_uống kém" 4:27 4:28
+c="sốt ớn lạnh" 4:11 4:13||r="PIP"||c="mệt nhiều" 4:30 4:31
+c="nhức mỏi toàn_thân" 4:15 4:17||r="PIP"||c="đau_đầu" 4:21 4:21
+c="nhức mỏi toàn_thân" 4:15 4:17||r="PIP"||c="chóng_mặt khi đi_lại" 4:23 4:25
+c="nhức mỏi toàn_thân" 4:15 4:17||r="PIP"||c="ăn_uống kém" 4:27 4:28
+c="nhức mỏi toàn_thân" 4:15 4:17||r="PIP"||c="mệt nhiều" 4:30 4:31
+c="đau_đầu" 4:21 4:21||r="PIP"||c="chóng_mặt khi đi_lại" 4:23 4:25
+c="đau_đầu" 4:21 4:21||r="PIP"||c="ăn_uống kém" 4:27 4:28
+c="đau_đầu" 4:21 4:21||r="PIP"||c="mệt nhiều" 4:30 4:31
+c="chóng_mặt khi đi_lại" 4:23 4:25||r="PIP"||c="ăn_uống kém" 4:27 4:28
+c="chóng_mặt khi đi_lại" 4:23 4:25||r="PIP"||c="mệt nhiều" 4:30 4:31
+c="ăn_uống kém" 4:27 4:28||r="PIP"||c="mệt nhiều" 4:30 4:31

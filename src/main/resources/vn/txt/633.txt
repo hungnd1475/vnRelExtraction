@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+Tăng huyết_áp .
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân bị sốt cao lạnh run - - > nhập ICU điều_trị - - > kháng_sinh - > ổn_định đường_huyết .
+Sau 2 ngày điều_trị bệnh_nhân tạm ổn_định - - > cho bệnh_nhân xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+kháng_sinh

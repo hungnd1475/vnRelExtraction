@@ -1,0 +1,5 @@
+c="sốt" 2:2 2:2||t="problem"
+c="ho đàm trắng" 2:7 2:9||t="problem"
+c="mệt" 2:11 2:11||t="problem"
+c="khó thở" 2:13 2:14||t="problem"
+c="điều_trị ở Bình_Dương" 3:2 3:4||t="treatment"

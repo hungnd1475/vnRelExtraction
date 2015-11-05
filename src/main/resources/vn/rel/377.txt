@@ -1,0 +1,15 @@
+c="đau_nhức mỏi toàn_thân" 2:7 2:9||r="PIP"||c="sốt ớn lạnh" 2:11 2:13
+c="đau_nhức mỏi toàn_thân" 2:7 2:9||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:15 2:18
+c="đau_nhức mỏi toàn_thân" 2:7 2:9||r="PIP"||c="ăn_uống kém" 2:20 2:21
+c="đau_nhức mỏi toàn_thân" 2:7 2:9||r="PIP"||c="mệt" 2:23 2:23
+c="điều_trị" 2:35 2:35||r="TrIP"||c="đau_nhức mỏi toàn_thân" 2:7 2:9
+c="sốt ớn lạnh" 2:11 2:13||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:15 2:18
+c="sốt ớn lạnh" 2:11 2:13||r="PIP"||c="ăn_uống kém" 2:20 2:21
+c="sốt ớn lạnh" 2:11 2:13||r="PIP"||c="mệt" 2:23 2:23
+c="điều_trị" 2:35 2:35||r="TrIP"||c="sốt ớn lạnh" 2:11 2:13
+c="chóng_mặt khi thay_đổi tư_thế" 2:15 2:18||r="PIP"||c="ăn_uống kém" 2:20 2:21
+c="chóng_mặt khi thay_đổi tư_thế" 2:15 2:18||r="PIP"||c="mệt" 2:23 2:23
+c="điều_trị" 2:35 2:35||r="TrIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:15 2:18
+c="ăn_uống kém" 2:20 2:21||r="PIP"||c="mệt" 2:23 2:23
+c="điều_trị" 2:35 2:35||r="TrIP"||c="ăn_uống kém" 2:20 2:21
+c="điều_trị" 2:35 2:35||r="TrIP"||c="mệt" 2:23 2:23

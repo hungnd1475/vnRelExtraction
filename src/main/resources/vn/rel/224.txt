@@ -1,0 +1,6 @@
+c="mệt_mỏi" 2:6 2:6||r="PIP"||c="ăn_uống kém" 2:8 2:9
+c="mệt_mỏi" 2:6 2:6||r="PIP"||c="tiểu nhiều lần về đêm" 2:11 2:15
+c="mệt_mỏi" 2:6 2:6||r="PIP"||c="đau lưng" 2:17 2:18
+c="ăn_uống kém" 2:8 2:9||r="PIP"||c="tiểu nhiều lần về đêm" 2:11 2:15
+c="ăn_uống kém" 2:8 2:9||r="PIP"||c="đau lưng" 2:17 2:18
+c="tiểu nhiều lần về đêm" 2:11 2:15||r="PIP"||c="đau lưng" 2:17 2:18

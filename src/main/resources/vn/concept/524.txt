@@ -1,0 +1,7 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="Điều_trị triệu_chứng" 4:1 4:2||t="treatment"
+c="đau quặn bụng quanh rốn" 6:6 6:10||t="problem"
+c="lói ra sau lưng" 6:12 6:15||t="problem"
+c="kèm theo đầy bụng sau ăn" 6:17 6:22||t="problem"
+c="mệt" 6:24 6:24||t="problem"
+c="điều_trị" 7:2 7:2||t="treatment"

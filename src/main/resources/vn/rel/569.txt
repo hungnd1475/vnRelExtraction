@@ -1,0 +1,15 @@
+c="phù chi lan lên bụng" 2:3 2:7||r="PIP"||c="khó thở" 2:9 2:10
+c="phù chi lan lên bụng" 2:3 2:7||r="PIP"||c="ho_khan" 2:17 2:17
+c="phù chi lan lên bụng" 2:3 2:7||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="phù chi lan lên bụng" 2:3 2:7||r="PIP"||c="vẻ mệt_mỏi" 2:22 2:23
+c="điều_trị" 2:34 2:34||r="TrAP"||c="phù chi lan lên bụng" 2:3 2:7
+c="khó thở" 2:9 2:10||r="PIP"||c="ho_khan" 2:17 2:17
+c="khó thở" 2:9 2:10||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="khó thở" 2:9 2:10||r="PIP"||c="vẻ mệt_mỏi" 2:22 2:23
+c="điều_trị" 2:34 2:34||r="TrAP"||c="khó thở" 2:9 2:10
+c="ho_khan" 2:17 2:17||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="ho_khan" 2:17 2:17||r="PIP"||c="vẻ mệt_mỏi" 2:22 2:23
+c="điều_trị" 2:34 2:34||r="TrAP"||c="ho_khan" 2:17 2:17
+c="ăn_uống kém" 2:19 2:20||r="PIP"||c="vẻ mệt_mỏi" 2:22 2:23
+c="điều_trị" 2:34 2:34||r="TrAP"||c="ăn_uống kém" 2:19 2:20
+c="điều_trị" 2:34 2:34||r="TrAP"||c="vẻ mệt_mỏi" 2:22 2:23

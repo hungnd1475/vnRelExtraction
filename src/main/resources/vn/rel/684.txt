@@ -1,0 +1,1 @@
+c="nhiễm_trùng ngón chân giãm" 5:4 5:7||r="PIP"||c="tiểu khó" 5:10 5:11

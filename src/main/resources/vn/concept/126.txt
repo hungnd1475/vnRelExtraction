@@ -1,0 +1,8 @@
+c="chóng_mặt" 2:11 2:11||t="problem"
+c="buồn_nôn và nôn" 2:13 2:15||t="problem"
+c="tăng khi thay_đổi tư_thế" 2:17 2:20||t="problem"
+c="nhà uống thuốc" 2:23 2:25||t="treatment"
+c="Concor" 2:29 2:29||t="treatment"
+c="Nootropyl" 2:35 2:35||t="treatment"
+c="FeB9" 2:39 2:39||t="treatment"
+c="nôn ra thuốc" 2:42 2:44||t="problem"

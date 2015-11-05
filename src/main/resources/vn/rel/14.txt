@@ -1,0 +1,4 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="run giật tay" 2:3 2:5
+c="sốt" 4:2 4:2||r="PIP"||c="sốt không liên_tục" 4:8 4:10
+c="sốt" 4:2 4:2||r="PIP"||c="sốt kèm run giật ở tay" 4:22 4:27
+c="sốt không liên_tục" 4:8 4:10||r="PIP"||c="sốt kèm run giật ở tay" 4:22 4:27

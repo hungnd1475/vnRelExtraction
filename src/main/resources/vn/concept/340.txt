@@ -1,0 +1,2 @@
+c="truyền hóa_chất" 2:3 2:4||t="treatment"
+c="truyền" 2:9 2:9||t="treatment"

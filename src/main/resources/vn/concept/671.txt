@@ -1,0 +1,4 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="điều_trị tiếp kháng_sinh" 4:8 4:10||t="treatment"
+c="lọc máu định_kỳ" 4:14 4:16||t="treatment"
+c="kháng_sinh" 7:1 7:1||t="treatment"

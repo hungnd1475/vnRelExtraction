@@ -1,0 +1,21 @@
+c="đau_đầu" 4:5 4:5||r="PIP"||c="choáng_váng khi đi_lại" 4:7 4:9
+c="đau_đầu" 4:5 4:5||r="PIP"||c="đầy bụng sau ăn" 4:11 4:14
+c="đau_đầu" 4:5 4:5||r="PIP"||c="ợ hơi" 4:16 4:17
+c="đau_đầu" 4:5 4:5||r="PIP"||c="ợ chua" 4:19 4:20
+c="đau_đầu" 4:5 4:5||r="PIP"||c="mệt_mỏi" 4:24 4:24
+c="điều_trị" 4:35 4:35||r="TrIP"||c="đau_đầu" 4:5 4:5
+c="choáng_váng khi đi_lại" 4:7 4:9||r="PIP"||c="đầy bụng sau ăn" 4:11 4:14
+c="choáng_váng khi đi_lại" 4:7 4:9||r="PIP"||c="ợ hơi" 4:16 4:17
+c="choáng_váng khi đi_lại" 4:7 4:9||r="PIP"||c="ợ chua" 4:19 4:20
+c="choáng_váng khi đi_lại" 4:7 4:9||r="PIP"||c="mệt_mỏi" 4:24 4:24
+c="điều_trị" 4:35 4:35||r="TrIP"||c="choáng_váng khi đi_lại" 4:7 4:9
+c="đầy bụng sau ăn" 4:11 4:14||r="PIP"||c="ợ hơi" 4:16 4:17
+c="đầy bụng sau ăn" 4:11 4:14||r="PIP"||c="ợ chua" 4:19 4:20
+c="đầy bụng sau ăn" 4:11 4:14||r="PIP"||c="mệt_mỏi" 4:24 4:24
+c="điều_trị" 4:35 4:35||r="TrIP"||c="đầy bụng sau ăn" 4:11 4:14
+c="ợ hơi" 4:16 4:17||r="PIP"||c="ợ chua" 4:19 4:20
+c="ợ hơi" 4:16 4:17||r="PIP"||c="mệt_mỏi" 4:24 4:24
+c="điều_trị" 4:35 4:35||r="TrIP"||c="ợ hơi" 4:16 4:17
+c="ợ chua" 4:19 4:20||r="PIP"||c="mệt_mỏi" 4:24 4:24
+c="điều_trị" 4:35 4:35||r="TrIP"||c="ợ chua" 4:19 4:20
+c="điều_trị" 4:35 4:35||r="TrIP"||c="mệt_mỏi" 4:24 4:24

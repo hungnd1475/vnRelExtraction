@@ -1,0 +1,6 @@
+c="đau lưng" 2:6 2:7||r="PIP"||c="đau gồi" 2:9 2:10
+c="chích lể" 2:16 2:17||r="TrWP"||c="đau lưng" 2:6 2:7
+c="đau lưng" 2:6 2:7||r="PIP"||c="sưng đỏ đau gối" 2:23 2:26
+c="chích lể" 2:16 2:17||r="TrWP"||c="đau gồi" 2:9 2:10
+c="đau gồi" 2:9 2:10||r="PIP"||c="sưng đỏ đau gối" 2:23 2:26
+c="chích lể" 2:16 2:17||r="TrWP"||c="sưng đỏ đau gối" 2:23 2:26

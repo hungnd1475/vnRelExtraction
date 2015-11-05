@@ -1,0 +1,6 @@
+c="Tăng huyết_áp" 2:1 2:2||t="problem"
+c="đầy bụng buồn_nôn" 4:5 4:7||t="problem"
+c="đau tức thượng_vị" 4:9 4:11||t="problem"
+c="run tay_chân" 4:13 4:14||t="problem"
+c="mệt_mỏi" 4:16 4:16||t="problem"
+c="ăn_uống kém" 4:18 4:19||t="problem"

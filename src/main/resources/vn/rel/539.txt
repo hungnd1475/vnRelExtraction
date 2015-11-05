@@ -1,0 +1,25 @@
+c="ho nhiều về đêm" 4:8 4:11||r="PIP"||c="nặng ngực ( T )" 4:13 4:17
+c="ho nhiều về đêm" 4:8 4:11||r="PIP"||c="khó thở nhẹ" 4:19 4:21
+c="ho nhiều về đêm" 4:8 4:11||r="PIP"||c="nhiều đàm nhớt" 4:23 4:25
+c="ho nhiều về đêm" 4:8 4:11||r="PIP"||c="mệt_mỏi" 4:27 4:27
+c="nặng ngực ( T )" 4:13 4:17||r="PIP"||c="khó thở nhẹ" 4:19 4:21
+c="nặng ngực ( T )" 4:13 4:17||r="PIP"||c="nhiều đàm nhớt" 4:23 4:25
+c="nặng ngực ( T )" 4:13 4:17||r="PIP"||c="mệt_mỏi" 4:27 4:27
+c="khó thở nhẹ" 4:19 4:21||r="PIP"||c="nhiều đàm nhớt" 4:23 4:25
+c="khó thở nhẹ" 4:19 4:21||r="PIP"||c="mệt_mỏi" 4:27 4:27
+c="nhiều đàm nhớt" 4:23 4:25||r="PIP"||c="mệt_mỏi" 4:27 4:27
+c="Bệnh_nhân ho kéo_dài 3 tháng nay" 6:1 6:6||r="PIP"||c="ho nhiều về đêm" 6:8 6:11
+c="Bệnh_nhân ho kéo_dài 3 tháng nay" 6:1 6:6||r="PIP"||c="nặng ngực ( T )" 6:13 6:17
+c="Bệnh_nhân ho kéo_dài 3 tháng nay" 6:1 6:6||r="PIP"||c="khó thở nhẹ" 6:19 6:21
+c="Bệnh_nhân ho kéo_dài 3 tháng nay" 6:1 6:6||r="PIP"||c="nhiều đàm nhớt" 6:23 6:25
+c="Bệnh_nhân ho kéo_dài 3 tháng nay" 6:1 6:6||r="PIP"||c="mệt_mỏi" 6:27 6:27
+c="ho nhiều về đêm" 6:8 6:11||r="PIP"||c="nặng ngực ( T )" 6:13 6:17
+c="ho nhiều về đêm" 6:8 6:11||r="PIP"||c="khó thở nhẹ" 6:19 6:21
+c="ho nhiều về đêm" 6:8 6:11||r="PIP"||c="nhiều đàm nhớt" 6:23 6:25
+c="ho nhiều về đêm" 6:8 6:11||r="PIP"||c="mệt_mỏi" 6:27 6:27
+c="nặng ngực ( T )" 6:13 6:17||r="PIP"||c="khó thở nhẹ" 6:19 6:21
+c="nặng ngực ( T )" 6:13 6:17||r="PIP"||c="nhiều đàm nhớt" 6:23 6:25
+c="nặng ngực ( T )" 6:13 6:17||r="PIP"||c="mệt_mỏi" 6:27 6:27
+c="khó thở nhẹ" 6:19 6:21||r="PIP"||c="nhiều đàm nhớt" 6:23 6:25
+c="khó thở nhẹ" 6:19 6:21||r="PIP"||c="mệt_mỏi" 6:27 6:27
+c="nhiều đàm nhớt" 6:23 6:25||r="PIP"||c="mệt_mỏi" 6:27 6:27

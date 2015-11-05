@@ -1,0 +1,8 @@
+c="sốt" 4:2 4:2||r="PIP"||c="nổi hồng ban bóng_nước lòng bàn_tay , chân" 4:6 4:13
+c="sốt" 4:2 4:2||r="PIP"||c="loét miệng" 4:15 4:16
+c="nổi hồng ban bóng_nước lòng bàn_tay , chân" 4:6 4:13||r="PIP"||c="loét miệng" 4:15 4:16
+c="khám" 5:1 5:1||r="TrAP"||c="bệnh tay_chân miệng" 5:6 5:8
+c="uống thuốc" 5:11 5:12||r="TrAP"||c="bệnh tay_chân miệng" 5:6 5:8
+c="bứt_rứt nhiều" 6:4 6:5||r="PIP"||c="quấy khóc" 6:7 6:8
+c="bứt_rứt nhiều" 6:4 6:5||r="PIP"||c="bỏ ăn" 6:10 6:11
+c="quấy khóc" 6:7 6:8||r="PIP"||c="bỏ ăn" 6:10 6:11

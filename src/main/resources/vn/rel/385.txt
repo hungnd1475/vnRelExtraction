@@ -1,0 +1,6 @@
+c="Bệnh" 2:1 2:1||r="PIP"||c="ho_khan" 2:7 2:7
+c="Bệnh" 2:1 2:1||r="PIP"||c="đau tức ngực ( T ) khi ho , khi nằm nghiêng ( T )" 2:10 2:24
+c="ho_khan" 2:7 2:7||r="PIP"||c="đau tức ngực ( T ) khi ho , khi nằm nghiêng ( T )" 2:10 2:24
+c="ăn_uống kém" 3:1 3:2||r="PIP"||c="sụt cân 2 kg / tháng" 3:4 3:9
+c="ăn_uống kém" 3:1 3:2||r="PIP"||c="mệt nhiều" 3:11 3:12
+c="sụt cân 2 kg / tháng" 3:4 3:9||r="PIP"||c="mệt nhiều" 3:11 3:12

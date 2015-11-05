@@ -1,0 +1,17 @@
+c="ho_khan" 2:6 2:6||r="PIP"||c="kèm cảm_giác ớn lạnh" 2:8 2:11
+c="ho_khan" 2:6 2:6||r="PIP"||c="có lúc sốt cao" 2:13 2:16
+c="ho_khan" 2:6 2:6||r="PIP"||c="họng nuốt đau" 2:18 2:20
+c="ho_khan" 2:6 2:6||r="PIP"||c="ăn_uống kém" 2:22 2:23
+c="ho_khan" 2:6 2:6||r="PIP"||c="mệt nhiều" 2:25 2:26
+c="kèm cảm_giác ớn lạnh" 2:8 2:11||r="PIP"||c="có lúc sốt cao" 2:13 2:16
+c="kèm cảm_giác ớn lạnh" 2:8 2:11||r="PIP"||c="họng nuốt đau" 2:18 2:20
+c="kèm cảm_giác ớn lạnh" 2:8 2:11||r="PIP"||c="ăn_uống kém" 2:22 2:23
+c="kèm cảm_giác ớn lạnh" 2:8 2:11||r="PIP"||c="mệt nhiều" 2:25 2:26
+c="có lúc sốt cao" 2:13 2:16||r="PIP"||c="họng nuốt đau" 2:18 2:20
+c="có lúc sốt cao" 2:13 2:16||r="PIP"||c="ăn_uống kém" 2:22 2:23
+c="có lúc sốt cao" 2:13 2:16||r="PIP"||c="mệt nhiều" 2:25 2:26
+c="họng nuốt đau" 2:18 2:20||r="PIP"||c="ăn_uống kém" 2:22 2:23
+c="họng nuốt đau" 2:18 2:20||r="PIP"||c="mệt nhiều" 2:25 2:26
+c="ăn_uống kém" 2:22 2:23||r="PIP"||c="mệt nhiều" 2:25 2:26
+c="đường_huyết cao" 3:4 3:5||r="PIP"||c="uống thuốc không giảm" 3:7 3:10
+c="xét_nghiệm" 3:2 3:2||r="TeRP"||c="đường_huyết cao" 3:4 3:5

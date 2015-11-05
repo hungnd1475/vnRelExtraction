@@ -1,0 +1,5 @@
+c="Tăng huyết_áp" 2:1 2:2||t="problem"
+c="chóng_mặt" 4:3 4:3||t="problem"
+c="chóng_mặt" 4:15 4:15||t="problem"
+c="nôn ói" 4:19 4:20||t="problem"
+c="mệt_mỏi" 4:22 4:22||t="problem"

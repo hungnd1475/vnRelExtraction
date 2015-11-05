@@ -1,0 +1,2 @@
+c="đặt buồng tiêm tĩnh_mạch vùng ngực ( T )" 2:14 2:22||r="TrAP"||c="bệnh_bạch_cầu" 2:12 2:12
+c="đặt buồng tiêm tĩnh_mạch vùng ngực ( T )" 5:14 5:22||r="TrAP"||c="bệnh_bạch_cầu" 5:12 5:12

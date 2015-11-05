@@ -1,0 +1,9 @@
+c="ho" 2:6 2:6||r="PIP"||c="sốt cao" 2:8 2:9
+c="hạ sốt" 2:13 2:14||r="TrIP"||c="ho" 2:6 2:6
+c="hạ sốt" 2:13 2:14||r="TrIP"||c="sốt cao" 2:8 2:9
+c="sốt" 3:4 3:4||r="PIP"||c="đau họng" 3:8 3:9
+c="sốt" 3:4 3:4||r="PIP"||c="ăn_uống kém" 3:11 3:12
+c="sốt" 3:4 3:4||r="PIP"||c="ngủ bứt_rứt" 3:14 3:15
+c="đau họng" 3:8 3:9||r="PIP"||c="ăn_uống kém" 3:11 3:12
+c="đau họng" 3:8 3:9||r="PIP"||c="ngủ bứt_rứt" 3:14 3:15
+c="ăn_uống kém" 3:11 3:12||r="PIP"||c="ngủ bứt_rứt" 3:14 3:15

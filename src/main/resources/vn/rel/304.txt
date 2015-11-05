@@ -1,0 +1,10 @@
+c="đau nhiều vùng thượng_vị" 2:6 2:9||r="PIP"||c="đầy bụng khó tiêu sau ăn" 2:13 2:18
+c="đau nhiều vùng thượng_vị" 2:6 2:9||r="PIP"||c="đau_đầu nhiều" 2:20 2:21
+c="đau nhiều vùng thượng_vị" 2:6 2:9||r="PIP"||c="choáng_váng khi đi_lại" 2:23 2:25
+c="đau nhiều vùng thượng_vị" 2:6 2:9||r="PIP"||c="mệt" 2:27 2:27
+c="đầy bụng khó tiêu sau ăn" 2:13 2:18||r="PIP"||c="đau_đầu nhiều" 2:20 2:21
+c="đầy bụng khó tiêu sau ăn" 2:13 2:18||r="PIP"||c="choáng_váng khi đi_lại" 2:23 2:25
+c="đầy bụng khó tiêu sau ăn" 2:13 2:18||r="PIP"||c="mệt" 2:27 2:27
+c="đau_đầu nhiều" 2:20 2:21||r="PIP"||c="choáng_váng khi đi_lại" 2:23 2:25
+c="đau_đầu nhiều" 2:20 2:21||r="PIP"||c="mệt" 2:27 2:27
+c="choáng_váng khi đi_lại" 2:23 2:25||r="PIP"||c="mệt" 2:27 2:27

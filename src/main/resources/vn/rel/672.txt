@@ -1,0 +1,10 @@
+c="sốt" 6:2 6:2||r="PIP"||c="sốt cao" 6:6 6:7
+c="sốt" 6:2 6:2||r="PIP"||c="đau họng" 6:11 6:12
+c="sốt" 6:2 6:2||r="PIP"||c="đau_đầu" 6:14 6:14
+c="sốt" 6:2 6:2||r="PIP"||c="nhức mỏi toàn_thân" 6:17 6:19
+c="sốt cao" 6:6 6:7||r="PIP"||c="đau họng" 6:11 6:12
+c="sốt cao" 6:6 6:7||r="PIP"||c="đau_đầu" 6:14 6:14
+c="sốt cao" 6:6 6:7||r="PIP"||c="nhức mỏi toàn_thân" 6:17 6:19
+c="đau họng" 6:11 6:12||r="PIP"||c="đau_đầu" 6:14 6:14
+c="đau họng" 6:11 6:12||r="PIP"||c="nhức mỏi toàn_thân" 6:17 6:19
+c="đau_đầu" 6:14 6:14||r="PIP"||c="nhức mỏi toàn_thân" 6:17 6:19

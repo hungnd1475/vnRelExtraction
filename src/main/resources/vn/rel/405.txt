@@ -1,0 +1,1 @@
+c="nhập ICU điều_trị" 4:7 4:9||r="TrAP"||c="mệt nhiều" 4:2 4:3

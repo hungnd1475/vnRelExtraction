@@ -1,0 +1,4 @@
+c="ho_khan" 4:11 4:11||r="PIP"||c="khò_khè" 4:13 4:13
+c="ho_khan" 4:11 4:11||r="PIP"||c="khó thở" 4:15 4:16
+c="khò_khè" 4:13 4:13||r="PIP"||c="khó thở" 4:15 4:16
+c="khó thở nhiều" 5:3 5:5||r="PIP"||c="có giãm khó thở một phần" 5:14 5:19

@@ -1,0 +1,6 @@
+c="Ói" 2:1 2:1||r="PIP"||c="tiêu lỏng" 2:3 2:4
+c="ói" 4:6 4:6||r="PIP"||c="tiêu lỏng 2-3 lần/ngày" 4:8 4:11
+c="khám" 4:13 4:13||r="TrWP"||c="ói" 4:6 4:6
+c="điều_trị ở Bv_Vũng tàu" 4:15 4:18||r="TrWP"||c="ói" 4:6 4:6
+c="khám" 4:13 4:13||r="TrWP"||c="tiêu lỏng 2-3 lần/ngày" 4:8 4:11
+c="điều_trị ở Bv_Vũng tàu" 4:15 4:18||r="TrWP"||c="tiêu lỏng 2-3 lần/ngày" 4:8 4:11

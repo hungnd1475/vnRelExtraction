@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+Bình_thường
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 2 tuổi , Ngưới nhà khai bé bị sưng bao quy đầu , tiểu lắt_nhắt , đi khám phát_hiện hẹp bao quy đầu .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 2 tuổi , Ngưới nhà khai bé bị sưng bao quy đầu , tiểu lắt_nhắt , đi khám phát_hiện hẹp bao quy đầu .
+Phẫu_thuật cắt bao quy đầu , sau cắt bé tỉnh_táo , ăn_uống , tiểu bình_thường , cho bé xuất_viện hẹn tái khám .
+Tổng Kết Phương Pháp Điều Trị
+phẫu_thuật cắt bao quy đầu

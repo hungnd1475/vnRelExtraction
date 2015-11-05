@@ -1,0 +1,8 @@
+c="khó thở" 2:1 2:2||t="problem"
+c="ho_khan" 4:11 4:11||t="problem"
+c="khò_khè" 4:13 4:13||t="problem"
+c="khó thở" 4:15 4:16||t="problem"
+c="khó thở nhiều" 5:3 5:5||t="problem"
+c="có giãm khó thở một phần" 5:14 5:19||t="problem"
+c="Tăng huyết_áp" 7:1 7:2||t="problem"
+c="nội_khoa" 9:1 9:1||t="treatment"

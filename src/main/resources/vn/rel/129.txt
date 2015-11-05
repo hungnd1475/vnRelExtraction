@@ -1,0 +1,4 @@
+c="ói nhiều lần" 4:8 4:10||r="PIP"||c="viêm mũi họng cấp" 4:19 4:22
+c="ói nhiều lần" 4:8 4:10||r="PIP"||c="rối_loạn tiêu_hóa" 4:24 4:25
+c="viêm mũi họng cấp" 4:19 4:22||r="PIP"||c="rối_loạn tiêu_hóa" 4:24 4:25
+c="tiêu_chảy 3 lần phân toàn nước" 6:6 6:11||r="PIP"||c="ói" 6:13 6:13

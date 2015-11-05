@@ -1,0 +1,10 @@
+c="ho thúng_thắng" 4:7 4:8||r="PIP"||c="khò_khè" 4:13 4:13
+c="ho thúng_thắng" 4:7 4:8||r="PIP"||c="thở nhanh" 4:19 4:20
+c="ho thúng_thắng" 4:7 4:8||r="PIP"||c="co lõm ngực" 4:22 4:24
+c="ho thúng_thắng" 4:7 4:8||r="PIP"||c="khó thở" 4:28 4:29
+c="khò_khè" 4:13 4:13||r="PIP"||c="thở nhanh" 4:19 4:20
+c="khò_khè" 4:13 4:13||r="PIP"||c="co lõm ngực" 4:22 4:24
+c="khò_khè" 4:13 4:13||r="PIP"||c="khó thở" 4:28 4:29
+c="thở nhanh" 4:19 4:20||r="PIP"||c="co lõm ngực" 4:22 4:24
+c="thở nhanh" 4:19 4:20||r="PIP"||c="khó thở" 4:28 4:29
+c="co lõm ngực" 4:22 4:24||r="PIP"||c="khó thở" 4:28 4:29

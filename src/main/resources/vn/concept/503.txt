@@ -1,0 +1,6 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt" 4:2 4:2||t="problem"
+c="ớn lạnh" 4:4 4:5||t="problem"
+c="bí tiểu" 4:9 4:10||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="kháng_sinh" 7:1 7:1||t="treatment"

@@ -1,0 +1,43 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="sốt cao liên_tục 8 ngày" 4:2 4:6||r="PIP"||c="đau_đầu" 4:8 4:8
+c="sốt cao liên_tục 8 ngày" 4:2 4:6||r="PIP"||c="đau cơ" 4:10 4:11
+c="sốt cao liên_tục 8 ngày" 4:2 4:6||r="PIP"||c="ho khạc đàm vàng" 4:13 4:16
+c="sốt cao liên_tục 8 ngày" 4:2 4:6||r="PIP"||c="đau bụng" 4:19 4:20
+c="sốt cao liên_tục 8 ngày" 4:2 4:6||r="PIP"||c="khò_khè" 4:23 4:23
+c="sốt cao liên_tục 8 ngày" 4:2 4:6||r="PIP"||c="khó thở" 4:26 4:27
+c="sốt cao liên_tục 8 ngày" 4:2 4:6||r="PIP"||c="sốt siêu_vi" 4:32 4:33
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="sốt cao liên_tục 8 ngày" 4:2 4:6
+c="đau_đầu" 4:8 4:8||r="PIP"||c="đau cơ" 4:10 4:11
+c="đau_đầu" 4:8 4:8||r="PIP"||c="ho khạc đàm vàng" 4:13 4:16
+c="đau_đầu" 4:8 4:8||r="PIP"||c="đau bụng" 4:19 4:20
+c="đau_đầu" 4:8 4:8||r="PIP"||c="khò_khè" 4:23 4:23
+c="đau_đầu" 4:8 4:8||r="PIP"||c="khó thở" 4:26 4:27
+c="đau_đầu" 4:8 4:8||r="PIP"||c="sốt siêu_vi" 4:32 4:33
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="đau_đầu" 4:8 4:8
+c="đau cơ" 4:10 4:11||r="PIP"||c="ho khạc đàm vàng" 4:13 4:16
+c="đau cơ" 4:10 4:11||r="PIP"||c="đau bụng" 4:19 4:20
+c="đau cơ" 4:10 4:11||r="PIP"||c="khò_khè" 4:23 4:23
+c="đau cơ" 4:10 4:11||r="PIP"||c="khó thở" 4:26 4:27
+c="đau cơ" 4:10 4:11||r="PIP"||c="sốt siêu_vi" 4:32 4:33
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="đau cơ" 4:10 4:11
+c="ho khạc đàm vàng" 4:13 4:16||r="PIP"||c="đau bụng" 4:19 4:20
+c="ho khạc đàm vàng" 4:13 4:16||r="PIP"||c="khò_khè" 4:23 4:23
+c="ho khạc đàm vàng" 4:13 4:16||r="PIP"||c="khó thở" 4:26 4:27
+c="ho khạc đàm vàng" 4:13 4:16||r="PIP"||c="sốt siêu_vi" 4:32 4:33
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="ho khạc đàm vàng" 4:13 4:16
+c="đau bụng" 4:19 4:20||r="PIP"||c="khò_khè" 4:23 4:23
+c="đau bụng" 4:19 4:20||r="PIP"||c="khó thở" 4:26 4:27
+c="đau bụng" 4:19 4:20||r="PIP"||c="sốt siêu_vi" 4:32 4:33
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="đau bụng" 4:19 4:20
+c="khò_khè" 4:23 4:23||r="PIP"||c="khó thở" 4:26 4:27
+c="khò_khè" 4:23 4:23||r="PIP"||c="sốt siêu_vi" 4:32 4:33
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="khò_khè" 4:23 4:23
+c="khó thở" 4:26 4:27||r="PIP"||c="sốt siêu_vi" 4:32 4:33
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="khó thở" 4:26 4:27
+c="uống thuốc" 4:35 4:36||r="TrWP"||c="sốt siêu_vi" 4:32 4:33
+c="sốt" 5:5 5:5||r="PIP"||c="mệt nhiều" 5:7 5:8
+c="sốt" 5:5 5:5||r="PIP"||c="đau_đầu" 5:10 5:10
+c="sốt" 5:5 5:5||r="PIP"||c="đau cơ" 5:12 5:13
+c="mệt nhiều" 5:7 5:8||r="PIP"||c="đau_đầu" 5:10 5:10
+c="mệt nhiều" 5:7 5:8||r="PIP"||c="đau cơ" 5:12 5:13
+c="đau_đầu" 5:10 5:10||r="PIP"||c="đau cơ" 5:12 5:13

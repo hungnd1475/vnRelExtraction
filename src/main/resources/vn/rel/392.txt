@@ -1,0 +1,15 @@
+c="ho_khan" 2:4 2:4||r="PIP"||c="đau họng" 2:6 2:7
+c="ho_khan" 2:4 2:4||r="PIP"||c="tức ngực khi ho" 2:9 2:12
+c="ho_khan" 2:4 2:4||r="PIP"||c="thở khò_khè về đêm" 2:14 2:17
+c="ho_khan" 2:4 2:4||r="PIP"||c="chóng_mặt khi thay đổ tư_thế" 2:19 2:23
+c="ho_khan" 2:4 2:4||r="PIP"||c="mệt" 2:25 2:25
+c="đau họng" 2:6 2:7||r="PIP"||c="tức ngực khi ho" 2:9 2:12
+c="đau họng" 2:6 2:7||r="PIP"||c="thở khò_khè về đêm" 2:14 2:17
+c="đau họng" 2:6 2:7||r="PIP"||c="chóng_mặt khi thay đổ tư_thế" 2:19 2:23
+c="đau họng" 2:6 2:7||r="PIP"||c="mệt" 2:25 2:25
+c="tức ngực khi ho" 2:9 2:12||r="PIP"||c="thở khò_khè về đêm" 2:14 2:17
+c="tức ngực khi ho" 2:9 2:12||r="PIP"||c="chóng_mặt khi thay đổ tư_thế" 2:19 2:23
+c="tức ngực khi ho" 2:9 2:12||r="PIP"||c="mệt" 2:25 2:25
+c="thở khò_khè về đêm" 2:14 2:17||r="PIP"||c="chóng_mặt khi thay đổ tư_thế" 2:19 2:23
+c="thở khò_khè về đêm" 2:14 2:17||r="PIP"||c="mệt" 2:25 2:25
+c="chóng_mặt khi thay đổ tư_thế" 2:19 2:23||r="PIP"||c="mệt" 2:25 2:25

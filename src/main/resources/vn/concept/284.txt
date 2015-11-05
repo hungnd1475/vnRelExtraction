@@ -1,0 +1,4 @@
+c="chóng_mặt" 2:3 2:3||t="problem"
+c="nhợn ói" 2:5 2:6||t="problem"
+c="đo huyết_áp" 2:9 2:10||t="test"
+c="điều_trị" 2:25 2:25||t="treatment"

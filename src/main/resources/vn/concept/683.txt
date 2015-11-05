@@ -1,0 +1,5 @@
+c="phát_hiện hạch vùng cổ" 4:12 4:15||t="problem"
+c="Nhân_Giáp thùy" 5:4 5:5||t="test"
+c="Nhân giáp thùy" 6:3 6:5||t="test"
+c="Phẫu_thuật bóc nhân tuyến_giáp" 7:1 7:4||t="treatment"
+c="giọng nói trong" 8:10 8:12||t="test"

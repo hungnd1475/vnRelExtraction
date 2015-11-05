@@ -1,0 +1,3 @@
+Tổng Kết Bệnh Lý
+Bệnh_nhân có tiền_căn tăng huyết_áp + Nhồi máu não cũ .
+không chịu uống thuốc theo toa , tự bỏ thuốc huyết_áp , chiều nay thấy chóng_mặt , đau_đầu nhiều , mệt - - - > Nhập_viện - - - - > Sau điều_trị bệnh hết chóng_mặt , hết đau_đầu , bớt mệt , xin xuất_viện .

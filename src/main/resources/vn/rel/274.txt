@@ -1,0 +1,9 @@
+c="ăn kém" 2:8 2:9||r="PIP"||c="uống nhiều nước_ngọt" 2:13 2:15
+c="ăn kém" 2:8 2:9||r="PIP"||c="tiểu nhiều" 2:17 2:18
+c="ăn kém" 2:8 2:9||r="PIP"||c="sụt cân khoảng 3-4 kg / 2 tuần" 2:20 2:27
+c="uống nhiều nước_ngọt" 2:13 2:15||r="PIP"||c="tiểu nhiều" 2:17 2:18
+c="uống nhiều nước_ngọt" 2:13 2:15||r="PIP"||c="sụt cân khoảng 3-4 kg / 2 tuần" 2:20 2:27
+c="tiểu nhiều" 2:17 2:18||r="PIP"||c="sụt cân khoảng 3-4 kg / 2 tuần" 2:20 2:27
+c="mệt nhiều" 3:2 3:3||r="PIP"||c="cảm_giác khó thở" 3:5 3:7
+c="mệt nhiều" 3:2 3:3||r="PIP"||c="nặng ngực" 3:9 3:10
+c="cảm_giác khó thở" 3:5 3:7||r="PIP"||c="nặng ngực" 3:9 3:10

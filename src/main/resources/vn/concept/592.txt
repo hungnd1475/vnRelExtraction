@@ -1,0 +1,8 @@
+c="sốt" 2:1 2:1||t="problem"
+c="sốt" 4:7 4:7||t="problem"
+c="sốt vừa" 4:9 4:10||t="problem"
+c="đau hong" 4:18 4:19||t="problem"
+c="sốt" 4:33 4:33||t="problem"
+c="đau nhiều hong (" 4:38 4:41||t="problem"
+c="thở mệt" 4:46 4:47||t="problem"
+c="thở nhanh" 4:49 4:50||t="problem"

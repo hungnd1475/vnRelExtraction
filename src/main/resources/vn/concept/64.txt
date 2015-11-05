@@ -1,0 +1,6 @@
+c="đau bụng" 2:1 2:2||t="problem"
+c="đau bụng" 4:2 4:3||t="problem"
+c="đau quanh rốn âm_ỉ liên_tục" 4:8 4:12||t="problem"
+c="para 1001" 6:1 6:2||t="problem"
+c="thuốc ngừa thai" 6:5 6:7||t="treatment"
+c="cắt ruột_thừa" 7:2 7:3||t="treatment"

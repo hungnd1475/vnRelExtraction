@@ -1,0 +1,25 @@
+c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14||r="PIP"||c="hơi tự_do ổ_bụng" 2:16 2:18
+c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14||r="PIP"||c="thũng tạng rỗng" 2:21 2:23
+c="mổ khâu lỗ thủng" 2:34 2:37||r="TrAP"||c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14
+c="lau rửa ổ_bụng" 2:39 2:41||r="TrAP"||c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14
+c="cắt lách" 2:43 2:44||r="TrAP"||c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14
+c="chuyển ICU theo_dõi" 2:48 2:50||r="TrAP"||c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14
+c="hơi tự_do ổ_bụng" 2:16 2:18||r="PIP"||c="thũng tạng rỗng" 2:21 2:23
+c="mổ khâu lỗ thủng" 2:34 2:37||r="TrAP"||c="hơi tự_do ổ_bụng" 2:16 2:18
+c="lau rửa ổ_bụng" 2:39 2:41||r="TrAP"||c="hơi tự_do ổ_bụng" 2:16 2:18
+c="cắt lách" 2:43 2:44||r="TrAP"||c="hơi tự_do ổ_bụng" 2:16 2:18
+c="chuyển ICU theo_dõi" 2:48 2:50||r="TrAP"||c="hơi tự_do ổ_bụng" 2:16 2:18
+c="mổ khâu lỗ thủng" 2:34 2:37||r="TrAP"||c="thũng tạng rỗng" 2:21 2:23
+c="lau rửa ổ_bụng" 2:39 2:41||r="TrAP"||c="thũng tạng rỗng" 2:21 2:23
+c="cắt lách" 2:43 2:44||r="TrAP"||c="thũng tạng rỗng" 2:21 2:23
+c="chuyển ICU theo_dõi" 2:48 2:50||r="TrAP"||c="thũng tạng rỗng" 2:21 2:23
+c="Hậu_phẫu" 3:1 3:1||r="TrWP"||c="mệt khó thở nhều" 3:9 3:12
+c="Hậu_phẫu" 3:1 3:1||r="TrWP"||c="TD viêm thâm_nhiễm thùy dưới hai phổi" 3:18 3:24
+c="mệt khó thở nhều" 3:9 3:12||r="PIP"||c="TD viêm thâm_nhiễm thùy dưới hai phổi" 3:18 3:24
+c="Xet1nghiệm máu" 2:4 2:5||r="TeRP"||c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14
+c="Xet1nghiệm máu" 2:4 2:5||r="TeRP"||c="hơi tự_do ổ_bụng" 2:16 2:18
+c="CT bụng" 2:7 2:8||r="TeRP"||c="Tràn dịch ổ_bụng lượng trung_bình" 2:10 2:14
+c="CT bụng" 2:7 2:8||r="TeRP"||c="hơi tự_do ổ_bụng" 2:16 2:18
+c="Xet1nghiệm máu" 2:4 2:5||r="TeRP"||c="thũng tạng rỗng" 2:21 2:23
+c="CT bụng" 2:7 2:8||r="TeRP"||c="thũng tạng rỗng" 2:21 2:23
+c="xquang tim phổi" 3:14 3:16||r="TeRP"||c="TD viêm thâm_nhiễm thùy dưới hai phổi" 3:18 3:24

@@ -1,0 +1,271 @@
+Candidate relations: 19113
+Total relations: 6292
+Actualy, lack file:
+Candidate relations: 18941
+Total relations: 6235
+152 1732 112 342 109 2059 338 1448 
+True: 2608 2624
+
+- Bag of word
+1 Round:
+Total: 6235--predict correctly: 2608
+Total relatived prediction: 6424--predict correctly: 3716
+2 Rounds:
+Total: 6235--predict correctly: 2624
+Total relatived prediction: 6864--predict correctly: 3717
+
+- Add bigram, three word
+1 Rounds:
+Total: 6235--predict correctly: 2652
+Total relatived prediction: 6420--predict correctly: 3718
+-- Precision = 41.31%, Recall = 42.53%, F1 = 41.91% 
+2 Rounds:
+Total: 6235--predict correctly: 2686
+Total relatived prediction: 6871--predict correctly: 3740
+-- Precision = 39.09%, Recall = 43.08%, F1 = 41% 
+
+- Add type of concept
+2 Rounds:
+Total: 6235--predict correctly: 3571 
+Total relatived prediction: 6995--predict correctly: 4169
+-- Precision = 51.05%, Recall = 57.27%, F1 = 53.98% 
+
+- Add predicate
+2 Rounds:
+Total: 6235--predict correctly: 3629 
+Total relatived prediction: 7136--predict correctly: 4169
+-- Precision = 50.86%, Recall = 58.20%, F1 = 54.28% 
+1 Round
+Total: 19113--predict correctly: 3528
+Total relatived prediction: 6707--predict correctly: 4120
+Precision = 0.560712%, Recall = 0.526018%, F1 = 0.542811%
+
+Total: 6154--predict correctly: 3545
+Total relatived prediction: 6870--predict correctly: 4115
+Precision = 0.516012%, Recall = 0.576048%, F1 = 0.544380%
+0 152 23
+1 1704 1183
+2 106 20
+3 338 136
+4 99 4
+5 2025 1567
+6 321 115
+7 1409 497
+
+
+Total: 6154--predict correctly: 3483
+Total relatived prediction: 6700--predict correctly: 4052
+Precision = 0.519851%, Recall = 0.565973%, F1 = 0.541933%
+0 152 23
+1 1704 1181
+2 106 23
+3 338 146
+4 99 4
+5 2025 1537
+6 321 110
+7 1409 459
+
+Total: 6154--predict correctly: 3675
+Total relatived prediction: 6846--predict correctly: 4237
+Precision = 0.536810%, Recall = 0.597173%, F1 = 0.565385%
+0 152 27
+1 1704 1206
+2 106 25
+3 338 134
+4 99 6
+5 2025 1554
+6 321 114
+7 1409 609
+
+- NONE = not NONE
+Total: 6154--predict correctly: 4557
+Total relatived prediction: 10185--predict correctly: 5279
+Precision = 0.447423%, Recall = 0.740494%, F1 = 0.557806%
+0 152 14
+1 1704 1538
+2 106 9
+3 338 143
+4 99 1
+5 2025 1861
+6 321 101
+7 1409 890
+
+Total: 6154--predict correctly: 4322
+Total relatived prediction: 8820--predict correctly: 5018
+Precision = 0.490023%, Recall = 0.702307%, F1 = 0.577267%
+0 152 30
+1 1704 1463
+2 106 32
+3 338 170
+4 99 6
+5 2025 1704
+6 321 151
+7 1409 766
+
+Total: 6154--predict correctly: 3527
+Total relatived prediction: 6210--predict correctly: 4109
+Precision = 0.567955%, Recall = 0.573123%, F1 = 0.570527%
+0 152 9
+1 1704 1239
+2 106 9
+3 338 128
+4 99 1
+5 2025 1611
+6 321 86
+7 1409 444
+
+-- add three word, bigram
+Total: 6154--predict correctly: 3687
+Total relatived prediction: 6307--predict correctly: 4255
+Precision = 0.584589%, Recall = 0.599123%, F1 = 0.591766%
+0 152 12
+1 1704 1316
+2 106 10
+3 338 130
+4 99 0
+5 2025 1641
+6 321 96
+7 1409 482
+
+Total: 6154--predict correctly: 2005
+Total relatived prediction: 4767--predict correctly: 2731
+Precision = 0.420600%, Recall = 0.325804%, F1 = 0.367182%
+0 152 0
+1 1704 342
+2 106 5
+3 338 35
+4 99 0
+5 2025 1611
+6 321 12
+7 1409 0
+
+-- single concept
+Total: 6154--predict correctly: 2545
+Total relatived prediction: 5002--predict correctly: 3232
+Precision = 0.508796%, Recall = 0.413552%, F1 = 0.456257%
+0 152 2
+1 1704 841
+2 106 4
+3 338 68
+4 99 0
+5 2025 1488
+6 321 25
+7 1409 117
+
+--single concept add SCF9
+Total: 6154--predict correctly: 2682
+Total relatived prediction: 5404--predict correctly: 3398
+Precision = 0.496299%, Recall = 0.435814%, F1 = 0.464094%
+0 152 2
+1 1704 917
+2 106 3
+3 338 74
+4 99 0
+5 2025 1499
+6 321 15
+7 1409 172
+
+-- single concept add SCF10, SCF11
+Total: 6154--predict correctly: 2705
+Total relatived prediction: 5466--predict correctly: 3430
+Precision = 0.494877%, Recall = 0.439552%, F1 = 0.465577%
+0 152 2
+1 1704 923
+2 106 3
+3 338 79
+4 99 0
+5 2025 1497
+6 321 15
+7 1409 186
+--combine single concept and context feature
+Total: 6154--predict correctly: 3650
+Total relatived prediction: 5967--predict correctly: 4198
+Precision = 0.611698%, Recall = 0.593110%, F1 = 0.602261%
+0 152 10
+1 1704 1315
+2 106 11
+3 338 129
+4 99 0
+5 2025 1647
+6 321 84
+7 1409 454
+
+-- vicinity feature
+Total: 6154--predict correctly: 2160
+Total relatived prediction: 3932--predict correctly: 2553
+Precision = 0.549339%, Recall = 0.350991%, F1 = 0.428317%
+0 152 0
+1 1704 455
+2 106 0
+3 338 0
+4 99 0
+5 2025 1705
+6 321 0
+7 1409 0
+
+--combine vicinity, context, single
+Total: 6154--predict correctly: 3642
+Total relatived prediction: 5716--predict correctly: 4207
+Precision = 0.637159%, Recall = 0.591810%, F1 = 0.613648%
+0 152 12
+1 1704 1302
+2 106 10
+3 338 130
+4 99 0
+5 2025 1628
+6 321 81
+7 1409 479
+
+-- combine 
+Total: 6154--predict correctly: 3716
+Total relatived prediction: 5770--predict correctly: 4255
+Precision = 64.402077%, Recall = 60.383492%, F1 = 62.328075%
+0 152 10
+1 1704 1323
+2 106 9
+3 338 143
+4 99 0
+5 2025 1628
+6 321 88
+7 1409 515
+Total: 19113--predict correctly: 3571 -- 57.27%
+Total relatived prediction: 6995--predict correctly: 4169
+
+
+- train on posSequence + lemmaSequence
+1 round:
+152 1732 112 342 109 2059 338 1448 
+Total: 19113--predict correctly: 3682
+Total relatived prediction: 5897--predict correctly: 4265
+	0.6465
+	0.56
+
+2 round:
+152 1732 112 342 109 2059 338 1448 
+Total: 19113--predict correctly: 4031
+Total relatived prediction: 7196--predict correctly: 4831
+	0.5905
+	0.6243
+
+-train on poSequence + lemma + shortestPath +phraseChunk
+1 round	
+152 1732 112 342 109 2059 338 1448 
+Total: 19113--predict correctly: 3757
+Total relatived prediction: 5788--predict correctly: 4291
+
+- combine 4 feature
+Total: 6154--predict correctly: 3958
+Total relatived prediction: 6006--predict correctly: 4474
+Precision = 65.900764%, Recall = 64.315887%, F1 = 65.098686%
+0 152 14
+1 1704 1311
+2 106 8
+3 338 137
+4 99 0
+5 2025 1676
+6 321 100
+7 1409 712
+
+- 13/10/2015
+Improve context feature
++ three word: before, after of first, second

@@ -1,0 +1,7 @@
+c="ho" 2:9 2:9||t="problem"
+c="sốt" 2:11 2:11||t="problem"
+c="đau họng" 2:13 2:14||t="problem"
+c="ho nhiều liên_tục cả đêm không ngủ được" 2:16 2:23||t="problem"
+c="mệt" 2:25 2:25||t="problem"
+c="khám" 2:29 2:29||t="test"
+c="điều_trị" 3:2 3:2||t="treatment"

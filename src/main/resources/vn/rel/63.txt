@@ -1,0 +1,9 @@
+c="khám và điều_trị Tiêu_chảy nhiễm_trùng" 4:13 4:17||r="TrWP"||c="tiêu phân lỏng có nhầy máu 5 lần" 4:2 4:9
+c="Negram" 4:19 4:19||r="TrWP"||c="tiêu phân lỏng có nhầy máu 5 lần" 4:2 4:9
+c="tiêu phân lỏng có nhầy máu 5 lần" 4:2 4:9||r="PIP"||c="mệt" 4:26 4:26
+c="tiêu phân lỏng có nhầy máu 5 lần" 4:2 4:9||r="PIP"||c="không chụi ăn_uống gì" 4:28 4:31
+c="khám và điều_trị Tiêu_chảy nhiễm_trùng" 4:13 4:17||r="TrWP"||c="mệt" 4:26 4:26
+c="khám và điều_trị Tiêu_chảy nhiễm_trùng" 4:13 4:17||r="TrWP"||c="không chụi ăn_uống gì" 4:28 4:31
+c="Negram" 4:19 4:19||r="TrWP"||c="mệt" 4:26 4:26
+c="Negram" 4:19 4:19||r="TrWP"||c="không chụi ăn_uống gì" 4:28 4:31
+c="mệt" 4:26 4:26||r="PIP"||c="không chụi ăn_uống gì" 4:28 4:31

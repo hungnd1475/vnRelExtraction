@@ -1,0 +1,4 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="nổi nốt xuât huyết da" 2:3 2:7
+c="sốt liên_tục" 4:2 4:3||r="PIP"||c="đi_cầu lỏng" 4:20 4:21
+c="sốt liên_tục" 4:2 4:3||r="PIP"||c="nổi nhiều nốt xuất_huyết da" 4:28 4:32
+c="đi_cầu lỏng" 4:20 4:21||r="PIP"||c="nổi nhiều nốt xuất_huyết da" 4:28 4:32

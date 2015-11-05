@@ -1,0 +1,5 @@
+c="mất_ngủ" 2:4 2:4||t="problem"
+c="chóng_mặt" 2:8 2:8||t="problem"
+c="buồn_nôn" 2:10 2:10||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="Tăng tuần_hoàn não" 5:1 5:3||t="treatment"

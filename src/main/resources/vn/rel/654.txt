@@ -1,0 +1,6 @@
+c="đau rát hậu_môn" 8:12 8:14||r="PIP"||c="đi_cầu ra máu" 8:19 8:21
+c="khám và uống thuốc" 8:24 8:27||r="TrWP"||c="đau rát hậu_môn" 8:12 8:14
+c="khám và uống thuốc" 8:24 8:27||r="TrWP"||c="đi_cầu ra máu" 8:19 8:21
+c="Trĩ nội độ II" 9:3 9:6||r="PIP"||c="Da thừa hậu_môn" 9:8 9:10
+c="đau rát hậu_môn" 11:12 11:14||r="PIP"||c="đi_cầu ra máu" 11:19 11:21
+c="Trĩ nội độ II" 12:3 12:6||r="PIP"||c="Da thừa hậu_môn" 12:8 12:10

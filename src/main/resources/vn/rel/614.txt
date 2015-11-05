@@ -1,0 +1,16 @@
+c="Tăng huyết_áp" 2:6 2:7||r="PIP"||c="Hen" 2:9 2:9
+c="Tăng huyết_áp" 2:6 2:7||r="PIP"||c="Thiếu máu cơ tim" 2:11 2:14
+c="Tăng huyết_áp" 2:6 2:7||r="PIP"||c="RLCH Lipid" 2:16 2:17
+c="Tăng huyết_áp" 2:6 2:7||r="PIP"||c="Rối_loạn tiền_đình" 2:19 2:20
+c="Hen" 2:9 2:9||r="PIP"||c="Thiếu máu cơ tim" 2:11 2:14
+c="Hen" 2:9 2:9||r="PIP"||c="RLCH Lipid" 2:16 2:17
+c="Hen" 2:9 2:9||r="PIP"||c="Rối_loạn tiền_đình" 2:19 2:20
+c="Thiếu máu cơ tim" 2:11 2:14||r="PIP"||c="RLCH Lipid" 2:16 2:17
+c="Thiếu máu cơ tim" 2:11 2:14||r="PIP"||c="Rối_loạn tiền_đình" 2:19 2:20
+c="RLCH Lipid" 2:16 2:17||r="PIP"||c="Rối_loạn tiền_đình" 2:19 2:20
+c="đau + sưng má ( p )" 3:5 3:11||r="PIP"||c="mệt" 3:13 3:13
+c="đau + sưng má ( p )" 3:5 3:11||r="PIP"||c="khó thở" 3:15 3:16
+c="đau + sưng má ( p )" 3:5 3:11||r="PIP"||c="chóng_mặt" 3:18 3:18
+c="mệt" 3:13 3:13||r="PIP"||c="khó thở" 3:15 3:16
+c="mệt" 3:13 3:13||r="PIP"||c="chóng_mặt" 3:18 3:18
+c="khó thở" 3:15 3:16||r="PIP"||c="chóng_mặt" 3:18 3:18

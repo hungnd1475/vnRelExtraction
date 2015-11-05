@@ -1,0 +1,4 @@
+c="PT tán sỏi niệu_quản" 12:11 12:14||r="TrIP"||c="Soỉ kẹt niệu_quản" 12:3 12:5
+c="sonde JJ" 12:20 12:21||r="TrIP"||c="Soỉ kẹt niệu_quản" 12:3 12:5
+c="CT bụng" 7:1 7:2||r="TeRP"||c="Sỏi kẹt niệu_quản ( T ) đoạn nội_thành bàng_quang" 7:4 7:12
+c="CT bụng" 11:1 11:2||r="TeRP"||c="Sỏi kẹt niệu_quản" 11:4 11:6

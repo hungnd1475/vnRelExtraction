@@ -1,0 +1,7 @@
+c="Tăng huyết_áp" 2:1 2:2||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="truyền máu" 6:11 6:12||t="treatment"
+c="truyền Nexium" 6:14 6:15||t="treatment"
+c="hết nôn máu" 7:5 7:7||t="test"
+c="soi dạ_dày loét tá_tràng D2" 7:9 7:13||t="problem"
+c="ức_chế bơm proton" 9:1 9:3||t="treatment"

@@ -1,0 +1,5 @@
+c="uống thuốc" 2:9 2:10||r="TrWP"||c="sốt" 2:2 2:2
+c="sốt" 2:2 2:2||r="PIP"||c="chóng_mặt nhiều" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="sốt" 2:2 2:2
+c="uống thuốc" 2:9 2:10||r="TrWP"||c="chóng_mặt nhiều" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="chóng_mặt nhiều" 2:15 2:16

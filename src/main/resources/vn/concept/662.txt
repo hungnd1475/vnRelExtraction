@@ -1,0 +1,6 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="bù dịch" 4:14 4:15||t="treatment"
+c="nâng đở cơ thề" 4:17 4:20||t="treatment"
+c="điều_trị loãng_xương" 4:24 4:25||t="treatment"
+c="mang nẹp lưng" 4:30 4:32||t="treatment"
+c="nội_khoa" 7:1 7:1||t="treatment"

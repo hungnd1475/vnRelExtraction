@@ -1,0 +1,7 @@
+c="ho" 2:1 2:1||t="problem"
+c="nghẹt mũi" 5:10 5:11||t="problem"
+c="ho" 5:13 5:13||t="problem"
+c="ho từng cơn kéo_dài" 6:3 6:6||t="problem"
+c="ói đàm vàng" 6:8 6:10||t="problem"
+c="kháng_sinh ." 11:1 11:2||t="treatment"
+c="điều_trị triệu_chứng" 12:1 12:2||t="treatment"

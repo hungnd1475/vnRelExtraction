@@ -1,0 +1,3 @@
+c="sưng đau khớp cổ bàn_chân ( P )" 2:8 2:15||r="PIP"||c="đi_lại khó_khăn" 2:17 2:18
+c="sưng đau khớp cổ bàn_chân ( P )" 2:8 2:15||r="PIP"||c="sốt ớn lạnh về đêm" 2:20 2:24
+c="đi_lại khó_khăn" 2:17 2:18||r="PIP"||c="sốt ớn lạnh về đêm" 2:20 2:24

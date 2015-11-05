@@ -1,0 +1,2 @@
+c="điều_trị VGSV_C mạn" 2:3 2:5||t="treatment"
+c="điều_trị" 3:2 3:2||t="treatment"

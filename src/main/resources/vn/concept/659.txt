@@ -1,0 +1,5 @@
+c="phẩu thuật thay khớp háng ( T ) toàn_phần" 2:2 2:10||t="treatment"
+c="đi_lại yếu" 2:24 2:25||t="problem"
+c="ăn_uống kém" 2:27 2:28||t="problem"
+c="buồn_nôn" 3:3 3:3||t="problem"
+c="nôn ói" 3:5 3:6||t="problem"

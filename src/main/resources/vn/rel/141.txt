@@ -1,0 +1,10 @@
+c="liệt 1/2 người ( P )" 2:11 2:16||r="PIP"||c="méo miệng" 2:18 2:19
+c="liệt 1/2 người ( P )" 2:11 2:16||r="PIP"||c="nói_khó" 2:21 2:21
+c="liệt 1/2 người ( P )" 2:11 2:16||r="PIP"||c="tiểu_tiện không tự_chủ" 2:31 2:33
+c="liệt 1/2 người ( P )" 2:11 2:16||r="PIP"||c="mệt" 2:35 2:35
+c="méo miệng" 2:18 2:19||r="PIP"||c="nói_khó" 2:21 2:21
+c="méo miệng" 2:18 2:19||r="PIP"||c="tiểu_tiện không tự_chủ" 2:31 2:33
+c="méo miệng" 2:18 2:19||r="PIP"||c="mệt" 2:35 2:35
+c="nói_khó" 2:21 2:21||r="PIP"||c="tiểu_tiện không tự_chủ" 2:31 2:33
+c="nói_khó" 2:21 2:21||r="PIP"||c="mệt" 2:35 2:35
+c="tiểu_tiện không tự_chủ" 2:31 2:33||r="PIP"||c="mệt" 2:35 2:35

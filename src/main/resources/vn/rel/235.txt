@@ -1,0 +1,10 @@
+c="đau_nhức hai chân" 2:6 2:8||r="PIP"||c="đi_lại yếu" 2:10 2:11
+c="đau_nhức hai chân" 2:6 2:8||r="PIP"||c="ăn_uống kém" 2:13 2:14
+c="đau_nhức hai chân" 2:6 2:8||r="PIP"||c="nói đớ lưỡi" 2:16 2:18
+c="đau_nhức hai chân" 2:6 2:8||r="PIP"||c="mệt" 2:20 2:20
+c="đi_lại yếu" 2:10 2:11||r="PIP"||c="ăn_uống kém" 2:13 2:14
+c="đi_lại yếu" 2:10 2:11||r="PIP"||c="nói đớ lưỡi" 2:16 2:18
+c="đi_lại yếu" 2:10 2:11||r="PIP"||c="mệt" 2:20 2:20
+c="ăn_uống kém" 2:13 2:14||r="PIP"||c="nói đớ lưỡi" 2:16 2:18
+c="ăn_uống kém" 2:13 2:14||r="PIP"||c="mệt" 2:20 2:20
+c="nói đớ lưỡi" 2:16 2:18||r="PIP"||c="mệt" 2:20 2:20

@@ -1,0 +1,18 @@
+c="sốt" 4:6 4:6||r="PIP"||c="ho" 4:8 4:8
+c="sốt" 4:6 4:6||r="PIP"||c="đau_đầu" 4:10 4:10
+c="sốt" 4:6 4:6||r="PIP"||c="chóng_mặt" 4:12 4:12
+c="điều_trị" 4:14 4:14||r="TrWP"||c="sốt" 4:6 4:6
+c="ho" 4:8 4:8||r="PIP"||c="đau_đầu" 4:10 4:10
+c="ho" 4:8 4:8||r="PIP"||c="chóng_mặt" 4:12 4:12
+c="điều_trị" 4:14 4:14||r="TrWP"||c="ho" 4:8 4:8
+c="đau_đầu" 4:10 4:10||r="PIP"||c="chóng_mặt" 4:12 4:12
+c="điều_trị" 4:14 4:14||r="TrWP"||c="đau_đầu" 4:10 4:10
+c="điều_trị" 4:14 4:14||r="TrWP"||c="chóng_mặt" 4:12 4:12
+c="mệt nhiều" 5:2 5:3||r="PIP"||c="tức ngực" 5:9 5:10
+c="điều_trị" 5:23 5:23||r="TrIP"||c="mệt nhiều" 5:2 5:3
+c="mệt nhiều" 5:2 5:3||r="PIP"||c="chóng_mặt" 5:30 5:30
+c="điều_trị" 5:23 5:23||r="TrIP"||c="tức ngực" 5:9 5:10
+c="tức ngực" 5:9 5:10||r="PIP"||c="chóng_mặt" 5:30 5:30
+c="điều_trị" 5:23 5:23||r="TrWP"||c="chóng_mặt" 5:30 5:30
+c="đo HA cao" 5:5 5:7||r="TeCP"||c="mệt nhiều" 5:2 5:3
+c="đo HA cao" 5:5 5:7||r="TeCP"||c="tức ngực" 5:9 5:10

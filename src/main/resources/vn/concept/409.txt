@@ -1,0 +1,6 @@
+c="K đại_tràng góc gan" 2:3 2:6||t="problem"
+c="phẫu_thuật cắt 1/2 đại_tràng ( P )" 2:9 2:15||t="treatment"
+c="hóa_trị" 2:23 2:23||t="treatment"
+c="hóa_trị" 3:2 3:2||t="treatment"
+c="phác_đồ FOLFOX4" 3:4 3:5||t="treatment"
+c="hóa_chất" 3:9 3:9||t="treatment"

@@ -1,0 +1,8 @@
+c="sốt cao" 2:1 2:2||t="problem"
+c="sốt" 4:8 4:8||t="problem"
+c="tiêm ngừa VNNB_B" 4:15 4:17||t="treatment"
+c="sốt nhẹ" 4:20 4:21||t="problem"
+c="sốt vừa" 4:23 4:24||t="problem"
+c="sốt cao" 4:41 4:42||t="problem"
+c="nhét HM 1 viên efferalgan" 4:47 4:51||t="treatment"
+c="nội" 11:1 11:1||t="treatment"

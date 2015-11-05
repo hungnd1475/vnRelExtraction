@@ -1,0 +1,10 @@
+c="đau nhiều ngang cột_sống thắt_lưng" 2:6 2:10||r="PIP"||c="đau lan bụng trước" 2:14 2:17
+c="đau nhiều ngang cột_sống thắt_lưng" 2:6 2:10||r="PIP"||c="sốt ăm ỉ" 2:19 2:21
+c="đau nhiều ngang cột_sống thắt_lưng" 2:6 2:10||r="PIP"||c="mệt" 2:23 2:23
+c="đau nhiều ngang cột_sống thắt_lưng" 2:6 2:10||r="PIP"||c="đi_lại khó_khăn" 2:25 2:26
+c="đau lan bụng trước" 2:14 2:17||r="PIP"||c="sốt ăm ỉ" 2:19 2:21
+c="đau lan bụng trước" 2:14 2:17||r="PIP"||c="mệt" 2:23 2:23
+c="đau lan bụng trước" 2:14 2:17||r="PIP"||c="đi_lại khó_khăn" 2:25 2:26
+c="sốt ăm ỉ" 2:19 2:21||r="PIP"||c="mệt" 2:23 2:23
+c="sốt ăm ỉ" 2:19 2:21||r="PIP"||c="đi_lại khó_khăn" 2:25 2:26
+c="mệt" 2:23 2:23||r="PIP"||c="đi_lại khó_khăn" 2:25 2:26

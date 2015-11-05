@@ -1,0 +1,7 @@
+c="nôn ói thức_ăn sau ăn" 2:6 2:10||t="problem"
+c="đau quặn bụng thượng_vị" 2:13 2:16||t="problem"
+c="đau_đầu" 2:18 2:18||t="problem"
+c="chóng_mặt khi đi_lại" 2:20 2:22||t="problem"
+c="mệt nhiều" 2:24 2:25||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Ức_chế bơm proton" 6:1 6:3||t="treatment"

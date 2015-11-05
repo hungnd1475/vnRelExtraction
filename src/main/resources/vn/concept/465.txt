@@ -1,0 +1,8 @@
+c="mệt nhiều" 2:6 2:7||t="problem"
+c="đau tức ngực" 2:11 2:13||t="problem"
+c="ợ hơi" 2:15 2:16||t="problem"
+c="ợ chua" 2:18 2:19||t="problem"
+c="HA lên 220 / ( ? ) mmHg" 3:3 3:10||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ_áp" 6:1 6:1||t="treatment"
+c="Ức_chế bơm proton" 7:1 7:3||t="treatment"

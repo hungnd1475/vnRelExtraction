@@ -1,0 +1,31 @@
+c="ho" 4:9 4:9||r="PIP"||c="sổ_mũi" 4:11 4:11
+c="ho" 4:9 4:9||r="PIP"||c="sốt" 4:13 4:13
+c="khám bệnh" 4:16 4:17||r="TrWP"||c="ho" 4:9 4:9
+c="ho" 4:9 4:9||r="PIP"||c="nhiễm siêu_vi" 4:21 4:22
+c="ho" 4:9 4:9||r="PIP"||c="cắt sốt" 4:27 4:28
+c="ho" 4:9 4:9||r="PIP"||c="nổi ban" 4:30 4:31
+c="sổ_mũi" 4:11 4:11||r="PIP"||c="sốt" 4:13 4:13
+c="khám bệnh" 4:16 4:17||r="TrWP"||c="sổ_mũi" 4:11 4:11
+c="sổ_mũi" 4:11 4:11||r="PIP"||c="nhiễm siêu_vi" 4:21 4:22
+c="sổ_mũi" 4:11 4:11||r="PIP"||c="cắt sốt" 4:27 4:28
+c="sổ_mũi" 4:11 4:11||r="PIP"||c="nổi ban" 4:30 4:31
+c="khám bệnh" 4:16 4:17||r="TrWP"||c="sốt" 4:13 4:13
+c="sốt" 4:13 4:13||r="PIP"||c="nhiễm siêu_vi" 4:21 4:22
+c="sốt" 4:13 4:13||r="PIP"||c="cắt sốt" 4:27 4:28
+c="sốt" 4:13 4:13||r="PIP"||c="nổi ban" 4:30 4:31
+c="khám bệnh" 4:16 4:17||r="TrWP"||c="nhiễm siêu_vi" 4:21 4:22
+c="khám bệnh" 4:16 4:17||r="TrWP"||c="cắt sốt" 4:27 4:28
+c="khám bệnh" 4:16 4:17||r="TrWP"||c="nổi ban" 4:30 4:31
+c="nhiễm siêu_vi" 4:21 4:22||r="PIP"||c="cắt sốt" 4:27 4:28
+c="nhiễm siêu_vi" 4:21 4:22||r="PIP"||c="nổi ban" 4:30 4:31
+c="cắt sốt" 4:27 4:28||r="PIP"||c="nổi ban" 4:30 4:31
+c="sốt" 5:4 5:4||r="PIP"||c="ban đỏ lan toàn_thân" 5:14 5:17
+c="sốt" 5:4 5:4||r="PIP"||c="ho thúng_thắng" 5:21 5:22
+c="sốt" 5:4 5:4||r="PIP"||c="quấy khóc" 5:24 5:25
+c="sốt" 5:4 5:4||r="PIP"||c="bú kém" 5:27 5:28
+c="ban đỏ lan toàn_thân" 5:14 5:17||r="PIP"||c="ho thúng_thắng" 5:21 5:22
+c="ban đỏ lan toàn_thân" 5:14 5:17||r="PIP"||c="quấy khóc" 5:24 5:25
+c="ban đỏ lan toàn_thân" 5:14 5:17||r="PIP"||c="bú kém" 5:27 5:28
+c="ho thúng_thắng" 5:21 5:22||r="PIP"||c="quấy khóc" 5:24 5:25
+c="ho thúng_thắng" 5:21 5:22||r="PIP"||c="bú kém" 5:27 5:28
+c="quấy khóc" 5:24 5:25||r="PIP"||c="bú kém" 5:27 5:28

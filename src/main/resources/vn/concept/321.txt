@@ -1,0 +1,5 @@
+c="chóng_mặt" 2:8 2:8||t="problem"
+c="khó ngủ" 2:10 2:11||t="problem"
+c="hồi hợp ngực trái" 2:13 2:16||t="problem"
+c="mua thuốc uống" 3:2 3:4||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"

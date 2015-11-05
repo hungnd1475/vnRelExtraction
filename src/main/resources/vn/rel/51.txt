@@ -1,0 +1,9 @@
+c="đau bụng" 2:1 2:2||r="PIP"||c="tiêu lỏng nhiều lần" 2:4 2:7
+c="tiêu lỏng" 4:4 4:5||r="PIP"||c="đau bụng quanh rốn" 4:8 4:11
+c="khám" 4:20 4:20||r="TrAP"||c="tiêu lỏng" 4:4 4:5
+c="enterogermina" 4:25 4:25||r="TrAP"||c="tiêu lỏng" 4:4 4:5
+c="smecta" 4:27 4:27||r="TrAP"||c="tiêu lỏng" 4:4 4:5
+c="khám" 4:20 4:20||r="TrAP"||c="đau bụng quanh rốn" 4:8 4:11
+c="enterogermina" 4:25 4:25||r="TrAP"||c="đau bụng quanh rốn" 4:8 4:11
+c="smecta" 4:27 4:27||r="TrAP"||c="đau bụng quanh rốn" 4:8 4:11
+c="tiêu phân lỏng tóe nước" 5:3 5:7||r="PIP"||c="đau bụng từng cơn" 5:9 5:12

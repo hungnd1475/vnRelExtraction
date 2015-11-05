@@ -1,0 +1,35 @@
+c="ho" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
+c="sốt" 4:7 4:7||r="PIP"||c="sốt cao" 4:9 4:10
+c="sốt" 4:7 4:7||r="PIP"||c="dao_động" 4:12 4:12
+c="sốt" 4:7 4:7||r="PIP"||c="mệt" 4:14 4:14
+c="sốt cao" 4:9 4:10||r="PIP"||c="dao_động" 4:12 4:12
+c="sốt cao" 4:9 4:10||r="PIP"||c="mệt" 4:14 4:14
+c="dao_động" 4:12 4:12||r="PIP"||c="mệt" 4:14 4:14
+c="nôn" 5:7 5:7||r="PIP"||c="ói nhiều lần" 5:9 5:11
+c="nôn" 5:7 5:7||r="PIP"||c="ho nhiều" 5:13 5:14
+c="nôn" 5:7 5:7||r="PIP"||c="sốt" 5:20 5:20
+c="nôn" 5:7 5:7||r="PIP"||c="ho nhiều hơn" 5:22 5:24
+c="nôn" 5:7 5:7||r="PIP"||c="khò_khè" 5:26 5:26
+c="nôn" 5:7 5:7||r="PIP"||c="khó ngủ" 5:28 5:29
+c="nôn" 5:7 5:7||r="PIP"||c="nôn ói" 5:31 5:32
+c="ói nhiều lần" 5:9 5:11||r="PIP"||c="ho nhiều" 5:13 5:14
+c="ói nhiều lần" 5:9 5:11||r="PIP"||c="sốt" 5:20 5:20
+c="ói nhiều lần" 5:9 5:11||r="PIP"||c="ho nhiều hơn" 5:22 5:24
+c="ói nhiều lần" 5:9 5:11||r="PIP"||c="khò_khè" 5:26 5:26
+c="ói nhiều lần" 5:9 5:11||r="PIP"||c="khó ngủ" 5:28 5:29
+c="ói nhiều lần" 5:9 5:11||r="PIP"||c="nôn ói" 5:31 5:32
+c="ho nhiều" 5:13 5:14||r="PIP"||c="sốt" 5:20 5:20
+c="ho nhiều" 5:13 5:14||r="PIP"||c="ho nhiều hơn" 5:22 5:24
+c="ho nhiều" 5:13 5:14||r="PIP"||c="khò_khè" 5:26 5:26
+c="ho nhiều" 5:13 5:14||r="PIP"||c="khó ngủ" 5:28 5:29
+c="ho nhiều" 5:13 5:14||r="PIP"||c="nôn ói" 5:31 5:32
+c="sốt" 5:20 5:20||r="PIP"||c="ho nhiều hơn" 5:22 5:24
+c="sốt" 5:20 5:20||r="PIP"||c="khò_khè" 5:26 5:26
+c="sốt" 5:20 5:20||r="PIP"||c="khó ngủ" 5:28 5:29
+c="sốt" 5:20 5:20||r="PIP"||c="nôn ói" 5:31 5:32
+c="ho nhiều hơn" 5:22 5:24||r="PIP"||c="khò_khè" 5:26 5:26
+c="ho nhiều hơn" 5:22 5:24||r="PIP"||c="khó ngủ" 5:28 5:29
+c="ho nhiều hơn" 5:22 5:24||r="PIP"||c="nôn ói" 5:31 5:32
+c="khò_khè" 5:26 5:26||r="PIP"||c="khó ngủ" 5:28 5:29
+c="khò_khè" 5:26 5:26||r="PIP"||c="nôn ói" 5:31 5:32
+c="khó ngủ" 5:28 5:29||r="PIP"||c="nôn ói" 5:31 5:32

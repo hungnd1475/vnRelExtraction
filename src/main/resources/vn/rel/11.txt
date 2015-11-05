@@ -1,0 +1,18 @@
+c="sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="sốt" 2:1 2:1||r="PIP"||c="ói" 2:5 2:5
+c="ho" 2:3 2:3||r="PIP"||c="ói" 2:5 2:5
+c="sốt" 4:4 4:4||r="PIP"||c="ho nhiều" 4:6 4:7
+c="sốt" 4:4 4:4||r="PIP"||c="ho_khan" 4:9 4:9
+c="sốt" 4:4 4:4||r="PIP"||c="ói" 4:13 4:13
+c="sốt" 4:4 4:4||r="PIP"||c="ói ra thức_ăn" 4:15 4:17
+c="sốt" 4:4 4:4||r="PIP"||c="sổ_mũi nhiều" 4:19 4:20
+c="ho nhiều" 4:6 4:7||r="PIP"||c="ho_khan" 4:9 4:9
+c="ho nhiều" 4:6 4:7||r="PIP"||c="ói" 4:13 4:13
+c="ho nhiều" 4:6 4:7||r="PIP"||c="ói ra thức_ăn" 4:15 4:17
+c="ho nhiều" 4:6 4:7||r="PIP"||c="sổ_mũi nhiều" 4:19 4:20
+c="ho_khan" 4:9 4:9||r="PIP"||c="ói" 4:13 4:13
+c="ho_khan" 4:9 4:9||r="PIP"||c="ói ra thức_ăn" 4:15 4:17
+c="ho_khan" 4:9 4:9||r="PIP"||c="sổ_mũi nhiều" 4:19 4:20
+c="ói" 4:13 4:13||r="PIP"||c="ói ra thức_ăn" 4:15 4:17
+c="ói" 4:13 4:13||r="PIP"||c="sổ_mũi nhiều" 4:19 4:20
+c="ói ra thức_ăn" 4:15 4:17||r="PIP"||c="sổ_mũi nhiều" 4:19 4:20

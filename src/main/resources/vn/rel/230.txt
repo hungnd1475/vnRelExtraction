@@ -1,0 +1,6 @@
+c="Alaxn" 4:12 4:12||r="TrWP"||c="đau bụng" 4:4 4:5
+c="đau bụng" 4:4 4:5||r="PIP"||c="phù mắt" 4:17 4:18
+c="đau bụng" 4:4 4:5||r="PIP"||c="khó thở" 4:20 4:21
+c="Alaxn" 4:12 4:12||r="TrWP"||c="phù mắt" 4:17 4:18
+c="Alaxn" 4:12 4:12||r="TrWP"||c="khó thở" 4:20 4:21
+c="phù mắt" 4:17 4:18||r="PIP"||c="khó thở" 4:20 4:21

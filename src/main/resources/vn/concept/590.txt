@@ -1,0 +1,8 @@
+c="đau bụng quặn từng cơn" 2:8 2:12||t="problem"
+c="đi_cầu không tự_chủ" 2:25 2:27||t="problem"
+c="phân sệt" 2:33 2:34||t="problem"
+c="táo_bón kéo_dài" 2:38 2:39||t="problem"
+c="tiêu không tự_chủ" 2:52 2:54||t="problem"
+c="sụt 4 kg =" 2:56 2:59||t="problem"
+c="men tiêu_hóa" 4:1 4:2||t="treatment"
+c="sinh_tố" 4:4 4:4||t="treatment"

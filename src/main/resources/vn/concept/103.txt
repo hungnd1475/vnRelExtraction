@@ -1,0 +1,6 @@
+c="đau bụng quặn từng cơn" 3:7 3:11||t="problem"
+c="nôn ói liên_tục" 3:13 3:15||t="problem"
+c="tiêu lỏng 3 lần" 3:28 3:31||t="problem"
+c="mệt" 4:1 4:1||t="problem"
+c="Tăng huyết_áp" 6:1 6:2||t="problem"
+c="nội_khoa" 8:1 8:1||t="treatment"

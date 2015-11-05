@@ -1,0 +1,6 @@
+c="đau quặn bụng quanh rốn" 6:6 6:10||r="PIP"||c="lói ra sau lưng" 6:12 6:15
+c="đau quặn bụng quanh rốn" 6:6 6:10||r="PIP"||c="kèm theo đầy bụng sau ăn" 6:17 6:22
+c="đau quặn bụng quanh rốn" 6:6 6:10||r="PIP"||c="mệt" 6:24 6:24
+c="lói ra sau lưng" 6:12 6:15||r="PIP"||c="kèm theo đầy bụng sau ăn" 6:17 6:22
+c="lói ra sau lưng" 6:12 6:15||r="PIP"||c="mệt" 6:24 6:24
+c="kèm theo đầy bụng sau ăn" 6:17 6:22||r="PIP"||c="mệt" 6:24 6:24

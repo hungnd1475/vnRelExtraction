@@ -1,0 +1,22 @@
+c="đi_tiểu buốt" 4:3 4:4||r="PIP"||c="đau hông lưng ( T )" 4:6 4:11
+c="đi_tiểu buốt" 4:3 4:4||r="PIP"||c="sỏi kẹt niệu_quản ( T )" 4:18 4:23
+c="đi_tiểu buốt" 4:3 4:4||r="PIP"||c="và sỏi thận ( P )" 4:25 4:30
+c="đau hông lưng ( T )" 4:6 4:11||r="PIP"||c="sỏi kẹt niệu_quản ( T )" 4:18 4:23
+c="đau hông lưng ( T )" 4:6 4:11||r="PIP"||c="và sỏi thận ( P )" 4:25 4:30
+c="sỏi kẹt niệu_quản ( T )" 4:18 4:23||r="PIP"||c="và sỏi thận ( P )" 4:25 4:30
+c="đi_tiểu buốt" 8:6 8:7||r="PIP"||c="đau hông lưng ( T )" 8:9 8:14
+c="đi_tiểu buốt" 8:6 8:7||r="PIP"||c="sỏi kẹt niệu_quản ( T )" 8:21 8:26
+c="đi_tiểu buốt" 8:6 8:7||r="PIP"||c="sỏi thận ( P )" 8:29 8:33
+c="đau hông lưng ( T )" 8:9 8:14||r="PIP"||c="sỏi kẹt niệu_quản ( T )" 8:21 8:26
+c="đau hông lưng ( T )" 8:9 8:14||r="PIP"||c="sỏi thận ( P )" 8:29 8:33
+c="sỏi kẹt niệu_quản ( T )" 8:21 8:26||r="PIP"||c="sỏi thận ( P )" 8:29 8:33
+c="đi_tiểu buốt" 12:3 12:4||r="PIP"||c="đau hông lưng ( T )" 12:6 12:11
+c="đi_tiểu buốt" 12:3 12:4||r="PIP"||c="sỏi kẹt niệu_quản ( T )" 12:18 12:23
+c="đi_tiểu buốt" 12:3 12:4||r="PIP"||c="sỏi thận ( P )" 12:26 12:30
+c="đau hông lưng ( T )" 12:6 12:11||r="PIP"||c="sỏi kẹt niệu_quản ( T )" 12:18 12:23
+c="đau hông lưng ( T )" 12:6 12:11||r="PIP"||c="sỏi thận ( P )" 12:26 12:30
+c="sỏi kẹt niệu_quản ( T )" 12:18 12:23||r="PIP"||c="sỏi thận ( P )" 12:26 12:30
+c="siêu_âm" 4:16 4:16||r="TeCP"||c="đi_tiểu buốt" 4:3 4:4
+c="siêu_âm" 4:16 4:16||r="TeCP"||c="đau hông lưng ( T )" 4:6 4:11
+c="siêu_âm" 4:16 4:16||r="TeRP"||c="sỏi kẹt niệu_quản ( T )" 4:18 4:23
+c="siêu_âm" 4:16 4:16||r="TeRP"||c="và sỏi thận ( P )" 4:25 4:30

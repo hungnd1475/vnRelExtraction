@@ -1,0 +1,5 @@
+c="ho" 2:4 2:4||t="problem"
+c="khạc đàm vàng" 2:6 2:8||t="problem"
+c="sốt ớn lạnh" 2:13 2:15||t="problem"
+c="mệt" 2:17 2:17||t="problem"
+c="ăn_uống kém" 2:19 2:20||t="problem"

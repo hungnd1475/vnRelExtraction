@@ -1,0 +1,6 @@
+c="thường_xuyên tiêu bón" 2:6 2:8||r="PIP"||c="đau quặn vùng hố_chậu ( T )" 2:12 2:18
+c="thường_xuyên tiêu bón" 2:6 2:8||r="PIP"||c="bụng chướng hơi sau ăn" 2:20 2:24
+c="thường_xuyên tiêu bón" 2:6 2:8||r="PIP"||c="mệt" 2:26 2:26
+c="đau quặn vùng hố_chậu ( T )" 2:12 2:18||r="PIP"||c="bụng chướng hơi sau ăn" 2:20 2:24
+c="đau quặn vùng hố_chậu ( T )" 2:12 2:18||r="PIP"||c="mệt" 2:26 2:26
+c="bụng chướng hơi sau ăn" 2:20 2:24||r="PIP"||c="mệt" 2:26 2:26

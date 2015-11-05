@@ -1,0 +1,6 @@
+c="sốt" 2:9 2:9||r="PIP"||c="ho" 2:11 2:11
+c="sốt" 2:9 2:9||r="PIP"||c="nhức đầu vùng trán và dọc 2 bên mũi" 2:13 2:21
+c="sốt" 2:9 2:9||r="PIP"||c="nghẹt mũi" 2:23 2:24
+c="ho" 2:11 2:11||r="PIP"||c="nhức đầu vùng trán và dọc 2 bên mũi" 2:13 2:21
+c="ho" 2:11 2:11||r="PIP"||c="nghẹt mũi" 2:23 2:24
+c="nhức đầu vùng trán và dọc 2 bên mũi" 2:13 2:21||r="PIP"||c="nghẹt mũi" 2:23 2:24

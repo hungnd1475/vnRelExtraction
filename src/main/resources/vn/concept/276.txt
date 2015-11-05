@@ -1,0 +1,2 @@
+c="đau ngực ( T ) nhiều" 2:4 2:9||t="problem"
+c="dùng thuốc" 3:3 3:4||t="treatment"

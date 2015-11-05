@@ -1,0 +1,28 @@
+c="hơi lơ_mơ" 4:12 4:13||r="PIP"||c="không thức_dậy" 4:20 4:21
+c="điều_trị" 4:40 4:40||r="TrWP"||c="hơi lơ_mơ" 4:12 4:13
+c="hơi lơ_mơ" 4:12 4:13||r="PIP"||c="không sốt" 4:44 4:45
+c="hơi lơ_mơ" 4:12 4:13||r="PIP"||c="không khó thở" 4:47 4:49
+c="hơi lơ_mơ" 4:12 4:13||r="PIP"||c="bớt ho" 4:51 4:52
+c="hơi lơ_mơ" 4:12 4:13||r="PIP"||c="huyết_áp ổn" 4:54 4:55
+c="hơi lơ_mơ" 4:12 4:13||r="PIP"||c="đường_huyết còn dao_động" 4:57 4:59
+c="điều_trị" 4:40 4:40||r="TrWP"||c="không thức_dậy" 4:20 4:21
+c="không thức_dậy" 4:20 4:21||r="PIP"||c="không sốt" 4:44 4:45
+c="không thức_dậy" 4:20 4:21||r="PIP"||c="không khó thở" 4:47 4:49
+c="không thức_dậy" 4:20 4:21||r="PIP"||c="bớt ho" 4:51 4:52
+c="không thức_dậy" 4:20 4:21||r="PIP"||c="huyết_áp ổn" 4:54 4:55
+c="không thức_dậy" 4:20 4:21||r="PIP"||c="đường_huyết còn dao_động" 4:57 4:59
+c="điều_trị" 4:40 4:40||r="TrWP"||c="không sốt" 4:44 4:45
+c="điều_trị" 4:40 4:40||r="TrWP"||c="không khó thở" 4:47 4:49
+c="điều_trị" 4:40 4:40||r="TrWP"||c="bớt ho" 4:51 4:52
+c="điều_trị" 4:40 4:40||r="TrWP"||c="huyết_áp ổn" 4:54 4:55
+c="điều_trị" 4:40 4:40||r="TrWP"||c="đường_huyết còn dao_động" 4:57 4:59
+c="không sốt" 4:44 4:45||r="PIP"||c="không khó thở" 4:47 4:49
+c="không sốt" 4:44 4:45||r="PIP"||c="bớt ho" 4:51 4:52
+c="không sốt" 4:44 4:45||r="PIP"||c="huyết_áp ổn" 4:54 4:55
+c="không sốt" 4:44 4:45||r="PIP"||c="đường_huyết còn dao_động" 4:57 4:59
+c="không khó thở" 4:47 4:49||r="PIP"||c="bớt ho" 4:51 4:52
+c="không khó thở" 4:47 4:49||r="PIP"||c="huyết_áp ổn" 4:54 4:55
+c="không khó thở" 4:47 4:49||r="PIP"||c="đường_huyết còn dao_động" 4:57 4:59
+c="bớt ho" 4:51 4:52||r="PIP"||c="huyết_áp ổn" 4:54 4:55
+c="bớt ho" 4:51 4:52||r="PIP"||c="đường_huyết còn dao_động" 4:57 4:59
+c="huyết_áp ổn" 4:54 4:55||r="PIP"||c="đường_huyết còn dao_động" 4:57 4:59

@@ -1,0 +1,5 @@
+c="đau ngực sau xương ức" 2:7 2:11||t="problem"
+c="căng_thẳng" 2:15 2:15||t="problem"
+c="tức_giận" 2:17 2:17||t="problem"
+c="Đau ngực nhiều" 3:2 3:4||t="problem"
+c="mệt" 3:6 3:6||t="problem"

@@ -1,0 +1,8 @@
+c="sốt" 2:2 2:2||t="problem"
+c="Sốt cao liên_tục" 2:12 2:14||t="problem"
+c="đau_nhức mắt" 2:17 2:18||t="problem"
+c="dau đàu nhiều" 2:20 2:22||t="problem"
+c="ói" 2:25 2:25||t="problem"
+c="uống hạ sốt" 2:27 2:29||t="treatment"
+c="sốt cao" 2:34 2:35||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"

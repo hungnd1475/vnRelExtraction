@@ -1,0 +1,7 @@
+c="tiền_căn bị trĩ" 4:3 4:5||r="PIP"||c="đau vùng hậu_môn" 4:11 4:13
+c="tiền_căn bị trĩ" 4:3 4:5||r="PIP"||c="tiêu ra máu" 4:16 4:18
+c="tiền_căn bị trĩ" 4:3 4:5||r="PIP"||c="tiểu khó" 4:20 4:21
+c="đau vùng hậu_môn" 4:11 4:13||r="PIP"||c="tiêu ra máu" 4:16 4:18
+c="đau vùng hậu_môn" 4:11 4:13||r="PIP"||c="tiểu khó" 4:20 4:21
+c="tiêu ra máu" 4:16 4:18||r="PIP"||c="tiểu khó" 4:20 4:21
+c="Tư_vấn PT" 6:1 6:2||r="TrWP"||c="tiểu_đường" 6:8 6:8

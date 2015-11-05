@@ -1,0 +1,9 @@
+c="sốt" 2:6 2:6||r="PIP"||c="ho đàm khó khạc" 2:8 2:11
+c="sốt" 2:6 2:6||r="PIP"||c="cảm_giác khó thở khi nằm" 2:14 2:18
+c="sốt" 2:6 2:6||r="PIP"||c="mệt" 2:20 2:20
+c="ho đàm khó khạc" 2:8 2:11||r="PIP"||c="cảm_giác khó thở khi nằm" 2:14 2:18
+c="ho đàm khó khạc" 2:8 2:11||r="PIP"||c="mệt" 2:20 2:20
+c="cảm_giác khó thở khi nằm" 2:14 2:18||r="PIP"||c="mệt" 2:20 2:20
+c="sốt" 3:5 3:5||r="PIP"||c="khó thở" 3:7 3:8
+c="điều_trị" 3:12 3:12||r="TrAP"||c="sốt" 3:5 3:5
+c="điều_trị" 3:12 3:12||r="TrAP"||c="khó thở" 3:7 3:8

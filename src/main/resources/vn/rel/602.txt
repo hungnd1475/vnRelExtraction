@@ -1,0 +1,24 @@
+c="thuốc hạ sốt" 2:10 2:12||r="TrWP"||c="sốt cao" 2:6 2:7
+c="sốt cao" 2:6 2:7||r="PIP"||c="ói liên_tục" 2:19 2:20
+c="sốt cao" 2:6 2:7||r="PIP"||c="ho" 2:22 2:22
+c="sốt cao" 2:6 2:7||r="PIP"||c="sổ_mũi xanh" 2:24 2:25
+c="sốt cao" 2:6 2:7||r="PIP"||c="viêm amydan cấp" 2:31 2:33
+c="sốt cao" 2:6 2:7||r="PIP"||c="rối_loạn tiêu_hóa" 2:35 2:36
+c="thuốc hạ sốt" 2:10 2:12||r="TrWP"||c="ói liên_tục" 2:19 2:20
+c="thuốc hạ sốt" 2:10 2:12||r="TrWP"||c="ho" 2:22 2:22
+c="thuốc hạ sốt" 2:10 2:12||r="TrWP"||c="sổ_mũi xanh" 2:24 2:25
+c="thuốc hạ sốt" 2:10 2:12||r="TrWP"||c="viêm amydan cấp" 2:31 2:33
+c="thuốc hạ sốt" 2:10 2:12||r="TrWP"||c="rối_loạn tiêu_hóa" 2:35 2:36
+c="ói liên_tục" 2:19 2:20||r="PIP"||c="ho" 2:22 2:22
+c="ói liên_tục" 2:19 2:20||r="PIP"||c="sổ_mũi xanh" 2:24 2:25
+c="ói liên_tục" 2:19 2:20||r="PIP"||c="viêm amydan cấp" 2:31 2:33
+c="ói liên_tục" 2:19 2:20||r="PIP"||c="rối_loạn tiêu_hóa" 2:35 2:36
+c="ho" 2:22 2:22||r="PIP"||c="sổ_mũi xanh" 2:24 2:25
+c="ho" 2:22 2:22||r="PIP"||c="viêm amydan cấp" 2:31 2:33
+c="ho" 2:22 2:22||r="PIP"||c="rối_loạn tiêu_hóa" 2:35 2:36
+c="sổ_mũi xanh" 2:24 2:25||r="PIP"||c="viêm amydan cấp" 2:31 2:33
+c="sổ_mũi xanh" 2:24 2:25||r="PIP"||c="rối_loạn tiêu_hóa" 2:35 2:36
+c="viêm amydan cấp" 2:31 2:33||r="PIP"||c="rối_loạn tiêu_hóa" 2:35 2:36
+c="thuốc zenodem" 2:39 2:40||r="TrAP"||c="viêm amydan cấp" 2:31 2:33
+c="thuốc zenodem" 2:39 2:40||r="TrAP"||c="rối_loạn tiêu_hóa" 2:35 2:36
+c="ói liên_tục" 3:3 3:4||r="PIP"||c="ăn_uống kém" 3:6 3:7

@@ -1,0 +1,7 @@
+c="đau thượng" 2:2 2:3||t="problem"
+c="khám và dùng thuốc" 2:8 2:11||t="treatment"
+c="đau quặn bụng thượng_vị nhiều kèm buồn_nôn" 2:18 2:24||t="problem"
+c="tiêu lòng 2 lần không đàm máu" 2:26 2:32||t="problem"
+c="mệt" 2:34 2:34||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="Ức_chế bơm proton" 5:1 5:3||t="treatment"

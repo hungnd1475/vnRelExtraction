@@ -1,0 +1,7 @@
+c="sốt từ tối_ngày 24/03/2014" 6:6 6:9||r="PIP"||c="kèm theo đau bụng âm_ỉ" 6:11 6:15
+c="sốt từ tối_ngày 24/03/2014" 6:6 6:9||r="PIP"||c="có ói 1 lần" 6:17 6:20
+c="sốt từ tối_ngày 24/03/2014" 6:6 6:9||r="PIP"||c="tiêu tiểu bình_thường" 6:22 6:24
+c="kèm theo đau bụng âm_ỉ" 6:11 6:15||r="PIP"||c="có ói 1 lần" 6:17 6:20
+c="kèm theo đau bụng âm_ỉ" 6:11 6:15||r="PIP"||c="tiêu tiểu bình_thường" 6:22 6:24
+c="có ói 1 lần" 6:17 6:20||r="PIP"||c="tiêu tiểu bình_thường" 6:22 6:24
+c="siêu_âm" 6:31 6:31||r="TeRP"||c="ruột_thừa viêm vở" 6:35 6:37

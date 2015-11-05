@@ -1,0 +1,10 @@
+c="nôn ói sau ăn mỳ ý" 4:5 4:10||r="PIP"||c="ói nhiều" 4:12 4:13
+c="nôn ói sau ăn mỳ ý" 4:5 4:10||r="PIP"||c="đi_tiêu phân lỏng" 4:18 4:20
+c="nôn ói sau ăn mỳ ý" 4:5 4:10||r="PIP"||c="mệt_mỏi" 4:22 4:22
+c="điều_trị" 4:33 4:33||r="TrIP"||c="nôn ói sau ăn mỳ ý" 4:5 4:10
+c="ói nhiều" 4:12 4:13||r="PIP"||c="đi_tiêu phân lỏng" 4:18 4:20
+c="ói nhiều" 4:12 4:13||r="PIP"||c="mệt_mỏi" 4:22 4:22
+c="điều_trị" 4:33 4:33||r="TrIP"||c="ói nhiều" 4:12 4:13
+c="đi_tiêu phân lỏng" 4:18 4:20||r="PIP"||c="mệt_mỏi" 4:22 4:22
+c="điều_trị" 4:33 4:33||r="TrIP"||c="đi_tiêu phân lỏng" 4:18 4:20
+c="điều_trị" 4:33 4:33||r="TrIP"||c="mệt_mỏi" 4:22 4:22

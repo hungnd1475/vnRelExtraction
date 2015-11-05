@@ -1,0 +1,13 @@
+c="khám thuốc" 4:14 4:15||r="TrWP"||c="ho khạc đàm màu trắng đục" 4:6 4:11
+c="ho khạc đàm màu trắng đục" 4:6 4:11||r="PIP"||c="viêm họng cấp không giảm" 4:18 4:22
+c="ho khạc đàm màu trắng đục" 4:6 4:11||r="PIP"||c="ho nhiều" 4:25 4:26
+c="ho khạc đàm màu trắng đục" 4:6 4:11||r="PIP"||c="khạc đàm vàng" 4:28 4:30
+c="khám thuốc" 4:14 4:15||r="TrWP"||c="viêm họng cấp không giảm" 4:18 4:22
+c="khám thuốc" 4:14 4:15||r="TrWP"||c="ho nhiều" 4:25 4:26
+c="khám thuốc" 4:14 4:15||r="TrWP"||c="khạc đàm vàng" 4:28 4:30
+c="viêm họng cấp không giảm" 4:18 4:22||r="PIP"||c="ho nhiều" 4:25 4:26
+c="viêm họng cấp không giảm" 4:18 4:22||r="PIP"||c="khạc đàm vàng" 4:28 4:30
+c="ho nhiều" 4:25 4:26||r="PIP"||c="khạc đàm vàng" 4:28 4:30
+c="khò_khè" 6:1 6:1||r="PIP"||c="nặng ngực" 6:3 6:4
+c="khò_khè" 6:1 6:1||r="PIP"||c="mệt" 6:6 6:6
+c="nặng ngực" 6:3 6:4||r="PIP"||c="mệt" 6:6 6:6

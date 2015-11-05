@@ -1,0 +1,10 @@
+c="ho đàm khó khạc" 4:6 4:9||r="PIP"||c="thở khò_khè đàm nhớt" 4:13 4:16
+c="ho đàm khó khạc" 4:6 4:9||r="PIP"||c="sốt ớn lạnh" 4:18 4:20
+c="ho đàm khó khạc" 4:6 4:9||r="PIP"||c="ăn_uống kém" 4:22 4:23
+c="ho đàm khó khạc" 4:6 4:9||r="PIP"||c="mệt" 4:25 4:25
+c="thở khò_khè đàm nhớt" 4:13 4:16||r="PIP"||c="sốt ớn lạnh" 4:18 4:20
+c="thở khò_khè đàm nhớt" 4:13 4:16||r="PIP"||c="ăn_uống kém" 4:22 4:23
+c="thở khò_khè đàm nhớt" 4:13 4:16||r="PIP"||c="mệt" 4:25 4:25
+c="sốt ớn lạnh" 4:18 4:20||r="PIP"||c="ăn_uống kém" 4:22 4:23
+c="sốt ớn lạnh" 4:18 4:20||r="PIP"||c="mệt" 4:25 4:25
+c="ăn_uống kém" 4:22 4:23||r="PIP"||c="mệt" 4:25 4:25

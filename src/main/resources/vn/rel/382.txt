@@ -1,0 +1,6 @@
+c="sụt 10kg" 2:7 2:8||r="PIP"||c="ăn_uống kém" 2:10 2:11
+c="sụt 10kg" 2:7 2:8||r="PIP"||c="mệt nhiều" 2:13 2:14
+c="điều_trị" 2:25 2:25||r="TrIP"||c="sụt 10kg" 2:7 2:8
+c="ăn_uống kém" 2:10 2:11||r="PIP"||c="mệt nhiều" 2:13 2:14
+c="điều_trị" 2:25 2:25||r="TrIP"||c="ăn_uống kém" 2:10 2:11
+c="điều_trị" 2:25 2:25||r="TrIP"||c="mệt nhiều" 2:13 2:14

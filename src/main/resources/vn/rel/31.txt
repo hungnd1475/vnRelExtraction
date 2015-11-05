@@ -1,0 +1,38 @@
+c="sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="sốt" 2:1 2:1||r="PIP"||c="tiêu lõng" 2:5 2:6
+c="ho" 2:3 2:3||r="PIP"||c="tiêu lõng" 2:5 2:6
+c="sốt" 4:6 4:6||r="PIP"||c="ho" 4:8 4:8
+c="sốt" 4:6 4:6||r="PIP"||c="tiêu lõng" 4:10 4:11
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="sốt" 4:6 4:6
+c="sốt" 4:6 4:6||r="PIP"||c="thở nhanh" 4:24 4:25
+c="sốt" 4:6 4:6||r="PIP"||c="ho nhiều" 4:27 4:28
+c="sốt" 4:6 4:6||r="PIP"||c="bỏ bú" 4:30 4:31
+c="sốt" 4:6 4:6||r="PIP"||c="mệt.nhập" 4:33 4:33
+c="ho" 4:8 4:8||r="PIP"||c="tiêu lõng" 4:10 4:11
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="ho" 4:8 4:8
+c="ho" 4:8 4:8||r="PIP"||c="sốt" 4:22 4:22
+c="ho" 4:8 4:8||r="PIP"||c="thở nhanh" 4:24 4:25
+c="ho" 4:8 4:8||r="PIP"||c="ho nhiều" 4:27 4:28
+c="ho" 4:8 4:8||r="PIP"||c="bỏ bú" 4:30 4:31
+c="ho" 4:8 4:8||r="PIP"||c="mệt.nhập" 4:33 4:33
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="tiêu lõng" 4:10 4:11
+c="tiêu lõng" 4:10 4:11||r="PIP"||c="sốt" 4:22 4:22
+c="tiêu lõng" 4:10 4:11||r="PIP"||c="thở nhanh" 4:24 4:25
+c="tiêu lõng" 4:10 4:11||r="PIP"||c="ho nhiều" 4:27 4:28
+c="tiêu lõng" 4:10 4:11||r="PIP"||c="bỏ bú" 4:30 4:31
+c="tiêu lõng" 4:10 4:11||r="PIP"||c="mệt.nhập" 4:33 4:33
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="sốt" 4:22 4:22
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="thở nhanh" 4:24 4:25
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="ho nhiều" 4:27 4:28
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="bỏ bú" 4:30 4:31
+c="uống thuốc" 4:14 4:15||r="TrWP"||c="mệt.nhập" 4:33 4:33
+c="sốt" 4:22 4:22||r="PIP"||c="thở nhanh" 4:24 4:25
+c="sốt" 4:22 4:22||r="PIP"||c="ho nhiều" 4:27 4:28
+c="sốt" 4:22 4:22||r="PIP"||c="bỏ bú" 4:30 4:31
+c="sốt" 4:22 4:22||r="PIP"||c="mệt.nhập" 4:33 4:33
+c="thở nhanh" 4:24 4:25||r="PIP"||c="ho nhiều" 4:27 4:28
+c="thở nhanh" 4:24 4:25||r="PIP"||c="bỏ bú" 4:30 4:31
+c="thở nhanh" 4:24 4:25||r="PIP"||c="mệt.nhập" 4:33 4:33
+c="ho nhiều" 4:27 4:28||r="PIP"||c="bỏ bú" 4:30 4:31
+c="ho nhiều" 4:27 4:28||r="PIP"||c="mệt.nhập" 4:33 4:33
+c="bỏ bú" 4:30 4:31||r="PIP"||c="mệt.nhập" 4:33 4:33

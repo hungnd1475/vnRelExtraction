@@ -1,0 +1,4 @@
+c="sốt" 2:2 2:2||t="problem"
+c="uống thuốc" 2:9 2:10||t="treatment"
+c="chóng_mặt nhiều" 2:15 2:16||t="problem"
+c="điều_trị" 2:27 2:27||t="treatment"

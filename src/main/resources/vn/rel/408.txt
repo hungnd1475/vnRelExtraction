@@ -1,0 +1,3 @@
+c="khó thở nặng" 6:2 6:4||r="PIP"||c="nhập ICU" 6:6 6:7
+c="điều_trị bằng Albumin" 6:11 6:13||r="TrAP"||c="khó thở nặng" 6:2 6:4
+c="điều_trị bằng Albumin" 6:11 6:13||r="TrAP"||c="nhập ICU" 6:6 6:7

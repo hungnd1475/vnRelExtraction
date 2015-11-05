@@ -1,0 +1,5 @@
+c="đau vùng hông lưng" 4:12 4:15||t="problem"
+c="Siêu_âm bụng" 5:1 5:2||t="test"
+c="Sỏi + nang hai thận" 5:4 5:8||t="problem"
+c="Sỏi thận" 6:3 6:4||t="problem"
+c="Tán sỏi ngoài cơ_thể" 7:1 7:4||t="treatment"

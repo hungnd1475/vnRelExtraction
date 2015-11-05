@@ -1,0 +1,6 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="nôn" 4:2 4:2||t="problem"
+c="mệt nhiều" 4:4 4:5||t="problem"
+c="nhập ICU điều_trị" 4:7 4:9||t="treatment"
+c="truyền dịch ổn_định Natri" 4:14 4:17||t="treatment"
+c="nội_khoa" 7:1 7:1||t="treatment"

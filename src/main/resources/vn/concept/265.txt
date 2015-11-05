@@ -1,0 +1,5 @@
+c="đau nhiều vùng hạ sườn ( P )" 2:7 2:14||t="problem"
+c="ăn_uống kém" 2:18 2:19||t="problem"
+c="tiểu sậm màu" 2:21 2:23||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"

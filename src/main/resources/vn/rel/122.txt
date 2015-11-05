@@ -1,0 +1,21 @@
+c="viêm Amydales-VA" 4:3 4:4||r="PIP"||c="cơn ngưng thở lúc ngủ" 4:13 4:17
+c="viêm Amydales-VA" 4:3 4:4||r="PIP"||c="sổ_mũi nhiều" 4:30 4:31
+c="viêm Amydales-VA" 4:3 4:4||r="PIP"||c="mũi xanh , đặc" 4:33 4:36
+c="viêm Amydales-VA" 4:3 4:4||r="PIP"||c="cơn ngưng thở khi ngủ" 4:42 4:46
+c="viêm Amydales-VA" 4:3 4:4||r="PIP"||c="ngưng thở lúc ngủ" 4:52 4:55
+c="viêm Amydales-VA" 4:3 4:4||r="PIP"||c="kèm tím_tái" 4:57 4:58
+c="cơn ngưng thở lúc ngủ" 4:13 4:17||r="PIP"||c="sổ_mũi nhiều" 4:30 4:31
+c="cơn ngưng thở lúc ngủ" 4:13 4:17||r="PIP"||c="mũi xanh , đặc" 4:33 4:36
+c="cơn ngưng thở lúc ngủ" 4:13 4:17||r="PIP"||c="cơn ngưng thở khi ngủ" 4:42 4:46
+c="cơn ngưng thở lúc ngủ" 4:13 4:17||r="PIP"||c="ngưng thở lúc ngủ" 4:52 4:55
+c="cơn ngưng thở lúc ngủ" 4:13 4:17||r="PIP"||c="kèm tím_tái" 4:57 4:58
+c="sổ_mũi nhiều" 4:30 4:31||r="PIP"||c="mũi xanh , đặc" 4:33 4:36
+c="sổ_mũi nhiều" 4:30 4:31||r="PIP"||c="cơn ngưng thở khi ngủ" 4:42 4:46
+c="sổ_mũi nhiều" 4:30 4:31||r="PIP"||c="ngưng thở lúc ngủ" 4:52 4:55
+c="sổ_mũi nhiều" 4:30 4:31||r="PIP"||c="kèm tím_tái" 4:57 4:58
+c="mũi xanh , đặc" 4:33 4:36||r="PIP"||c="cơn ngưng thở khi ngủ" 4:42 4:46
+c="mũi xanh , đặc" 4:33 4:36||r="PIP"||c="ngưng thở lúc ngủ" 4:52 4:55
+c="mũi xanh , đặc" 4:33 4:36||r="PIP"||c="kèm tím_tái" 4:57 4:58
+c="cơn ngưng thở khi ngủ" 4:42 4:46||r="PIP"||c="ngưng thở lúc ngủ" 4:52 4:55
+c="cơn ngưng thở khi ngủ" 4:42 4:46||r="PIP"||c="kèm tím_tái" 4:57 4:58
+c="ngưng thở lúc ngủ" 4:52 4:55||r="PIP"||c="kèm tím_tái" 4:57 4:58

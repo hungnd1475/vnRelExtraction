@@ -1,0 +1,7 @@
+c="bụng ngày_càng căng to" 2:6 2:9||t="problem"
+c="đầy bụng khó tiêu sau ăn" 2:11 2:16||t="problem"
+c="đi_cầu khó" 2:18 2:19||t="problem"
+c="cảm_giác tức bụng" 2:21 2:23||t="problem"
+c="điều_trị thuốc_nam" 3:2 3:3||t="treatment"
+c="Ức_chế bơm proton" 5:1 5:3||t="treatment"
+c="Bù đạm" 6:1 6:2||t="treatment"

@@ -1,0 +1,7 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau quặn bụng từng cơn" 6:2 6:6||t="problem"
+c="tiêu lỏng nhiều lần" 6:8 6:11||t="problem"
+c="phân nhiều nước không lẫn máu đàm" 6:13 6:19||t="problem"
+c="sốt" 6:21 6:21||t="problem"
+c="mệt_mỏi" 6:23 6:23||t="problem"
+c="điều_trị" 6:37 6:37||t="treatment"

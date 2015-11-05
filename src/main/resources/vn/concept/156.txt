@@ -1,0 +1,2 @@
+c="ọc sữa" 2:10 2:11||t="problem"
+c="vàng da đến ngực" 2:13 2:16||t="problem"

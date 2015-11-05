@@ -1,0 +1,5 @@
+c="phẫu_thuật" 2:1 2:1||t="treatment"
+c="Viêm ruột_thừa cấp" 4:3 4:5||t="problem"
+c="đau nhiều hố_chậu ( P )" 6:6 6:11||t="problem"
+c="Viêm ruột_thừa cấp" 7:3 7:5||t="problem"
+c="Được PT cắt ruột_thừa qua nội_soi" 7:7 7:12||t="treatment"

@@ -1,0 +1,10 @@
+c="khối phồng hậu_môn" 6:7 6:9||r="PIP"||c="đi_cầu ra máu tươi" 6:11 6:14
+c="khối phồng hậu_môn" 6:7 6:9||r="PIP"||c="Trĩ nội độ III" 6:31 6:34
+c="đi_cầu ra máu tươi" 6:11 6:14||r="PIP"||c="Trĩ nội độ III" 6:31 6:34
+c="khối phồng hậu_môn" 8:7 8:9||r="PIP"||c="đi_cầu ra máu tươi" 8:11 8:14
+c="khối phồng hậu_môn" 8:7 8:9||r="PIP"||c="Trĩ nội độ III" 8:31 8:34
+c="đi_cầu ra máu tươi" 8:11 8:14||r="PIP"||c="Trĩ nội độ III" 8:31 8:34
+c="phẫu_thuật cắt trĩ phương_pháp longo" 9:7 9:11||r="TrIP"||c="Trĩ độ III" 9:3 9:5
+c="khám thăm hậu_môn trực_tràng" 6:26 6:29||r="TeCP"||c="khối phồng hậu_môn" 6:7 6:9
+c="khám thăm hậu_môn trực_tràng" 6:26 6:29||r="TeCP"||c="đi_cầu ra máu tươi" 6:11 6:14
+c="khám thăm hậu_môn trực_tràng" 6:26 6:29||r="TeRP"||c="Trĩ nội độ III" 6:31 6:34

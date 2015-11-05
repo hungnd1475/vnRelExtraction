@@ -1,0 +1,43 @@
+c="sốt" 2:1 2:1||r="PIP"||c="quấy" 2:3 2:3
+c="sốt" 4:6 4:6||r="PIP"||c="sốt dao_động" 4:8 4:9
+c="sốt" 4:6 4:6||r="PIP"||c="quấy" 4:11 4:11
+c="sốt" 4:6 4:6||r="PIP"||c="bứt_rứt" 4:13 4:13
+c="sốt" 4:6 4:6||r="PIP"||c="ngủ giật_mình" 4:15 4:16
+c="sốt" 4:6 4:6||r="PIP"||c="quấy" 4:25 4:25
+c="sốt" 4:6 4:6||r="PIP"||c="bứt_rứt" 4:27 4:27
+c="sốt" 4:6 4:6||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="sốt" 4:6 4:6||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="quấy" 4:11 4:11
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="bứt_rứt" 4:13 4:13
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="ngủ giật_mình" 4:15 4:16
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="sốt" 4:23 4:23
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="quấy" 4:25 4:25
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="bứt_rứt" 4:27 4:27
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="sốt dao_động" 4:8 4:9||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="quấy" 4:11 4:11||r="PIP"||c="bứt_rứt" 4:13 4:13
+c="quấy" 4:11 4:11||r="PIP"||c="ngủ giật_mình" 4:15 4:16
+c="quấy" 4:11 4:11||r="PIP"||c="sốt" 4:23 4:23
+c="quấy" 4:11 4:11||r="PIP"||c="bứt_rứt" 4:27 4:27
+c="quấy" 4:11 4:11||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="quấy" 4:11 4:11||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="bứt_rứt" 4:13 4:13||r="PIP"||c="ngủ giật_mình" 4:15 4:16
+c="bứt_rứt" 4:13 4:13||r="PIP"||c="sốt" 4:23 4:23
+c="bứt_rứt" 4:13 4:13||r="PIP"||c="quấy" 4:25 4:25
+c="bứt_rứt" 4:13 4:13||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="bứt_rứt" 4:13 4:13||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="ngủ giật_mình" 4:15 4:16||r="PIP"||c="sốt" 4:23 4:23
+c="ngủ giật_mình" 4:15 4:16||r="PIP"||c="quấy" 4:25 4:25
+c="ngủ giật_mình" 4:15 4:16||r="PIP"||c="bứt_rứt" 4:27 4:27
+c="ngủ giật_mình" 4:15 4:16||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="ngủ giật_mình" 4:15 4:16||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="sốt" 4:23 4:23||r="PIP"||c="quấy" 4:25 4:25
+c="sốt" 4:23 4:23||r="PIP"||c="bứt_rứt" 4:27 4:27
+c="sốt" 4:23 4:23||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="sốt" 4:23 4:23||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="quấy" 4:25 4:25||r="PIP"||c="bứt_rứt" 4:27 4:27
+c="quấy" 4:25 4:25||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="quấy" 4:25 4:25||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="bứt_rứt" 4:27 4:27||r="PIP"||c="nổi hồng ban tay_chân" 4:29 4:32
+c="bứt_rứt" 4:27 4:27||r="PIP"||c="ăn_uống kém" 4:34 4:35
+c="nổi hồng ban tay_chân" 4:29 4:32||r="PIP"||c="ăn_uống kém" 4:34 4:35

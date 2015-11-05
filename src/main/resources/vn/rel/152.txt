@@ -1,0 +1,1 @@
+c="vàng da nhẹ" 2:6 2:8||r="PIP"||c="rốn rỉ dịch vàng mùi hôi" 2:10 2:15

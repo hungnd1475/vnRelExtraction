@@ -1,0 +1,9 @@
+Bệnh Lý
+Bệnh_nhân khai nhìn và sờ vùng cổ lớn bất_thường , nghi bướu_cổ , đi khám siêu_âm tuyến : Bướu tuyến_giáp 2 bên , có chỉ_định phẫu_thuật .
+Tiền Sử Bệnh
+Bình_thường
+Điều Trị
+Phẫu_thuật
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nữ 42 tuổi , Bệnh_nhân khai nhìn và sờ vùng cổ lớn bất_thường , nghi bướu_cổ , đi khám siêu_âm tuyến : Bướu tuyến_giáp 2 bên , có chỉ_định phẫu_thuật .
+Chẩn_đoán : Nhân giáp 2 thùy .

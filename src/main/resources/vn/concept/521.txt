@@ -1,0 +1,4 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="hai chi dưới không cử_động được" 4:3 4:8||t="problem"
+c="nhập Icu diều trị" 4:12 4:15||t="treatment"
+c="nội_khoa" 7:1 7:1||t="treatment"

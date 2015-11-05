@@ -1,0 +1,5 @@
+c="khối phông vùng bẹn ( P )" 6:11 6:17||r="PIP"||c="khối phông lớn khi đứng hoặc ho" 6:19 6:25
+c="khối phông vùng bẹn ( P )" 6:11 6:17||r="PIP"||c="đau vùng bẹn ( P )" 6:30 6:35
+c="khối phông lớn khi đứng hoặc ho" 6:19 6:25||r="PIP"||c="đau vùng bẹn ( P )" 6:30 6:35
+c="khối phông vùng bẹn" 10:8 10:11||r="PIP"||c="cảm_giác đau vùng bẹn" 10:26 10:29
+c="Siêu_âm" 7:1 7:1||r="TeRP"||c="Thoát_vị bẹn ( P )" 7:3 7:7

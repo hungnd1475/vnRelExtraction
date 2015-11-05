@@ -1,0 +1,5 @@
+c="điều_trị áp xe cạnh hậu_môn" 4:7 4:11||r="TrCP"||c="đau vùng hậu_môn" 4:14 4:16
+c="điều_trị áp xe cạnh hậu_môn" 4:7 4:11||r="TrCP"||c="rĩ dịch" 4:18 4:19
+c="đau vùng hậu_môn" 4:14 4:16||r="PIP"||c="rĩ dịch" 4:18 4:19
+c="phẫu_thuật" 4:27 4:27||r="TrAP"||c="đau vùng hậu_môn" 4:14 4:16
+c="phẫu_thuật" 4:27 4:27||r="TrAP"||c="rĩ dịch" 4:18 4:19

@@ -1,0 +1,7 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="Bệnh_nhân mệt sốt" 4:1 4:3||t="problem"
+c="huyết_áp ổn_định" 5:1 5:2||t="test"
+c="nhiễm_trùng ngón chân giãm" 5:4 5:7||t="problem"
+c="tiểu khó" 5:10 5:11||t="problem"
+c="rặn tiểu" 5:14 5:15||t="test"
+c="kháng_sinh" 8:1 8:1||t="treatment"

@@ -1,0 +1,4 @@
+c="k tế_bào tuyến ức di_căn" 2:7 2:11||t="problem"
+c="hóa_trị" 2:21 2:21||t="treatment"
+c="truyền hóa_chất" 3:18 3:19||t="treatment"
+c="Nội_khoa" 5:1 5:1||t="treatment"

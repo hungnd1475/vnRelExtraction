@@ -1,0 +1,22 @@
+c="Mệt" 2:1 2:1||r="PIP"||c="chóng_mặt" 2:3 2:3
+c="chóng_mặt" 4:10 4:10||r="PIP"||c="đau_đầu" 4:12 4:12
+c="chóng_mặt" 4:10 4:10||r="PIP"||c="tức ngực sau xương ức" 4:19 4:23
+c="chóng_mặt" 4:10 4:10||r="PIP"||c="đau_nhức lưng" 4:25 4:26
+c="chóng_mặt" 4:10 4:10||r="PIP"||c="chướng bụng sau ăn" 4:28 4:31
+c="chóng_mặt" 4:10 4:10||r="PIP"||c="ợ hơi" 4:33 4:34
+c="chóng_mặt" 4:10 4:10||r="PIP"||c="mệt" 4:36 4:36
+c="đau_đầu" 4:12 4:12||r="PIP"||c="tức ngực sau xương ức" 4:19 4:23
+c="đau_đầu" 4:12 4:12||r="PIP"||c="đau_nhức lưng" 4:25 4:26
+c="đau_đầu" 4:12 4:12||r="PIP"||c="chướng bụng sau ăn" 4:28 4:31
+c="đau_đầu" 4:12 4:12||r="PIP"||c="ợ hơi" 4:33 4:34
+c="đau_đầu" 4:12 4:12||r="PIP"||c="mệt" 4:36 4:36
+c="tức ngực sau xương ức" 4:19 4:23||r="PIP"||c="đau_nhức lưng" 4:25 4:26
+c="tức ngực sau xương ức" 4:19 4:23||r="PIP"||c="chướng bụng sau ăn" 4:28 4:31
+c="tức ngực sau xương ức" 4:19 4:23||r="PIP"||c="ợ hơi" 4:33 4:34
+c="tức ngực sau xương ức" 4:19 4:23||r="PIP"||c="mệt" 4:36 4:36
+c="đau_nhức lưng" 4:25 4:26||r="PIP"||c="chướng bụng sau ăn" 4:28 4:31
+c="đau_nhức lưng" 4:25 4:26||r="PIP"||c="ợ hơi" 4:33 4:34
+c="đau_nhức lưng" 4:25 4:26||r="PIP"||c="mệt" 4:36 4:36
+c="chướng bụng sau ăn" 4:28 4:31||r="PIP"||c="ợ hơi" 4:33 4:34
+c="chướng bụng sau ăn" 4:28 4:31||r="PIP"||c="mệt" 4:36 4:36
+c="ợ hơi" 4:33 4:34||r="PIP"||c="mệt" 4:36 4:36

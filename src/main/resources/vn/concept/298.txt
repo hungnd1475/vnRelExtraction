@@ -1,0 +1,4 @@
+c="noion mữa" 2:11 2:12||t="problem"
+c="tiêu_chảy" 2:14 2:14||t="problem"
+c="đau quặng bụng quanh rốn" 2:16 2:20||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"

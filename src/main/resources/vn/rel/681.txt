@@ -1,0 +1,13 @@
+c="3 ngày_nay sốt" 2:4 2:6||r="PIP"||c="ho khạc đàm xanh" 2:8 2:11
+c="3 ngày_nay sốt" 2:4 2:6||r="PIP"||c="đau quặn bụng từng cơn" 2:14 2:18
+c="ho khạc đàm xanh" 2:8 2:11||r="PIP"||c="đau quặn bụng từng cơn" 2:14 2:18
+c="Đau bụng CRNN" 3:8 3:10||r="PIP"||c="Bệnh_nhân còn ho" 3:15 3:17
+c="Đau bụng CRNN" 3:8 3:10||r="PIP"||c="thở khò_khè" 3:19 3:20
+c="Đau bụng CRNN" 3:8 3:10||r="PIP"||c="đau tức mạn sườn" 3:22 3:25
+c="Đau bụng CRNN" 3:8 3:10||r="PIP"||c="kèm đau bụng mệt_mỏi" 3:27 3:30
+c="Bệnh_nhân còn ho" 3:15 3:17||r="PIP"||c="thở khò_khè" 3:19 3:20
+c="Bệnh_nhân còn ho" 3:15 3:17||r="PIP"||c="đau tức mạn sườn" 3:22 3:25
+c="Bệnh_nhân còn ho" 3:15 3:17||r="PIP"||c="kèm đau bụng mệt_mỏi" 3:27 3:30
+c="thở khò_khè" 3:19 3:20||r="PIP"||c="đau tức mạn sườn" 3:22 3:25
+c="thở khò_khè" 3:19 3:20||r="PIP"||c="kèm đau bụng mệt_mỏi" 3:27 3:30
+c="đau tức mạn sườn" 3:22 3:25||r="PIP"||c="kèm đau bụng mệt_mỏi" 3:27 3:30

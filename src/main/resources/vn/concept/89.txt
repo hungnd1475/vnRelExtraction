@@ -1,0 +1,4 @@
+c="Đau ngực" 2:1 2:2||t="problem"
+c="khó thở" 2:4 2:5||t="problem"
+c="Nội_khoa" 6:1 6:1||t="treatment"
+c="nội_khoa" 8:1 8:1||t="treatment"

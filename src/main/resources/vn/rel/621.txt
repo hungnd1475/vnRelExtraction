@@ -1,0 +1,21 @@
+c="mệt_mỏi" 2:9 2:9||r="PIP"||c="sốt liên_tục kèm đau_đầu" 2:11 2:14
+c="mệt_mỏi" 2:9 2:9||r="PIP"||c="chóng_mặt" 2:16 2:16
+c="mệt_mỏi" 2:9 2:9||r="PIP"||c="ho_khan" 2:18 2:18
+c="mệt_mỏi" 2:9 2:9||r="PIP"||c="đau thượng_vị" 2:20 2:21
+c="mệt_mỏi" 2:9 2:9||r="PIP"||c="tiêu lỏng" 2:31 2:32
+c="mệt_mỏi" 2:9 2:9||r="PIP"||c="nhức mỏi toàn_thân" 2:34 2:36
+c="sốt liên_tục kèm đau_đầu" 2:11 2:14||r="PIP"||c="chóng_mặt" 2:16 2:16
+c="sốt liên_tục kèm đau_đầu" 2:11 2:14||r="PIP"||c="ho_khan" 2:18 2:18
+c="sốt liên_tục kèm đau_đầu" 2:11 2:14||r="PIP"||c="đau thượng_vị" 2:20 2:21
+c="sốt liên_tục kèm đau_đầu" 2:11 2:14||r="PIP"||c="tiêu lỏng" 2:31 2:32
+c="sốt liên_tục kèm đau_đầu" 2:11 2:14||r="PIP"||c="nhức mỏi toàn_thân" 2:34 2:36
+c="chóng_mặt" 2:16 2:16||r="PIP"||c="ho_khan" 2:18 2:18
+c="chóng_mặt" 2:16 2:16||r="PIP"||c="đau thượng_vị" 2:20 2:21
+c="chóng_mặt" 2:16 2:16||r="PIP"||c="tiêu lỏng" 2:31 2:32
+c="chóng_mặt" 2:16 2:16||r="PIP"||c="nhức mỏi toàn_thân" 2:34 2:36
+c="ho_khan" 2:18 2:18||r="PIP"||c="đau thượng_vị" 2:20 2:21
+c="ho_khan" 2:18 2:18||r="PIP"||c="tiêu lỏng" 2:31 2:32
+c="ho_khan" 2:18 2:18||r="PIP"||c="nhức mỏi toàn_thân" 2:34 2:36
+c="đau thượng_vị" 2:20 2:21||r="PIP"||c="tiêu lỏng" 2:31 2:32
+c="đau thượng_vị" 2:20 2:21||r="PIP"||c="nhức mỏi toàn_thân" 2:34 2:36
+c="tiêu lỏng" 2:31 2:32||r="PIP"||c="nhức mỏi toàn_thân" 2:34 2:36

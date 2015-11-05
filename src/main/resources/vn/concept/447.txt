@@ -1,0 +1,2 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau bụng âm ĩ" 4:2 4:5||t="problem"

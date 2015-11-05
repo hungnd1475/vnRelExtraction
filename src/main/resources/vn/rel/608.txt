@@ -1,0 +1,17 @@
+c="đi_tiêu phẩn lỏng" 2:8 2:10||r="PIP"||c="ói" 2:16 2:16
+c="đi_tiêu phẩn lỏng" 2:8 2:10||r="PIP"||c="ho" 2:25 2:25
+c="ói" 2:16 2:16||r="PIP"||c="ho" 2:25 2:25
+c="đi_tiêu phần lỏng" 3:3 3:5||r="PIP"||c="ho nhiều hơn" 3:11 3:13
+c="cefixime" 4:4 4:4||r="TrWP"||c="viêm phế_quản" 4:17 4:18
+c="cefixime" 4:4 4:4||r="TrWP"||c="rối_loạn tiêu_hóa" 4:20 4:21
+c="prednisolone" 4:6 4:6||r="TrWP"||c="viêm phế_quản" 4:17 4:18
+c="prednisolone" 4:6 4:6||r="TrWP"||c="rối_loạn tiêu_hóa" 4:20 4:21
+c="salnutamol" 4:8 4:8||r="TrWP"||c="viêm phế_quản" 4:17 4:18
+c="salnutamol" 4:8 4:8||r="TrWP"||c="rối_loạn tiêu_hóa" 4:20 4:21
+c="pectol" 4:10 4:10||r="TrWP"||c="viêm phế_quản" 4:17 4:18
+c="pectol" 4:10 4:10||r="TrWP"||c="rối_loạn tiêu_hóa" 4:20 4:21
+c="lactobacillus" 4:12 4:12||r="TrWP"||c="viêm phế_quản" 4:17 4:18
+c="lactobacillus" 4:12 4:12||r="TrWP"||c="rối_loạn tiêu_hóa" 4:20 4:21
+c="hidrasec" 4:14 4:14||r="TrWP"||c="viêm phế_quản" 4:17 4:18
+c="hidrasec" 4:14 4:14||r="TrWP"||c="rối_loạn tiêu_hóa" 4:20 4:21
+c="viêm phế_quản" 4:17 4:18||r="PIP"||c="rối_loạn tiêu_hóa" 4:20 4:21

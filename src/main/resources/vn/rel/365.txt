@@ -1,0 +1,6 @@
+c="chóng_mặt" 2:6 2:6||r="PIP"||c="buồn ói" 2:8 2:9
+c="chóng_mặt" 2:6 2:6||r="PIP"||c="ói ra thức_ăn" 2:12 2:14
+c="chóng_mặt" 2:6 2:6||r="PIP"||c="đau_đầu" 2:16 2:16
+c="buồn ói" 2:8 2:9||r="PIP"||c="ói ra thức_ăn" 2:12 2:14
+c="buồn ói" 2:8 2:9||r="PIP"||c="đau_đầu" 2:16 2:16
+c="ói ra thức_ăn" 2:12 2:14||r="PIP"||c="đau_đầu" 2:16 2:16

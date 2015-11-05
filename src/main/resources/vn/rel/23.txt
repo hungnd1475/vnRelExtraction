@@ -1,0 +1,10 @@
+c="Khó thở" 2:1 2:2||r="PIP"||c="mệt" 2:4 2:4
+c="ho" 4:4 4:4||r="PIP"||c="khò_khè nhiều" 4:6 4:7
+c="ho" 4:4 4:4||r="PIP"||c="khó thở" 4:9 4:10
+c="ho" 4:4 4:4||r="PIP"||c="mệt" 4:12 4:12
+c="khò_khè nhiều" 4:6 4:7||r="PIP"||c="khó thở" 4:9 4:10
+c="khò_khè nhiều" 4:6 4:7||r="PIP"||c="mệt" 4:12 4:12
+c="khó thở" 4:9 4:10||r="PIP"||c="mệt" 4:12 4:12
+c="COPD" 6:1 6:1||r="PIP"||c="HC dạ_dày" 6:3 6:4
+c="COPD" 6:1 6:1||r="PIP"||c="Lão_suy" 6:6 6:6
+c="HC dạ_dày" 6:3 6:4||r="PIP"||c="Lão_suy" 6:6 6:6

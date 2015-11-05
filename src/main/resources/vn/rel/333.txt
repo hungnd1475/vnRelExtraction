@@ -1,0 +1,4 @@
+c="ăn_tiêu lỏng 4-5 lần klho 6ng đàm máu" 4:7 4:14||r="PIP"||c="đau quặn bụng thượng_vị" 4:18 4:21
+c="ăn_tiêu lỏng 4-5 lần klho 6ng đàm máu" 4:7 4:14||r="PIP"||c="nôn òi" 4:23 4:24
+c="đau quặn bụng thượng_vị" 4:18 4:21||r="PIP"||c="nôn òi" 4:23 4:24
+c="nhức mỏi toàn_thân" 5:1 5:3||r="PIP"||c="mệt nhiều" 5:5 5:6

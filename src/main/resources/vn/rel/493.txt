@@ -1,0 +1,44 @@
+c="sốt" 6:2 6:2||r="PIP"||c="đau rát họng" 6:6 6:8
+c="sốt" 6:2 6:2||r="PIP"||c="sổ_mũi" 6:10 6:10
+c="sốt" 6:2 6:2||r="PIP"||c="ho đàm" 6:12 6:13
+c="sốt" 6:2 6:2||r="PIP"||c="sốt cao" 6:19 6:20
+c="sốt" 6:2 6:2||r="PIP"||c="ho đàm" 6:22 6:23
+c="sốt" 6:2 6:2||r="PIP"||c="tiêu_chảy phân toàn nước" 6:25 6:28
+c="sốt" 6:2 6:2||r="PIP"||c="da môi khô" 6:30 6:32
+c="sốt" 6:2 6:2||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="sốt" 6:2 6:2||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="đau rát họng" 6:6 6:8||r="PIP"||c="sổ_mũi" 6:10 6:10
+c="đau rát họng" 6:6 6:8||r="PIP"||c="ho đàm" 6:12 6:13
+c="đau rát họng" 6:6 6:8||r="PIP"||c="sốt cao" 6:19 6:20
+c="đau rát họng" 6:6 6:8||r="PIP"||c="ho đàm" 6:22 6:23
+c="đau rát họng" 6:6 6:8||r="PIP"||c="tiêu_chảy phân toàn nước" 6:25 6:28
+c="đau rát họng" 6:6 6:8||r="PIP"||c="da môi khô" 6:30 6:32
+c="đau rát họng" 6:6 6:8||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="đau rát họng" 6:6 6:8||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="sổ_mũi" 6:10 6:10||r="PIP"||c="ho đàm" 6:12 6:13
+c="sổ_mũi" 6:10 6:10||r="PIP"||c="sốt cao" 6:19 6:20
+c="sổ_mũi" 6:10 6:10||r="PIP"||c="ho đàm" 6:22 6:23
+c="sổ_mũi" 6:10 6:10||r="PIP"||c="tiêu_chảy phân toàn nước" 6:25 6:28
+c="sổ_mũi" 6:10 6:10||r="PIP"||c="da môi khô" 6:30 6:32
+c="sổ_mũi" 6:10 6:10||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="sổ_mũi" 6:10 6:10||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="ho đàm" 6:12 6:13||r="PIP"||c="sốt cao" 6:19 6:20
+c="ho đàm" 6:12 6:13||r="PIP"||c="tiêu_chảy phân toàn nước" 6:25 6:28
+c="ho đàm" 6:12 6:13||r="PIP"||c="da môi khô" 6:30 6:32
+c="ho đàm" 6:12 6:13||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="ho đàm" 6:12 6:13||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="sốt cao" 6:19 6:20||r="PIP"||c="ho đàm" 6:22 6:23
+c="sốt cao" 6:19 6:20||r="PIP"||c="tiêu_chảy phân toàn nước" 6:25 6:28
+c="sốt cao" 6:19 6:20||r="PIP"||c="da môi khô" 6:30 6:32
+c="sốt cao" 6:19 6:20||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="sốt cao" 6:19 6:20||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="ho đàm" 6:22 6:23||r="PIP"||c="tiêu_chảy phân toàn nước" 6:25 6:28
+c="ho đàm" 6:22 6:23||r="PIP"||c="da môi khô" 6:30 6:32
+c="ho đàm" 6:22 6:23||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="ho đàm" 6:22 6:23||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="tiêu_chảy phân toàn nước" 6:25 6:28||r="PIP"||c="da môi khô" 6:30 6:32
+c="tiêu_chảy phân toàn nước" 6:25 6:28||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="tiêu_chảy phân toàn nước" 6:25 6:28||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="da môi khô" 6:30 6:32||r="PIP"||c="ăn_uống kém" 6:34 6:35
+c="da môi khô" 6:30 6:32||r="PIP"||c="mệt_mỏi" 6:37 6:37
+c="ăn_uống kém" 6:34 6:35||r="PIP"||c="mệt_mỏi" 6:37 6:37

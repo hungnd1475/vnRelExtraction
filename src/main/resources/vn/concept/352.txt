@@ -1,0 +1,7 @@
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="đau vùng thượng_vị" 6:3 6:5||t="problem"
+c="đau quặn" 6:10 6:11||t="problem"
+c="đau hố_chậu ( P )" 6:13 6:17||t="problem"
+c="Viêm ruột" 7:3 7:4||t="problem"
+c="điều_trị nội_khoa" 7:7 7:8||t="treatment"
+c="nội_khoa" 9:1 9:1||t="treatment"

@@ -1,0 +1,4 @@
+c="diều trị truyền máu" 4:16 4:19||r="TrAP"||c="nôn ra máu" 4:4 4:6
+c="truyền dịch" 4:21 4:22||r="TrAP"||c="nôn ra máu" 4:4 4:6
+c="kháng_sinh" 4:24 4:24||r="TrAP"||c="nôn ra máu" 4:4 4:6
+c="khí dung" 4:26 4:27||r="TrAP"||c="nôn ra máu" 4:4 4:6

@@ -1,0 +1,8 @@
+c="mệt nhiều" 2:6 2:7||t="problem"
+c="đau_đầu" 2:9 2:9||t="problem"
+c="chóng_mặt khi đi_lại" 2:11 2:13||t="problem"
+c="cảm_giác lói ngực sau xương ức" 2:15 2:20||t="problem"
+c="mất_ngủ" 2:22 2:22||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ_áp" 6:1 6:1||t="treatment"

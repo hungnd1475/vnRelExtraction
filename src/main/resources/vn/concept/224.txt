@@ -1,0 +1,7 @@
+c="mệt_mỏi" 2:6 2:6||t="problem"
+c="ăn_uống kém" 2:8 2:9||t="problem"
+c="tiểu nhiều lần về đêm" 2:11 2:15||t="problem"
+c="đau lưng" 2:17 2:18||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ đường_huyết" 6:1 6:2||t="treatment"

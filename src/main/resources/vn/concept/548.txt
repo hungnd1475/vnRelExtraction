@@ -1,0 +1,5 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="Bệnh_nhân bị K phổi đã phẫu_thuật cách đây # 01 năm" 4:6 4:16||t="problem"
+c="hom qua làm mệt" 4:18 4:21||t="problem"
+c="bị khó thở" 4:23 4:25||t="problem"
+c="Điều_trị nội_khoa" 5:1 5:2||t="treatment"

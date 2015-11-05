@@ -1,0 +1,2 @@
+c="đau âm_ỉ thượng_vị 2 ngày" 2:2 2:6||t="problem"
+c="đau nhiều" 3:4 3:5||t="problem"

@@ -1,0 +1,15 @@
+c="sốt cao liên_tục 2 ngày_nay" 4:2 4:6||r="PIP"||c="nhức mỏi cơ" 4:8 4:10
+c="sốt cao liên_tục 2 ngày_nay" 4:2 4:6||r="PIP"||c="hồng ban mụn nước nổi rải_rác toàn_thân" 4:12 4:18
+c="sốt cao liên_tục 2 ngày_nay" 4:2 4:6||r="PIP"||c="ngứa nhiều vùng mọc mụn" 4:20 4:24
+c="sốt cao liên_tục 2 ngày_nay" 4:2 4:6||r="PIP"||c="mệt_mỏi" 4:26 4:26
+c="điều_trị" 4:32 4:32||r="TrIP"||c="sốt cao liên_tục 2 ngày_nay" 4:2 4:6
+c="nhức mỏi cơ" 4:8 4:10||r="PIP"||c="hồng ban mụn nước nổi rải_rác toàn_thân" 4:12 4:18
+c="nhức mỏi cơ" 4:8 4:10||r="PIP"||c="ngứa nhiều vùng mọc mụn" 4:20 4:24
+c="nhức mỏi cơ" 4:8 4:10||r="PIP"||c="mệt_mỏi" 4:26 4:26
+c="điều_trị" 4:32 4:32||r="TrIP"||c="nhức mỏi cơ" 4:8 4:10
+c="hồng ban mụn nước nổi rải_rác toàn_thân" 4:12 4:18||r="PIP"||c="ngứa nhiều vùng mọc mụn" 4:20 4:24
+c="hồng ban mụn nước nổi rải_rác toàn_thân" 4:12 4:18||r="PIP"||c="mệt_mỏi" 4:26 4:26
+c="điều_trị" 4:32 4:32||r="TrIP"||c="hồng ban mụn nước nổi rải_rác toàn_thân" 4:12 4:18
+c="ngứa nhiều vùng mọc mụn" 4:20 4:24||r="PIP"||c="mệt_mỏi" 4:26 4:26
+c="điều_trị" 4:32 4:32||r="TrIP"||c="ngứa nhiều vùng mọc mụn" 4:20 4:24
+c="điều_trị" 4:32 4:32||r="TrIP"||c="mệt_mỏi" 4:26 4:26

@@ -1,0 +1,7 @@
+c="đau hông lưng ( T )" 2:5 2:10||r="PIP"||c="tiểu gắt" 2:15 2:16
+c="đau hông lưng ( T )" 2:5 2:10||r="PIP"||c="lắt_nhắt" 2:18 2:18
+c="tiểu gắt" 2:15 2:16||r="PIP"||c="lắt_nhắt" 2:18 2:18
+c="đau hông lưng" 7:2 7:4||r="PIP"||c="tiểu gắt" 7:12 7:13
+c="đau hông lưng" 7:2 7:4||r="PIP"||c="lắt_nhắt" 7:15 7:15
+c="tiểu gắt" 7:12 7:13||r="PIP"||c="lắt_nhắt" 7:15 7:15
+c="PT tán sỏi niệu_quản" 10:11 10:14||r="TrIP"||c="Sỏi kẹt niệu_quản" 10:3 10:5

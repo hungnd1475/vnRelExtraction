@@ -1,0 +1,6 @@
+c="ho đàm khó khạc" 4:6 4:9||r="PIP"||c="khó thở thở khò_khè về đêm" 4:13 4:18
+c="ho đàm khó khạc" 4:6 4:9||r="PIP"||c="ăn_uống kém" 4:20 4:21
+c="ho đàm khó khạc" 4:6 4:9||r="PIP"||c="mệt" 4:23 4:23
+c="khó thở thở khò_khè về đêm" 4:13 4:18||r="PIP"||c="ăn_uống kém" 4:20 4:21
+c="khó thở thở khò_khè về đêm" 4:13 4:18||r="PIP"||c="mệt" 4:23 4:23
+c="ăn_uống kém" 4:20 4:21||r="PIP"||c="mệt" 4:23 4:23

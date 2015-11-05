@@ -1,0 +1,1 @@
+c="chán ăn" 5:4 5:5||r="PIP"||c="hồng ban bóng_nước tay_chân" 5:8 5:11

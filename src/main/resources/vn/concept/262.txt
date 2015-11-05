@@ -1,0 +1,6 @@
+c="đau_đầu nhiều vùng trán từ chiều đau theo mạch đập" 2:2 2:11||t="problem"
+c="chóng_mặt khi thay_đổi tư_thế" 2:13 2:16||t="problem"
+c="buồn_nôn" 2:18 2:18||t="problem"
+c="nôn" 2:20 2:20||t="problem"
+c="mệt_mỏi" 2:22 2:22||t="problem"
+c="điều_trị" 2:32 2:32||t="treatment"

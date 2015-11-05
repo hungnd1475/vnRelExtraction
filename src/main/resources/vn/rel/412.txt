@@ -1,0 +1,12 @@
+c="đau tức vùng hạ sườn phải" 4:13 4:18||r="PIP"||c="sỏi túi_mật" 4:24 4:25
+c="đau tức vùng hạ sườn phải" 4:13 4:18||r="PIP"||c="viêm dạ_dày" 4:27 4:28
+c="sỏi túi_mật" 4:24 4:25||r="PIP"||c="viêm dạ_dày" 4:27 4:28
+c="đau tức vùng hạ sườn phải" 7:13 7:18||r="PIP"||c="sỏi túi_mật" 7:24 7:25
+c="đau tức vùng hạ sườn phải" 7:13 7:18||r="PIP"||c="viêm dạ_dày" 7:27 7:28
+c="khám sỏi túi_mật" 7:33 7:35||r="TrWP"||c="đau tức vùng hạ sườn phải" 7:13 7:18
+c="sỏi túi_mật" 7:24 7:25||r="PIP"||c="viêm dạ_dày" 7:27 7:28
+c="khám sỏi túi_mật" 7:33 7:35||r="TrWP"||c="sỏi túi_mật" 7:24 7:25
+c="khám sỏi túi_mật" 7:33 7:35||r="TrWP"||c="viêm dạ_dày" 7:27 7:28
+c="siêu_âm" 7:22 7:22||r="TeCP"||c="đau tức vùng hạ sườn phải" 7:13 7:18
+c="siêu_âm" 7:22 7:22||r="TeRP"||c="sỏi túi_mật" 7:24 7:25
+c="siêu_âm" 7:22 7:22||r="TeRP"||c="viêm dạ_dày" 7:27 7:28

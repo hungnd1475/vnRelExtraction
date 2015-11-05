@@ -1,0 +1,6 @@
+c="THA" 2:4 2:4||t="problem"
+c="điều_trị thuốc" 2:6 2:7||t="treatment"
+c="HA tăng cao" 3:3 3:5||t="problem"
+c="thuốc" 3:7 3:7||t="treatment"
+c="ho" 4:7 4:7||t="problem"
+c="rát họng" 4:9 4:10||t="problem"

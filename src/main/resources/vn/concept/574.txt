@@ -1,0 +1,7 @@
+c="đau nhiều ngang cột_sống thắt_lưng" 2:6 2:10||t="problem"
+c="đau lan bụng trước" 2:14 2:17||t="problem"
+c="sốt ăm ỉ" 2:19 2:21||t="problem"
+c="mệt" 2:23 2:23||t="problem"
+c="đi_lại khó_khăn" 2:25 2:26||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"

@@ -1,0 +1,6 @@
+c="báng bụng ngày_càng tăng kèm theo ăn_uống kém" 2:7 2:14||r="PIP"||c="da niêm vàng sậm" 2:16 2:19
+c="báng bụng ngày_càng tăng kèm theo ăn_uống kém" 2:7 2:14||r="PIP"||c="tiểu sậm màu" 2:21 2:23
+c="báng bụng ngày_càng tăng kèm theo ăn_uống kém" 2:7 2:14||r="PIP"||c="đau quặn bụng kháp bụng" 2:25 2:29
+c="da niêm vàng sậm" 2:16 2:19||r="PIP"||c="tiểu sậm màu" 2:21 2:23
+c="da niêm vàng sậm" 2:16 2:19||r="PIP"||c="đau quặn bụng kháp bụng" 2:25 2:29
+c="tiểu sậm màu" 2:21 2:23||r="PIP"||c="đau quặn bụng kháp bụng" 2:25 2:29

@@ -1,0 +1,4 @@
+c="Phẫu_thuật" 2:1 2:1||t="treatment"
+c="1 tuần nay đi_cầu ra máu nhiều" 4:4 4:10||t="problem"
+c="chưa điều_trị gì" 4:12 4:14||t="problem"
+c="Trĩ nội độ III" 5:3 5:6||t="problem"

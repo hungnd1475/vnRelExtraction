@@ -1,0 +1,7 @@
+c="chóng_mặt khi đi_lại" 2:6 2:8||t="problem"
+c="buồn_nôn sau ăn" 2:12 2:14||t="problem"
+c="đau_đầu" 2:16 2:16||t="problem"
+c="mệt" 2:18 2:18||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ_áp" 6:1 6:1||t="treatment"

@@ -1,0 +1,15 @@
+c="viêm phế_quản" 2:4 2:5||r="PIP"||c="zenodem" 2:7 2:7
+c="viêm phế_quản" 2:4 2:5||r="PIP"||c="sốt cao" 2:18 2:19
+c="thuốc hạ sốt" 2:26 2:28||r="TrWP"||c="viêm phế_quản" 2:4 2:5
+c="viêm phế_quản" 2:4 2:5||r="PIP"||c="ói liên_tục" 2:36 2:37
+c="viêm phế_quản" 2:4 2:5||r="PIP"||c="không ăn_uống" 2:39 2:40
+c="zenodem" 2:7 2:7||r="PIP"||c="sốt cao" 2:18 2:19
+c="thuốc hạ sốt" 2:26 2:28||r="TrWP"||c="zenodem" 2:7 2:7
+c="zenodem" 2:7 2:7||r="PIP"||c="ói liên_tục" 2:36 2:37
+c="zenodem" 2:7 2:7||r="PIP"||c="không ăn_uống" 2:39 2:40
+c="thuốc hạ sốt" 2:26 2:28||r="TrWP"||c="sốt cao" 2:18 2:19
+c="sốt cao" 2:18 2:19||r="PIP"||c="ói liên_tục" 2:36 2:37
+c="sốt cao" 2:18 2:19||r="PIP"||c="không ăn_uống" 2:39 2:40
+c="thuốc hạ sốt" 2:26 2:28||r="TrWP"||c="ói liên_tục" 2:36 2:37
+c="thuốc hạ sốt" 2:26 2:28||r="TrWP"||c="không ăn_uống" 2:39 2:40
+c="ói liên_tục" 2:36 2:37||r="PIP"||c="không ăn_uống" 2:39 2:40

@@ -1,0 +1,7 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="ho" 4:6 4:6||t="problem"
+c="đau rát họng" 4:8 4:10||t="problem"
+c="khó thở" 4:12 4:13||t="problem"
+c="thở khò_khè" 4:15 4:16||t="problem"
+c="không sốt" 4:18 4:19||t="problem"
+c="Ho ra huyết" 5:1 5:3||t="problem"

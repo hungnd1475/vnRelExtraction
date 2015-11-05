@@ -1,0 +1,4 @@
+c="sốt" 4:2 4:2||r="PIP"||c="ho" 4:6 4:6
+c="uống thuốc hạ sốt" 4:10 4:13||r="TrWP"||c="sốt" 4:2 4:2
+c="uống thuốc hạ sốt" 4:10 4:13||r="TrWP"||c="ho" 4:6 4:6
+c="dùng thuốc hạ sốt" 5:17 5:20||r="TrWP"||c="co_giật toàn_thân" 5:4 5:5

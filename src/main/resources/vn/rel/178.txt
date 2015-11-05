@@ -1,0 +1,2 @@
+c="đau lưng" 9:2 9:3||r="PIP"||c="đau vùng hạ sườn phải lan ra sau lưng" 9:8 9:16
+c="Siêu_âm" 10:1 10:1||r="TeRP"||c="Hình_ảnh gan nhiễm mỡ" 10:3 10:6

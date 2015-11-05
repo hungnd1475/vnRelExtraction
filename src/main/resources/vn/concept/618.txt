@@ -1,0 +1,5 @@
+c="buồn_nôn" 2:9 2:9||t="problem"
+c="nội_soi đại_tràng" 2:11 2:12||t="test"
+c="nôn ói nhiều" 2:17 2:19||t="problem"
+c="chóng_mặt" 2:22 2:22||t="problem"
+c="mệt" 2:24 2:24||t="problem"

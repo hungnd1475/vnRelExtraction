@@ -1,0 +1,15 @@
+c="mệt" 2:5 2:5||r="PIP"||c="nặng đầu" 2:7 2:8
+c="mệt" 2:5 2:5||r="PIP"||c="bừng mặt" 2:10 2:11
+c="mệt" 2:5 2:5||r="PIP"||c="uống 1 viên Amlor 5mg" 2:19 2:23
+c="mệt" 2:5 2:5||r="PIP"||c="còn_mệt" 2:29 2:29
+c="điều_trị" 2:41 2:41||r="TrIP"||c="mệt" 2:5 2:5
+c="nặng đầu" 2:7 2:8||r="PIP"||c="bừng mặt" 2:10 2:11
+c="nặng đầu" 2:7 2:8||r="PIP"||c="uống 1 viên Amlor 5mg" 2:19 2:23
+c="nặng đầu" 2:7 2:8||r="PIP"||c="còn_mệt" 2:29 2:29
+c="điều_trị" 2:41 2:41||r="TrIP"||c="nặng đầu" 2:7 2:8
+c="bừng mặt" 2:10 2:11||r="PIP"||c="uống 1 viên Amlor 5mg" 2:19 2:23
+c="bừng mặt" 2:10 2:11||r="PIP"||c="còn_mệt" 2:29 2:29
+c="điều_trị" 2:41 2:41||r="TrIP"||c="bừng mặt" 2:10 2:11
+c="uống 1 viên Amlor 5mg" 2:19 2:23||r="PIP"||c="còn_mệt" 2:29 2:29
+c="điều_trị" 2:41 2:41||r="TrWP"||c="uống 1 viên Amlor 5mg" 2:19 2:23
+c="điều_trị" 2:41 2:41||r="TrIP"||c="còn_mệt" 2:29 2:29

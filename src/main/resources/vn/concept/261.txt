@@ -1,0 +1,5 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt cao" 4:3 4:4||t="problem"
+c="ớn lạnh" 4:6 4:7||t="problem"
+c="đau_đầu" 4:9 4:9||t="problem"
+c="dùng thuốc" 4:12 4:13||t="treatment"

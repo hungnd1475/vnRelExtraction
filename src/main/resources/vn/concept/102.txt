@@ -1,0 +1,8 @@
+c="sốt" 2:11 2:11||t="problem"
+c="điều_trị BV Vũ_Anh 2 ngày" 2:13 2:17||t="treatment"
+c="sốt cao" 2:27 2:28||t="problem"
+c="tiêu phân lỏng , màu vàng 10 lần" 2:32 2:39||t="problem"
+c="nổi mẩm đở nhiều ở chân , đùi , thân , sau tai" 2:45 2:57||t="problem"
+c="bù dịch" 6:1 6:2||t="treatment"
+c="men tiêu_hóa" 6:4 6:5||t="treatment"
+c="điều_trị nâng đở" 6:7 6:9||t="treatment"

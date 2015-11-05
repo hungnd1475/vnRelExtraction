@@ -1,0 +1,10 @@
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ho đàm trắng" 4:11 4:13
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="đau họng nhiều khi nuốt" 4:15 4:19
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="mệt" 4:24 4:24
+c="ho đàm trắng" 4:11 4:13||r="PIP"||c="đau họng nhiều khi nuốt" 4:15 4:19
+c="ho đàm trắng" 4:11 4:13||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="ho đàm trắng" 4:11 4:13||r="PIP"||c="mệt" 4:24 4:24
+c="đau họng nhiều khi nuốt" 4:15 4:19||r="PIP"||c="ăn_uống kém" 4:21 4:22
+c="đau họng nhiều khi nuốt" 4:15 4:19||r="PIP"||c="mệt" 4:24 4:24
+c="ăn_uống kém" 4:21 4:22||r="PIP"||c="mệt" 4:24 4:24

@@ -1,0 +1,13 @@
+c="sốt" 2:8 2:8||r="PIP"||c="sốt cao" 2:13 2:14
+c="sốt" 2:8 2:8||r="PIP"||c="ho tăng dần" 2:24 2:26
+c="sốt" 2:8 2:8||r="PIP"||c="ho nhiều" 2:31 2:32
+c="sốt" 2:8 2:8||r="PIP"||c="ói" 2:35 2:35
+c="sốt cao" 2:13 2:14||r="PIP"||c="ho tăng dần" 2:24 2:26
+c="sốt cao" 2:13 2:14||r="PIP"||c="ho nhiều" 2:31 2:32
+c="sốt cao" 2:13 2:14||r="PIP"||c="ói" 2:35 2:35
+c="ho tăng dần" 2:24 2:26||r="PIP"||c="ho nhiều" 2:31 2:32
+c="ho tăng dần" 2:24 2:26||r="PIP"||c="ói" 2:35 2:35
+c="ho nhiều" 2:31 2:32||r="PIP"||c="ói" 2:35 2:35
+c="ăn_uống ít" 3:2 3:3||r="PIP"||c="nước_tiểu vàng" 3:11 3:12
+c="ăn_uống ít" 3:2 3:3||r="PIP"||c="phân lỏng ít" 3:14 3:16
+c="nước_tiểu vàng" 3:11 3:12||r="PIP"||c="phân lỏng ít" 3:14 3:16

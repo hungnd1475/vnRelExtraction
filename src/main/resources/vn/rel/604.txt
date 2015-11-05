@@ -1,0 +1,21 @@
+c="thuốc hạ sốt" 2:18 2:20||r="TrWP"||c="sốt" 2:7 2:7
+c="sốt" 2:7 2:7||r="PIP"||c="ho" 2:29 2:29
+c="sốt" 2:7 2:7||r="PIP"||c="ói ra dịch vàng" 2:31 2:34
+c="sốt" 2:7 2:7||r="PIP"||c="mệt" 2:37 2:37
+c="sốt" 2:7 2:7||r="PIP"||c="bú kém" 2:39 2:40
+c="sốt" 2:7 2:7||r="PIP"||c="quấy khóc" 2:42 2:43
+c="thuốc hạ sốt" 2:18 2:20||r="TrWP"||c="ho" 2:29 2:29
+c="thuốc hạ sốt" 2:18 2:20||r="TrWP"||c="ói ra dịch vàng" 2:31 2:34
+c="thuốc hạ sốt" 2:18 2:20||r="TrWP"||c="mệt" 2:37 2:37
+c="thuốc hạ sốt" 2:18 2:20||r="TrWP"||c="bú kém" 2:39 2:40
+c="thuốc hạ sốt" 2:18 2:20||r="TrWP"||c="quấy khóc" 2:42 2:43
+c="ho" 2:29 2:29||r="PIP"||c="ói ra dịch vàng" 2:31 2:34
+c="ho" 2:29 2:29||r="PIP"||c="mệt" 2:37 2:37
+c="ho" 2:29 2:29||r="PIP"||c="bú kém" 2:39 2:40
+c="ho" 2:29 2:29||r="PIP"||c="quấy khóc" 2:42 2:43
+c="ói ra dịch vàng" 2:31 2:34||r="PIP"||c="mệt" 2:37 2:37
+c="ói ra dịch vàng" 2:31 2:34||r="PIP"||c="bú kém" 2:39 2:40
+c="ói ra dịch vàng" 2:31 2:34||r="PIP"||c="quấy khóc" 2:42 2:43
+c="mệt" 2:37 2:37||r="PIP"||c="bú kém" 2:39 2:40
+c="mệt" 2:37 2:37||r="PIP"||c="quấy khóc" 2:42 2:43
+c="bú kém" 2:39 2:40||r="PIP"||c="quấy khóc" 2:42 2:43

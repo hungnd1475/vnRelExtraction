@@ -1,0 +1,10 @@
+c="làm_việc căng_thẳng" 4:5 4:6||r="PIP"||c="ngủ ít" 4:10 4:11
+c="làm_việc căng_thẳng" 4:5 4:6||r="PIP"||c="khó thở từng cơn" 4:13 4:16
+c="làm_việc căng_thẳng" 4:5 4:6||r="PIP"||c="mệt" 4:18 4:18
+c="điều_trị" 4:30 4:30||r="TrIP"||c="làm_việc căng_thẳng" 4:5 4:6
+c="ngủ ít" 4:10 4:11||r="PIP"||c="khó thở từng cơn" 4:13 4:16
+c="ngủ ít" 4:10 4:11||r="PIP"||c="mệt" 4:18 4:18
+c="điều_trị" 4:30 4:30||r="TrIP"||c="ngủ ít" 4:10 4:11
+c="khó thở từng cơn" 4:13 4:16||r="PIP"||c="mệt" 4:18 4:18
+c="điều_trị" 4:30 4:30||r="TrIP"||c="khó thở từng cơn" 4:13 4:16
+c="điều_trị" 4:30 4:30||r="TrIP"||c="mệt" 4:18 4:18

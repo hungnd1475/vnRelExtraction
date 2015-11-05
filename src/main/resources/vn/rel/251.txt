@@ -1,0 +1,6 @@
+c="chóng_mặt khi đi_lại" 2:6 2:8||r="PIP"||c="đau_đầu" 2:12 2:12
+c="chóng_mặt khi đi_lại" 2:6 2:8||r="PIP"||c="cảm_giác đầy bụng khó tiêu sau ăn" 2:14 2:20
+c="chóng_mặt khi đi_lại" 2:6 2:8||r="PIP"||c="mệt" 2:22 2:22
+c="đau_đầu" 2:12 2:12||r="PIP"||c="cảm_giác đầy bụng khó tiêu sau ăn" 2:14 2:20
+c="đau_đầu" 2:12 2:12||r="PIP"||c="mệt" 2:22 2:22
+c="cảm_giác đầy bụng khó tiêu sau ăn" 2:14 2:20||r="PIP"||c="mệt" 2:22 2:22

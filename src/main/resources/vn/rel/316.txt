@@ -1,0 +1,15 @@
+c="khó thở" 4:5 4:6||r="PIP"||c="hồi_hộp đánh_trống_ngực" 4:8 4:9
+c="khó thở" 4:5 4:6||r="PIP"||c="chán ăn" 4:11 4:12
+c="khó thở" 4:5 4:6||r="PIP"||c="buồn_nôn sau ăn" 4:14 4:16
+c="khó thở" 4:5 4:6||r="PIP"||c="mệt nhiều" 4:18 4:19
+c="điều_trị" 4:29 4:29||r="TrIP"||c="khó thở" 4:5 4:6
+c="hồi_hộp đánh_trống_ngực" 4:8 4:9||r="PIP"||c="chán ăn" 4:11 4:12
+c="hồi_hộp đánh_trống_ngực" 4:8 4:9||r="PIP"||c="buồn_nôn sau ăn" 4:14 4:16
+c="hồi_hộp đánh_trống_ngực" 4:8 4:9||r="PIP"||c="mệt nhiều" 4:18 4:19
+c="điều_trị" 4:29 4:29||r="TrIP"||c="hồi_hộp đánh_trống_ngực" 4:8 4:9
+c="chán ăn" 4:11 4:12||r="PIP"||c="buồn_nôn sau ăn" 4:14 4:16
+c="chán ăn" 4:11 4:12||r="PIP"||c="mệt nhiều" 4:18 4:19
+c="điều_trị" 4:29 4:29||r="TrIP"||c="chán ăn" 4:11 4:12
+c="buồn_nôn sau ăn" 4:14 4:16||r="PIP"||c="mệt nhiều" 4:18 4:19
+c="điều_trị" 4:29 4:29||r="TrIP"||c="buồn_nôn sau ăn" 4:14 4:16
+c="điều_trị" 4:29 4:29||r="TrIP"||c="mệt nhiều" 4:18 4:19

@@ -1,0 +1,8 @@
+c="mệt" 2:5 2:5||t="problem"
+c="huyết_áp" 2:18 2:18||t="test"
+c="huyết_áp" 2:20 2:20||t="test"
+c="uống 1 ly sửa" 2:29 2:32||t="treatment"
+c="mệt" 4:5 4:5||t="problem"
+c="huyết_áp" 4:18 4:18||t="test"
+c="huyết_áp" 4:20 4:20||t="test"
+c="điều_trị" 5:2 5:2||t="treatment"

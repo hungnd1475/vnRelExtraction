@@ -1,0 +1,4 @@
+c="đau ngực sau xương ức" 2:7 2:11||r="PIP"||c="căng_thẳng" 2:15 2:15
+c="đau ngực sau xương ức" 2:7 2:11||r="PIP"||c="tức_giận" 2:17 2:17
+c="căng_thẳng" 2:15 2:15||r="PIP"||c="tức_giận" 2:17 2:17
+c="Đau ngực nhiều" 3:2 3:4||r="PIP"||c="mệt" 3:6 3:6

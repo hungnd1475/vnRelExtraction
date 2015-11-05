@@ -1,0 +1,7 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="nhập ICU" 4:6 4:7||t="treatment"
+c="chọ hút dịch màng bụng" 4:11 4:15||t="treatment"
+c="kháng_sinh" 4:19 4:19||t="treatment"
+c="nâng đở cơ_thể" 4:23 4:25||t="treatment"
+c="lơ_mơ" 5:2 5:2||t="problem"
+c="Kháng_sinh" 7:1 7:1||t="treatment"

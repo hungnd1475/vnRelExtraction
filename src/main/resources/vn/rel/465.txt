@@ -1,0 +1,6 @@
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="đau tức ngực" 2:11 2:13
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="ợ hơi" 2:15 2:16
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="ợ chua" 2:18 2:19
+c="đau tức ngực" 2:11 2:13||r="PIP"||c="ợ hơi" 2:15 2:16
+c="đau tức ngực" 2:11 2:13||r="PIP"||c="ợ chua" 2:18 2:19
+c="ợ hơi" 2:15 2:16||r="PIP"||c="ợ chua" 2:18 2:19

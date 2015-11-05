@@ -1,0 +1,1 @@
+c="nhập icu" 4:8 4:9||r="TrAP"||c="yếu hai chân" 4:2 4:4

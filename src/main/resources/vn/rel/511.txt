@@ -1,0 +1,21 @@
+c="sốt" 2:4 2:4||r="PIP"||c="khám" 2:6 2:6
+c="sốt" 2:4 2:4||r="PIP"||c="Sốt siêu_vi" 2:11 2:12
+c="sốt" 2:4 2:4||r="PIP"||c="chán ăn" 2:18 2:19
+c="sốt" 2:4 2:4||r="PIP"||c="ăn_uống kém" 2:21 2:22
+c="sốt" 2:4 2:4||r="PIP"||c="thường_xuyên ớn lạnh sụt cân" 2:24 2:28
+c="sốt" 2:4 2:4||r="PIP"||c="mệt_mỏi" 2:30 2:30
+c="khám" 2:6 2:6||r="PIP"||c="Sốt siêu_vi" 2:11 2:12
+c="khám" 2:6 2:6||r="PIP"||c="chán ăn" 2:18 2:19
+c="khám" 2:6 2:6||r="PIP"||c="ăn_uống kém" 2:21 2:22
+c="khám" 2:6 2:6||r="PIP"||c="thường_xuyên ớn lạnh sụt cân" 2:24 2:28
+c="khám" 2:6 2:6||r="PIP"||c="mệt_mỏi" 2:30 2:30
+c="Sốt siêu_vi" 2:11 2:12||r="PIP"||c="chán ăn" 2:18 2:19
+c="Sốt siêu_vi" 2:11 2:12||r="PIP"||c="ăn_uống kém" 2:21 2:22
+c="Sốt siêu_vi" 2:11 2:12||r="PIP"||c="thường_xuyên ớn lạnh sụt cân" 2:24 2:28
+c="Sốt siêu_vi" 2:11 2:12||r="PIP"||c="mệt_mỏi" 2:30 2:30
+c="chán ăn" 2:18 2:19||r="PIP"||c="ăn_uống kém" 2:21 2:22
+c="chán ăn" 2:18 2:19||r="PIP"||c="thường_xuyên ớn lạnh sụt cân" 2:24 2:28
+c="chán ăn" 2:18 2:19||r="PIP"||c="mệt_mỏi" 2:30 2:30
+c="ăn_uống kém" 2:21 2:22||r="PIP"||c="thường_xuyên ớn lạnh sụt cân" 2:24 2:28
+c="ăn_uống kém" 2:21 2:22||r="PIP"||c="mệt_mỏi" 2:30 2:30
+c="thường_xuyên ớn lạnh sụt cân" 2:24 2:28||r="PIP"||c="mệt_mỏi" 2:30 2:30

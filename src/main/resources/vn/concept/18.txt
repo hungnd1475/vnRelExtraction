@@ -1,0 +1,7 @@
+c="phát_ban" 2:1 2:1||t="problem"
+c="sốt" 5:3 5:3||t="problem"
+c="ho" 5:7 5:7||t="problem"
+c="ăn kém" 5:9 5:10||t="problem"
+c="phát_ban từ lưng - - > bụng" 6:13 6:19||t="problem"
+c="mọc ban nhiều vùng mặt" 6:22 6:26||t="problem"
+c="điều_trị triệu_chứng" 10:1 10:2||t="treatment"

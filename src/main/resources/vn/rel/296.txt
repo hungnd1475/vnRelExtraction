@@ -1,0 +1,10 @@
+c="đau thượng_vị" 2:2 2:3||r="PIP"||c="ăn_uống kém" 2:5 2:6
+c="đau thượng_vị" 2:2 2:3||r="PIP"||c="không ngủ được" 2:8 2:10
+c="đau thượng_vị" 2:2 2:3||r="PIP"||c="mệt nhiều" 2:12 2:13
+c="điều_trị" 2:23 2:23||r="TrIP"||c="đau thượng_vị" 2:2 2:3
+c="ăn_uống kém" 2:5 2:6||r="PIP"||c="không ngủ được" 2:8 2:10
+c="ăn_uống kém" 2:5 2:6||r="PIP"||c="mệt nhiều" 2:12 2:13
+c="điều_trị" 2:23 2:23||r="TrIP"||c="ăn_uống kém" 2:5 2:6
+c="không ngủ được" 2:8 2:10||r="PIP"||c="mệt nhiều" 2:12 2:13
+c="điều_trị" 2:23 2:23||r="TrIP"||c="không ngủ được" 2:8 2:10
+c="điều_trị" 2:23 2:23||r="TrIP"||c="mệt nhiều" 2:12 2:13

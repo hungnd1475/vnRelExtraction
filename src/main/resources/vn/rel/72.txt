@@ -1,0 +1,15 @@
+c="tiêu phân lỏng" 2:1 2:3||r="PIP"||c="ho" 2:5 2:5
+c="viêm họng" 4:5 4:6||r="PIP"||c="Rối_loạn tiêu_hóa" 4:8 4:9
+c="điều_trị" 4:11 4:11||r="TrWP"||c="viêm họng" 4:5 4:6
+c="Zinnat" 4:14 4:14||r="TrWP"||c="viêm họng" 4:5 4:6
+c="alphachymotripsin" 4:16 4:16||r="TrWP"||c="viêm họng" 4:5 4:6
+c="prospan" 4:18 4:18||r="TrWP"||c="viêm họng" 4:5 4:6
+c="enterogermina" 4:20 4:20||r="TrWP"||c="viêm họng" 4:5 4:6
+c="điều_trị" 4:11 4:11||r="TrWP"||c="Rối_loạn tiêu_hóa" 4:8 4:9
+c="Zinnat" 4:14 4:14||r="TrWP"||c="Rối_loạn tiêu_hóa" 4:8 4:9
+c="alphachymotripsin" 4:16 4:16||r="TrWP"||c="Rối_loạn tiêu_hóa" 4:8 4:9
+c="prospan" 4:18 4:18||r="TrWP"||c="Rối_loạn tiêu_hóa" 4:8 4:9
+c="enterogermina" 4:20 4:20||r="TrWP"||c="Rối_loạn tiêu_hóa" 4:8 4:9
+c="tiêu phân lỏng 5 lân" 5:3 5:7||r="PIP"||c="phân tóe nước" 5:9 5:11
+c="tiêu phân lỏng 5 lân" 5:3 5:7||r="PIP"||c="ói" 5:19 5:19
+c="phân tóe nước" 5:9 5:11||r="PIP"||c="ói" 5:19 5:19

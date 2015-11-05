@@ -1,0 +1,8 @@
+c="Ho" 2:1 2:1||t="problem"
+c="ho_khan" 4:6 4:6||t="problem"
+c="cảm_giác tức ngực khi ho" 4:8 4:12||t="problem"
+c="hồi_hộp đánh_trống_ngực" 4:14 4:15||t="problem"
+c="mệt" 4:17 4:17||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"
+c="Kháng_sinh" 8:1 8:1||t="treatment"

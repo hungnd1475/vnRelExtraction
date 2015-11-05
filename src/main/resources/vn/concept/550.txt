@@ -1,0 +1,8 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="Cách 03 ngày , bệnh_nhân ho_khan" 4:1 4:6||t="problem"
+c="không sốt" 4:8 4:9||t="problem"
+c="khò_khè" 4:11 4:11||t="problem"
+c="khó thở" 4:13 4:14||t="problem"
+c="không đau ngực" 4:16 4:18||t="problem"
+c="phun khí dung Ventolin tại nhà kông thấy đỡ" 4:20 4:28||t="problem"
+c="khó thở tăng" 4:30 4:32||t="problem"

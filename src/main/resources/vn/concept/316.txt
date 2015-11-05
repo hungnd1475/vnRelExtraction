@@ -1,0 +1,6 @@
+c="khó thở" 4:5 4:6||t="problem"
+c="hồi_hộp đánh_trống_ngực" 4:8 4:9||t="problem"
+c="chán ăn" 4:11 4:12||t="problem"
+c="buồn_nôn sau ăn" 4:14 4:16||t="problem"
+c="mệt nhiều" 4:18 4:19||t="problem"
+c="điều_trị" 4:29 4:29||t="treatment"

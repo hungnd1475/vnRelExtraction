@@ -1,0 +1,6 @@
+c="ho_khan" 4:6 4:6||r="PIP"||c="cảm_giác tức ngực khi ho" 4:8 4:12
+c="ho_khan" 4:6 4:6||r="PIP"||c="hồi_hộp đánh_trống_ngực" 4:14 4:15
+c="ho_khan" 4:6 4:6||r="PIP"||c="mệt" 4:17 4:17
+c="cảm_giác tức ngực khi ho" 4:8 4:12||r="PIP"||c="hồi_hộp đánh_trống_ngực" 4:14 4:15
+c="cảm_giác tức ngực khi ho" 4:8 4:12||r="PIP"||c="mệt" 4:17 4:17
+c="hồi_hộp đánh_trống_ngực" 4:14 4:15||r="PIP"||c="mệt" 4:17 4:17

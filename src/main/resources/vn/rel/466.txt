@@ -1,0 +1,15 @@
+c="ho" 2:7 2:7||r="PIP"||c="sốt" 2:9 2:9
+c="ho" 2:7 2:7||r="PIP"||c="đau họng" 2:11 2:12
+c="ho" 2:7 2:7||r="PIP"||c="chóng_mặt" 2:14 2:14
+c="ho" 2:7 2:7||r="PIP"||c="đau nặng đầu" 2:16 2:18
+c="ho" 2:7 2:7||r="PIP"||c="đau tức vùng thượng_vị" 2:20 2:23
+c="sốt" 2:9 2:9||r="PIP"||c="đau họng" 2:11 2:12
+c="sốt" 2:9 2:9||r="PIP"||c="chóng_mặt" 2:14 2:14
+c="sốt" 2:9 2:9||r="PIP"||c="đau nặng đầu" 2:16 2:18
+c="sốt" 2:9 2:9||r="PIP"||c="đau tức vùng thượng_vị" 2:20 2:23
+c="đau họng" 2:11 2:12||r="PIP"||c="chóng_mặt" 2:14 2:14
+c="đau họng" 2:11 2:12||r="PIP"||c="đau nặng đầu" 2:16 2:18
+c="đau họng" 2:11 2:12||r="PIP"||c="đau tức vùng thượng_vị" 2:20 2:23
+c="chóng_mặt" 2:14 2:14||r="PIP"||c="đau nặng đầu" 2:16 2:18
+c="chóng_mặt" 2:14 2:14||r="PIP"||c="đau tức vùng thượng_vị" 2:20 2:23
+c="đau nặng đầu" 2:16 2:18||r="PIP"||c="đau tức vùng thượng_vị" 2:20 2:23

@@ -1,0 +1,8 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="Bệnh_nhân nặng" 6:1 6:2||t="problem"
+c="nhập Icu" 6:6 6:7||t="treatment"
+c="thở máy" 6:11 6:12||t="treatment"
+c="kháng_sinh" 6:16 6:16||t="treatment"
+c="kháng nấm" 6:20 6:21||t="treatment"
+c="nâng đở cơ_thể" 6:25 6:27||t="treatment"

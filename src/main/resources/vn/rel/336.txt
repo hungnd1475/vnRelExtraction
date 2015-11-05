@@ -1,0 +1,10 @@
+c="ho đàm khó khạc" 2:6 2:9||r="PIP"||c="thở khò_khè đàm nhớt" 2:13 2:16
+c="ho đàm khó khạc" 2:6 2:9||r="PIP"||c="ăn_uống kém" 2:18 2:19
+c="ho đàm khó khạc" 2:6 2:9||r="PIP"||c="khó thở khi nằm" 2:21 2:24
+c="ho đàm khó khạc" 2:6 2:9||r="PIP"||c="tiêu tiểu không tự_chủ" 2:26 2:29
+c="thở khò_khè đàm nhớt" 2:13 2:16||r="PIP"||c="ăn_uống kém" 2:18 2:19
+c="thở khò_khè đàm nhớt" 2:13 2:16||r="PIP"||c="khó thở khi nằm" 2:21 2:24
+c="thở khò_khè đàm nhớt" 2:13 2:16||r="PIP"||c="tiêu tiểu không tự_chủ" 2:26 2:29
+c="ăn_uống kém" 2:18 2:19||r="PIP"||c="khó thở khi nằm" 2:21 2:24
+c="ăn_uống kém" 2:18 2:19||r="PIP"||c="tiêu tiểu không tự_chủ" 2:26 2:29
+c="khó thở khi nằm" 2:21 2:24||r="PIP"||c="tiêu tiểu không tự_chủ" 2:26 2:29

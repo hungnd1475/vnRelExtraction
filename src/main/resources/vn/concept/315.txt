@@ -1,0 +1,8 @@
+c="đã PT" 2:15 2:16||t="treatment"
+c="đang hóa_trị" 2:18 2:19||t="treatment"
+c="hóa_trị" 2:25 2:25||t="treatment"
+c="K đại_tràng đã PT" 3:3 3:6||t="problem"
+c="Xét_nghiệm CTM" 4:1 4:2||t="test"
+c="TB máu giảm 3 dòng" 4:4 4:8||t="problem"
+c="Chích_Neupogen 3 MUI" 5:1 5:3||t="treatment"
+c="Hóa_trị đợt VI" 6:1 6:3||t="treatment"

@@ -1,0 +1,13 @@
+c="sốt ớn lạnh" 4:6 4:8||r="PIP"||c="ho_khan" 4:12 4:12
+c="sốt ớn lạnh" 4:6 4:8||r="PIP"||c="nuốt rát họng" 4:14 4:16
+c="sốt ớn lạnh" 4:6 4:8||r="PIP"||c="nhức đầu" 4:18 4:19
+c="sốt ớn lạnh" 4:6 4:8||r="PIP"||c="nhức mỏi toàn_thân" 4:21 4:23
+c="ho_khan" 4:12 4:12||r="PIP"||c="nuốt rát họng" 4:14 4:16
+c="ho_khan" 4:12 4:12||r="PIP"||c="nhức đầu" 4:18 4:19
+c="ho_khan" 4:12 4:12||r="PIP"||c="nhức mỏi toàn_thân" 4:21 4:23
+c="nuốt rát họng" 4:14 4:16||r="PIP"||c="nhức đầu" 4:18 4:19
+c="nuốt rát họng" 4:14 4:16||r="PIP"||c="nhức mỏi toàn_thân" 4:21 4:23
+c="nhức đầu" 4:18 4:19||r="PIP"||c="nhức mỏi toàn_thân" 4:21 4:23
+c="mua thuốc uống không rõ" 5:3 5:7||r="PIP"||c="bệnh không giảm" 5:9 5:11
+c="mua thuốc uống không rõ" 5:3 5:7||r="PIP"||c="ăn_uống kém" 5:13 5:14
+c="bệnh không giảm" 5:9 5:11||r="PIP"||c="ăn_uống kém" 5:13 5:14

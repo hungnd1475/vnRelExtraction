@@ -1,0 +1,20 @@
+c="sốt cao liên_tục" 2:2 2:4||r="PIP"||c="kèm đau_đầu" 2:7 2:8
+c="sốt cao liên_tục" 2:2 2:4||r="PIP"||c="đau họng" 2:10 2:11
+c="sốt cao liên_tục" 2:2 2:4||r="PIP"||c="đau cơ" 2:13 2:14
+c="sốt cao liên_tục" 2:2 2:4||r="PIP"||c="ho_khan" 2:16 2:16
+c="điều_trị" 2:29 2:29||r="TrIP"||c="sốt cao liên_tục" 2:2 2:4
+c="kèm đau_đầu" 2:7 2:8||r="PIP"||c="đau họng" 2:10 2:11
+c="kèm đau_đầu" 2:7 2:8||r="PIP"||c="đau cơ" 2:13 2:14
+c="kèm đau_đầu" 2:7 2:8||r="PIP"||c="ho_khan" 2:16 2:16
+c="điều_trị" 2:29 2:29||r="TrIP"||c="kèm đau_đầu" 2:7 2:8
+c="đau họng" 2:10 2:11||r="PIP"||c="đau cơ" 2:13 2:14
+c="đau họng" 2:10 2:11||r="PIP"||c="ho_khan" 2:16 2:16
+c="điều_trị" 2:29 2:29||r="TrIP"||c="đau họng" 2:10 2:11
+c="đau cơ" 2:13 2:14||r="PIP"||c="ho_khan" 2:16 2:16
+c="điều_trị" 2:29 2:29||r="TrIP"||c="đau cơ" 2:13 2:14
+c="điều_trị" 2:29 2:29||r="TrWP"||c="ho_khan" 2:16 2:16
+c="điều_trị" 2:29 2:29||r="TrWP"||c="ho_khan" 2:35 2:35
+c="ho_khan" 2:35 2:35||r="PIP"||c="sốt cao liên_tục" 2:2 2:4
+c="ho_khan" 2:35 2:35||r="PIP"||c="kèm đau_đầu" 2:7 2:8
+c="ho_khan" 2:35 2:35||r="PIP"||c="đau họng" 2:10 2:11
+c="ho_khan" 2:35 2:35||r="PIP"||c="đau cơ" 2:13 2:14

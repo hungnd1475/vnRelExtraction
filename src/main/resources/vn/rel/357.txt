@@ -1,0 +1,26 @@
+c="sốt cao" 4:4 4:5||r="PIP"||c="mệt" 4:7 4:7
+c="cấp_cứu khám" 4:11 4:12||r="TrAP"||c="sốt cao" 4:4 4:5
+c="điều_trị ngoại_trú" 4:16 4:17||r="TrAP"||c="sốt cao" 4:4 4:5
+c="cấp_cứu khám" 4:11 4:12||r="TrAP"||c="mệt" 4:7 4:7
+c="điều_trị ngoại_trú" 4:16 4:17||r="TrAP"||c="mệt" 4:7 4:7
+c="sốt cao" 5:4 5:5||r="PIP"||c="nóng lạnh tứng cơn" 5:7 5:10
+c="sốt cao" 5:4 5:5||r="PIP"||c="ho_khan nhiều" 5:12 5:13
+c="sốt cao" 5:4 5:5||r="PIP"||c="đau họng" 5:15 5:16
+c="sốt cao" 5:4 5:5||r="PIP"||c="sổ_mũi" 5:18 5:18
+c="sốt cao" 5:4 5:5||r="PIP"||c="nhức mỏi toàn_thân" 5:20 5:22
+c="sốt cao" 5:4 5:5||r="PIP"||c="mệt" 5:24 5:24
+c="nóng lạnh tứng cơn" 5:7 5:10||r="PIP"||c="ho_khan nhiều" 5:12 5:13
+c="nóng lạnh tứng cơn" 5:7 5:10||r="PIP"||c="đau họng" 5:15 5:16
+c="nóng lạnh tứng cơn" 5:7 5:10||r="PIP"||c="sổ_mũi" 5:18 5:18
+c="nóng lạnh tứng cơn" 5:7 5:10||r="PIP"||c="nhức mỏi toàn_thân" 5:20 5:22
+c="nóng lạnh tứng cơn" 5:7 5:10||r="PIP"||c="mệt" 5:24 5:24
+c="ho_khan nhiều" 5:12 5:13||r="PIP"||c="đau họng" 5:15 5:16
+c="ho_khan nhiều" 5:12 5:13||r="PIP"||c="sổ_mũi" 5:18 5:18
+c="ho_khan nhiều" 5:12 5:13||r="PIP"||c="nhức mỏi toàn_thân" 5:20 5:22
+c="ho_khan nhiều" 5:12 5:13||r="PIP"||c="mệt" 5:24 5:24
+c="đau họng" 5:15 5:16||r="PIP"||c="sổ_mũi" 5:18 5:18
+c="đau họng" 5:15 5:16||r="PIP"||c="nhức mỏi toàn_thân" 5:20 5:22
+c="đau họng" 5:15 5:16||r="PIP"||c="mệt" 5:24 5:24
+c="sổ_mũi" 5:18 5:18||r="PIP"||c="nhức mỏi toàn_thân" 5:20 5:22
+c="sổ_mũi" 5:18 5:18||r="PIP"||c="mệt" 5:24 5:24
+c="nhức mỏi toàn_thân" 5:20 5:22||r="PIP"||c="mệt" 5:24 5:24

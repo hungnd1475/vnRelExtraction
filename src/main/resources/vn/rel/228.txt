@@ -1,0 +1,10 @@
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="nặng ngực" 2:10 2:11
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="tê tay" 2:13 2:14
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="cảm_giác khó thở" 2:16 2:18
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="mệt" 2:20 2:20
+c="nặng ngực" 2:10 2:11||r="PIP"||c="tê tay" 2:13 2:14
+c="nặng ngực" 2:10 2:11||r="PIP"||c="cảm_giác khó thở" 2:16 2:18
+c="nặng ngực" 2:10 2:11||r="PIP"||c="mệt" 2:20 2:20
+c="tê tay" 2:13 2:14||r="PIP"||c="cảm_giác khó thở" 2:16 2:18
+c="tê tay" 2:13 2:14||r="PIP"||c="mệt" 2:20 2:20
+c="cảm_giác khó thở" 2:16 2:18||r="PIP"||c="mệt" 2:20 2:20

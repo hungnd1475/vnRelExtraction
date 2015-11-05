@@ -1,0 +1,6 @@
+c="đi_cầu thấy ra máu đỏ tươi" 2:6 2:11||t="problem"
+c="mệt_mỏi sốt" 2:17 2:18||t="problem"
+c="Sa trực_tràng" 3:4 3:5||t="test"
+c="Sa trực_tràng" 4:3 4:4||t="test"
+c="Sa trực_tràng" 5:3 5:4||t="problem"
+c="poluyp ống hậu_môn" 5:6 5:8||t="problem"

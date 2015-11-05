@@ -1,0 +1,15 @@
+Lý Do
+Đi_cầu ra máu
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+Ngoại_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nữ 53 tuổi vào viện với lý_do : Bệnh_nhân khai đau rát hậu_môn hai tuần nay + đi_cầu ra máu có đi khám và uống thuốc nhưng không bớt - - > vào viện
+Chẩn_đoán : Trĩ nội độ II + Da thừa hậu_môn .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 53 tuổi vào viện với lý_do : Bệnh_nhân khai đau rát hậu_môn hai tuần nay + đi_cầu ra máu có đi khám và uống thuốc nhưng không bớt - - > vào viện
+Chẩn_đoán : Trĩ nội độ II + Da thừa hậu_môn .
+Phẫu_thuật cắt trĩ - - > Sau điều_trị , bệnh ổn , HM sạch , đỡ đau - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+Phẫu_thuật cắt trĩ + da thừa

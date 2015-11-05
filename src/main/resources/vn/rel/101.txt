@@ -1,0 +1,19 @@
+c="dùng thuốc" 2:12 2:13||r="TrWP"||c="sổ_mũi" 2:10 2:10
+c="sổ_mũi" 2:10 2:10||r="PIP"||c="sốt cao" 2:22 2:23
+c="Augmentin" 2:29 2:29||r="TrWP"||c="sổ_mũi" 2:10 2:10
+c="sổ_mũi" 2:10 2:10||r="PIP"||c="tiêu lỏng" 2:36 2:37
+c="sổ_mũi" 2:10 2:10||r="PIP"||c="ói nhiều lần" 2:39 2:41
+c="dùng thuốc" 2:12 2:13||r="TrWP"||c="sốt cao" 2:22 2:23
+c="dùng thuốc" 2:12 2:13||r="TrWP"||c="tiêu lỏng" 2:36 2:37
+c="dùng thuốc" 2:12 2:13||r="TrWP"||c="ói nhiều lần" 2:39 2:41
+c="dùng thuốc" 2:12 2:13||r="TrWP"||c="sổ_mũi" 2:45 2:45
+c="Augmentin" 2:29 2:29||r="TrWP"||c="sốt cao" 2:22 2:23
+c="sốt cao" 2:22 2:23||r="PIP"||c="tiêu lỏng" 2:36 2:37
+c="sốt cao" 2:22 2:23||r="PIP"||c="ói nhiều lần" 2:39 2:41
+c="sốt cao" 2:22 2:23||r="PIP"||c="sổ_mũi" 2:45 2:45
+c="Augmentin" 2:29 2:29||r="TrWP"||c="tiêu lỏng" 2:36 2:37
+c="Augmentin" 2:29 2:29||r="TrWP"||c="ói nhiều lần" 2:39 2:41
+c="Augmentin" 2:29 2:29||r="TrWP"||c="sổ_mũi" 2:45 2:45
+c="tiêu lỏng" 2:36 2:37||r="PIP"||c="ói nhiều lần" 2:39 2:41
+c="tiêu lỏng" 2:36 2:37||r="PIP"||c="sổ_mũi" 2:45 2:45
+c="ói nhiều lần" 2:39 2:41||r="PIP"||c="sổ_mũi" 2:45 2:45

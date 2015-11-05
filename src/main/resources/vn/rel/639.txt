@@ -1,0 +1,3 @@
+c="Nhiễm_trùng tiểu" 2:8 2:9||r="PIP"||c="nhồi máu não" 2:12 2:14
+c="Nhiễm_trùng tiểu" 2:8 2:9||r="PIP"||c="Hẹp thực_quản" 2:17 2:18
+c="nhồi máu não" 2:12 2:14||r="PIP"||c="Hẹp thực_quản" 2:17 2:18

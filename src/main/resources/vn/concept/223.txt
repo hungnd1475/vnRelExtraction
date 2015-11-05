@@ -1,0 +1,5 @@
+c="đau bụng" 2:1 2:2||t="problem"
+c="Đau bụng vùng thược vị" 6:1 6:5||t="problem"
+c="ăn_uống ít" 6:7 6:8||t="problem"
+c="người mệt_mỏi" 6:10 6:11||t="problem"
+c="Bụng mềm" 7:2 7:3||t="problem"

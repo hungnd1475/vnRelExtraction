@@ -1,0 +1,4 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="sưng mặt + mắt" 4:20 4:23||t="problem"
+c="khó thờ" 4:25 4:26||t="problem"
+c="uống 2 viên Cezil" 4:35 4:38||t="treatment"

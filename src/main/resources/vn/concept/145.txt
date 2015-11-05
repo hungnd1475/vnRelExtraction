@@ -1,0 +1,8 @@
+c="khối phồng vùng bìu ( T )" 2:5 2:11||t="problem"
+c="siêu_âm" 2:14 2:14||t="test"
+c="thoát_vị bìu ( T )" 2:16 2:20||t="problem"
+c="phẫu_thuật" 6:1 6:1||t="treatment"
+c="khối phồng vùng bìu ( T )" 8:9 8:15||t="problem"
+c="siêu_âm" 8:18 8:18||t="test"
+c="thoát_vị bìu ( T )" 8:20 8:24||t="problem"
+c="Thoát_vị bẹn ( T )" 9:3 9:7||t="problem"

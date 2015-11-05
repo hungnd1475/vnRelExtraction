@@ -1,0 +1,1 @@
+c="đau bụng" 4:2 4:3||r="PIP"||c="đau quanh rốn âm_ỉ liên_tục" 4:8 4:12

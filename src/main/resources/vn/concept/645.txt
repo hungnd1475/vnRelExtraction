@@ -1,0 +1,8 @@
+c="sốt cao" 4:5 4:6||t="problem"
+c="đau_đầu" 4:14 4:14||t="problem"
+c="nhức mỏi cơ" 4:16 4:18||t="problem"
+c="đau họng" 4:20 4:21||t="problem"
+c="ho" 4:23 4:23||t="problem"
+c="đau_nhức vùng khớp háng" 4:30 4:33||t="problem"
+c="buồn_nôn" 4:40 4:40||t="problem"
+c="đầy bụng khó tiêu" 4:44 4:47||t="problem"

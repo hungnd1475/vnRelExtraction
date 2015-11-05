@@ -1,0 +1,7 @@
+Lý Do
+Sốt
+Tổng Kết Bệnh Lý
+Bệnh_nhân sốt , ớn lạnh từ chiều_qua , bí tiểu - - - - > nhập_viện
+Sau điều_trị bệnh tạm ổn - - - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+kháng_sinh

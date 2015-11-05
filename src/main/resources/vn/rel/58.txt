@@ -1,0 +1,11 @@
+c="Ho" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
+c="sốt" 4:2 4:2||r="PIP"||c="ho khò_khè" 4:4 4:5
+c="khám điều_trị ngoại_trú ở BV Hạnh_Phúc" 4:9 4:14||r="TrWP"||c="sốt" 4:2 4:2
+c="cefixim" 4:16 4:16||r="TrWP"||c="sốt" 4:2 4:2
+c="solupred" 4:18 4:18||r="TrWP"||c="sốt" 4:2 4:2
+c="acemuc" 4:20 4:20||r="TrWP"||c="sốt" 4:2 4:2
+c="khám điều_trị ngoại_trú ở BV Hạnh_Phúc" 4:9 4:14||r="TrWP"||c="ho khò_khè" 4:4 4:5
+c="cefixim" 4:16 4:16||r="TrWP"||c="ho khò_khè" 4:4 4:5
+c="solupred" 4:18 4:18||r="TrWP"||c="ho khò_khè" 4:4 4:5
+c="acemuc" 4:20 4:20||r="TrWP"||c="ho khò_khè" 4:4 4:5
+c="ho khò_khè nhiều" 5:4 5:6||r="PIP"||c="thở mệt" 5:8 5:9

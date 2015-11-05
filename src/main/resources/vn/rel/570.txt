@@ -1,0 +1,10 @@
+c="đau quặn bụng nhiều vùng hố_chậu ( T ) lan sang hông ( T )" 2:9 2:23||r="PIP"||c="tiểu buốt" 2:26 2:27
+c="đau quặn bụng nhiều vùng hố_chậu ( T ) lan sang hông ( T )" 2:9 2:23||r="PIP"||c="gắt" 2:29 2:29
+c="đau quặn bụng nhiều vùng hố_chậu ( T ) lan sang hông ( T )" 2:9 2:23||r="PIP"||c="buồn_nôn" 2:31 2:31
+c="đau quặn bụng nhiều vùng hố_chậu ( T ) lan sang hông ( T )" 2:9 2:23||r="PIP"||c="nôn ra thức_ăn" 2:33 2:35
+c="tiểu buốt" 2:26 2:27||r="PIP"||c="gắt" 2:29 2:29
+c="tiểu buốt" 2:26 2:27||r="PIP"||c="buồn_nôn" 2:31 2:31
+c="tiểu buốt" 2:26 2:27||r="PIP"||c="nôn ra thức_ăn" 2:33 2:35
+c="gắt" 2:29 2:29||r="PIP"||c="buồn_nôn" 2:31 2:31
+c="gắt" 2:29 2:29||r="PIP"||c="nôn ra thức_ăn" 2:33 2:35
+c="buồn_nôn" 2:31 2:31||r="PIP"||c="nôn ra thức_ăn" 2:33 2:35

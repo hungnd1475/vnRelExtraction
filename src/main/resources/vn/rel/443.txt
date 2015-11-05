@@ -1,0 +1,10 @@
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="sốt ớn lạnh" 2:9 2:11
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="nhức mỏi toàn_thân" 2:15 2:17
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="mệt chóng váng khi đi_lại" 2:22 2:26
+c="sốt ớn lạnh" 2:9 2:11||r="PIP"||c="nhức mỏi toàn_thân" 2:15 2:17
+c="sốt ớn lạnh" 2:9 2:11||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="sốt ớn lạnh" 2:9 2:11||r="PIP"||c="mệt chóng váng khi đi_lại" 2:22 2:26
+c="nhức mỏi toàn_thân" 2:15 2:17||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="nhức mỏi toàn_thân" 2:15 2:17||r="PIP"||c="mệt chóng váng khi đi_lại" 2:22 2:26
+c="ăn_uống kém" 2:19 2:20||r="PIP"||c="mệt chóng váng khi đi_lại" 2:22 2:26

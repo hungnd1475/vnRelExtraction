@@ -1,0 +1,11 @@
+c="ho" 2:1 2:1||r="PIP"||c="khó thở" 2:3 2:4
+c="ho" 4:2 4:2||r="PIP"||c="khò_khè" 4:4 4:4
+c="uống thuốc" 4:10 4:11||r="TrWP"||c="ho" 4:2 4:2
+c="ho" 4:2 4:2||r="PIP"||c="ho nhiều" 4:18 4:19
+c="ho" 4:2 4:2||r="PIP"||c="thở mệt" 4:23 4:24
+c="uống thuốc" 4:10 4:11||r="TrWP"||c="khò_khè" 4:4 4:4
+c="khò_khè" 4:4 4:4||r="PIP"||c="ho nhiều" 4:18 4:19
+c="khò_khè" 4:4 4:4||r="PIP"||c="thở mệt" 4:23 4:24
+c="uống thuốc" 4:10 4:11||r="TrWP"||c="ho nhiều" 4:18 4:19
+c="uống thuốc" 4:10 4:11||r="TrWP"||c="thở mệt" 4:23 4:24
+c="ho nhiều" 4:18 4:19||r="PIP"||c="thở mệt" 4:23 4:24

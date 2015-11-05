@@ -1,0 +1,10 @@
+c="đau ngực trái" 2:5 2:7||r="PIP"||c="hồi_hộp" 2:9 2:9
+c="đau ngực trái" 2:5 2:7||r="PIP"||c="mất_ngủ" 2:11 2:11
+c="đau ngực trái" 2:5 2:7||r="PIP"||c="sốt" 2:13 2:13
+c="đau ngực trái" 2:5 2:7||r="PIP"||c="đau họng" 2:15 2:16
+c="hồi_hộp" 2:9 2:9||r="PIP"||c="mất_ngủ" 2:11 2:11
+c="hồi_hộp" 2:9 2:9||r="PIP"||c="sốt" 2:13 2:13
+c="hồi_hộp" 2:9 2:9||r="PIP"||c="đau họng" 2:15 2:16
+c="mất_ngủ" 2:11 2:11||r="PIP"||c="sốt" 2:13 2:13
+c="mất_ngủ" 2:11 2:11||r="PIP"||c="đau họng" 2:15 2:16
+c="sốt" 2:13 2:13||r="PIP"||c="đau họng" 2:15 2:16

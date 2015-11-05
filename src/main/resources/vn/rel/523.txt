@@ -1,0 +1,3 @@
+c="Viêm sung_huyết phình vị" 6:9 6:12||r="PIP"||c="mức_độ nhẹ" 6:14 6:15
+c="điều_trị thuốc" 6:19 6:20||r="TrIP"||c="Viêm sung_huyết phình vị" 6:9 6:12
+c="nội_soi dạ_dày" 6:6 6:7||r="TeRP"||c="Viêm sung_huyết phình vị" 6:9 6:12

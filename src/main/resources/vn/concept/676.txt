@@ -1,0 +1,4 @@
+c="ra nhiều mồ_hôi tay" 4:12 4:15||t="problem"
+c="chân từ nhỏ" 4:17 4:19||t="problem"
+c="Tăng tiết mồ_hôi tay" 5:3 5:6||t="problem"
+c="Phẫu_thuật đốt hạch thần_kinh giao_cảm ngực" 6:1 6:6||t="treatment"

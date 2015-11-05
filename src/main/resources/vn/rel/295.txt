@@ -1,0 +1,1 @@
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="chóng_mặt khi đi_lại" 2:10 2:12

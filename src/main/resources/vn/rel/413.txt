@@ -1,0 +1,28 @@
+c="sốt nhẹ" 2:6 2:7||r="PIP"||c="tức ngực" 2:9 2:10
+c="sốt nhẹ" 2:6 2:7||r="PIP"||c="đau_đầu" 2:12 2:12
+c="sốt nhẹ" 2:6 2:7||r="PIP"||c="chóng_mặt" 2:14 2:14
+c="sốt nhẹ" 2:6 2:7||r="PIP"||c="da nổi mẩn ngứa rải_rác toàn_thân" 2:16 2:21
+c="sốt nhẹ" 2:6 2:7||r="PIP"||c="đau_nhức chân khi đi_lại" 2:23 2:26
+c="sốt nhẹ" 2:6 2:7||r="PIP"||c="mệt_mỏi" 2:28 2:28
+c="điều_trị" 2:39 2:39||r="TrIP"||c="sốt nhẹ" 2:6 2:7
+c="tức ngực" 2:9 2:10||r="PIP"||c="đau_đầu" 2:12 2:12
+c="tức ngực" 2:9 2:10||r="PIP"||c="chóng_mặt" 2:14 2:14
+c="tức ngực" 2:9 2:10||r="PIP"||c="da nổi mẩn ngứa rải_rác toàn_thân" 2:16 2:21
+c="tức ngực" 2:9 2:10||r="PIP"||c="đau_nhức chân khi đi_lại" 2:23 2:26
+c="tức ngực" 2:9 2:10||r="PIP"||c="mệt_mỏi" 2:28 2:28
+c="điều_trị" 2:39 2:39||r="TrIP"||c="tức ngực" 2:9 2:10
+c="đau_đầu" 2:12 2:12||r="PIP"||c="chóng_mặt" 2:14 2:14
+c="đau_đầu" 2:12 2:12||r="PIP"||c="da nổi mẩn ngứa rải_rác toàn_thân" 2:16 2:21
+c="đau_đầu" 2:12 2:12||r="PIP"||c="đau_nhức chân khi đi_lại" 2:23 2:26
+c="đau_đầu" 2:12 2:12||r="PIP"||c="mệt_mỏi" 2:28 2:28
+c="điều_trị" 2:39 2:39||r="TrIP"||c="đau_đầu" 2:12 2:12
+c="chóng_mặt" 2:14 2:14||r="PIP"||c="da nổi mẩn ngứa rải_rác toàn_thân" 2:16 2:21
+c="chóng_mặt" 2:14 2:14||r="PIP"||c="đau_nhức chân khi đi_lại" 2:23 2:26
+c="chóng_mặt" 2:14 2:14||r="PIP"||c="mệt_mỏi" 2:28 2:28
+c="điều_trị" 2:39 2:39||r="TrIP"||c="chóng_mặt" 2:14 2:14
+c="da nổi mẩn ngứa rải_rác toàn_thân" 2:16 2:21||r="PIP"||c="đau_nhức chân khi đi_lại" 2:23 2:26
+c="da nổi mẩn ngứa rải_rác toàn_thân" 2:16 2:21||r="PIP"||c="mệt_mỏi" 2:28 2:28
+c="điều_trị" 2:39 2:39||r="TrIP"||c="da nổi mẩn ngứa rải_rác toàn_thân" 2:16 2:21
+c="đau_nhức chân khi đi_lại" 2:23 2:26||r="PIP"||c="mệt_mỏi" 2:28 2:28
+c="điều_trị" 2:39 2:39||r="TrIP"||c="đau_nhức chân khi đi_lại" 2:23 2:26
+c="điều_trị" 2:39 2:39||r="TrIP"||c="mệt_mỏi" 2:28 2:28

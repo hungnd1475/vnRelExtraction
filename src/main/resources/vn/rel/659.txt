@@ -1,0 +1,4 @@
+c="phẩu thuật thay khớp háng ( T ) toàn_phần" 2:2 2:10||r="TrWP"||c="đi_lại yếu" 2:24 2:25
+c="phẩu thuật thay khớp háng ( T ) toàn_phần" 2:2 2:10||r="TrWP"||c="ăn_uống kém" 2:27 2:28
+c="đi_lại yếu" 2:24 2:25||r="PIP"||c="ăn_uống kém" 2:27 2:28
+c="buồn_nôn" 3:3 3:3||r="PIP"||c="nôn ói" 3:5 3:6

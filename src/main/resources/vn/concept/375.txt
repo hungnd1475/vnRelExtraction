@@ -1,0 +1,5 @@
+c="sốt cao liên_tục" 2:4 2:6||t="problem"
+c="ho_khan" 2:8 2:8||t="problem"
+c="khó thở nhẹ" 2:10 2:12||t="problem"
+c="ăn_uống kém" 2:14 2:15||t="problem"
+c="điều_trị" 2:22 2:22||t="treatment"

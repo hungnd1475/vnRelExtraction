@@ -1,0 +1,6 @@
+c="SỐT" 2:1 2:1||t="problem"
+c="sốt cao liên_tục 4 ngày" 4:2 4:6||t="problem"
+c="ho" 4:8 4:8||t="problem"
+c="uống thuốc" 4:13 4:14||t="treatment"
+c="khám" 4:20 4:20||t="treatment"
+c="điều_trị" 5:2 5:2||t="treatment"

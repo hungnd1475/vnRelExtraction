@@ -1,0 +1,14 @@
+c="đặt stent DES/LAD" 4:17 4:19||r="TrWP"||c="khó thở" 4:8 4:9
+c="lọc máu" 4:25 4:26||r="TrWP"||c="khó thở" 4:8 4:9
+c="khó thở" 4:8 4:9||r="PIP"||c="xuất_huyết tiêu_hóa dưới" 4:30 4:32
+c="phẫu_thuật" 4:34 4:34||r="TrWP"||c="khó thở" 4:8 4:9
+c="đặt stent DES/LAD" 4:17 4:19||r="TrWP"||c="xuất_huyết tiêu_hóa dưới" 4:30 4:32
+c="lọc máu" 4:25 4:26||r="TrWP"||c="xuất_huyết tiêu_hóa dưới" 4:30 4:32
+c="phẫu_thuật" 4:34 4:34||r="TrWP"||c="xuất_huyết tiêu_hóa dưới" 4:30 4:32
+c="sốt" 6:11 6:11||r="PIP"||c="đau vết" 6:16 6:17
+c="sốt" 6:11 6:11||r="PIP"||c="vô niệu" 6:19 6:20
+c="sốt" 6:11 6:11||r="PIP"||c="khó thở" 6:22 6:23
+c="đau vết" 6:16 6:17||r="PIP"||c="vô niệu" 6:19 6:20
+c="đau vết" 6:16 6:17||r="PIP"||c="khó thở" 6:22 6:23
+c="vô niệu" 6:19 6:20||r="PIP"||c="khó thở" 6:22 6:23
+c="suy thận mạn" 8:1 8:3||r="PIP"||c="THA" 8:7 8:7

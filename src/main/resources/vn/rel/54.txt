@@ -1,0 +1,28 @@
+c="sốt" 4:7 4:7||r="PIP"||c="sốt nhẹ" 4:15 4:16
+c="sốt" 4:7 4:7||r="PIP"||c="sốt cao" 4:22 4:23
+c="sốt" 4:7 4:7||r="PIP"||c="tiêu phân lỏng 2 lần" 4:29 4:33
+c="sốt" 4:7 4:7||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="sốt" 4:7 4:7||r="PIP"||c="quấy nhiều" 4:43 4:44
+c="sốt" 4:7 4:7||r="PIP"||c="khó ngủ" 4:46 4:47
+c="sốt" 4:7 4:7||r="PIP"||c="lòng bàn_chân ( T ) nổi mẩn đỏ" 4:49 4:56
+c="sốt nhẹ" 4:15 4:16||r="PIP"||c="sốt cao" 4:22 4:23
+c="sốt nhẹ" 4:15 4:16||r="PIP"||c="tiêu phân lỏng 2 lần" 4:29 4:33
+c="sốt nhẹ" 4:15 4:16||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="sốt nhẹ" 4:15 4:16||r="PIP"||c="quấy nhiều" 4:43 4:44
+c="sốt nhẹ" 4:15 4:16||r="PIP"||c="khó ngủ" 4:46 4:47
+c="sốt nhẹ" 4:15 4:16||r="PIP"||c="lòng bàn_chân ( T ) nổi mẩn đỏ" 4:49 4:56
+c="sốt cao" 4:22 4:23||r="PIP"||c="tiêu phân lỏng 2 lần" 4:29 4:33
+c="sốt cao" 4:22 4:23||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="sốt cao" 4:22 4:23||r="PIP"||c="quấy nhiều" 4:43 4:44
+c="sốt cao" 4:22 4:23||r="PIP"||c="khó ngủ" 4:46 4:47
+c="sốt cao" 4:22 4:23||r="PIP"||c="lòng bàn_chân ( T ) nổi mẩn đỏ" 4:49 4:56
+c="tiêu phân lỏng 2 lần" 4:29 4:33||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="tiêu phân lỏng 2 lần" 4:29 4:33||r="PIP"||c="quấy nhiều" 4:43 4:44
+c="tiêu phân lỏng 2 lần" 4:29 4:33||r="PIP"||c="khó ngủ" 4:46 4:47
+c="tiêu phân lỏng 2 lần" 4:29 4:33||r="PIP"||c="lòng bàn_chân ( T ) nổi mẩn đỏ" 4:49 4:56
+c="ăn_uống kém" 4:40 4:41||r="PIP"||c="quấy nhiều" 4:43 4:44
+c="ăn_uống kém" 4:40 4:41||r="PIP"||c="khó ngủ" 4:46 4:47
+c="ăn_uống kém" 4:40 4:41||r="PIP"||c="lòng bàn_chân ( T ) nổi mẩn đỏ" 4:49 4:56
+c="quấy nhiều" 4:43 4:44||r="PIP"||c="khó ngủ" 4:46 4:47
+c="quấy nhiều" 4:43 4:44||r="PIP"||c="lòng bàn_chân ( T ) nổi mẩn đỏ" 4:49 4:56
+c="khó ngủ" 4:46 4:47||r="PIP"||c="lòng bàn_chân ( T ) nổi mẩn đỏ" 4:49 4:56

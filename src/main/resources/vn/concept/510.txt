@@ -1,0 +1,7 @@
+c="Kháng_sinh" 2:1 2:1||t="treatment"
+c="kháng_viêm" 2:3 2:3||t="treatment"
+c="nâng tổng trạng" 2:5 2:7||t="treatment"
+c="sốt" 4:2 4:2||t="problem"
+c="khám điều_trị ngoại_trú" 4:7 4:9||t="treatment"
+c="không bớt" 4:13 4:14||t="problem"
+c="sốt cao kèm đau họng" 4:16 4:20||t="problem"

@@ -1,0 +1,4 @@
+Tổng Kết Bệnh Lý
+Khởi bệnh cách nhập_viện 03 ngày , bệnh_nhân sốt kèm đau_nhức cơ toàn_thân ; Ngứa rải_rác toàn_thân đã lâu , đã đi khám uống thuốc với chẩn_đoán sốt_xuất_huyết .
+Hôm_nay mệt nhiều - - > khám vào viện
+Sau điều_trị bệnh ổn_định - - > ra viện

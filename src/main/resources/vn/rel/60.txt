@@ -1,0 +1,5 @@
+c="sốt cao" 2:1 2:2||r="PIP"||c="ói" 2:4 2:4
+c="dùng thuốc hạ sốt" 4:9 4:12||r="TrWP"||c="sốt cao" 4:5 4:6
+c="sốt cao" 4:5 4:6||r="PIP"||c="ói khoảng 10 lần / ngày" 4:16 4:21
+c="dùng thuốc hạ sốt" 4:9 4:12||r="TrWP"||c="ói khoảng 10 lần / ngày" 4:16 4:21
+c="ói khoảng 3-4 lần" 5:4 5:7||r="PIP"||c="bỏ ăn" 5:9 5:10

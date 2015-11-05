@@ -1,0 +1,14 @@
+c="điều_trị theo hướng nhiễm_trùng tiểu bằng cefixim" 2:7 2:13||r="TrWP"||c="đau bụng" 2:26 2:27
+c="điều_trị theo hướng nhiễm_trùng tiểu bằng cefixim" 2:7 2:13||r="TrWP"||c="nôn nhiều lần" 2:31 2:33
+c="điều_trị theo hướng nhiễm_trùng tiểu bằng cefixim" 2:7 2:13||r="TrWP"||c="ói liên_tục" 2:49 2:50
+c="điều_trị theo hướng nhiễm_trùng tiểu bằng cefixim" 2:7 2:13||r="TrWP"||c="đau bụng nhiều hơn" 2:53 2:56
+c="đau bụng" 2:26 2:27||r="PIP"||c="nôn nhiều lần" 2:31 2:33
+c="uống thuốc chống ói" 2:42 2:45||r="TrWP"||c="đau bụng" 2:26 2:27
+c="đau bụng" 2:26 2:27||r="PIP"||c="ói liên_tục" 2:49 2:50
+c="đau bụng" 2:26 2:27||r="PIP"||c="đau bụng nhiều hơn" 2:53 2:56
+c="uống thuốc chống ói" 2:42 2:45||r="TrWP"||c="nôn nhiều lần" 2:31 2:33
+c="nôn nhiều lần" 2:31 2:33||r="PIP"||c="ói liên_tục" 2:49 2:50
+c="nôn nhiều lần" 2:31 2:33||r="PIP"||c="đau bụng nhiều hơn" 2:53 2:56
+c="uống thuốc chống ói" 2:42 2:45||r="TrWP"||c="ói liên_tục" 2:49 2:50
+c="uống thuốc chống ói" 2:42 2:45||r="TrWP"||c="đau bụng nhiều hơn" 2:53 2:56
+c="ói liên_tục" 2:49 2:50||r="PIP"||c="đau bụng nhiều hơn" 2:53 2:56

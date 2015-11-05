@@ -1,0 +1,6 @@
+c="lọc máu" 2:6 2:7||t="treatment"
+c="ói 4-5 la62nra thức_ăn buoi 6433 trưa" 2:59 2:65||t="problem"
+c="lạnh run sốt 38 độ 5" 2:77 2:82||t="problem"
+c="Tăng huyết_áp" 4:1 4:2||t="problem"
+c="Viêm dạ_dày" 5:1 5:2||t="problem"
+c="nội_khoa" 7:1 7:1||t="treatment"

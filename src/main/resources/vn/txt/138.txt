@@ -1,0 +1,9 @@
+Bệnh Lý
+Bệnh_nhân khai ra mồ_hôi tay , ngày_càng ra nhiều - - > vào khám - - > nhập_viện
+Tiền Sử Bệnh
+Chưa rõ
+Điều Trị
+phẫu_thuật
+Tóm Tắt Khám Bệnh
+Bệnh_nhân khai ra mồ_hôi tay , ngày_càng ra nhiều - - > vào khám - - > nhập_viện
+Chẩn_đoán : Tăng tiết mồ_hôi tay .

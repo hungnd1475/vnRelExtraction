@@ -1,0 +1,4 @@
+c="đi_cầu ra máu" 16:3 16:5||r="PIP"||c="Trĩ nội độ II xuất_huyết" 16:14 16:18
+c="phẫu_thuật" 16:23 16:23||r="TrAP"||c="đi_cầu ra máu" 16:3 16:5
+c="phẫu_thuật" 16:23 16:23||r="TrAP"||c="Trĩ nội độ II xuất_huyết" 16:14 16:18
+c="Trĩ nội độ II xuất_huyết" 17:3 17:7||r="PIP"||c="Da thừa hậu_môn" 17:9 17:11

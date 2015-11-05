@@ -1,0 +1,8 @@
+c="báng bụng ngày_càng tăng kèm theo ăn_uống kém" 2:7 2:14||t="problem"
+c="da niêm vàng sậm" 2:16 2:19||t="problem"
+c="tiểu sậm màu" 2:21 2:23||t="problem"
+c="đau quặn bụng kháp bụng" 2:25 2:29||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"
+c="Lợi_tiểu" 7:1 7:1||t="treatment"

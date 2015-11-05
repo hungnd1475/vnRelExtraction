@@ -1,0 +1,3 @@
+c="gãy kín xương_đòn T" 4:2 4:5||r="PIP"||c="nứt chỏm quay P" 4:11 4:14
+c="phẫu_thuật kết_hợp xương_đòn đnh K" 4:18 4:22||r="TrIP"||c="gãy kín xương_đòn T" 4:2 4:5
+c="phẫu_thuật kết_hợp xương_đòn đnh K" 4:18 4:22||r="TrIP"||c="nứt chỏm quay P" 4:11 4:14

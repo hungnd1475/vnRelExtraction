@@ -1,0 +1,21 @@
+c="ho" 2:5 2:5||r="PIP"||c="sốt" 2:7 2:7
+c="ho" 2:5 2:5||r="PIP"||c="khạc đàm xanh nhiều" 2:9 2:12
+c="ho" 2:5 2:5||r="PIP"||c="sốt ngày_càng tăng" 2:14 2:16
+c="ho" 2:5 2:5||r="PIP"||c="khó thở" 2:19 2:20
+c="ho" 2:5 2:5||r="PIP"||c="tiểu phải rặn" 2:22 2:24
+c="ho" 2:5 2:5||r="PIP"||c="gắt nhẹ" 2:26 2:27
+c="sốt" 2:7 2:7||r="PIP"||c="khạc đàm xanh nhiều" 2:9 2:12
+c="sốt" 2:7 2:7||r="PIP"||c="sốt ngày_càng tăng" 2:14 2:16
+c="sốt" 2:7 2:7||r="PIP"||c="khó thở" 2:19 2:20
+c="sốt" 2:7 2:7||r="PIP"||c="tiểu phải rặn" 2:22 2:24
+c="sốt" 2:7 2:7||r="PIP"||c="gắt nhẹ" 2:26 2:27
+c="khạc đàm xanh nhiều" 2:9 2:12||r="PIP"||c="sốt ngày_càng tăng" 2:14 2:16
+c="khạc đàm xanh nhiều" 2:9 2:12||r="PIP"||c="khó thở" 2:19 2:20
+c="khạc đàm xanh nhiều" 2:9 2:12||r="PIP"||c="tiểu phải rặn" 2:22 2:24
+c="khạc đàm xanh nhiều" 2:9 2:12||r="PIP"||c="gắt nhẹ" 2:26 2:27
+c="sốt ngày_càng tăng" 2:14 2:16||r="PIP"||c="khó thở" 2:19 2:20
+c="sốt ngày_càng tăng" 2:14 2:16||r="PIP"||c="tiểu phải rặn" 2:22 2:24
+c="sốt ngày_càng tăng" 2:14 2:16||r="PIP"||c="gắt nhẹ" 2:26 2:27
+c="khó thở" 2:19 2:20||r="PIP"||c="tiểu phải rặn" 2:22 2:24
+c="khó thở" 2:19 2:20||r="PIP"||c="gắt nhẹ" 2:26 2:27
+c="tiểu phải rặn" 2:22 2:24||r="PIP"||c="gắt nhẹ" 2:26 2:27

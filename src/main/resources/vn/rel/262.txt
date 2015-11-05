@@ -1,0 +1,15 @@
+c="đau_đầu nhiều vùng trán từ chiều đau theo mạch đập" 2:2 2:11||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 2:13 2:16
+c="đau_đầu nhiều vùng trán từ chiều đau theo mạch đập" 2:2 2:11||r="PIP"||c="buồn_nôn" 2:18 2:18
+c="đau_đầu nhiều vùng trán từ chiều đau theo mạch đập" 2:2 2:11||r="PIP"||c="nôn" 2:20 2:20
+c="đau_đầu nhiều vùng trán từ chiều đau theo mạch đập" 2:2 2:11||r="PIP"||c="mệt_mỏi" 2:22 2:22
+c="điều_trị" 2:32 2:32||r="TrWP"||c="đau_đầu nhiều vùng trán từ chiều đau theo mạch đập" 2:2 2:11
+c="chóng_mặt khi thay_đổi tư_thế" 2:13 2:16||r="PIP"||c="buồn_nôn" 2:18 2:18
+c="chóng_mặt khi thay_đổi tư_thế" 2:13 2:16||r="PIP"||c="nôn" 2:20 2:20
+c="chóng_mặt khi thay_đổi tư_thế" 2:13 2:16||r="PIP"||c="mệt_mỏi" 2:22 2:22
+c="điều_trị" 2:32 2:32||r="TrWP"||c="chóng_mặt khi thay_đổi tư_thế" 2:13 2:16
+c="buồn_nôn" 2:18 2:18||r="PIP"||c="nôn" 2:20 2:20
+c="buồn_nôn" 2:18 2:18||r="PIP"||c="mệt_mỏi" 2:22 2:22
+c="điều_trị" 2:32 2:32||r="TrWP"||c="buồn_nôn" 2:18 2:18
+c="nôn" 2:20 2:20||r="PIP"||c="mệt_mỏi" 2:22 2:22
+c="điều_trị" 2:32 2:32||r="TrWP"||c="nôn" 2:20 2:20
+c="điều_trị" 2:32 2:32||r="TrWP"||c="mệt_mỏi" 2:22 2:22

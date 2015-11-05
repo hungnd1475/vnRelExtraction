@@ -1,0 +1,13 @@
+c="tự uống 50 mL nước dưỡng tóc chứa nhiều chất bay_hơi" 4:4 4:14||r="PIP"||c="buồn_nôn" 4:18 4:18
+c="tự uống 50 mL nước dưỡng tóc chứa nhiều chất bay_hơi" 4:4 4:14||r="PIP"||c="không nôn" 4:20 4:21
+c="buồn_nôn" 4:18 4:18||r="PIP"||c="không nôn" 4:20 4:21
+c="Tình táo" 5:3 5:4||r="PIP"||c="đồng_tử 2 mm , PXAS ( + )" 5:6 5:13
+c="Tình táo" 5:3 5:4||r="PIP"||c="sinh hiệu ổn_định" 5:15 5:17
+c="Tình táo" 5:3 5:4||r="PIP"||c="bụng mềm" 5:19 5:20
+c="Tình táo" 5:3 5:4||r="PIP"||c="không đau khú trú" 5:22 5:25
+c="đồng_tử 2 mm , PXAS ( + )" 5:6 5:13||r="PIP"||c="sinh hiệu ổn_định" 5:15 5:17
+c="đồng_tử 2 mm , PXAS ( + )" 5:6 5:13||r="PIP"||c="bụng mềm" 5:19 5:20
+c="đồng_tử 2 mm , PXAS ( + )" 5:6 5:13||r="PIP"||c="không đau khú trú" 5:22 5:25
+c="sinh hiệu ổn_định" 5:15 5:17||r="PIP"||c="bụng mềm" 5:19 5:20
+c="sinh hiệu ổn_định" 5:15 5:17||r="PIP"||c="không đau khú trú" 5:22 5:25
+c="bụng mềm" 5:19 5:20||r="PIP"||c="không đau khú trú" 5:22 5:25

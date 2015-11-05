@@ -1,0 +1,15 @@
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="ăn_uống kém" 2:9 2:10
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="choáng_váng khi đi_lại" 2:12 2:14
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="thỉnh_thoảng đi_tiêu có máu đỏ tươi" 2:16 2:21
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="không kèm sốt" 2:23 2:25
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="đau lâm_râm thượng_vị" 2:27 2:29
+c="ăn_uống kém" 2:9 2:10||r="PIP"||c="choáng_váng khi đi_lại" 2:12 2:14
+c="ăn_uống kém" 2:9 2:10||r="PIP"||c="thỉnh_thoảng đi_tiêu có máu đỏ tươi" 2:16 2:21
+c="ăn_uống kém" 2:9 2:10||r="PIP"||c="không kèm sốt" 2:23 2:25
+c="ăn_uống kém" 2:9 2:10||r="PIP"||c="đau lâm_râm thượng_vị" 2:27 2:29
+c="choáng_váng khi đi_lại" 2:12 2:14||r="PIP"||c="thỉnh_thoảng đi_tiêu có máu đỏ tươi" 2:16 2:21
+c="choáng_váng khi đi_lại" 2:12 2:14||r="PIP"||c="không kèm sốt" 2:23 2:25
+c="choáng_váng khi đi_lại" 2:12 2:14||r="PIP"||c="đau lâm_râm thượng_vị" 2:27 2:29
+c="thỉnh_thoảng đi_tiêu có máu đỏ tươi" 2:16 2:21||r="PIP"||c="không kèm sốt" 2:23 2:25
+c="thỉnh_thoảng đi_tiêu có máu đỏ tươi" 2:16 2:21||r="PIP"||c="đau lâm_râm thượng_vị" 2:27 2:29
+c="không kèm sốt" 2:23 2:25||r="PIP"||c="đau lâm_râm thượng_vị" 2:27 2:29

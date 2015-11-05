@@ -1,0 +1,3 @@
+c="yếu hai chân" 2:11 2:13||t="problem"
+c="liệt hoàn_toàn 2 chân" 3:6 3:9||t="problem"
+c="nội_khoa" 5:1 5:1||t="treatment"

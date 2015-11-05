@@ -1,0 +1,6 @@
+c="sốt cao về đêm" 4:6 4:9||r="PIP"||c="ho đàm khó khạc" 4:12 4:15
+c="sốt cao về đêm" 4:6 4:9||r="PIP"||c="ăn_uống kém" 4:17 4:18
+c="sốt cao về đêm" 4:6 4:9||r="PIP"||c="mệt" 4:20 4:20
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="ăn_uống kém" 4:17 4:18
+c="ho đàm khó khạc" 4:12 4:15||r="PIP"||c="mệt" 4:20 4:20
+c="ăn_uống kém" 4:17 4:18||r="PIP"||c="mệt" 4:20 4:20

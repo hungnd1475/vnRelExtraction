@@ -1,0 +1,4 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="yếu hai chân" 4:2 4:4||t="problem"
+c="nhập icu" 4:8 4:9||t="treatment"
+c="nội_khoa" 7:1 7:1||t="treatment"

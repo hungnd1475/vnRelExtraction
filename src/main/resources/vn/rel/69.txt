@@ -1,0 +1,10 @@
+c="sốt" 4:2 4:2||r="PIP"||c="loét miệng" 4:6 4:7
+c="sốt" 4:2 4:2||r="PIP"||c="bệnh tay_chân miệng" 4:14 4:16
+c="sốt" 4:2 4:2||r="PIP"||c="ăn_uống kém" 4:23 4:24
+c="sốt" 4:2 4:2||r="PIP"||c="giật_mình 3 lần" 4:30 4:32
+c="loét miệng" 4:6 4:7||r="PIP"||c="bệnh tay_chân miệng" 4:14 4:16
+c="loét miệng" 4:6 4:7||r="PIP"||c="ăn_uống kém" 4:23 4:24
+c="loét miệng" 4:6 4:7||r="PIP"||c="giật_mình 3 lần" 4:30 4:32
+c="bệnh tay_chân miệng" 4:14 4:16||r="PIP"||c="ăn_uống kém" 4:23 4:24
+c="bệnh tay_chân miệng" 4:14 4:16||r="PIP"||c="giật_mình 3 lần" 4:30 4:32
+c="ăn_uống kém" 4:23 4:24||r="PIP"||c="giật_mình 3 lần" 4:30 4:32

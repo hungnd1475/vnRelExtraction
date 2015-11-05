@@ -1,0 +1,4 @@
+c="đau_đầu" 2:3 2:3||t="problem"
+c="sốt" 2:5 2:5||t="problem"
+c="bỏng nước" 2:12 2:13||t="problem"
+c="điều_trị" 2:23 2:23||t="treatment"

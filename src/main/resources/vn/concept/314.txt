@@ -1,0 +1,6 @@
+c="đau bụng" 2:3 2:4||t="problem"
+c="tiểu gắt buốt" 2:8 2:10||t="problem"
+c="chóng_mặt nhiều" 3:2 3:3||t="problem"
+c="buồn_nôn" 3:5 3:5||t="problem"
+c="tiểu gắt buốt" 3:7 3:9||t="problem"
+c="mệt" 3:11 3:11||t="problem"

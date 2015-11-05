@@ -1,0 +1,15 @@
+c="sốt" 2:5 2:5||r="PIP"||c="ho có đàm nhiều" 2:7 2:10
+c="sốt" 2:5 2:5||r="PIP"||c="ói nhiều" 2:12 2:13
+c="sốt" 2:5 2:5||r="PIP"||c="quấy khóc" 2:15 2:16
+c="sốt" 2:5 2:5||r="PIP"||c="bỏ ăn" 2:18 2:19
+c="sốt" 2:5 2:5||r="PIP"||c="tiêu phân lỏng" 2:40 2:42
+c="ho có đàm nhiều" 2:7 2:10||r="PIP"||c="ói nhiều" 2:12 2:13
+c="ho có đàm nhiều" 2:7 2:10||r="PIP"||c="quấy khóc" 2:15 2:16
+c="ho có đàm nhiều" 2:7 2:10||r="PIP"||c="bỏ ăn" 2:18 2:19
+c="ho có đàm nhiều" 2:7 2:10||r="PIP"||c="tiêu phân lỏng" 2:40 2:42
+c="ói nhiều" 2:12 2:13||r="PIP"||c="quấy khóc" 2:15 2:16
+c="ói nhiều" 2:12 2:13||r="PIP"||c="bỏ ăn" 2:18 2:19
+c="ói nhiều" 2:12 2:13||r="PIP"||c="tiêu phân lỏng" 2:40 2:42
+c="quấy khóc" 2:15 2:16||r="PIP"||c="bỏ ăn" 2:18 2:19
+c="quấy khóc" 2:15 2:16||r="PIP"||c="tiêu phân lỏng" 2:40 2:42
+c="bỏ ăn" 2:18 2:19||r="PIP"||c="tiêu phân lỏng" 2:40 2:42

@@ -1,0 +1,8 @@
+c="sốt cao" 2:2 2:3||t="problem"
+c="đau_đầu" 2:8 2:8||t="problem"
+c="đau cơ" 2:10 2:11||t="problem"
+c="đau họng" 2:13 2:14||t="problem"
+c="ho_khan" 2:16 2:16||t="problem"
+c="mệt mõi" 2:18 2:19||t="problem"
+c="mụn nước xuất_hiện ở vai" 2:23 2:27||t="problem"
+c="nỗi hạch dưới hàm" 2:36 2:39||t="problem"

@@ -1,0 +1,5 @@
+c="sốt" 2:9 2:9||t="problem"
+c="ho" 2:11 2:11||t="problem"
+c="nhức đầu vùng trán và dọc 2 bên mũi" 2:13 2:21||t="problem"
+c="nghẹt mũi" 2:23 2:24||t="problem"
+c="điều_trị TMH theo hường viêm xoang" 3:3 3:8||t="treatment"

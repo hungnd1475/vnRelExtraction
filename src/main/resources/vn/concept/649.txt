@@ -1,0 +1,2 @@
+c="đau_nhói ngực" 2:9 2:10||t="problem"
+c="Nitroglycerine" 2:20 2:20||t="treatment"

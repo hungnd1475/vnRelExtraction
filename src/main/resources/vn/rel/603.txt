@@ -1,0 +1,27 @@
+c="ho" 2:2 2:2||r="PIP"||c="khò_khè" 2:4 2:4
+c="ho" 2:2 2:2||r="PIP"||c="tiêu lỏng" 2:6 2:7
+c="ho" 2:2 2:2||r="PIP"||c="ho nhiều" 2:20 2:21
+c="ho" 2:2 2:2||r="PIP"||c="khò_khè" 2:23 2:23
+c="ho" 2:2 2:2||r="PIP"||c="tiêu lỏng nhiều" 2:25 2:27
+c="ho" 2:2 2:2||r="PIP"||c="phân_xanh có đàm nhớt" 2:29 2:32
+c="ho" 2:2 2:2||r="PIP"||c="sốt cao liên_tục" 2:35 2:37
+c="khò_khè" 2:4 2:4||r="PIP"||c="tiêu lỏng" 2:6 2:7
+c="khò_khè" 2:4 2:4||r="PIP"||c="ho nhiều" 2:20 2:21
+c="khò_khè" 2:4 2:4||r="PIP"||c="tiêu lỏng nhiều" 2:25 2:27
+c="khò_khè" 2:4 2:4||r="PIP"||c="phân_xanh có đàm nhớt" 2:29 2:32
+c="khò_khè" 2:4 2:4||r="PIP"||c="sốt cao liên_tục" 2:35 2:37
+c="tiêu lỏng" 2:6 2:7||r="PIP"||c="ho nhiều" 2:20 2:21
+c="tiêu lỏng" 2:6 2:7||r="PIP"||c="khò_khè" 2:23 2:23
+c="tiêu lỏng" 2:6 2:7||r="PIP"||c="tiêu lỏng nhiều" 2:25 2:27
+c="tiêu lỏng" 2:6 2:7||r="PIP"||c="phân_xanh có đàm nhớt" 2:29 2:32
+c="tiêu lỏng" 2:6 2:7||r="PIP"||c="sốt cao liên_tục" 2:35 2:37
+c="ho nhiều" 2:20 2:21||r="PIP"||c="khò_khè" 2:23 2:23
+c="ho nhiều" 2:20 2:21||r="PIP"||c="tiêu lỏng nhiều" 2:25 2:27
+c="ho nhiều" 2:20 2:21||r="PIP"||c="phân_xanh có đàm nhớt" 2:29 2:32
+c="ho nhiều" 2:20 2:21||r="PIP"||c="sốt cao liên_tục" 2:35 2:37
+c="khò_khè" 2:23 2:23||r="PIP"||c="tiêu lỏng nhiều" 2:25 2:27
+c="khò_khè" 2:23 2:23||r="PIP"||c="phân_xanh có đàm nhớt" 2:29 2:32
+c="khò_khè" 2:23 2:23||r="PIP"||c="sốt cao liên_tục" 2:35 2:37
+c="tiêu lỏng nhiều" 2:25 2:27||r="PIP"||c="phân_xanh có đàm nhớt" 2:29 2:32
+c="tiêu lỏng nhiều" 2:25 2:27||r="PIP"||c="sốt cao liên_tục" 2:35 2:37
+c="phân_xanh có đàm nhớt" 2:29 2:32||r="PIP"||c="sốt cao liên_tục" 2:35 2:37

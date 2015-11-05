@@ -1,0 +1,8 @@
+c="đau_nhức hai chân" 2:6 2:8||t="problem"
+c="đi_lại yếu" 2:10 2:11||t="problem"
+c="ăn_uống kém" 2:13 2:14||t="problem"
+c="nói đớ lưỡi" 2:16 2:18||t="problem"
+c="mệt" 2:20 2:20||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ đường_huyết" 6:1 6:2||t="treatment"

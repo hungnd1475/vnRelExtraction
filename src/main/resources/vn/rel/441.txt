@@ -1,0 +1,11 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="mệt" 2:3 2:3
+c="đau lưng" 4:4 4:5||r="PIP"||c="hông ( T" 4:7 4:9
+c="đau lưng" 4:4 4:5||r="PIP"||c="sốt lạng run" 4:12 4:14
+c="đau lưng" 4:4 4:5||r="PIP"||c="mệt" 4:16 4:16
+c="điều_trị" 4:28 4:28||r="TrIP"||c="đau lưng" 4:4 4:5
+c="hông ( T" 4:7 4:9||r="PIP"||c="sốt lạng run" 4:12 4:14
+c="hông ( T" 4:7 4:9||r="PIP"||c="mệt" 4:16 4:16
+c="điều_trị" 4:28 4:28||r="TrIP"||c="hông ( T" 4:7 4:9
+c="sốt lạng run" 4:12 4:14||r="PIP"||c="mệt" 4:16 4:16
+c="điều_trị" 4:28 4:28||r="TrIP"||c="sốt lạng run" 4:12 4:14
+c="điều_trị" 4:28 4:28||r="TrIP"||c="mệt" 4:16 4:16

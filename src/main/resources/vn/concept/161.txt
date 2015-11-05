@@ -1,0 +1,3 @@
+c="Lợi_tiểu" 2:1 2:1||t="treatment"
+c="Ức_chế bơm proton" 3:1 3:3||t="treatment"
+c="Bù đạm" 4:1 4:2||t="treatment"

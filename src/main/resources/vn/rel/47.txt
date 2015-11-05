@@ -1,0 +1,23 @@
+c="Phù 2 chân" 2:1 2:3||r="PIP"||c="mệt" 2:5 2:5
+c="mệt" 4:5 4:5||r="PIP"||c="phù" 4:7 4:7
+c="mệt" 4:5 4:5||r="PIP"||c="nặng 2 chân" 4:9 4:11
+c="mệt" 4:5 4:5||r="PIP"||c="đau_nhói ngực" 4:13 4:14
+c="mệt" 4:5 4:5||r="PIP"||c="đau_đầu" 4:16 4:16
+c="mệt" 4:5 4:5||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 4:18 4:21
+c="điều_trị" 4:25 4:25||r="TrWP"||c="mệt" 4:5 4:5
+c="phù" 4:7 4:7||r="PIP"||c="nặng 2 chân" 4:9 4:11
+c="phù" 4:7 4:7||r="PIP"||c="đau_nhói ngực" 4:13 4:14
+c="phù" 4:7 4:7||r="PIP"||c="đau_đầu" 4:16 4:16
+c="phù" 4:7 4:7||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 4:18 4:21
+c="điều_trị" 4:25 4:25||r="TrWP"||c="phù" 4:7 4:7
+c="nặng 2 chân" 4:9 4:11||r="PIP"||c="đau_nhói ngực" 4:13 4:14
+c="nặng 2 chân" 4:9 4:11||r="PIP"||c="đau_đầu" 4:16 4:16
+c="nặng 2 chân" 4:9 4:11||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 4:18 4:21
+c="điều_trị" 4:25 4:25||r="TrWP"||c="nặng 2 chân" 4:9 4:11
+c="đau_nhói ngực" 4:13 4:14||r="PIP"||c="đau_đầu" 4:16 4:16
+c="đau_nhói ngực" 4:13 4:14||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 4:18 4:21
+c="điều_trị" 4:25 4:25||r="TrWP"||c="đau_nhói ngực" 4:13 4:14
+c="đau_đầu" 4:16 4:16||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 4:18 4:21
+c="điều_trị" 4:25 4:25||r="TrWP"||c="đau_đầu" 4:16 4:16
+c="điều_trị" 4:25 4:25||r="TrWP"||c="chóng_mặt khi thay_đổi tư_thế" 4:18 4:21
+c="Tăng huyết_áp" 6:1 6:2||r="PIP"||c="Rối_loạn chuyển_hóa lipid máu" 6:4 6:7

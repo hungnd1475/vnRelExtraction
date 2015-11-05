@@ -1,0 +1,2 @@
+c="sơ_cứu khâu vết_thương" 6:28 6:30||r="TrAP"||c="vỡ mụn_nhọt trên đầu" 6:17 6:20
+c="Vết_thương đầu" 8:3 8:4||r="PIP"||c="chóng_mặt" 8:6 8:6

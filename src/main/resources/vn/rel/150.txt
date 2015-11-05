@@ -1,0 +1,17 @@
+c="khối phồng hậu_môn" 2:4 2:6||r="PIP"||c="đi cẩu ra máu" 2:21 2:24
+c="khối phồng hậu_môn" 2:4 2:6||r="PIP"||c="trĩ nội độ III" 2:38 2:41
+c="khối phồng hậu_môn" 2:4 2:6||r="PIP"||c="da thừa hậu_môn" 2:43 2:45
+c="đi cẩu ra máu" 2:21 2:24||r="PIP"||c="trĩ nội độ III" 2:38 2:41
+c="đi cẩu ra máu" 2:21 2:24||r="PIP"||c="da thừa hậu_môn" 2:43 2:45
+c="trĩ nội độ III" 2:38 2:41||r="PIP"||c="da thừa hậu_môn" 2:43 2:45
+c="khối phồng hậu_môn" 8:7 8:9||r="PIP"||c="đi cẩu ra máu" 8:24 8:27
+c="khối phồng hậu_môn" 8:7 8:9||r="PIP"||c="trĩ nội độ III" 8:41 8:44
+c="khối phồng hậu_môn" 8:7 8:9||r="PIP"||c="da thừa hậu_môn" 8:46 8:48
+c="đi cẩu ra máu" 8:24 8:27||r="PIP"||c="trĩ nội độ III" 8:41 8:44
+c="đi cẩu ra máu" 8:24 8:27||r="PIP"||c="da thừa hậu_môn" 8:46 8:48
+c="trĩ nội độ III" 8:41 8:44||r="PIP"||c="da thừa hậu_môn" 8:46 8:48
+c="Trĩ nội độ III" 9:3 9:6||r="PIP"||c="da thừa hậu_môn" 9:8 9:10
+c="Thăm hậu_môn trực_tràng" 2:34 2:36||r="TeCP"||c="khối phồng hậu_môn" 2:4 2:6
+c="Thăm hậu_môn trực_tràng" 2:34 2:36||r="TeCP"||c="đi cẩu ra máu" 2:21 2:24
+c="Thăm hậu_môn trực_tràng" 2:34 2:36||r="TeRP"||c="trĩ nội độ III" 2:38 2:41
+c="Thăm hậu_môn trực_tràng" 2:34 2:36||r="TeRP"||c="da thừa hậu_môn" 2:43 2:45

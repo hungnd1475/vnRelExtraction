@@ -1,0 +1,3 @@
+c="khang sinh" 6:23 6:24||r="TrAP"||c="Viêm tụy cấp" 6:5 6:7
+c="sandostatin" 6:28 6:28||r="TrAP"||c="Viêm tụy cấp" 6:5 6:7
+c="bù dịch" 6:32 6:33||r="TrAP"||c="Viêm tụy cấp" 6:5 6:7

@@ -1,0 +1,15 @@
+c="sổ_mũi" 2:6 2:6||r="PIP"||c="khò_khè khi bú" 2:8 2:10
+c="sổ_mũi" 2:6 2:6||r="PIP"||c="bú kém" 2:12 2:13
+c="sổ_mũi" 2:6 2:6||r="PIP"||c="tiêu lỏng nhiều lần" 2:15 2:18
+c="sổ_mũi" 2:6 2:6||r="PIP"||c="mắt đổ ghèn nhiều" 2:20 2:23
+c="sổ_mũi" 2:6 2:6||r="PIP"||c="vặn mình" 2:25 2:26
+c="khò_khè khi bú" 2:8 2:10||r="PIP"||c="bú kém" 2:12 2:13
+c="khò_khè khi bú" 2:8 2:10||r="PIP"||c="tiêu lỏng nhiều lần" 2:15 2:18
+c="khò_khè khi bú" 2:8 2:10||r="PIP"||c="mắt đổ ghèn nhiều" 2:20 2:23
+c="khò_khè khi bú" 2:8 2:10||r="PIP"||c="vặn mình" 2:25 2:26
+c="bú kém" 2:12 2:13||r="PIP"||c="tiêu lỏng nhiều lần" 2:15 2:18
+c="bú kém" 2:12 2:13||r="PIP"||c="mắt đổ ghèn nhiều" 2:20 2:23
+c="bú kém" 2:12 2:13||r="PIP"||c="vặn mình" 2:25 2:26
+c="tiêu lỏng nhiều lần" 2:15 2:18||r="PIP"||c="mắt đổ ghèn nhiều" 2:20 2:23
+c="tiêu lỏng nhiều lần" 2:15 2:18||r="PIP"||c="vặn mình" 2:25 2:26
+c="mắt đổ ghèn nhiều" 2:20 2:23||r="PIP"||c="vặn mình" 2:25 2:26

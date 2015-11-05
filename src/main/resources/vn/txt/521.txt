@@ -1,0 +1,7 @@
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân thấy hai chi dưới không cử_động được - - > nhập Icu diều trị
+Bệnh_nhân tỉnh , đi_lại được , xin xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+nội_khoa

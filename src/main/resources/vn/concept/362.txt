@@ -1,0 +1,2 @@
+c="truyền hóa_chất" 2:3 2:4||t="treatment"
+c="hóa_trị đợt IV" 2:21 2:23||t="treatment"

@@ -1,0 +1,1 @@
+c="1 tuần nay đi_cầu ra máu nhiều" 4:4 4:10||r="PIP"||c="chưa điều_trị gì" 4:12 4:14

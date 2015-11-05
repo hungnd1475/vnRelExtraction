@@ -1,0 +1,7 @@
+c="Viêm dạ_dày" 2:1 2:2||t="problem"
+c="đau rát thượng_vị" 4:7 4:9||t="problem"
+c="ợ chua khó tiêu" 4:11 4:14||t="problem"
+c="đau quặn vùng thượng_vị" 4:17 4:20||t="problem"
+c="đầy bụng" 4:22 4:23||t="problem"
+c="ăn_uống không tiêu" 4:25 4:27||t="problem"
+c="điều_trị" 4:39 4:39||t="treatment"

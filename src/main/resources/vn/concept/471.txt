@@ -1,0 +1,7 @@
+c="đau khớp gối ( T )" 2:4 2:9||t="problem"
+c="đau thần_kinh tọa" 2:11 2:13||t="problem"
+c="chóng_mặt nhiều" 3:4 3:5||t="problem"
+c="HA dao_động không ổn_định" 3:7 3:10||t="problem"
+c="hội_chẩn chuyển khoa_nội điều_trị tiếp" 3:12 3:16||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ_áp" 6:1 6:1||t="treatment"

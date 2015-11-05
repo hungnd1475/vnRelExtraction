@@ -1,0 +1,4 @@
+c="tuyến ức đã phẫu_thuật" 3:2 3:5||t="treatment"
+c="điều_trị hóa_trị" 3:8 3:9||t="treatment"
+c="tuyến ức di_căn" 4:3 4:5||t="problem"
+c="Siêu_âm" 5:1 5:1||t="test"

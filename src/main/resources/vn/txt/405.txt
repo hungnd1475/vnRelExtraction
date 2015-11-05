@@ -1,0 +1,6 @@
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân mệt nhiều - - > nhập ICU điều_trị
+Bệnh_nhân được điều_trị : Albumin , long đàm , lợi_tiểu , ức_chế bơm proton
+Bệnh_nhân tạm ồn định , Cho bệnh_nhân xuất_viện

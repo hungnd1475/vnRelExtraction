@@ -1,0 +1,5 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="ho đàm vàng" 4:4 4:6||t="problem"
+c="sốt_lạnh run" 4:8 4:9||t="problem"
+c="khó thở" 4:11 4:12||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"

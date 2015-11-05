@@ -1,0 +1,8 @@
+c="sốt cao" 2:1 2:2||t="problem"
+c="sốt" 4:9 4:9||t="problem"
+c="sốt cao" 4:16 4:17||t="problem"
+c="ho" 5:2 5:2||t="problem"
+c="ho" 5:7 5:7||t="problem"
+c="bụng chướng" 5:12 5:13||t="problem"
+c="phân hơi sệt" 6:7 6:9||t="problem"
+c="nội" 9:1 9:1||t="treatment"

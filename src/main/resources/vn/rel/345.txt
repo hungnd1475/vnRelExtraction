@@ -1,0 +1,3 @@
+c="đau vùng hạ sườn" 3:1 3:4||r="PIP"||c="ăn_uống kém" 3:6 3:7
+c="đau vùng hạ sườn" 3:1 3:4||r="PIP"||c="đau_nhức chân khi đi_lại" 3:9 3:12
+c="ăn_uống kém" 3:6 3:7||r="PIP"||c="đau_nhức chân khi đi_lại" 3:9 3:12

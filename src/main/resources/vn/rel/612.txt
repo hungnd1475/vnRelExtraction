@@ -1,0 +1,18 @@
+c="tiêu_chảy" 4:10 4:10||r="PIP"||c="sốt cao" 4:14 4:15
+c="hạ sốt" 4:28 4:29||r="TrWP"||c="tiêu_chảy" 4:10 4:10
+c="tiêu_chảy" 4:10 4:10||r="PIP"||c="lên_cơn co_giật toàn_thân" 4:32 4:34
+c="tiêu_chảy" 4:10 4:10||r="PIP"||c="trợn mắt" 4:36 4:37
+c="Efferalgan" 4:47 4:47||r="TrWP"||c="tiêu_chảy" 4:10 4:10
+c="Seduxen" 4:53 4:53||r="TrWP"||c="tiêu_chảy" 4:10 4:10
+c="hạ sốt" 4:28 4:29||r="TrWP"||c="sốt cao" 4:14 4:15
+c="sốt cao" 4:14 4:15||r="PIP"||c="lên_cơn co_giật toàn_thân" 4:32 4:34
+c="sốt cao" 4:14 4:15||r="PIP"||c="trợn mắt" 4:36 4:37
+c="Efferalgan" 4:47 4:47||r="TrWP"||c="sốt cao" 4:14 4:15
+c="Seduxen" 4:53 4:53||r="TrWP"||c="sốt cao" 4:14 4:15
+c="hạ sốt" 4:28 4:29||r="TrWP"||c="lên_cơn co_giật toàn_thân" 4:32 4:34
+c="hạ sốt" 4:28 4:29||r="TrWP"||c="trợn mắt" 4:36 4:37
+c="lên_cơn co_giật toàn_thân" 4:32 4:34||r="PIP"||c="trợn mắt" 4:36 4:37
+c="Efferalgan" 4:47 4:47||r="TrWP"||c="lên_cơn co_giật toàn_thân" 4:32 4:34
+c="Seduxen" 4:53 4:53||r="TrWP"||c="lên_cơn co_giật toàn_thân" 4:32 4:34
+c="Efferalgan" 4:47 4:47||r="TrWP"||c="trợn mắt" 4:36 4:37
+c="Seduxen" 4:53 4:53||r="TrWP"||c="trợn mắt" 4:36 4:37

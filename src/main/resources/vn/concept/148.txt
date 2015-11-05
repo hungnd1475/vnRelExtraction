@@ -1,0 +1,8 @@
+c="ho" 2:5 2:5||t="problem"
+c="sốt" 2:7 2:7||t="problem"
+c="khạc đàm xanh nhiều" 2:9 2:12||t="problem"
+c="sốt ngày_càng tăng" 2:14 2:16||t="problem"
+c="khó thở" 2:19 2:20||t="problem"
+c="tiểu phải rặn" 2:22 2:24||t="problem"
+c="gắt nhẹ" 2:26 2:27||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"

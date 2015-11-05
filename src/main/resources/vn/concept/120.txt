@@ -1,0 +1,7 @@
+c="sốt cao" 2:1 2:2||t="problem"
+c="sốt" 4:8 4:8||t="problem"
+c="sốt cao" 4:16 4:17||t="problem"
+c="uống thuốc" 4:26 4:27||t="treatment"
+c="ói 1 lần" 4:35 4:37||t="problem"
+c="tiêu phân lỏng xanh rêu nhiều nước" 5:4 5:10||t="problem"
+c="nội" 11:1 11:1||t="treatment"

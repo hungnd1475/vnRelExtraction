@@ -1,0 +1,8 @@
+c="khám" 2:15 2:15||r="TrWP"||c="đau âm_ỉ thượng_vị lan qua hai bên mạn sườn" 2:4 2:12
+c="đau âm_ỉ thượng_vị lan qua hai bên mạn sườn" 2:4 2:12||r="PIP"||c="sỏi túi_mật" 2:23 2:24
+c="khám" 2:15 2:15||r="TrWP"||c="sỏi túi_mật" 2:23 2:24
+c="khám" 8:19 8:19||r="TrWP"||c="đau âm_ỉ thượng_vị lan qua hai bên mạn sườn" 8:8 8:16
+c="đau âm_ỉ thượng_vị lan qua hai bên mạn sườn" 8:8 8:16||r="PIP"||c="sỏi túi_mật" 8:27 8:28
+c="khám" 8:19 8:19||r="TrWP"||c="sỏi túi_mật" 8:27 8:28
+c="siêu_âm" 2:21 2:21||r="TeCP"||c="đau âm_ỉ thượng_vị lan qua hai bên mạn sườn" 2:4 2:12
+c="siêu_âm" 2:21 2:21||r="TeRP"||c="sỏi túi_mật" 2:23 2:24

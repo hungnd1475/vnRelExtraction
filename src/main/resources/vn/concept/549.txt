@@ -1,0 +1,5 @@
+c="Khoảng 4 ngày_nay bệnh_nhân sốt ớn lạnh" 2:1 2:7||t="problem"
+c="chóng_mặt" 2:9 2:9||t="problem"
+c="đau họng" 2:11 2:12||t="problem"
+c="đau_nhức toàn_thân" 2:14 2:15||t="problem"
+c="ăn_uống kém" 2:17 2:18||t="problem"

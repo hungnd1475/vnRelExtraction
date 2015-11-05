@@ -1,0 +1,7 @@
+c="phù hạ chi" 2:6 2:8||t="problem"
+c="tiểu nhiều lần" 2:12 2:14||t="problem"
+c="mệt khi đi_lại" 2:16 2:18||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ_áp" 6:1 6:1||t="treatment"
+c="Bù đạm" 7:1 7:2||t="treatment"

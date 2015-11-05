@@ -1,0 +1,4 @@
+c="ho_khan" 4:5 4:5||r="PIP"||c="sốt cơn nhẹ" 4:7 4:9
+c="augmentin" 4:17 4:17||r="TrWP"||c="ho_khan" 4:5 4:5
+c="augmentin" 4:17 4:17||r="TrWP"||c="sốt cơn nhẹ" 4:7 4:9
+c="ói" 5:6 5:6||r="PIP"||c="mệt nhiều" 5:16 5:17

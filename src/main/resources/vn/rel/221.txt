@@ -1,0 +1,6 @@
+c="sốt cao" 6:5 6:6||r="PIP"||c="ói" 6:8 6:8
+c="sốt cao" 6:5 6:6||r="PIP"||c="ho nhiều" 6:10 6:11
+c="ói" 6:8 6:8||r="PIP"||c="ho nhiều" 6:10 6:11
+c="phổi rale ẩm" 7:1 7:3||r="PIP"||c="nổ" 7:5 7:5
+c="phổi rale ẩm" 7:1 7:3||r="PIP"||c="ngáy" 7:7 7:7
+c="nổ" 7:5 7:5||r="PIP"||c="ngáy" 7:7 7:7

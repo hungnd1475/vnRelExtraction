@@ -1,0 +1,55 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="sốt" 4:16 4:16
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="sốt vừa" 4:18 4:19
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="dao_động" 4:21 4:21
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="ho" 4:24 4:24
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="sổ_mũi" 4:26 4:26
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="sốt" 4:33 4:33
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="quấy khóc nhiều" 4:35 4:37
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="ngủ ít" 4:39 4:40
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="thở mệt" 4:42 4:43
+c="điều_trị viêm mũi họng" 4:7 4:10||r="TrWP"||c="ăn kém" 4:45 4:46
+c="sốt" 4:16 4:16||r="PIP"||c="sốt vừa" 4:18 4:19
+c="sốt" 4:16 4:16||r="PIP"||c="dao_động" 4:21 4:21
+c="sốt" 4:16 4:16||r="PIP"||c="ho" 4:24 4:24
+c="sốt" 4:16 4:16||r="PIP"||c="sổ_mũi" 4:26 4:26
+c="sốt" 4:16 4:16||r="PIP"||c="quấy khóc nhiều" 4:35 4:37
+c="sốt" 4:16 4:16||r="PIP"||c="ngủ ít" 4:39 4:40
+c="sốt" 4:16 4:16||r="PIP"||c="thở mệt" 4:42 4:43
+c="sốt" 4:16 4:16||r="PIP"||c="ăn kém" 4:45 4:46
+c="sốt vừa" 4:18 4:19||r="PIP"||c="dao_động" 4:21 4:21
+c="sốt vừa" 4:18 4:19||r="PIP"||c="ho" 4:24 4:24
+c="sốt vừa" 4:18 4:19||r="PIP"||c="sổ_mũi" 4:26 4:26
+c="sốt vừa" 4:18 4:19||r="PIP"||c="sốt" 4:33 4:33
+c="sốt vừa" 4:18 4:19||r="PIP"||c="quấy khóc nhiều" 4:35 4:37
+c="sốt vừa" 4:18 4:19||r="PIP"||c="ngủ ít" 4:39 4:40
+c="sốt vừa" 4:18 4:19||r="PIP"||c="thở mệt" 4:42 4:43
+c="sốt vừa" 4:18 4:19||r="PIP"||c="ăn kém" 4:45 4:46
+c="dao_động" 4:21 4:21||r="PIP"||c="ho" 4:24 4:24
+c="dao_động" 4:21 4:21||r="PIP"||c="sổ_mũi" 4:26 4:26
+c="dao_động" 4:21 4:21||r="PIP"||c="sốt" 4:33 4:33
+c="dao_động" 4:21 4:21||r="PIP"||c="quấy khóc nhiều" 4:35 4:37
+c="dao_động" 4:21 4:21||r="PIP"||c="ngủ ít" 4:39 4:40
+c="dao_động" 4:21 4:21||r="PIP"||c="thở mệt" 4:42 4:43
+c="dao_động" 4:21 4:21||r="PIP"||c="ăn kém" 4:45 4:46
+c="ho" 4:24 4:24||r="PIP"||c="sổ_mũi" 4:26 4:26
+c="ho" 4:24 4:24||r="PIP"||c="sốt" 4:33 4:33
+c="ho" 4:24 4:24||r="PIP"||c="quấy khóc nhiều" 4:35 4:37
+c="ho" 4:24 4:24||r="PIP"||c="ngủ ít" 4:39 4:40
+c="ho" 4:24 4:24||r="PIP"||c="thở mệt" 4:42 4:43
+c="ho" 4:24 4:24||r="PIP"||c="ăn kém" 4:45 4:46
+c="sổ_mũi" 4:26 4:26||r="PIP"||c="sốt" 4:33 4:33
+c="sổ_mũi" 4:26 4:26||r="PIP"||c="quấy khóc nhiều" 4:35 4:37
+c="sổ_mũi" 4:26 4:26||r="PIP"||c="ngủ ít" 4:39 4:40
+c="sổ_mũi" 4:26 4:26||r="PIP"||c="thở mệt" 4:42 4:43
+c="sổ_mũi" 4:26 4:26||r="PIP"||c="ăn kém" 4:45 4:46
+c="sốt" 4:33 4:33||r="PIP"||c="quấy khóc nhiều" 4:35 4:37
+c="sốt" 4:33 4:33||r="PIP"||c="ngủ ít" 4:39 4:40
+c="sốt" 4:33 4:33||r="PIP"||c="thở mệt" 4:42 4:43
+c="sốt" 4:33 4:33||r="PIP"||c="ăn kém" 4:45 4:46
+c="quấy khóc nhiều" 4:35 4:37||r="PIP"||c="ngủ ít" 4:39 4:40
+c="quấy khóc nhiều" 4:35 4:37||r="PIP"||c="thở mệt" 4:42 4:43
+c="quấy khóc nhiều" 4:35 4:37||r="PIP"||c="ăn kém" 4:45 4:46
+c="ngủ ít" 4:39 4:40||r="PIP"||c="thở mệt" 4:42 4:43
+c="ngủ ít" 4:39 4:40||r="PIP"||c="ăn kém" 4:45 4:46
+c="thở mệt" 4:42 4:43||r="PIP"||c="ăn kém" 4:45 4:46

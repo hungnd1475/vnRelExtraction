@@ -1,0 +1,8 @@
+c="Viêm dạ_dày" 2:1 2:2||t="problem"
+c="đau bụng vùng thượng_vị" 4:5 4:8||t="problem"
+c="đầy bụng sau ăn" 4:10 4:13||t="problem"
+c="ợ hơi" 4:15 4:16||t="problem"
+c="ợ chua" 4:18 4:19||t="problem"
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:21 4:25||t="problem"
+c="Khám và điều_trị" 4:30 4:32||t="treatment"
+c="điều_trị" 4:38 4:38||t="treatment"

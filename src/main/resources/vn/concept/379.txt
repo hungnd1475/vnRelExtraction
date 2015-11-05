@@ -1,0 +1,8 @@
+c="tăng huyết_áp" 2:4 2:5||t="problem"
+c="Nhồi máu não cũ" 2:7 2:10||t="problem"
+c="uống thuốc theo toa" 3:3 3:6||t="treatment"
+c="thuốc huyết_áp" 3:10 3:11||t="treatment"
+c="chóng_mặt" 3:16 3:16||t="problem"
+c="đau_đầu nhiều" 3:18 3:19||t="problem"
+c="mệt" 3:21 3:21||t="problem"
+c="điều_trị" 3:33 3:33||t="treatment"

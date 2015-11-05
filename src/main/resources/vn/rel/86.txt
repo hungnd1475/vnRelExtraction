@@ -1,0 +1,7 @@
+c="Mệt" 2:1 2:1||r="PIP"||c="hồi_hộp" 2:3 2:3
+c="stress" 4:6 4:6||r="PIP"||c="hồi_hộp" 4:8 4:8
+c="stress" 4:6 4:6||r="PIP"||c="tim đập nhanh" 4:10 4:12
+c="stress" 4:6 4:6||r="PIP"||c="mệt" 4:14 4:14
+c="hồi_hộp" 4:8 4:8||r="PIP"||c="tim đập nhanh" 4:10 4:12
+c="hồi_hộp" 4:8 4:8||r="PIP"||c="mệt" 4:14 4:14
+c="tim đập nhanh" 4:10 4:12||r="PIP"||c="mệt" 4:14 4:14

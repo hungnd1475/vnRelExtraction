@@ -1,0 +1,6 @@
+c="đau nhiều vùng thượng_vị" 4:6 4:9||r="PIP"||c="nôn ói thức_ăn sau ăn" 4:13 4:17
+c="đau nhiều vùng thượng_vị" 4:6 4:9||r="PIP"||c="tiêu lỏng 5 lần không đàm máu" 4:19 4:25
+c="đau nhiều vùng thượng_vị" 4:6 4:9||r="PIP"||c="mệt nhiều" 4:27 4:28
+c="nôn ói thức_ăn sau ăn" 4:13 4:17||r="PIP"||c="tiêu lỏng 5 lần không đàm máu" 4:19 4:25
+c="nôn ói thức_ăn sau ăn" 4:13 4:17||r="PIP"||c="mệt nhiều" 4:27 4:28
+c="tiêu lỏng 5 lần không đàm máu" 4:19 4:25||r="PIP"||c="mệt nhiều" 4:27 4:28

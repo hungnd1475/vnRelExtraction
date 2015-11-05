@@ -1,0 +1,8 @@
+c="Nội_khoa" 4:1 4:1||t="treatment"
+c="vỡ mụn_nhọt trên đầu" 6:17 6:20||t="problem"
+c="sơ_cứu khâu vết_thương" 6:28 6:30||t="treatment"
+c="chóng_mặt" 7:4 7:4||t="problem"
+c="Vết_thương đầu" 8:3 8:4||t="problem"
+c="chóng_mặt" 8:6 8:6||t="problem"
+c="Điều_trị nội_khoa" 9:1 9:2||t="treatment"
+c="Nội_khoa" 11:1 11:1||t="treatment"

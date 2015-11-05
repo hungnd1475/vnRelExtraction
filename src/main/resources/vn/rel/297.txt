@@ -1,0 +1,15 @@
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ho_khan" 4:12 4:12
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="đau họng khi nuốt" 4:14 4:17
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ăn_uống kém" 4:19 4:20
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="nhức đầu" 4:22 4:23
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="nhức mỏi toàn_thân" 4:25 4:27
+c="ho_khan" 4:12 4:12||r="PIP"||c="đau họng khi nuốt" 4:14 4:17
+c="ho_khan" 4:12 4:12||r="PIP"||c="ăn_uống kém" 4:19 4:20
+c="ho_khan" 4:12 4:12||r="PIP"||c="nhức đầu" 4:22 4:23
+c="ho_khan" 4:12 4:12||r="PIP"||c="nhức mỏi toàn_thân" 4:25 4:27
+c="đau họng khi nuốt" 4:14 4:17||r="PIP"||c="ăn_uống kém" 4:19 4:20
+c="đau họng khi nuốt" 4:14 4:17||r="PIP"||c="nhức đầu" 4:22 4:23
+c="đau họng khi nuốt" 4:14 4:17||r="PIP"||c="nhức mỏi toàn_thân" 4:25 4:27
+c="ăn_uống kém" 4:19 4:20||r="PIP"||c="nhức đầu" 4:22 4:23
+c="ăn_uống kém" 4:19 4:20||r="PIP"||c="nhức mỏi toàn_thân" 4:25 4:27
+c="nhức đầu" 4:22 4:23||r="PIP"||c="nhức mỏi toàn_thân" 4:25 4:27

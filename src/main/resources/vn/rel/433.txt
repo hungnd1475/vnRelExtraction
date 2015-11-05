@@ -1,0 +1,6 @@
+c="đau_đầu nhiều" 4:6 4:7||r="PIP"||c="nghẹt mũ" 4:11 4:12
+c="đau_đầu nhiều" 4:6 4:7||r="PIP"||c="sốt ớn lạnh về chiều" 4:14 4:18
+c="đau_đầu nhiều" 4:6 4:7||r="PIP"||c="mệt" 4:20 4:20
+c="nghẹt mũ" 4:11 4:12||r="PIP"||c="sốt ớn lạnh về chiều" 4:14 4:18
+c="nghẹt mũ" 4:11 4:12||r="PIP"||c="mệt" 4:20 4:20
+c="sốt ớn lạnh về chiều" 4:14 4:18||r="PIP"||c="mệt" 4:20 4:20

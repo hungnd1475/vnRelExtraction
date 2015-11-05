@@ -1,0 +1,13 @@
+c="Ho" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
+c="ho" 4:2 4:2||r="PIP"||c="khò_khè" 4:4 4:4
+c="khám" 4:11 4:11||r="TrWP"||c="ho" 4:2 4:2
+c="điều_trị viêm mũi họng" 4:13 4:16||r="TrWP"||c="ho" 4:2 4:2
+c="ho" 4:2 4:2||r="PIP"||c="khò_khè" 4:27 4:27
+c="khám" 4:11 4:11||r="TrWP"||c="khò_khè" 4:4 4:4
+c="điều_trị viêm mũi họng" 4:13 4:16||r="TrWP"||c="khò_khè" 4:4 4:4
+c="khò_khè" 4:4 4:4||r="PIP"||c="ho" 4:25 4:25
+c="khám" 4:11 4:11||r="TrWP"||c="ho" 4:25 4:25
+c="khám" 4:11 4:11||r="TrWP"||c="khò_khè" 4:27 4:27
+c="điều_trị viêm mũi họng" 4:13 4:16||r="TrWP"||c="ho" 4:25 4:25
+c="điều_trị viêm mũi họng" 4:13 4:16||r="TrWP"||c="khò_khè" 4:27 4:27
+c="ho" 4:25 4:25||r="PIP"||c="khò_khè" 4:27 4:27

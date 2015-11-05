@@ -1,0 +1,4 @@
+c="bầm máu dưới da" 2:7 2:10||t="problem"
+c="chóng_mặt" 2:16 2:16||t="problem"
+c="choáng_váng" 2:18 2:18||t="problem"
+c="xuất_huyết dưới da" 2:36 2:38||t="problem"

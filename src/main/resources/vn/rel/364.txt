@@ -1,0 +1,20 @@
+c="đau hông lưng ( T )" 2:2 2:7||r="PIP"||c="tiểu ít" 2:11 2:12
+c="đau hông lưng ( T )" 2:2 2:7||r="PIP"||c="sốt" 2:15 2:15
+c="khám ở BV Bình_dân" 2:19 2:22||r="TrWP"||c="đau hông lưng ( T )" 2:2 2:7
+c="đau hông lưng ( T )" 2:2 2:7||r="PIP"||c="ứ nước độ I" 2:30 2:33
+c="toa về" 2:37 2:38||r="TrWP"||c="đau hông lưng ( T )" 2:2 2:7
+c="đau hông lưng ( T )" 2:2 2:7||r="PIP"||c="không bớt đau" 2:41 2:43
+c="tiểu ít" 2:11 2:12||r="PIP"||c="sốt" 2:15 2:15
+c="khám ở BV Bình_dân" 2:19 2:22||r="TrWP"||c="tiểu ít" 2:11 2:12
+c="tiểu ít" 2:11 2:12||r="PIP"||c="ứ nước độ I" 2:30 2:33
+c="toa về" 2:37 2:38||r="TrWP"||c="tiểu ít" 2:11 2:12
+c="tiểu ít" 2:11 2:12||r="PIP"||c="không bớt đau" 2:41 2:43
+c="khám ở BV Bình_dân" 2:19 2:22||r="TrWP"||c="sốt" 2:15 2:15
+c="sốt" 2:15 2:15||r="PIP"||c="ứ nước độ I" 2:30 2:33
+c="toa về" 2:37 2:38||r="TrWP"||c="sốt" 2:15 2:15
+c="sốt" 2:15 2:15||r="PIP"||c="không bớt đau" 2:41 2:43
+c="khám ở BV Bình_dân" 2:19 2:22||r="TrWP"||c="ứ nước độ I" 2:30 2:33
+c="khám ở BV Bình_dân" 2:19 2:22||r="TrWP"||c="không bớt đau" 2:41 2:43
+c="toa về" 2:37 2:38||r="TrWP"||c="ứ nước độ I" 2:30 2:33
+c="ứ nước độ I" 2:30 2:33||r="PIP"||c="không bớt đau" 2:41 2:43
+c="toa về" 2:37 2:38||r="TrWP"||c="không bớt đau" 2:41 2:43

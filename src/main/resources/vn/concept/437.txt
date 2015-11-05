@@ -1,0 +1,5 @@
+c="sốt" 2:6 2:6||t="problem"
+c="ho" 2:8 2:8||t="problem"
+c="khò_khè" 2:10 2:10||t="problem"
+c="đau họng" 2:12 2:13||t="problem"
+c="khó thở" 3:1 3:2||t="problem"

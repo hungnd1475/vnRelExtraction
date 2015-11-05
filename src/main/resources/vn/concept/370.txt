@@ -1,0 +1,7 @@
+c="đầy bụng" 2:6 2:7||t="problem"
+c="chướng hơi" 2:9 2:10||t="problem"
+c="khám uống thuốc" 2:14 2:16||t="treatment"
+c="viêm dạ_dày ruột" 2:19 2:21||t="problem"
+c="đầy bụng" 3:7 3:8||t="problem"
+c="khó thở" 3:10 3:11||t="problem"
+c="điều_trị" 3:24 3:24||t="treatment"

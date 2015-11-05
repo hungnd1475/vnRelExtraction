@@ -1,0 +1,10 @@
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > nhập icu - > điều_trị rối_loạn nhịp chậm .
+Hạ_áp Dãn vành .
+Chống kết tập tiểu càu .
+Kháng_sinh .
+Dinh_dưỡng .
+Ức_chế bơm roton .
+Bệnh_nhân ổn_định - - > xuất_viện về

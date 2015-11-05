@@ -1,0 +1,6 @@
+c="Viêm dạ_dày" 2:1 2:2||t="problem"
+c="đau_đầu nhiều" 4:6 4:7||t="problem"
+c="nghẹt mũ" 4:11 4:12||t="problem"
+c="sốt ớn lạnh về chiều" 4:14 4:18||t="problem"
+c="mệt" 4:20 4:20||t="problem"
+c="Kháng_sinh" 8:1 8:1||t="treatment"

@@ -1,0 +1,10 @@
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="cảm_giác nhà_cửa xoay tròn" 2:7 2:10
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="nôn ói liên_tục" 2:12 2:14
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="mệt_mỏi" 2:16 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="chóng_mặt" 2:2 2:2
+c="cảm_giác nhà_cửa xoay tròn" 2:7 2:10||r="PIP"||c="nôn ói liên_tục" 2:12 2:14
+c="cảm_giác nhà_cửa xoay tròn" 2:7 2:10||r="PIP"||c="mệt_mỏi" 2:16 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="cảm_giác nhà_cửa xoay tròn" 2:7 2:10
+c="nôn ói liên_tục" 2:12 2:14||r="PIP"||c="mệt_mỏi" 2:16 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="nôn ói liên_tục" 2:12 2:14
+c="điều_trị" 2:27 2:27||r="TrIP"||c="mệt_mỏi" 2:16 2:16

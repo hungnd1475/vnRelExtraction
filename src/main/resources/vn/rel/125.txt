@@ -1,0 +1,10 @@
+c="ho đàm nhiều" 5:4 5:6||r="PIP"||c="khó khạc" 5:8 5:9
+c="ho đàm nhiều" 5:4 5:6||r="PIP"||c="bụng to" 5:14 5:15
+c="ho đàm nhiều" 5:4 5:6||r="PIP"||c="mệt" 5:17 5:17
+c="ho đàm nhiều" 5:4 5:6||r="PIP"||c="khó thở" 5:19 5:20
+c="khó khạc" 5:8 5:9||r="PIP"||c="bụng to" 5:14 5:15
+c="khó khạc" 5:8 5:9||r="PIP"||c="mệt" 5:17 5:17
+c="khó khạc" 5:8 5:9||r="PIP"||c="khó thở" 5:19 5:20
+c="bụng to" 5:14 5:15||r="PIP"||c="mệt" 5:17 5:17
+c="bụng to" 5:14 5:15||r="PIP"||c="khó thở" 5:19 5:20
+c="mệt" 5:17 5:17||r="PIP"||c="khó thở" 5:19 5:20

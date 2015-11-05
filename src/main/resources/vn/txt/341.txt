@@ -1,0 +1,10 @@
+Lý Do
+Ho
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > nhập ICU .
+Bệnh_nhân được điều_trị bằng kháng_sinh - - > Khí dung - - > nâng đở cơ_thể .
+Bệnh_nhân ổn_định - - > cho xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+Kháng_sinh

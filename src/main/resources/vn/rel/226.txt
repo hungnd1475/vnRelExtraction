@@ -1,0 +1,3 @@
+c="phù hạ chi" 2:6 2:8||r="PIP"||c="tiểu nhiều lần" 2:12 2:14
+c="phù hạ chi" 2:6 2:8||r="PIP"||c="mệt khi đi_lại" 2:16 2:18
+c="tiểu nhiều lần" 2:12 2:14||r="PIP"||c="mệt khi đi_lại" 2:16 2:18

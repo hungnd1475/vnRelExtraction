@@ -1,0 +1,7 @@
+c="sốt ngày 2" 4:2 4:4||r="PIP"||c="ói 1 lần" 4:6 4:8
+c="khám và điều_trị với Augmentin" 4:13 4:17||r="TrWP"||c="sốt ngày 2" 4:2 4:4
+c="salbutamol" 4:19 4:19||r="TrWP"||c="sốt ngày 2" 4:2 4:4
+c="men tiêu_hóa" 4:21 4:22||r="TrWP"||c="sốt ngày 2" 4:2 4:4
+c="khám và điều_trị với Augmentin" 4:13 4:17||r="TrWP"||c="ói 1 lần" 4:6 4:8
+c="salbutamol" 4:19 4:19||r="TrWP"||c="ói 1 lần" 4:6 4:8
+c="men tiêu_hóa" 4:21 4:22||r="TrWP"||c="ói 1 lần" 4:6 4:8

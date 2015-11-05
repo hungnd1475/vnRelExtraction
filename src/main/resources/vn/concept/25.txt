@@ -1,0 +1,8 @@
+c="đau bụng" 2:1 2:2||t="problem"
+c="đau bụng" 4:3 4:4||t="problem"
+c="ầm ỉ vùng quanh rốn" 4:12 4:16||t="problem"
+c="đau bụng ầm ỉ quanh rốn lan xuống hố_chậu ( P )" 4:24 4:35||t="problem"
+c="tiêu phân lỏng" 4:38 4:40||t="problem"
+c="buồn_nôn" 4:48 4:48||t="problem"
+c="ói" 4:50 4:50||t="problem"
+c="Nội-Ngoại khoa" 8:1 8:2||t="treatment"

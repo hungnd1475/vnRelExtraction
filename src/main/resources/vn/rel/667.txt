@@ -1,0 +1,10 @@
+c="đau bụng" 8:6 8:7||r="PIP"||c="đau lâm_râm" 8:14 8:15
+c="đau bụng" 8:6 8:7||r="PIP"||c="sốt nhẹ" 8:29 8:30
+c="đau bụng" 8:6 8:7||r="PIP"||c="viêm ruột_thừa mủ" 8:55 8:57
+c="đau bụng" 8:6 8:7||r="PIP"||c="máu bạch_cầu tăng" 8:60 8:62
+c="đau lâm_râm" 8:14 8:15||r="PIP"||c="sốt nhẹ" 8:29 8:30
+c="đau lâm_râm" 8:14 8:15||r="PIP"||c="viêm ruột_thừa mủ" 8:55 8:57
+c="đau lâm_râm" 8:14 8:15||r="PIP"||c="máu bạch_cầu tăng" 8:60 8:62
+c="sốt nhẹ" 8:29 8:30||r="PIP"||c="viêm ruột_thừa mủ" 8:55 8:57
+c="sốt nhẹ" 8:29 8:30||r="PIP"||c="máu bạch_cầu tăng" 8:60 8:62
+c="viêm ruột_thừa mủ" 8:55 8:57||r="PIP"||c="máu bạch_cầu tăng" 8:60 8:62

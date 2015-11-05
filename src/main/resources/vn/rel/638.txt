@@ -1,0 +1,3 @@
+c="hút đàm" 8:14 8:15||r="TrAP"||c="thở yếu" 8:3 8:4
+c="dinh_dưỡng đường tĩnh_mạch" 8:20 8:22||r="TrAP"||c="thở yếu" 8:3 8:4
+c="nuôi ăn qua sonde dạ_dày" 8:24 8:28||r="TrAP"||c="thở yếu" 8:3 8:4

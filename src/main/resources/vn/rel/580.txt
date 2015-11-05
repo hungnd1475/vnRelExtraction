@@ -1,0 +1,8 @@
+c="sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="thuốc hạ sốt" 4:14 4:16||r="TrIP"||c="sốt" 4:11 4:11
+c="khò_khè" 5:3 5:3||r="PIP"||c="sốt lại" 5:6 5:7
+c="khò_khè" 5:3 5:3||r="PIP"||c="ban nổi rải_rác" 5:9 5:11
+c="khò_khè" 5:3 5:3||r="PIP"||c="sổ_mũi ." 5:19 5:20
+c="sốt lại" 5:6 5:7||r="PIP"||c="ban nổi rải_rác" 5:9 5:11
+c="sốt lại" 5:6 5:7||r="PIP"||c="sổ_mũi ." 5:19 5:20
+c="ban nổi rải_rác" 5:9 5:11||r="PIP"||c="sổ_mũi ." 5:19 5:20

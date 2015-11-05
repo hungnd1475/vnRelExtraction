@@ -1,0 +1,3 @@
+c="vàng da" 2:16 2:17||r="PIP"||c="rốn ướt có mủ" 2:21 2:24
+c="vàng da" 2:16 2:17||r="PIP"||c="da vùng chân rốn nề đỏ" 2:26 2:31
+c="rốn ướt có mủ" 2:21 2:24||r="PIP"||c="da vùng chân rốn nề đỏ" 2:26 2:31

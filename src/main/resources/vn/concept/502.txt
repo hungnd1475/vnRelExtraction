@@ -1,0 +1,6 @@
+c="sốt" 4:6 4:6||t="problem"
+c="ớn lạnh" 4:8 4:9||t="problem"
+c="mệt_mỏi" 4:11 4:11||t="problem"
+c="chóng_mặt nhiều" 4:13 4:14||t="problem"
+c="căng_thẳng" 4:16 4:16||t="problem"
+c="ăn_uống kém" 4:18 4:19||t="problem"

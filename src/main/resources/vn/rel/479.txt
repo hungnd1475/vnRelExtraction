@@ -1,0 +1,10 @@
+c="ho đàm khó khạc" 2:7 2:10||r="PIP"||c="tức ngực khi ho" 2:14 2:17
+c="ho đàm khó khạc" 2:7 2:10||r="PIP"||c="sốt cao liên_tục" 2:19 2:21
+c="ho đàm khó khạc" 2:7 2:10||r="PIP"||c="đau_đầu" 2:23 2:23
+c="ho đàm khó khạc" 2:7 2:10||r="PIP"||c="ăn_uống kém" 2:25 2:26
+c="tức ngực khi ho" 2:14 2:17||r="PIP"||c="sốt cao liên_tục" 2:19 2:21
+c="tức ngực khi ho" 2:14 2:17||r="PIP"||c="đau_đầu" 2:23 2:23
+c="tức ngực khi ho" 2:14 2:17||r="PIP"||c="ăn_uống kém" 2:25 2:26
+c="sốt cao liên_tục" 2:19 2:21||r="PIP"||c="đau_đầu" 2:23 2:23
+c="sốt cao liên_tục" 2:19 2:21||r="PIP"||c="ăn_uống kém" 2:25 2:26
+c="đau_đầu" 2:23 2:23||r="PIP"||c="ăn_uống kém" 2:25 2:26

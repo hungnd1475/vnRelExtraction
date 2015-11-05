@@ -1,0 +1,7 @@
+c="sốt cao liên_tục 4 ngày" 2:2 2:6||t="problem"
+c="mua thuốc uống" 2:8 2:10||t="treatment"
+c="xuất_hiện nhiều ban đỏ nổi từ mắt" 2:16 2:22||t="problem"
+c="sau tai lan xuống cổ lưng bụng và 2 tay" 2:24 2:33||t="problem"
+c="ngứa họng đỏ" 2:35 2:37||t="problem"
+c="ho_khan" 2:39 2:39||t="problem"
+c="điều_trị" 2:50 2:50||t="treatment"

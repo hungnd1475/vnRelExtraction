@@ -1,0 +1,10 @@
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="buồn_nôn" 2:7 2:7
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="không nôn" 2:9 2:10
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="không đau_đầu" 2:12 2:13
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="mệt nhiều" 2:15 2:16
+c="buồn_nôn" 2:7 2:7||r="PIP"||c="không nôn" 2:9 2:10
+c="buồn_nôn" 2:7 2:7||r="PIP"||c="không đau_đầu" 2:12 2:13
+c="buồn_nôn" 2:7 2:7||r="PIP"||c="mệt nhiều" 2:15 2:16
+c="không nôn" 2:9 2:10||r="PIP"||c="không đau_đầu" 2:12 2:13
+c="không nôn" 2:9 2:10||r="PIP"||c="mệt nhiều" 2:15 2:16
+c="không đau_đầu" 2:12 2:13||r="PIP"||c="mệt nhiều" 2:15 2:16

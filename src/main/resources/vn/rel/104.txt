@@ -1,0 +1,22 @@
+c="sốt" 4:8 4:8||r="PIP"||c="sốt cao" 4:15 4:16
+c="sốt" 4:8 4:8||r="PIP"||c="sốt cao co_giật" 4:25 4:27
+c="sốt" 4:8 4:8||r="PIP"||c="mắt trợn" 4:29 4:30
+c="sốt" 4:8 4:8||r="PIP"||c="tay_chân gồng" 4:32 4:33
+c="sốt" 4:8 4:8||r="PIP"||c="bọt mép khoảng 30 giây" 4:35 4:39
+c="hạ sốt nhét hậu_môn" 4:44 4:47||r="TrWP"||c="sốt" 4:8 4:8
+c="sốt cao" 4:15 4:16||r="PIP"||c="sốt cao co_giật" 4:25 4:27
+c="sốt cao" 4:15 4:16||r="PIP"||c="mắt trợn" 4:29 4:30
+c="sốt cao" 4:15 4:16||r="PIP"||c="tay_chân gồng" 4:32 4:33
+c="sốt cao" 4:15 4:16||r="PIP"||c="bọt mép khoảng 30 giây" 4:35 4:39
+c="hạ sốt nhét hậu_môn" 4:44 4:47||r="TrWP"||c="sốt cao" 4:15 4:16
+c="sốt cao co_giật" 4:25 4:27||r="PIP"||c="mắt trợn" 4:29 4:30
+c="sốt cao co_giật" 4:25 4:27||r="PIP"||c="tay_chân gồng" 4:32 4:33
+c="sốt cao co_giật" 4:25 4:27||r="PIP"||c="bọt mép khoảng 30 giây" 4:35 4:39
+c="hạ sốt nhét hậu_môn" 4:44 4:47||r="TrAP"||c="sốt cao co_giật" 4:25 4:27
+c="mắt trợn" 4:29 4:30||r="PIP"||c="tay_chân gồng" 4:32 4:33
+c="mắt trợn" 4:29 4:30||r="PIP"||c="bọt mép khoảng 30 giây" 4:35 4:39
+c="hạ sốt nhét hậu_môn" 4:44 4:47||r="TrAP"||c="mắt trợn" 4:29 4:30
+c="tay_chân gồng" 4:32 4:33||r="PIP"||c="bọt mép khoảng 30 giây" 4:35 4:39
+c="hạ sốt nhét hậu_môn" 4:44 4:47||r="TrAP"||c="tay_chân gồng" 4:32 4:33
+c="hạ sốt nhét hậu_môn" 4:44 4:47||r="TrAP"||c="bọt mép khoảng 30 giây" 4:35 4:39
+c="phân lỏng n 4" 7:2 7:5||r="PIP"||c="lỏng ít không đàm máu" 7:10 7:14

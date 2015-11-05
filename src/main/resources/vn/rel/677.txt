@@ -1,0 +1,10 @@
+c="uống 1 gói Duphalac" 2:7 2:10||r="TrWP"||c="bón" 2:5 2:5
+c="bón" 2:5 2:5||r="PIP"||c="tiêu lỏng" 2:21 2:22
+c="bón" 2:5 2:5||r="PIP"||c="Nôn" 2:26 2:26
+c="bón" 2:5 2:5||r="PIP"||c="đau quặn bụng từng cơn" 2:28 2:32
+c="uống 1 gói Duphalac" 2:7 2:10||r="TrWP"||c="tiêu lỏng" 2:21 2:22
+c="uống 1 gói Duphalac" 2:7 2:10||r="TrWP"||c="Nôn" 2:26 2:26
+c="uống 1 gói Duphalac" 2:7 2:10||r="TrWP"||c="đau quặn bụng từng cơn" 2:28 2:32
+c="tiêu lỏng" 2:21 2:22||r="PIP"||c="Nôn" 2:26 2:26
+c="tiêu lỏng" 2:21 2:22||r="PIP"||c="đau quặn bụng từng cơn" 2:28 2:32
+c="Nôn" 2:26 2:26||r="PIP"||c="đau quặn bụng từng cơn" 2:28 2:32

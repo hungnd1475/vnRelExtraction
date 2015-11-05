@@ -1,0 +1,11 @@
+c="nổi ban đỏ" 2:8 2:10||r="PIP"||c="ho" 2:16 2:16
+c="nổi ban đỏ" 2:8 2:10||r="PIP"||c="tiêu lỏng" 2:18 2:19
+c="nổi ban đỏ" 2:8 2:10||r="PIP"||c="viêm họng" 2:26 2:27
+c="nổi ban đỏ" 2:8 2:10||r="PIP"||c="ban siêu_vi" 2:29 2:30
+c="ho" 2:16 2:16||r="PIP"||c="tiêu lỏng" 2:18 2:19
+c="ho" 2:16 2:16||r="PIP"||c="viêm họng" 2:26 2:27
+c="ho" 2:16 2:16||r="PIP"||c="ban siêu_vi" 2:29 2:30
+c="tiêu lỏng" 2:18 2:19||r="PIP"||c="viêm họng" 2:26 2:27
+c="tiêu lỏng" 2:18 2:19||r="PIP"||c="ban siêu_vi" 2:29 2:30
+c="viêm họng" 2:26 2:27||r="PIP"||c="ban siêu_vi" 2:29 2:30
+c="ngứa_ngáy khó_chịu" 3:6 3:7||r="PIP"||c="ho" 3:10 3:10

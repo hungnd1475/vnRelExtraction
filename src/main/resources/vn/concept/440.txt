@@ -1,0 +1,7 @@
+c="sốt ớn lạnh" 2:6 2:8||t="problem"
+c="nổi hồng ban mụn nước mụn mủ rải_rác toàn_thân" 2:12 2:20||t="problem"
+c="ăn_uống kém" 2:22 2:23||t="problem"
+c="mệt" 2:25 2:25||t="problem"
+c="uống thuốc" 3:2 3:3||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"

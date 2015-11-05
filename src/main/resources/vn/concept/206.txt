@@ -1,0 +1,5 @@
+c="chóng_mặt khi đi_lại" 2:6 2:8||t="problem"
+c="ăn_uống kém" 2:11 2:12||t="problem"
+c="mất_ngủ" 2:14 2:14||t="problem"
+c="điều_trị không giảm" 3:2 3:4||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"

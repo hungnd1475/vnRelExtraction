@@ -1,0 +1,21 @@
+Lý Do
+Sỏi túi_mật
+Bệnh Lý
+Bệnh_nhân khai đã khám ở BV Khánh_Hòa với chẩn_đoán : Sỏi túi_mật .
+Nhập_viện phẫu_thuật
+Tiền Sử Bệnh
+Cao HA
+Điều Trị
+Ngoại_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nữ 71 tuổi vào viện với lí_do : Bệnh_nhân khai đã khám ở BV Khánh_Hòa với chẩn_đoán : Sỏi túi_mật .
+Nhập_viện phẫu_thuật
+Chẩn_đoán : sỏi túi_mật
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 71 tuổi vào viện với lí_do : Bệnh_nhân khai đã khám ở BV Khánh_Hòa với chẩn_đoán : Sỏi túi_mật .
+Nhập_viện phẫu_thuật
+Chẩn_đoán : sỏi túi_mật
+Phẫu_thuật cắt túi_mật nội_soi .
+Sau điều_trị , bệnh ổn đi_cầu được , VM khô - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+Phẫu_thuật cắt túi_mật nội_soi

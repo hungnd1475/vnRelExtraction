@@ -1,0 +1,5 @@
+c="khám định_kỳ tại BV Vũ ANh" 2:5 2:10||t="treatment"
+c="phù" 2:13 2:13||t="problem"
+c="kết_mạc mắt vàng" 2:15 2:17||t="problem"
+c="bụng chướng to" 2:19 2:21||t="problem"
+c="da sạm" 2:23 2:24||t="problem"

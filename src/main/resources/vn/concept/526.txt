@@ -1,0 +1,6 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau quặn thượng_vị từng cơn" 4:2 4:6||t="problem"
+c="tiêu lỏng 2 lần" 4:8 4:11||t="problem"
+c="sốt nhẹ" 4:13 4:14||t="problem"
+c="mệt" 4:16 4:16||t="problem"
+c="điều_trị" 4:27 4:27||t="treatment"

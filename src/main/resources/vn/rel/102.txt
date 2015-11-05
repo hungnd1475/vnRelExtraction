@@ -1,0 +1,6 @@
+c="điều_trị BV Vũ_Anh 2 ngày" 2:13 2:17||r="TrWP"||c="sốt cao" 2:27 2:28
+c="điều_trị BV Vũ_Anh 2 ngày" 2:13 2:17||r="TrWP"||c="tiêu phân lỏng , màu vàng 10 lần" 2:32 2:39
+c="điều_trị BV Vũ_Anh 2 ngày" 2:13 2:17||r="TrWP"||c="nổi mẩm đở nhiều ở chân , đùi , thân , sau tai" 2:45 2:57
+c="sốt cao" 2:27 2:28||r="PIP"||c="tiêu phân lỏng , màu vàng 10 lần" 2:32 2:39
+c="sốt cao" 2:27 2:28||r="PIP"||c="nổi mẩm đở nhiều ở chân , đùi , thân , sau tai" 2:45 2:57
+c="tiêu phân lỏng , màu vàng 10 lần" 2:32 2:39||r="PIP"||c="nổi mẩm đở nhiều ở chân , đùi , thân , sau tai" 2:45 2:57

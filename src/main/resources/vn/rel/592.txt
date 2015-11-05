@@ -1,0 +1,20 @@
+c="sốt" 4:7 4:7||r="PIP"||c="sốt vừa" 4:9 4:10
+c="sốt" 4:7 4:7||r="PIP"||c="đau hong" 4:18 4:19
+c="sốt" 4:7 4:7||r="PIP"||c="đau nhiều hong (" 4:38 4:41
+c="sốt" 4:7 4:7||r="PIP"||c="thở mệt" 4:46 4:47
+c="sốt" 4:7 4:7||r="PIP"||c="thở nhanh" 4:49 4:50
+c="sốt vừa" 4:9 4:10||r="PIP"||c="đau hong" 4:18 4:19
+c="sốt vừa" 4:9 4:10||r="PIP"||c="sốt" 4:33 4:33
+c="sốt vừa" 4:9 4:10||r="PIP"||c="đau nhiều hong (" 4:38 4:41
+c="sốt vừa" 4:9 4:10||r="PIP"||c="thở mệt" 4:46 4:47
+c="sốt vừa" 4:9 4:10||r="PIP"||c="thở nhanh" 4:49 4:50
+c="đau hong" 4:18 4:19||r="PIP"||c="sốt" 4:33 4:33
+c="đau hong" 4:18 4:19||r="PIP"||c="đau nhiều hong (" 4:38 4:41
+c="đau hong" 4:18 4:19||r="PIP"||c="thở mệt" 4:46 4:47
+c="đau hong" 4:18 4:19||r="PIP"||c="thở nhanh" 4:49 4:50
+c="sốt" 4:33 4:33||r="PIP"||c="đau nhiều hong (" 4:38 4:41
+c="sốt" 4:33 4:33||r="PIP"||c="thở mệt" 4:46 4:47
+c="sốt" 4:33 4:33||r="PIP"||c="thở nhanh" 4:49 4:50
+c="đau nhiều hong (" 4:38 4:41||r="PIP"||c="thở mệt" 4:46 4:47
+c="đau nhiều hong (" 4:38 4:41||r="PIP"||c="thở nhanh" 4:49 4:50
+c="thở mệt" 4:46 4:47||r="PIP"||c="thở nhanh" 4:49 4:50

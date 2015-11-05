@@ -1,0 +1,6 @@
+c="co_giật" 2:1 2:1||t="problem"
+c="sốt cơn" 5:9 5:10||t="problem"
+c="lên_cơn gồng tay_chân" 5:14 5:16||t="problem"
+c="trợn mắt khoảng 10s" 5:18 5:21||t="problem"
+c="kháng_sinh" 10:1 10:1||t="treatment"
+c="điều_trị triệu_chứng" 10:3 10:4||t="treatment"

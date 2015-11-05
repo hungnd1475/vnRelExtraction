@@ -1,0 +1,6 @@
+c="liệt 1/2 người ( P )" 2:11 2:16||t="problem"
+c="méo miệng" 2:18 2:19||t="problem"
+c="nói_khó" 2:21 2:21||t="problem"
+c="tiểu_tiện không tự_chủ" 2:31 2:33||t="problem"
+c="mệt" 2:35 2:35||t="problem"
+c="mệt nhiều" 3:3 3:4||t="problem"

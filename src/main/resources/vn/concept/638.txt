@@ -1,0 +1,8 @@
+c="khó thở" 2:1 2:2||t="problem"
+c="Tăng huyết_áp" 4:1 4:2||t="problem"
+c="nội_khoa" 6:1 6:1||t="treatment"
+c="thở yếu" 8:3 8:4||t="problem"
+c="hút đàm" 8:14 8:15||t="treatment"
+c="dinh_dưỡng đường tĩnh_mạch" 8:20 8:22||t="treatment"
+c="nuôi ăn qua sonde dạ_dày" 8:24 8:28||t="treatment"
+c="nội_khoa" 11:1 11:1||t="treatment"

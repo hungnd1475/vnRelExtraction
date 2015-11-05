@@ -1,0 +1,7 @@
+c="mệt" 2:5 2:5||t="problem"
+c="nặng đầu" 2:7 2:8||t="problem"
+c="bừng mặt" 2:10 2:11||t="problem"
+c="đo HA : 150/95 mmHg" 2:13 2:17||t="test"
+c="uống 1 viên Amlor 5mg" 2:19 2:23||t="treatment"
+c="còn_mệt" 2:29 2:29||t="problem"
+c="điều_trị" 2:41 2:41||t="treatment"

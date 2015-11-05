@@ -1,0 +1,4 @@
+c="chóng_mặt" 2:6 2:6||t="problem"
+c="buồn ói" 2:8 2:9||t="problem"
+c="ói ra thức_ăn" 2:12 2:14||t="problem"
+c="đau_đầu" 2:16 2:16||t="problem"

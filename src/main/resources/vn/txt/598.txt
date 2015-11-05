@@ -1,0 +1,4 @@
+Bệnh Lý
+người_nhà khai cách nhập_viện 10 phút bệnh_nhân bị Tai_nạn giao_thông - - - > chấn_thương cổ_chân + vết_thương cổ_chân ( P ) - - > vào viện
+Điều Trị
+rửa vết_thương - - > mời bs ngoại_khoa

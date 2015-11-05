@@ -1,0 +1,2 @@
+c="liệt 1/2 người phải" 2:23 2:26||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"

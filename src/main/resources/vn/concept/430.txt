@@ -1,0 +1,6 @@
+c="nổi hồng ban mụn nước rải_rác toàn_thân" 2:6 2:12||t="problem"
+c="sốt cao liên_tục" 2:16 2:18||t="problem"
+c="mệt" 2:20 2:20||t="problem"
+c="ăn_uống kém" 2:22 2:23||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"

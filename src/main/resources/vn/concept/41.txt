@@ -1,0 +1,8 @@
+c="sưng nề mắt" 2:1 2:3||t="problem"
+c="ngứa_mắt" 4:10 4:10||t="problem"
+c="mắt sưng to dần" 4:14 4:17||t="problem"
+c="dị_ứng cá_thu" 6:1 6:2||t="problem"
+c="kháng_viêm" 8:1 8:1||t="treatment"
+c="kháng histamin" 8:3 8:4||t="treatment"
+c="nâng_đỡ tổng trạng" 8:6 8:8||t="treatment"
+c="nhỏ mắt" 8:10 8:11||t="treatment"

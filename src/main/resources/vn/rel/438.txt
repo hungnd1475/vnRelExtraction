@@ -1,0 +1,10 @@
+c="nôn ói sau ăn" 2:6 2:9||r="PIP"||c="mệt" 2:13 2:13
+c="nôn ói sau ăn" 2:6 2:9||r="PIP"||c="choáng_váng khi đi_lại" 2:15 2:17
+c="nôn ói sau ăn" 2:6 2:9||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="nôn ói sau ăn" 2:6 2:9||r="PIP"||c="tiểu nhiều" 2:22 2:23
+c="mệt" 2:13 2:13||r="PIP"||c="choáng_váng khi đi_lại" 2:15 2:17
+c="mệt" 2:13 2:13||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="mệt" 2:13 2:13||r="PIP"||c="tiểu nhiều" 2:22 2:23
+c="choáng_váng khi đi_lại" 2:15 2:17||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="choáng_váng khi đi_lại" 2:15 2:17||r="PIP"||c="tiểu nhiều" 2:22 2:23
+c="ăn_uống kém" 2:19 2:20||r="PIP"||c="tiểu nhiều" 2:22 2:23

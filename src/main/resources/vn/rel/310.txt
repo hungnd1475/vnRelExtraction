@@ -1,0 +1,15 @@
+c="buồn_nôn" 4:9 4:9||r="PIP"||c="nôn ói thức_ăn sau ăn" 4:11 4:15
+c="buồn_nôn" 4:9 4:9||r="PIP"||c="đau quặn bụng thượng_vị" 4:19 4:22
+c="buồn_nôn" 4:9 4:9||r="PIP"||c="mệt" 4:24 4:24
+c="buồn_nôn" 4:9 4:9||r="PIP"||c="sốt âm_ỉ" 4:26 4:27
+c="buồn_nôn" 4:9 4:9||r="PIP"||c="tiêu lỏng" 4:30 4:31
+c="nôn ói thức_ăn sau ăn" 4:11 4:15||r="PIP"||c="đau quặn bụng thượng_vị" 4:19 4:22
+c="nôn ói thức_ăn sau ăn" 4:11 4:15||r="PIP"||c="mệt" 4:24 4:24
+c="nôn ói thức_ăn sau ăn" 4:11 4:15||r="PIP"||c="sốt âm_ỉ" 4:26 4:27
+c="nôn ói thức_ăn sau ăn" 4:11 4:15||r="PIP"||c="tiêu lỏng" 4:30 4:31
+c="đau quặn bụng thượng_vị" 4:19 4:22||r="PIP"||c="mệt" 4:24 4:24
+c="đau quặn bụng thượng_vị" 4:19 4:22||r="PIP"||c="sốt âm_ỉ" 4:26 4:27
+c="đau quặn bụng thượng_vị" 4:19 4:22||r="PIP"||c="tiêu lỏng" 4:30 4:31
+c="mệt" 4:24 4:24||r="PIP"||c="sốt âm_ỉ" 4:26 4:27
+c="mệt" 4:24 4:24||r="PIP"||c="tiêu lỏng" 4:30 4:31
+c="sốt âm_ỉ" 4:26 4:27||r="PIP"||c="tiêu lỏng" 4:30 4:31

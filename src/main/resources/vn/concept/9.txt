@@ -1,0 +1,8 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="co_giật" 2:3 2:3||t="problem"
+c="sốt" 4:2 4:2||t="problem"
+c="khám" 4:11 4:11||t="treatment"
+c="điều_trị" 4:13 4:13||t="treatment"
+c="Augmentin" 4:17 4:17||t="treatment"
+c="sốt" 4:24 4:24||t="problem"
+c="co_giật" 4:26 4:26||t="problem"

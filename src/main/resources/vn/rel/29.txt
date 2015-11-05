@@ -1,0 +1,45 @@
+c="sốt" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
+c="sốt" 4:7 4:7||r="PIP"||c="sốt cao" 4:9 4:10
+c="sốt" 4:7 4:7||r="PIP"||c="dao_động" 4:12 4:12
+c="sốt" 4:7 4:7||r="PIP"||c="ho" 4:15 4:15
+c="sốt" 4:7 4:7||r="PIP"||c="sổ_mũi trong" 4:17 4:18
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="sốt" 4:7 4:7
+c="sốt" 4:7 4:7||r="PIP"||c="ho nhiều" 4:34 4:35
+c="sốt" 4:7 4:7||r="PIP"||c="khàn giọng" 4:37 4:38
+c="sốt" 4:7 4:7||r="PIP"||c="mệt" 4:40 4:40
+c="sốt cao" 4:9 4:10||r="PIP"||c="dao_động" 4:12 4:12
+c="sốt cao" 4:9 4:10||r="PIP"||c="ho" 4:15 4:15
+c="sốt cao" 4:9 4:10||r="PIP"||c="sổ_mũi trong" 4:17 4:18
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="sốt cao" 4:9 4:10
+c="sốt cao" 4:9 4:10||r="PIP"||c="sốt" 4:32 4:32
+c="sốt cao" 4:9 4:10||r="PIP"||c="ho nhiều" 4:34 4:35
+c="sốt cao" 4:9 4:10||r="PIP"||c="khàn giọng" 4:37 4:38
+c="sốt cao" 4:9 4:10||r="PIP"||c="mệt" 4:40 4:40
+c="dao_động" 4:12 4:12||r="PIP"||c="ho" 4:15 4:15
+c="dao_động" 4:12 4:12||r="PIP"||c="sổ_mũi trong" 4:17 4:18
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="dao_động" 4:12 4:12
+c="dao_động" 4:12 4:12||r="PIP"||c="sốt" 4:32 4:32
+c="dao_động" 4:12 4:12||r="PIP"||c="ho nhiều" 4:34 4:35
+c="dao_động" 4:12 4:12||r="PIP"||c="khàn giọng" 4:37 4:38
+c="dao_động" 4:12 4:12||r="PIP"||c="mệt" 4:40 4:40
+c="ho" 4:15 4:15||r="PIP"||c="sổ_mũi trong" 4:17 4:18
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="ho" 4:15 4:15
+c="ho" 4:15 4:15||r="PIP"||c="sốt" 4:32 4:32
+c="ho" 4:15 4:15||r="PIP"||c="ho nhiều" 4:34 4:35
+c="ho" 4:15 4:15||r="PIP"||c="khàn giọng" 4:37 4:38
+c="ho" 4:15 4:15||r="PIP"||c="mệt" 4:40 4:40
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="sổ_mũi trong" 4:17 4:18
+c="sổ_mũi trong" 4:17 4:18||r="PIP"||c="sốt" 4:32 4:32
+c="sổ_mũi trong" 4:17 4:18||r="PIP"||c="ho nhiều" 4:34 4:35
+c="sổ_mũi trong" 4:17 4:18||r="PIP"||c="khàn giọng" 4:37 4:38
+c="sổ_mũi trong" 4:17 4:18||r="PIP"||c="mệt" 4:40 4:40
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="sốt" 4:32 4:32
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="ho nhiều" 4:34 4:35
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="khàn giọng" 4:37 4:38
+c="có_điều tri" 4:21 4:22||r="TrWP"||c="mệt" 4:40 4:40
+c="sốt" 4:32 4:32||r="PIP"||c="ho nhiều" 4:34 4:35
+c="sốt" 4:32 4:32||r="PIP"||c="khàn giọng" 4:37 4:38
+c="sốt" 4:32 4:32||r="PIP"||c="mệt" 4:40 4:40
+c="ho nhiều" 4:34 4:35||r="PIP"||c="khàn giọng" 4:37 4:38
+c="ho nhiều" 4:34 4:35||r="PIP"||c="mệt" 4:40 4:40
+c="khàn giọng" 4:37 4:38||r="PIP"||c="mệt" 4:40 4:40

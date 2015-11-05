@@ -1,0 +1,3 @@
+c="phù mí mắt" 2:9 2:11||r="PIP"||c="ngứa vùng mặt" 2:13 2:15
+c="điều_trị" 2:25 2:25||r="TrIP"||c="phù mí mắt" 2:9 2:11
+c="điều_trị" 2:25 2:25||r="TrIP"||c="ngứa vùng mặt" 2:13 2:15

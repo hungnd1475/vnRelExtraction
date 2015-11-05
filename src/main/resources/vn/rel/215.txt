@@ -1,0 +1,3 @@
+c="mệt nhiều khi vận_động" 2:6 2:9||r="PIP"||c="choáng_váng khi đi_lại" 2:13 2:15
+c="mệt nhiều khi vận_động" 2:6 2:9||r="PIP"||c="ăn_uống kém" 2:17 2:18
+c="choáng_váng khi đi_lại" 2:13 2:15||r="PIP"||c="ăn_uống kém" 2:17 2:18

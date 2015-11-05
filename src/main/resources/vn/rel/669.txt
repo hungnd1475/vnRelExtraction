@@ -1,0 +1,9 @@
+c="ho khạc đàm trắng" 2:2 2:5||r="PIP"||c="sốt nhẹ" 2:9 2:10
+c="ho khạc đàm trắng" 2:2 2:5||r="PIP"||c=", đau_đầu" 2:15 2:16
+c=", ưống Efferagan" 2:20 2:22||r="TrWP"||c="ho khạc đàm trắng" 2:2 2:5
+c="prednisolon" 2:24 2:24||r="TrWP"||c="ho khạc đàm trắng" 2:2 2:5
+c="sốt nhẹ" 2:9 2:10||r="PIP"||c=", đau_đầu" 2:15 2:16
+c=", ưống Efferagan" 2:20 2:22||r="TrWP"||c="sốt nhẹ" 2:9 2:10
+c="prednisolon" 2:24 2:24||r="TrWP"||c="sốt nhẹ" 2:9 2:10
+c=", ưống Efferagan" 2:20 2:22||r="TrWP"||c=", đau_đầu" 2:15 2:16
+c="prednisolon" 2:24 2:24||r="TrWP"||c=", đau_đầu" 2:15 2:16

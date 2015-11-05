@@ -1,0 +1,7 @@
+c="tiểu khó" 4:16 4:17||r="PIP"||c="tiểu buốt" 4:19 4:20
+c="tiểu khó" 4:16 4:17||r="PIP"||c="tiểu lắt_nhắt" 4:22 4:23
+c="tiểu khó" 4:16 4:17||r="PIP"||c="tiểu nhiều về đêm" 4:25 4:28
+c="tiểu buốt" 4:19 4:20||r="PIP"||c="tiểu lắt_nhắt" 4:22 4:23
+c="tiểu buốt" 4:19 4:20||r="PIP"||c="tiểu nhiều về đêm" 4:25 4:28
+c="tiểu lắt_nhắt" 4:22 4:23||r="PIP"||c="tiểu nhiều về đêm" 4:25 4:28
+c="đặt sonde tiểu" 5:10 5:12||r="TrWP"||c="bàng_quang căng cứng" 5:5 5:7

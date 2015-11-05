@@ -1,0 +1,8 @@
+c="khám và điều_trị ngoại_trú" 2:6 2:9||r="TrWP"||c="chóng_mặt" 2:2 2:2
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="đau_đầu nhiều hơn" 2:17 2:19
+c="điều_trị" 2:29 2:29||r="TrIP"||c="chóng_mặt" 2:2 2:2
+c="khám và điều_trị ngoại_trú" 2:6 2:9||r="TrWP"||c="chóng_mặt" 2:15 2:15
+c="khám và điều_trị ngoại_trú" 2:6 2:9||r="TrWP"||c="đau_đầu nhiều hơn" 2:17 2:19
+c="chóng_mặt" 2:15 2:15||r="PIP"||c="đau_đầu nhiều hơn" 2:17 2:19
+c="điều_trị" 2:29 2:29||r="TrIP"||c="chóng_mặt" 2:15 2:15
+c="điều_trị" 2:29 2:29||r="TrIP"||c="đau_đầu nhiều hơn" 2:17 2:19

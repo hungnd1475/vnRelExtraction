@@ -1,0 +1,5 @@
+c="ngưng thở" 2:2 2:3||r="PIP"||c="ngừng tim" 2:5 2:6
+c="đặt nội khí_quản" 2:15 2:17||r="TrAP"||c="ngưng thở" 2:2 2:3
+c="thở máy" 2:21 2:22||r="TrAP"||c="ngưng thở" 2:2 2:3
+c="đặt nội khí_quản" 2:15 2:17||r="TrAP"||c="ngừng tim" 2:5 2:6
+c="thở máy" 2:21 2:22||r="TrAP"||c="ngừng tim" 2:5 2:6

@@ -1,0 +1,6 @@
+c="mệt nhiều" 2:6 2:7||t="problem"
+c="cảm_giác khó thở khi đi_lại" 2:9 2:13||t="problem"
+c="phù hạ chi" 2:15 2:17||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="Hạ_áp" 6:1 6:1||t="treatment"

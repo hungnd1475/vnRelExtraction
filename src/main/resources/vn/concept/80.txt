@@ -1,0 +1,6 @@
+c="sốt co_giật" 2:1 2:2||t="problem"
+c="sốt" 4:9 4:9||t="problem"
+c="sốt nhẹ đến sốt cao lên_cơn co_giật ( mắt trợn , tay_chân gồng" 4:14 4:26||t="problem"
+c="sùi bọt mép" 4:28 4:30||t="problem"
+c="ho ít thỉnh_thoảng" 5:3 5:5||t="problem"
+c="nội" 10:1 10:1||t="treatment"

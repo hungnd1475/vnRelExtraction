@@ -1,0 +1,8 @@
+c="Viêm dạ_dày" 2:1 2:2||t="problem"
+c="đau nhiều vùng thượng_vị" 4:6 4:9||t="problem"
+c="nôn ói thức_ăn sau ăn" 4:13 4:17||t="problem"
+c="tiêu lỏng 5 lần không đàm máu" 4:19 4:25||t="problem"
+c="mệt nhiều" 4:27 4:28||t="problem"
+c="điều_trị" 6:2 6:2||t="treatment"
+c="Kháng_sinh" 8:1 8:1||t="treatment"
+c="Ức_chế bơm proton" 9:1 9:3||t="treatment"

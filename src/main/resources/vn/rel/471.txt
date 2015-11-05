@@ -1,0 +1,4 @@
+c="đau khớp gối ( T )" 2:4 2:9||r="PIP"||c="đau thần_kinh tọa" 2:11 2:13
+c="chóng_mặt nhiều" 3:4 3:5||r="PIP"||c="HA dao_động không ổn_định" 3:7 3:10
+c="hội_chẩn chuyển khoa_nội điều_trị tiếp" 3:12 3:16||r="TrAP"||c="chóng_mặt nhiều" 3:4 3:5
+c="hội_chẩn chuyển khoa_nội điều_trị tiếp" 3:12 3:16||r="TrAP"||c="HA dao_động không ổn_định" 3:7 3:10

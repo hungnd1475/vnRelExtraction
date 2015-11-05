@@ -1,0 +1,7 @@
+c="sốt" 2:4 2:4||t="problem"
+c="đau họng" 2:6 2:7||t="problem"
+c="ho_khan" 2:9 2:9||t="problem"
+c="đau_nhức toàn_thân" 2:11 2:12||t="problem"
+c="ăn_uống kém" 2:14 2:15||t="problem"
+c="mệt nhiều" 2:17 2:18||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"

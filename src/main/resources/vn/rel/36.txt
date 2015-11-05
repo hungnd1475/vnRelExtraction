@@ -1,0 +1,20 @@
+c="sốt" 4:7 4:7||r="PIP"||c="sốt cao liên_tục không giảm" 4:9 4:13
+c="khám" 4:16 4:16||r="TrWP"||c="sốt" 4:7 4:7
+c="uống thuốc" 4:20 4:21||r="TrWP"||c="sốt" 4:7 4:7
+c="sốt" 4:7 4:7||r="PIP"||c="sốt cao" 4:32 4:33
+c="sốt" 4:7 4:7||r="PIP"||c="lên_cơn co_giật" 4:36 4:37
+c="sốt" 4:7 4:7||r="PIP"||c="tím_tái" 4:45 4:45
+c="khám" 4:16 4:16||r="TrWP"||c="sốt cao liên_tục không giảm" 4:9 4:13
+c="uống thuốc" 4:20 4:21||r="TrWP"||c="sốt cao liên_tục không giảm" 4:9 4:13
+c="sốt cao liên_tục không giảm" 4:9 4:13||r="PIP"||c="sốt cao" 4:32 4:33
+c="sốt cao liên_tục không giảm" 4:9 4:13||r="PIP"||c="lên_cơn co_giật" 4:36 4:37
+c="sốt cao liên_tục không giảm" 4:9 4:13||r="PIP"||c="tím_tái" 4:45 4:45
+c="khám" 4:16 4:16||r="TrWP"||c="sốt cao" 4:32 4:33
+c="khám" 4:16 4:16||r="TrWP"||c="lên_cơn co_giật" 4:36 4:37
+c="khám" 4:16 4:16||r="TrWP"||c="tím_tái" 4:45 4:45
+c="uống thuốc" 4:20 4:21||r="TrWP"||c="sốt cao" 4:32 4:33
+c="uống thuốc" 4:20 4:21||r="TrWP"||c="lên_cơn co_giật" 4:36 4:37
+c="uống thuốc" 4:20 4:21||r="TrWP"||c="tím_tái" 4:45 4:45
+c="sốt cao" 4:32 4:33||r="PIP"||c="lên_cơn co_giật" 4:36 4:37
+c="sốt cao" 4:32 4:33||r="PIP"||c="tím_tái" 4:45 4:45
+c="lên_cơn co_giật" 4:36 4:37||r="PIP"||c="tím_tái" 4:45 4:45

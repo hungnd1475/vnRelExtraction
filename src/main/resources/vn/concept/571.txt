@@ -1,0 +1,3 @@
+c="gãy xương bánh_chè T" 2:2 2:5||t="problem"
+c="mổ" 2:7 2:7||t="treatment"
+c="Lấy đinh + chỉ thép" 4:1 4:5||t="treatment"

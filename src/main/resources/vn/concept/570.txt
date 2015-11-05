@@ -1,0 +1,6 @@
+c="đau quặn bụng nhiều vùng hố_chậu ( T ) lan sang hông ( T )" 2:9 2:23||t="problem"
+c="tiểu buốt" 2:26 2:27||t="problem"
+c="gắt" 2:29 2:29||t="problem"
+c="buồn_nôn" 2:31 2:31||t="problem"
+c="nôn ra thức_ăn" 2:33 2:35||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"

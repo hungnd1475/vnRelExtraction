@@ -1,0 +1,37 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="mệt" 2:3 2:3
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="yếu tay_chân" 4:8 4:9
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="lú_lẫn" 4:11 4:11
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="nói_sảng" 4:13 4:13
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="tiểu khó" 4:15 4:16
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="tiêu phân_bón" 4:18 4:19
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="đau_nhức các khớp" 4:21 4:23
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="sốt ớn lạnh" 4:4 4:6||r="PIP"||c="mệt" 4:28 4:28
+c="yếu tay_chân" 4:8 4:9||r="PIP"||c="lú_lẫn" 4:11 4:11
+c="yếu tay_chân" 4:8 4:9||r="PIP"||c="nói_sảng" 4:13 4:13
+c="yếu tay_chân" 4:8 4:9||r="PIP"||c="tiểu khó" 4:15 4:16
+c="yếu tay_chân" 4:8 4:9||r="PIP"||c="tiêu phân_bón" 4:18 4:19
+c="yếu tay_chân" 4:8 4:9||r="PIP"||c="đau_nhức các khớp" 4:21 4:23
+c="yếu tay_chân" 4:8 4:9||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="yếu tay_chân" 4:8 4:9||r="PIP"||c="mệt" 4:28 4:28
+c="lú_lẫn" 4:11 4:11||r="PIP"||c="nói_sảng" 4:13 4:13
+c="lú_lẫn" 4:11 4:11||r="PIP"||c="tiểu khó" 4:15 4:16
+c="lú_lẫn" 4:11 4:11||r="PIP"||c="tiêu phân_bón" 4:18 4:19
+c="lú_lẫn" 4:11 4:11||r="PIP"||c="đau_nhức các khớp" 4:21 4:23
+c="lú_lẫn" 4:11 4:11||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="lú_lẫn" 4:11 4:11||r="PIP"||c="mệt" 4:28 4:28
+c="nói_sảng" 4:13 4:13||r="PIP"||c="tiểu khó" 4:15 4:16
+c="nói_sảng" 4:13 4:13||r="PIP"||c="tiêu phân_bón" 4:18 4:19
+c="nói_sảng" 4:13 4:13||r="PIP"||c="đau_nhức các khớp" 4:21 4:23
+c="nói_sảng" 4:13 4:13||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="nói_sảng" 4:13 4:13||r="PIP"||c="mệt" 4:28 4:28
+c="tiểu khó" 4:15 4:16||r="PIP"||c="tiêu phân_bón" 4:18 4:19
+c="tiểu khó" 4:15 4:16||r="PIP"||c="đau_nhức các khớp" 4:21 4:23
+c="tiểu khó" 4:15 4:16||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="tiểu khó" 4:15 4:16||r="PIP"||c="mệt" 4:28 4:28
+c="tiêu phân_bón" 4:18 4:19||r="PIP"||c="đau_nhức các khớp" 4:21 4:23
+c="tiêu phân_bón" 4:18 4:19||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="tiêu phân_bón" 4:18 4:19||r="PIP"||c="mệt" 4:28 4:28
+c="đau_nhức các khớp" 4:21 4:23||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="đau_nhức các khớp" 4:21 4:23||r="PIP"||c="mệt" 4:28 4:28
+c="ăn_uống kém" 4:25 4:26||r="PIP"||c="mệt" 4:28 4:28

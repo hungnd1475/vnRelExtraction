@@ -1,0 +1,15 @@
+Lý Do
+Đau bụng
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+Nội_khoa
+Tóm Tắt Khám Bệnh
+Chẩn_đoán : Viêm túi_mật do sỏi
+Tổng Kết Bệnh Lý
+Bệnh_nhân nữ 29 tuổi vào viện với lý_do : Bệnh_nhân khai_sáng nay đau bụng quặn từng cơn , nôn ói - - > vào viện
+Siêu_âm bụng : Sòi túi_mật , chướng hơi đại_tràng
+Chẩn_đoán : Viêm túi_mật do sỏi
+Điều_trị nội_khoa , Bệnh tạm ổn_định - - > xin về
+Tổng Kết Phương Pháp Điều Trị
+Nội_khoa

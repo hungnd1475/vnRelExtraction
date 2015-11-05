@@ -1,0 +1,14 @@
+Lý Do
+sỏi niệu_quản ( T )
+Bệnh Lý
+Bệnh_nhân khai đi_tiểu buốt và đau hông lưng ( T ) , đi khám và siêu_âm phát_hiện sỏi kẹt niệu_quản ( T ) , và sỏi thận ( P ) - - > nhập_viện .
+Tiền Sử Bệnh
+chưa rõ
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 44 tuổi khai đi_tiểu buốt và đau hông lưng ( T ) , đi khám và siêu_âm phát_hiện sỏi kẹt niệu_quản ( T ) , và sỏi thận ( P ) - - > nhập_viện .
+CT bụng : Thận ( T ) ứ nước độ I do sỏi kẹt NQ ( T ) đoạn chậu .
+Chẩn_đoán : Sỏi kẹt niệu_quản ( T ) .
+Tổng Kết Bệnh Lý
+Bệnh_nhân khai đi_tiểu buốt và đau hông lưng ( T ) , đi khám và siêu_âm phát_hiện sỏi kẹt niệu_quản ( T ) , và sỏi thận ( P ) - - > nhập_viện .
+Tổng Kết Phương Pháp Điều Trị
+Phẫu_thuật tán sỏi niệu_quản qua nội_soi + dăt JJ

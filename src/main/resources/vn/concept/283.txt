@@ -1,0 +1,4 @@
+c="mất_ngủ" 2:5 2:5||t="problem"
+c="đau_đầu" 2:7 2:7||t="problem"
+c="chóng_mặt khi thay_đổi tư_thế" 2:9 2:12||t="problem"
+c="điều_trị" 2:20 2:20||t="treatment"

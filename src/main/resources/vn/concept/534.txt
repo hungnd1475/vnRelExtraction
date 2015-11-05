@@ -1,0 +1,6 @@
+c="Tăng huyết_áp" 2:1 2:2||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="nhập icu diều trị bằng kháng_sinh" 6:3 6:8||t="treatment"
+c="hạ huyết_áp" 6:10 6:11||t="treatment"
+c="dinh_dưỡng thay bằng" 6:13 6:15||t="treatment"
+c="rút sonde tiểu" 7:8 7:10||t="treatment"

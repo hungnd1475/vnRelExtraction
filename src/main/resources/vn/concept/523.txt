@@ -1,0 +1,6 @@
+c="viêm dạ_dày" 2:1 2:2||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="nội_soi dạ_dày" 6:6 6:7||t="test"
+c="Viêm sung_huyết phình vị" 6:9 6:12||t="problem"
+c="điều_trị thuốc" 6:19 6:20||t="treatment"
+c="nội_khoa" 8:1 8:1||t="treatment"

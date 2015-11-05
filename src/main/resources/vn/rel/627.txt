@@ -1,0 +1,6 @@
+c="chóng_mặt" 3:3 3:3||r="PIP"||c="buồn_nôn" 3:5 3:5
+c="chóng_mặt" 3:3 3:3||r="PIP"||c="nôn" 3:7 3:7
+c="buồn_nôn" 3:5 3:5||r="PIP"||c="nôn" 3:7 3:7
+c="mệt" 4:2 4:2||r="PIP"||c="ho nhiều" 4:4 4:5
+c="MgB6" 4:10 4:10||r="TrWP"||c="mệt" 4:2 4:2
+c="MgB6" 4:10 4:10||r="TrWP"||c="ho nhiều" 4:4 4:5

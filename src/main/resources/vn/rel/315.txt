@@ -1,0 +1,1 @@
+c="Xét_nghiệm CTM" 4:1 4:2||r="TeRP"||c="TB máu giảm 3 dòng" 4:4 4:8

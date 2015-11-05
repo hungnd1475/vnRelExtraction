@@ -1,0 +1,1 @@
+c="buồn_nôn" 2:4 2:4||r="PIP"||c="chóng_mặt khi đi_lại" 2:6 2:8

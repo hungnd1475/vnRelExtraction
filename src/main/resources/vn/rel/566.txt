@@ -1,0 +1,2 @@
+c="chóng_mặt khoàng 2 tuần nay" 6:6 6:10||r="PIP"||c="người mệt_mỏi ." 6:32 6:34
+c="Viêm xoang sàng" 7:3 7:5||r="PIP"||c="Rối_loạn tiền_đình" 7:7 7:8

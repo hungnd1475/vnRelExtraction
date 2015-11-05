@@ -1,0 +1,10 @@
+c="ho" 2:4 2:4||r="PIP"||c="khạc đàm vàng" 2:6 2:8
+c="ho" 2:4 2:4||r="PIP"||c="sốt ớn lạnh" 2:13 2:15
+c="ho" 2:4 2:4||r="PIP"||c="mệt" 2:17 2:17
+c="ho" 2:4 2:4||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="khạc đàm vàng" 2:6 2:8||r="PIP"||c="sốt ớn lạnh" 2:13 2:15
+c="khạc đàm vàng" 2:6 2:8||r="PIP"||c="mệt" 2:17 2:17
+c="khạc đàm vàng" 2:6 2:8||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="sốt ớn lạnh" 2:13 2:15||r="PIP"||c="mệt" 2:17 2:17
+c="sốt ớn lạnh" 2:13 2:15||r="PIP"||c="ăn_uống kém" 2:19 2:20
+c="mệt" 2:17 2:17||r="PIP"||c="ăn_uống kém" 2:19 2:20

@@ -1,0 +1,6 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt ớn lạnh" 4:6 4:8||t="problem"
+c="tiều gắt buốt" 4:12 4:14||t="problem"
+c="đau lưng" 4:16 4:17||t="problem"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="Kháng_sinh" 8:1 8:1||t="treatment"

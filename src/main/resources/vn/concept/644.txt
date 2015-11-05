@@ -1,0 +1,5 @@
+c="phẫu_thuật" 2:1 2:1||t="treatment"
+c="đau bụng" 4:5 4:6||t="problem"
+c="sốt nhẹ" 4:8 4:9||t="problem"
+c="Viêm ruột_thừa cấp" 5:3 5:5||t="problem"
+c="PT cắt ruột_thừa qua nội_soi" 6:2 6:6||t="treatment"

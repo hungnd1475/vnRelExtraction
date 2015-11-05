@@ -1,0 +1,6 @@
+c="đau quặn bụng thượng_vị" 4:5 4:8||r="PIP"||c="nôn ói thức_ăn sau ăn" 4:12 4:16
+c="đau quặn bụng thượng_vị" 4:5 4:8||r="PIP"||c="đau_đầu" 4:18 4:18
+c="đau quặn bụng thượng_vị" 4:5 4:8||r="PIP"||c="mệt" 4:20 4:20
+c="nôn ói thức_ăn sau ăn" 4:12 4:16||r="PIP"||c="đau_đầu" 4:18 4:18
+c="nôn ói thức_ăn sau ăn" 4:12 4:16||r="PIP"||c="mệt" 4:20 4:20
+c="đau_đầu" 4:18 4:18||r="PIP"||c="mệt" 4:20 4:20

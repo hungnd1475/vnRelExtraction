@@ -1,0 +1,6 @@
+c="ăn_uống kém" 2:6 2:7||r="PIP"||c="buồn_nôn sau ăn" 2:10 2:12
+c="ăn_uống kém" 2:6 2:7||r="PIP"||c="lở miệng" 2:14 2:15
+c="ăn_uống kém" 2:6 2:7||r="PIP"||c="đi_lại yếu" 2:17 2:18
+c="buồn_nôn sau ăn" 2:10 2:12||r="PIP"||c="lở miệng" 2:14 2:15
+c="buồn_nôn sau ăn" 2:10 2:12||r="PIP"||c="đi_lại yếu" 2:17 2:18
+c="lở miệng" 2:14 2:15||r="PIP"||c="đi_lại yếu" 2:17 2:18

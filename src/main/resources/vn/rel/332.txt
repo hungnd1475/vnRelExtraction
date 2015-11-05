@@ -1,0 +1,21 @@
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="nôn ói sau ăn" 4:12 4:15
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ho_khan" 4:17 4:17
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="nghẹt mũi" 4:19 4:20
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="đau họng" 4:22 4:23
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="mệt nhiều" 4:28 4:29
+c="nôn ói sau ăn" 4:12 4:15||r="PIP"||c="ho_khan" 4:17 4:17
+c="nôn ói sau ăn" 4:12 4:15||r="PIP"||c="nghẹt mũi" 4:19 4:20
+c="nôn ói sau ăn" 4:12 4:15||r="PIP"||c="đau họng" 4:22 4:23
+c="nôn ói sau ăn" 4:12 4:15||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="nôn ói sau ăn" 4:12 4:15||r="PIP"||c="mệt nhiều" 4:28 4:29
+c="ho_khan" 4:17 4:17||r="PIP"||c="nghẹt mũi" 4:19 4:20
+c="ho_khan" 4:17 4:17||r="PIP"||c="đau họng" 4:22 4:23
+c="ho_khan" 4:17 4:17||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="ho_khan" 4:17 4:17||r="PIP"||c="mệt nhiều" 4:28 4:29
+c="nghẹt mũi" 4:19 4:20||r="PIP"||c="đau họng" 4:22 4:23
+c="nghẹt mũi" 4:19 4:20||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="nghẹt mũi" 4:19 4:20||r="PIP"||c="mệt nhiều" 4:28 4:29
+c="đau họng" 4:22 4:23||r="PIP"||c="ăn_uống kém" 4:25 4:26
+c="đau họng" 4:22 4:23||r="PIP"||c="mệt nhiều" 4:28 4:29
+c="ăn_uống kém" 4:25 4:26||r="PIP"||c="mệt nhiều" 4:28 4:29

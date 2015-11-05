@@ -1,0 +1,2 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"

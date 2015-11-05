@@ -1,0 +1,10 @@
+c="sốt cao liên_tục" 2:4 2:6||r="PIP"||c="ho_khan" 2:8 2:8
+c="sốt cao liên_tục" 2:4 2:6||r="PIP"||c="khó thở nhẹ" 2:10 2:12
+c="sốt cao liên_tục" 2:4 2:6||r="PIP"||c="ăn_uống kém" 2:14 2:15
+c="điều_trị" 2:22 2:22||r="TrIP"||c="sốt cao liên_tục" 2:4 2:6
+c="ho_khan" 2:8 2:8||r="PIP"||c="khó thở nhẹ" 2:10 2:12
+c="ho_khan" 2:8 2:8||r="PIP"||c="ăn_uống kém" 2:14 2:15
+c="điều_trị" 2:22 2:22||r="TrIP"||c="ho_khan" 2:8 2:8
+c="khó thở nhẹ" 2:10 2:12||r="PIP"||c="ăn_uống kém" 2:14 2:15
+c="điều_trị" 2:22 2:22||r="TrIP"||c="khó thở nhẹ" 2:10 2:12
+c="điều_trị" 2:22 2:22||r="TrIP"||c="ăn_uống kém" 2:14 2:15

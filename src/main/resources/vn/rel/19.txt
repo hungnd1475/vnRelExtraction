@@ -1,0 +1,3 @@
+c="sốt cơn" 5:9 5:10||r="PIP"||c="lên_cơn gồng tay_chân" 5:14 5:16
+c="sốt cơn" 5:9 5:10||r="PIP"||c="trợn mắt khoảng 10s" 5:18 5:21
+c="lên_cơn gồng tay_chân" 5:14 5:16||r="PIP"||c="trợn mắt khoảng 10s" 5:18 5:21

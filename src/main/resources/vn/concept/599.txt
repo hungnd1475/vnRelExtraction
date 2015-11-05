@@ -1,0 +1,4 @@
+c="đau lưng" 2:6 2:7||t="problem"
+c="đau gồi" 2:9 2:10||t="problem"
+c="chích lể" 2:16 2:17||t="treatment"
+c="sưng đỏ đau gối" 2:23 2:26||t="problem"

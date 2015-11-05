@@ -1,0 +1,18 @@
+c="Khởi bệnh từ trưa hôm_qua" 2:1 2:5||r="PIP"||c="sau khi ăn bên ngoài" 2:7 2:11
+c="Khởi bệnh từ trưa hôm_qua" 2:1 2:5||r="PIP"||c="bệnh_nhân đau bụng" 2:13 2:15
+c="Khởi bệnh từ trưa hôm_qua" 2:1 2:5||r="PIP"||c="đầy hơi" 2:17 2:18
+c="Khởi bệnh từ trưa hôm_qua" 2:1 2:5||r="PIP"||c="khó tiêu" 2:20 2:21
+c="Khởi bệnh từ trưa hôm_qua" 2:1 2:5||r="PIP"||c="tiêu lỏng 2 lần và nôn ra thức_ăn" 2:23 2:30
+c="sau khi ăn bên ngoài" 2:7 2:11||r="PIP"||c="bệnh_nhân đau bụng" 2:13 2:15
+c="sau khi ăn bên ngoài" 2:7 2:11||r="PIP"||c="đầy hơi" 2:17 2:18
+c="sau khi ăn bên ngoài" 2:7 2:11||r="PIP"||c="khó tiêu" 2:20 2:21
+c="sau khi ăn bên ngoài" 2:7 2:11||r="PIP"||c="tiêu lỏng 2 lần và nôn ra thức_ăn" 2:23 2:30
+c="bệnh_nhân đau bụng" 2:13 2:15||r="PIP"||c="đầy hơi" 2:17 2:18
+c="bệnh_nhân đau bụng" 2:13 2:15||r="PIP"||c="khó tiêu" 2:20 2:21
+c="bệnh_nhân đau bụng" 2:13 2:15||r="PIP"||c="tiêu lỏng 2 lần và nôn ra thức_ăn" 2:23 2:30
+c="đầy hơi" 2:17 2:18||r="PIP"||c="khó tiêu" 2:20 2:21
+c="đầy hơi" 2:17 2:18||r="PIP"||c="tiêu lỏng 2 lần và nôn ra thức_ăn" 2:23 2:30
+c="khó tiêu" 2:20 2:21||r="PIP"||c="tiêu lỏng 2 lần và nôn ra thức_ăn" 2:23 2:30
+c="Hôm_nay mệt" 3:1 3:2||r="PIP"||c="ăn_uống kém" 3:4 3:5
+c="Hôm_nay mệt" 3:1 3:2||r="PIP"||c="buồn_nôn và nôn sau ăn" 3:7 3:11
+c="ăn_uống kém" 3:4 3:5||r="PIP"||c="buồn_nôn và nôn sau ăn" 3:7 3:11

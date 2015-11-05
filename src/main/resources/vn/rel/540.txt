@@ -1,0 +1,2 @@
+c="nhập icu" 4:6 4:7||r="TrAP"||c="Bệnh_nhân nặng" 4:1 4:2
+c="điều_trị rối_loạn nhịp chậm" 4:10 4:13||r="TrAP"||c="Bệnh_nhân nặng" 4:1 4:2

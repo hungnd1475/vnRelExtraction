@@ -1,0 +1,3 @@
+c="tăng huyết_áp" 2:3 2:4||t="problem"
+c="Huyết_áp không ổn_định" 3:1 3:3||t="problem"
+c="đau đâu" 3:8 3:9||t="problem"

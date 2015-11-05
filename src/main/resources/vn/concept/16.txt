@@ -1,0 +1,8 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="nổi nốt xuât huyết da" 2:3 2:7||t="problem"
+c="sốt liên_tục" 4:2 4:3||t="problem"
+c="đi_cầu lỏng" 4:20 4:21||t="problem"
+c="nổi nhiều nốt xuất_huyết da" 4:28 4:32||t="problem"
+c="Hạ sốt" 8:1 8:2||t="treatment"
+c="men tiêu_hóa" 8:4 8:5||t="treatment"
+c="bù dịch" 8:7 8:8||t="treatment"

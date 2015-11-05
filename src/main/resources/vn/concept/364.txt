@@ -1,0 +1,7 @@
+c="đau hông lưng ( T )" 2:2 2:7||t="problem"
+c="tiểu ít" 2:11 2:12||t="problem"
+c="sốt" 2:15 2:15||t="problem"
+c="khám ở BV Bình_dân" 2:19 2:22||t="treatment"
+c="ứ nước độ I" 2:30 2:33||t="problem"
+c="toa về" 2:37 2:38||t="treatment"
+c="không bớt đau" 2:41 2:43||t="problem"

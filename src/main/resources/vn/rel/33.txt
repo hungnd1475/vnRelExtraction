@@ -1,0 +1,14 @@
+c="khám" 4:10 4:10||r="TrWP"||c="sốt cao liên_tục" 4:5 4:7
+c="sốt cao liên_tục" 4:5 4:7||r="PIP"||c="viêm họng cấp" 4:13 4:15
+c="sốt cao liên_tục" 4:5 4:7||r="PIP"||c="sốt cao" 4:17 4:18
+c="sốt cao liên_tục" 4:5 4:7||r="PIP"||c="tiêu phân lỏng tóe nước nhiều lần" 4:36 4:42
+c="khám" 4:10 4:10||r="TrWP"||c="viêm họng cấp" 4:13 4:15
+c="khám" 4:10 4:10||r="TrWP"||c="sốt cao" 4:17 4:18
+c="khám" 4:10 4:10||r="TrWP"||c="sốt cao liên_tục" 4:32 4:34
+c="khám" 4:10 4:10||r="TrWP"||c="tiêu phân lỏng tóe nước nhiều lần" 4:36 4:42
+c="viêm họng cấp" 4:13 4:15||r="PIP"||c="sốt cao" 4:17 4:18
+c="viêm họng cấp" 4:13 4:15||r="PIP"||c="sốt cao liên_tục" 4:32 4:34
+c="viêm họng cấp" 4:13 4:15||r="PIP"||c="tiêu phân lỏng tóe nước nhiều lần" 4:36 4:42
+c="sốt cao" 4:17 4:18||r="PIP"||c="sốt cao liên_tục" 4:32 4:34
+c="sốt cao" 4:17 4:18||r="PIP"||c="tiêu phân lỏng tóe nước nhiều lần" 4:36 4:42
+c="sốt cao liên_tục" 4:32 4:34||r="PIP"||c="tiêu phân lỏng tóe nước nhiều lần" 4:36 4:42

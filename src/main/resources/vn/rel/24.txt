@@ -1,0 +1,13 @@
+c="sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="sốt" 2:1 2:1||r="PIP"||c="đau bụng" 2:5 2:6
+c="ho" 2:3 2:3||r="PIP"||c="đau bụng" 2:5 2:6
+c="uống thuốc ho" 4:8 4:10||r="TrWP"||c="ho" 4:2 4:2
+c="ho" 4:2 4:2||r="PIP"||c="đau bụng" 4:20 4:21
+c="ho" 4:2 4:2||r="PIP"||c="sốt" 4:23 4:23
+c="ho" 4:2 4:2||r="PIP"||c="ăn_uống không được" 4:25 4:27
+c="uống thuốc ho" 4:8 4:10||r="TrWP"||c="đau bụng" 4:20 4:21
+c="uống thuốc ho" 4:8 4:10||r="TrWP"||c="sốt" 4:23 4:23
+c="uống thuốc ho" 4:8 4:10||r="TrWP"||c="ăn_uống không được" 4:25 4:27
+c="đau bụng" 4:20 4:21||r="PIP"||c="sốt" 4:23 4:23
+c="đau bụng" 4:20 4:21||r="PIP"||c="ăn_uống không được" 4:25 4:27
+c="sốt" 4:23 4:23||r="PIP"||c="ăn_uống không được" 4:25 4:27

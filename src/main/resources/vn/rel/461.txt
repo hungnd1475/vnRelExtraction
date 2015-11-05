@@ -1,0 +1,10 @@
+c="sốt cao liên_tục" 2:6 2:8||r="PIP"||c="nôn ói sau ăn" 2:12 2:15
+c="sốt cao liên_tục" 2:6 2:8||r="PIP"||c="ho_khan" 2:17 2:17
+c="sốt cao liên_tục" 2:6 2:8||r="PIP"||c="họng nuốt đau" 2:19 2:21
+c="sốt cao liên_tục" 2:6 2:8||r="PIP"||c="mệt nhiều" 2:23 2:24
+c="nôn ói sau ăn" 2:12 2:15||r="PIP"||c="ho_khan" 2:17 2:17
+c="nôn ói sau ăn" 2:12 2:15||r="PIP"||c="họng nuốt đau" 2:19 2:21
+c="nôn ói sau ăn" 2:12 2:15||r="PIP"||c="mệt nhiều" 2:23 2:24
+c="ho_khan" 2:17 2:17||r="PIP"||c="họng nuốt đau" 2:19 2:21
+c="ho_khan" 2:17 2:17||r="PIP"||c="mệt nhiều" 2:23 2:24
+c="họng nuốt đau" 2:19 2:21||r="PIP"||c="mệt nhiều" 2:23 2:24

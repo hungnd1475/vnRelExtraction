@@ -1,0 +1,5 @@
+c="Tăng huyết_áp" 2:1 2:2||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="sốt cao" 6:3 6:4||t="problem"
+c="kháng_sinh" 6:16 6:16||t="treatment"
+c="kháng_sinh" 9:1 9:1||t="treatment"

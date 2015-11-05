@@ -1,0 +1,7 @@
+c="đau_đầu" 4:5 4:5||t="problem"
+c="choáng_váng khi đi_lại" 4:7 4:9||t="problem"
+c="đầy bụng sau ăn" 4:11 4:14||t="problem"
+c="ợ hơi" 4:16 4:17||t="problem"
+c="ợ chua" 4:19 4:20||t="problem"
+c="mệt_mỏi" 4:24 4:24||t="problem"
+c="điều_trị" 4:35 4:35||t="treatment"

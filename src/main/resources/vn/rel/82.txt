@@ -1,0 +1,2 @@
+c="uống thuốc" 4:10 4:11||r="TrWP"||c="ho khò_khè" 4:2 4:3
+c="ho khò_khè" 5:4 5:5||r="PIP"||c="khó thở" 5:8 5:9

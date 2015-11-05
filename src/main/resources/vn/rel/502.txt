@@ -1,0 +1,15 @@
+c="sốt" 4:6 4:6||r="PIP"||c="ớn lạnh" 4:8 4:9
+c="sốt" 4:6 4:6||r="PIP"||c="mệt_mỏi" 4:11 4:11
+c="sốt" 4:6 4:6||r="PIP"||c="chóng_mặt nhiều" 4:13 4:14
+c="sốt" 4:6 4:6||r="PIP"||c="căng_thẳng" 4:16 4:16
+c="sốt" 4:6 4:6||r="PIP"||c="ăn_uống kém" 4:18 4:19
+c="ớn lạnh" 4:8 4:9||r="PIP"||c="mệt_mỏi" 4:11 4:11
+c="ớn lạnh" 4:8 4:9||r="PIP"||c="chóng_mặt nhiều" 4:13 4:14
+c="ớn lạnh" 4:8 4:9||r="PIP"||c="căng_thẳng" 4:16 4:16
+c="ớn lạnh" 4:8 4:9||r="PIP"||c="ăn_uống kém" 4:18 4:19
+c="mệt_mỏi" 4:11 4:11||r="PIP"||c="chóng_mặt nhiều" 4:13 4:14
+c="mệt_mỏi" 4:11 4:11||r="PIP"||c="căng_thẳng" 4:16 4:16
+c="mệt_mỏi" 4:11 4:11||r="PIP"||c="ăn_uống kém" 4:18 4:19
+c="chóng_mặt nhiều" 4:13 4:14||r="PIP"||c="căng_thẳng" 4:16 4:16
+c="chóng_mặt nhiều" 4:13 4:14||r="PIP"||c="ăn_uống kém" 4:18 4:19
+c="căng_thẳng" 4:16 4:16||r="PIP"||c="ăn_uống kém" 4:18 4:19

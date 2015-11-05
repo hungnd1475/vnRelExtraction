@@ -1,0 +1,1 @@
+c="Phẫu_thuật" 6:1 6:1||t="treatment"

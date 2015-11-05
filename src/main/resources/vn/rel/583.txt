@@ -1,0 +1,2 @@
+c="nghẹt mũi" 5:10 5:11||r="PIP"||c="ho" 5:13 5:13
+c="ho từng cơn kéo_dài" 6:3 6:6||r="PIP"||c="ói đàm vàng" 6:8 6:10

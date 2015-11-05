@@ -1,0 +1,1 @@
+c="nhập ICU điều_trị" 4:6 4:8||r="TrWP"||c="Bệnh nặng" 4:1 4:2

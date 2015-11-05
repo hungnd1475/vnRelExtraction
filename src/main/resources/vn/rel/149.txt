@@ -1,0 +1,13 @@
+c="khám tại BV_DHYD" 2:12 2:14||r="TrWP"||c="đi_cầu ra máu" 2:3 2:5
+c="đi_cầu ra máu" 2:3 2:5||r="PIP"||c="trĩ nội xuất_huyết" 2:17 2:19
+c="khám tại BV Vũ_Anh" 2:28 2:31||r="TrWP"||c="đi_cầu ra máu" 2:3 2:5
+c="PT" 2:35 2:35||r="TrWP"||c="đi_cầu ra máu" 2:3 2:5
+c="khám tại BV_DHYD" 2:12 2:14||r="TrWP"||c="trĩ nội xuất_huyết" 2:17 2:19
+c="khám tại BV Vũ_Anh" 2:28 2:31||r="TrWP"||c="trĩ nội xuất_huyết" 2:17 2:19
+c="PT" 2:35 2:35||r="TrWP"||c="trĩ nội xuất_huyết" 2:17 2:19
+c="khám tại BV_DHYD" 6:15 6:17||r="TrWP"||c="đi_cầu ra máu" 6:6 6:8
+c="đi_cầu ra máu" 6:6 6:8||r="PIP"||c="trĩ nội xuất_huyết" 6:20 6:22
+c="khám tại BV Vũ_Anh" 6:31 6:34||r="TrWP"||c="đi_cầu ra máu" 6:6 6:8
+c="khám tại BV_DHYD" 6:15 6:17||r="TrWP"||c="trĩ nội xuất_huyết" 6:20 6:22
+c="khám tại BV Vũ_Anh" 6:31 6:34||r="TrWP"||c="trĩ nội xuất_huyết" 6:20 6:22
+c="Khám HMTT" 7:1 7:2||r="TeRP"||c="01 búi trĩ vị_trí 9 - 10h" 7:4 7:10

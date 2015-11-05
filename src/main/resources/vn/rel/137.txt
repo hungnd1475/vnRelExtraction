@@ -1,0 +1,14 @@
+c="đau_đầu" 2:6 2:6||r="PIP"||c="xỉu 1 lần" 2:8 2:10
+c="đau_đầu vùng đỉnh lan xuống trán và thái_dương 2 bên" 3:8 3:17||r="PIP"||c="chóng_mặt" 3:19 3:19
+c="đau_đầu vùng đỉnh lan xuống trán và thái_dương 2 bên" 3:8 3:17||r="PIP"||c="ù tai" 3:21 3:22
+c="đau_đầu vùng đỉnh lan xuống trán và thái_dương 2 bên" 3:8 3:17||r="PIP"||c="nhìn mờ rồi xỉu" 3:24 3:27
+c="đau_đầu vùng đỉnh lan xuống trán và thái_dương 2 bên" 3:8 3:17||r="PIP"||c="tăng trương_lực cơ tay_trong lúc xỉu" 3:34 3:39
+c="chóng_mặt" 3:19 3:19||r="PIP"||c="ù tai" 3:21 3:22
+c="chóng_mặt" 3:19 3:19||r="PIP"||c="nhìn mờ rồi xỉu" 3:24 3:27
+c="chóng_mặt" 3:19 3:19||r="PIP"||c="tăng trương_lực cơ tay_trong lúc xỉu" 3:34 3:39
+c="ù tai" 3:21 3:22||r="PIP"||c="nhìn mờ rồi xỉu" 3:24 3:27
+c="ù tai" 3:21 3:22||r="PIP"||c="tăng trương_lực cơ tay_trong lúc xỉu" 3:34 3:39
+c="nhìn mờ rồi xỉu" 3:24 3:27||r="PIP"||c="tăng trương_lực cơ tay_trong lúc xỉu" 3:34 3:39
+c="khám" 4:3 4:3||r="TrWP"||c="rối laonj cảm_xúc" 4:21 4:23
+c="điều_trị" 4:5 4:5||r="TrWP"||c="rối laonj cảm_xúc" 4:21 4:23
+c="chụp CTscan sọ não" 4:12 4:15||r="TeRP"||c="rối loạn cảm_xúc" 4:21 4:23

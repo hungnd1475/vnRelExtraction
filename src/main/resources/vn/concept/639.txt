@@ -1,0 +1,4 @@
+c="Nhiễm_trùng tiểu" 2:8 2:9||t="problem"
+c="nhồi máu não" 2:12 2:14||t="problem"
+c="Hẹp thực_quản" 2:17 2:18||t="problem"
+c="bí tiểu" 3:3 3:4||t="problem"

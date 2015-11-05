@@ -1,0 +1,4 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau bụng vùng thượng_vị" 4:4 4:7||t="problem"
+c="đau hố_chậu trái kèm tiêu lỏng" 4:9 4:14||t="problem"
+c="đầy bụng khó tiêu sau ăn" 4:16 4:21||t="problem"

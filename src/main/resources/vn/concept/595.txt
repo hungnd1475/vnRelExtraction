@@ -1,0 +1,7 @@
+c="sốt cao" 2:1 2:2||t="problem"
+c="sốt vừa" 4:8 4:9||t="problem"
+c="sốt cao" 4:11 4:12||t="problem"
+c="sốt cao" 5:6 5:7||t="problem"
+c="ói" 5:9 5:9||t="problem"
+c="ăn_uống ít" 5:16 5:17||t="problem"
+c="nội" 10:1 10:1||t="treatment"

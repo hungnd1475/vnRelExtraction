@@ -1,0 +1,16 @@
+c="thuốc hạ sốt" 2:16 2:18||r="TrWP"||c="sốt cao liên_tục" 2:11 2:13
+c="khám" 2:24 2:24||r="TrWP"||c="sốt cao liên_tục" 2:11 2:13
+c="điều_trị" 2:26 2:26||r="TrWP"||c="sốt cao liên_tục" 2:11 2:13
+c="nổi ban đỏ" 3:5 3:7||r="PIP"||c="ho" 3:27 3:27
+c="nổi ban đỏ" 3:5 3:7||r="PIP"||c="ho thúng_thắng" 3:29 3:30
+c="nổi ban đỏ" 3:5 3:7||r="PIP"||c="thở khò_khè" 3:32 3:33
+c="nổi ban đỏ" 3:5 3:7||r="PIP"||c="tiêu phân lỏng sệt" 3:36 3:39
+c="ho" 3:27 3:27||r="PIP"||c="ho thúng_thắng" 3:29 3:30
+c="ho" 3:27 3:27||r="PIP"||c="thở khò_khè" 3:32 3:33
+c="ho" 3:27 3:27||r="PIP"||c="tiêu phân lỏng sệt" 3:36 3:39
+c="ho thúng_thắng" 3:29 3:30||r="PIP"||c="thở khò_khè" 3:32 3:33
+c="ho thúng_thắng" 3:29 3:30||r="PIP"||c="tiêu phân lỏng sệt" 3:36 3:39
+c="thở khò_khè" 3:32 3:33||r="PIP"||c="tiêu phân lỏng sệt" 3:36 3:39
+c="ăn_uống kém" 4:2 4:3||r="PIP"||c="mệt" 4:8 4:8
+c="ăn_uống kém" 4:2 4:3||r="PIP"||c="khóc khó_chịu" 4:11 4:12
+c="mệt" 4:8 4:8||r="PIP"||c="khóc khó_chịu" 4:11 4:12

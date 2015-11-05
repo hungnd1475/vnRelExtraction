@@ -1,0 +1,8 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="run giật tay" 2:3 2:5||t="problem"
+c="sốt" 4:2 4:2||t="problem"
+c="sốt không liên_tục" 4:8 4:10||t="problem"
+c="sốt kèm run giật ở tay" 4:22 4:27||t="problem"
+c="Hạ sốt" 8:1 8:2||t="treatment"
+c="bù nước" 8:4 8:5||t="treatment"
+c="vitamin" 8:7 8:7||t="treatment"

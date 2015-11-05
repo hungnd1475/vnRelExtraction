@@ -1,0 +1,8 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt ớn lạnh" 4:6 4:8||t="problem"
+c="ho đàm khó khạc" 4:14 4:17||t="problem"
+c="tức ngực khi ho" 4:19 4:22||t="problem"
+c="cảm_giác khò_khè về đêm" 4:24 4:27||t="problem"
+c="điều tr 5i" 5:2 5:4||t="treatment"
+c="điều_trị" 6:2 6:2||t="treatment"
+c="Kháng_sinh" 8:1 8:1||t="treatment"

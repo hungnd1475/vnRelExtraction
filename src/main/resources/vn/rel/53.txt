@@ -1,0 +1,15 @@
+c="khám" 4:23 4:23||r="TrWP"||c="quấy khóc từng cơn" 4:11 4:14
+c="quấy khóc từng cơn" 4:11 4:14||r="PIP"||c="Rối_loạn tiêu_hóa" 4:26 4:27
+c="quấy khóc từng cơn" 4:11 4:14||r="PIP"||c="sốt" 4:33 4:33
+c="quấy khóc từng cơn" 4:11 4:14||r="PIP"||c="đi lỏng 1 lần" 4:35 4:38
+c="quấy khóc từng cơn" 4:11 4:14||r="PIP"||c="quấy khóc" 4:43 4:44
+c="khám" 4:23 4:23||r="TrWP"||c="Rối_loạn tiêu_hóa" 4:26 4:27
+c="khám" 4:23 4:23||r="TrWP"||c="sốt" 4:33 4:33
+c="khám" 4:23 4:23||r="TrWP"||c="đi lỏng 1 lần" 4:35 4:38
+c="khám" 4:23 4:23||r="TrWP"||c="quấy khóc" 4:43 4:44
+c="Rối_loạn tiêu_hóa" 4:26 4:27||r="PIP"||c="sốt" 4:33 4:33
+c="Rối_loạn tiêu_hóa" 4:26 4:27||r="PIP"||c="đi lỏng 1 lần" 4:35 4:38
+c="Rối_loạn tiêu_hóa" 4:26 4:27||r="PIP"||c="quấy khóc" 4:43 4:44
+c="sốt" 4:33 4:33||r="PIP"||c="đi lỏng 1 lần" 4:35 4:38
+c="sốt" 4:33 4:33||r="PIP"||c="quấy khóc" 4:43 4:44
+c="đi lỏng 1 lần" 4:35 4:38||r="PIP"||c="quấy khóc" 4:43 4:44

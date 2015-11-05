@@ -1,0 +1,4 @@
+c="đau quặn thận từng cơn" 6:5 6:9||r="PIP"||c="sỏi túi_mật" 6:13 6:14
+c="đau quặn thận" 9:2 9:4||r="PIP"||c="sỏi túi_mật" 9:10 9:11
+c="siêu_âm" 6:11 6:11||r="TeCP"||c="đau quặn thận từng cơn" 6:5 6:9
+c="siêu_âm" 6:11 6:11||r="TeRP"||c="sỏi túi_mật" 6:13 6:14

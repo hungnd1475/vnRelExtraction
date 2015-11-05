@@ -1,0 +1,6 @@
+c="sốt ớn lạnh về chiều" 6:6 6:10||r="PIP"||c="sưng đau khớp cổ_chân ( T ) sau chấn_thương" 6:14 6:22
+c="sốt ớn lạnh về chiều" 6:6 6:10||r="PIP"||c="mệt" 6:24 6:24
+c="sốt ớn lạnh về chiều" 6:6 6:10||r="PIP"||c="ăn_uống kém" 6:26 6:27
+c="sưng đau khớp cổ_chân ( T ) sau chấn_thương" 6:14 6:22||r="PIP"||c="mệt" 6:24 6:24
+c="sưng đau khớp cổ_chân ( T ) sau chấn_thương" 6:14 6:22||r="PIP"||c="ăn_uống kém" 6:26 6:27
+c="mệt" 6:24 6:24||r="PIP"||c="ăn_uống kém" 6:26 6:27

@@ -1,0 +1,15 @@
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="buốn ói" 2:4 2:5
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="ói" 2:8 2:8
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="nhức đầu" 2:10 2:11
+c="chóng_mặt" 2:2 2:2||r="PIP"||c="co_quắp chân_tay" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="chóng_mặt" 2:2 2:2
+c="buốn ói" 2:4 2:5||r="PIP"||c="ói" 2:8 2:8
+c="buốn ói" 2:4 2:5||r="PIP"||c="nhức đầu" 2:10 2:11
+c="buốn ói" 2:4 2:5||r="PIP"||c="co_quắp chân_tay" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="buốn ói" 2:4 2:5
+c="ói" 2:8 2:8||r="PIP"||c="nhức đầu" 2:10 2:11
+c="ói" 2:8 2:8||r="PIP"||c="co_quắp chân_tay" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrWP"||c="ói" 2:8 2:8
+c="nhức đầu" 2:10 2:11||r="PIP"||c="co_quắp chân_tay" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="nhức đầu" 2:10 2:11
+c="điều_trị" 2:27 2:27||r="TrIP"||c="co_quắp chân_tay" 2:15 2:16

@@ -1,0 +1,7 @@
+c="chóng_mặt nhiều khi đi_lại" 2:6 2:9||r="PIP"||c="choáng_váng té ngã vào va đầu_vào cánh cửa" 2:13 2:20
+c="tỉnh_táo" 3:4 3:4||r="PIP"||c="không nôn ói" 3:6 3:8
+c="tỉnh_táo" 3:4 3:4||r="PIP"||c="đau_đầu" 3:10 3:10
+c="tỉnh_táo" 3:4 3:4||r="PIP"||c="mệt" 3:12 3:12
+c="không nôn ói" 3:6 3:8||r="PIP"||c="đau_đầu" 3:10 3:10
+c="không nôn ói" 3:6 3:8||r="PIP"||c="mệt" 3:12 3:12
+c="đau_đầu" 3:10 3:10||r="PIP"||c="mệt" 3:12 3:12

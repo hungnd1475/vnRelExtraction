@@ -1,0 +1,2 @@
+c="đau bụng" 2:2 2:3||t="problem"
+c="sốt" 2:9 2:9||t="problem"

@@ -1,0 +1,25 @@
+c="sốt" 2:2 2:2||r="PIP"||c="ho" 2:11 2:11
+c="sốt" 2:2 2:2||r="PIP"||c="sốt dao_động" 2:20 2:21
+c="sốt" 2:2 2:2||r="PIP"||c="thở mệt , nhanh" 2:23 2:26
+c="sốt" 2:2 2:2||r="PIP"||c="ói sau khi ho nhiều" 2:28 2:32
+c="sốt" 2:2 2:2||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:35 2:39
+c="sốt" 2:7 2:7||r="PIP"||c="ho" 2:11 2:11
+c="sốt" 2:7 2:7||r="PIP"||c="sốt dao_động" 2:20 2:21
+c="sốt" 2:7 2:7||r="PIP"||c="thở mệt , nhanh" 2:23 2:26
+c="sốt" 2:7 2:7||r="PIP"||c="ói sau khi ho nhiều" 2:28 2:32
+c="sốt" 2:7 2:7||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:35 2:39
+c="ho" 2:11 2:11||r="PIP"||c="sốt" 2:18 2:18
+c="ho" 2:11 2:11||r="PIP"||c="sốt dao_động" 2:20 2:21
+c="ho" 2:11 2:11||r="PIP"||c="thở mệt , nhanh" 2:23 2:26
+c="ho" 2:11 2:11||r="PIP"||c="ói sau khi ho nhiều" 2:28 2:32
+c="ho" 2:11 2:11||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:35 2:39
+c="sốt" 2:18 2:18||r="PIP"||c="sốt dao_động" 2:20 2:21
+c="sốt" 2:18 2:18||r="PIP"||c="thở mệt , nhanh" 2:23 2:26
+c="sốt" 2:18 2:18||r="PIP"||c="ói sau khi ho nhiều" 2:28 2:32
+c="sốt" 2:18 2:18||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:35 2:39
+c="sốt dao_động" 2:20 2:21||r="PIP"||c="thở mệt , nhanh" 2:23 2:26
+c="sốt dao_động" 2:20 2:21||r="PIP"||c="ói sau khi ho nhiều" 2:28 2:32
+c="sốt dao_động" 2:20 2:21||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:35 2:39
+c="thở mệt , nhanh" 2:23 2:26||r="PIP"||c="ói sau khi ho nhiều" 2:28 2:32
+c="thở mệt , nhanh" 2:23 2:26||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:35 2:39
+c="ói sau khi ho nhiều" 2:28 2:32||r="PIP"||c="tiêu phân lỏng nhiều lần" 2:35 2:39

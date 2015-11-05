@@ -1,0 +1,5 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt cao liên_tục 5 ngày" 4:2 4:6||t="problem"
+c="nhức mỏi toàn_thân" 4:8 4:10||t="problem"
+c="đau họng" 4:12 4:13||t="problem"
+c="ăn_uống kém" 4:15 4:16||t="problem"

@@ -1,0 +1,2 @@
+c="Siêu_âm" 5:1 5:1||r="TeRP"||c="Sỏi kẹt niệu_quản" 5:3 5:5
+c="Chụp XQ" 6:1 6:2||r="TeRP"||c="Sỏi cản_quang niệu_quản" 6:4 6:6

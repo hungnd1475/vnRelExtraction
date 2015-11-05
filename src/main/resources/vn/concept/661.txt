@@ -1,0 +1,6 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="Bệnh_nhân lơ_mơ" 4:1 4:2||t="problem"
+c="huyết_áp_thấp" 4:4 4:4||t="problem"
+c="kháng_sinh" 4:16 4:16||t="treatment"
+c="đạt sonde bàng_quang" 4:18 4:20||t="treatment"
+c="Kháng_sinh" 7:1 7:1||t="treatment"

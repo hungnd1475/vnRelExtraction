@@ -1,0 +1,36 @@
+c="Mệt" 2:1 2:1||r="PIP"||c="chóng_mặt" 2:3 2:3
+c="mệt" 4:5 4:5||r="PIP"||c="chóng_mặt" 4:7 4:7
+c="mệt" 4:5 4:5||r="PIP"||c="buồn ói" 4:9 4:10
+c="mệt" 4:5 4:5||r="PIP"||c="phù nhẹ hai chân" 4:12 4:15
+c="mệt" 4:5 4:5||r="PIP"||c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22
+c="mệt" 4:5 4:5||r="PIP"||c="đau_đầu" 4:24 4:24
+c="mệt" 4:5 4:5||r="PIP"||c="nôn ói" 4:26 4:27
+c="mệt" 4:5 4:5||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="chóng_mặt" 4:7 4:7||r="PIP"||c="buồn ói" 4:9 4:10
+c="chóng_mặt" 4:7 4:7||r="PIP"||c="phù nhẹ hai chân" 4:12 4:15
+c="chóng_mặt" 4:7 4:7||r="PIP"||c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22
+c="chóng_mặt" 4:7 4:7||r="PIP"||c="đau_đầu" 4:24 4:24
+c="chóng_mặt" 4:7 4:7||r="PIP"||c="nôn ói" 4:26 4:27
+c="chóng_mặt" 4:7 4:7||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="chóng_mặt" 4:7 4:7||r="PIP"||c="mệt" 4:32 4:32
+c="buồn ói" 4:9 4:10||r="PIP"||c="phù nhẹ hai chân" 4:12 4:15
+c="buồn ói" 4:9 4:10||r="PIP"||c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22
+c="buồn ói" 4:9 4:10||r="PIP"||c="đau_đầu" 4:24 4:24
+c="buồn ói" 4:9 4:10||r="PIP"||c="nôn ói" 4:26 4:27
+c="buồn ói" 4:9 4:10||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="buồn ói" 4:9 4:10||r="PIP"||c="mệt" 4:32 4:32
+c="phù nhẹ hai chân" 4:12 4:15||r="PIP"||c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22
+c="phù nhẹ hai chân" 4:12 4:15||r="PIP"||c="đau_đầu" 4:24 4:24
+c="phù nhẹ hai chân" 4:12 4:15||r="PIP"||c="nôn ói" 4:26 4:27
+c="phù nhẹ hai chân" 4:12 4:15||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="phù nhẹ hai chân" 4:12 4:15||r="PIP"||c="mệt" 4:32 4:32
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22||r="PIP"||c="đau_đầu" 4:24 4:24
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22||r="PIP"||c="nôn ói" 4:26 4:27
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 4:18 4:22||r="PIP"||c="mệt" 4:32 4:32
+c="đau_đầu" 4:24 4:24||r="PIP"||c="nôn ói" 4:26 4:27
+c="đau_đầu" 4:24 4:24||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="đau_đầu" 4:24 4:24||r="PIP"||c="mệt" 4:32 4:32
+c="nôn ói" 4:26 4:27||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="nôn ói" 4:26 4:27||r="PIP"||c="mệt" 4:32 4:32
+c="ăn_uống kém" 4:29 4:30||r="PIP"||c="mệt" 4:32 4:32

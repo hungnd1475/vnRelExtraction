@@ -1,0 +1,8 @@
+c="Đau vùng hạ sườn phải , lan ra sau lưng" 2:8 2:17||t="problem"
+c="Phẫu_thuật" 6:1 6:1||t="treatment"
+c="đau lưng" 9:2 9:3||t="problem"
+c="đau vùng hạ sườn phải lan ra sau lưng" 9:8 9:16||t="problem"
+c="Siêu_âm" 10:1 10:1||t="test"
+c="Hình_ảnh gan nhiễm mỡ" 10:3 10:6||t="problem"
+c="Sỏi túi_mật" 11:1 11:2||t="problem"
+c="Phì đại tiền_liệt_tuyến" 12:1 12:3||t="problem"

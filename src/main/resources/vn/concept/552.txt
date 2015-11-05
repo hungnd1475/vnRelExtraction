@@ -1,0 +1,4 @@
+c="đau hạn_chế vận_động vai" 4:2 4:5||t="problem"
+c="MRI rách gân trên gai" 4:7 4:11||t="problem"
+c="cắt ọc" 4:16 4:17||t="treatment"
+c="tạo_hình mõm cùng vai" 4:19 4:22||t="treatment"

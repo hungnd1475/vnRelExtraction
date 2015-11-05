@@ -1,0 +1,8 @@
+c="ho" 2:1 2:1||r="PIP"||c="phân lỏng" 2:3 2:4
+c="sốt" 4:9 4:9||r="PIP"||c=", sốt nhẹ" 4:13 4:15
+c="sốt" 4:9 4:9||r="PIP"||c="ói trước" 4:20 4:21
+c="sốt" 4:9 4:9||r="PIP"||c="phân lỏng 3-4 lần/ngày nhiều nước" 4:24 4:29
+c=", sốt nhẹ" 4:13 4:15||r="PIP"||c="ói trước" 4:20 4:21
+c=", sốt nhẹ" 4:13 4:15||r="PIP"||c="phân lỏng 3-4 lần/ngày nhiều nước" 4:24 4:29
+c="ói trước" 4:20 4:21||r="PIP"||c="phân lỏng 3-4 lần/ngày nhiều nước" 4:24 4:29
+c="ho" 6:2 6:2||r="PIP"||c="ho tăng" 6:6 6:7

@@ -1,0 +1,2 @@
+c="đau vùng hông lưng khoảng 1 tháng nay" 4:12 4:19||r="PIP"||c="tiểu buốt" 4:21 4:22
+c="chụp CT bụng" 7:2 7:4||r="TeRP"||c="Sỏi thận ( P )" 7:6 7:10

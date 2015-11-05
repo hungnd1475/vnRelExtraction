@@ -1,0 +1,22 @@
+c="chóng_mặt" 2:11 2:11||r="PIP"||c="buồn_nôn và nôn" 2:13 2:15
+c="chóng_mặt" 2:11 2:11||r="PIP"||c="tăng khi thay_đổi tư_thế" 2:17 2:20
+c="nhà uống thuốc" 2:23 2:25||r="TrWP"||c="chóng_mặt" 2:11 2:11
+c="Concor" 2:29 2:29||r="TrWP"||c="chóng_mặt" 2:11 2:11
+c="Nootropyl" 2:35 2:35||r="TrWP"||c="chóng_mặt" 2:11 2:11
+c="FeB9" 2:39 2:39||r="TrWP"||c="chóng_mặt" 2:11 2:11
+c="chóng_mặt" 2:11 2:11||r="PIP"||c="nôn ra thuốc" 2:42 2:44
+c="buồn_nôn và nôn" 2:13 2:15||r="PIP"||c="tăng khi thay_đổi tư_thế" 2:17 2:20
+c="nhà uống thuốc" 2:23 2:25||r="TrWP"||c="buồn_nôn và nôn" 2:13 2:15
+c="Concor" 2:29 2:29||r="TrWP"||c="buồn_nôn và nôn" 2:13 2:15
+c="Nootropyl" 2:35 2:35||r="TrWP"||c="buồn_nôn và nôn" 2:13 2:15
+c="FeB9" 2:39 2:39||r="TrWP"||c="buồn_nôn và nôn" 2:13 2:15
+c="buồn_nôn và nôn" 2:13 2:15||r="PIP"||c="nôn ra thuốc" 2:42 2:44
+c="nhà uống thuốc" 2:23 2:25||r="TrWP"||c="tăng khi thay_đổi tư_thế" 2:17 2:20
+c="Concor" 2:29 2:29||r="TrWP"||c="tăng khi thay_đổi tư_thế" 2:17 2:20
+c="Nootropyl" 2:35 2:35||r="TrWP"||c="tăng khi thay_đổi tư_thế" 2:17 2:20
+c="FeB9" 2:39 2:39||r="TrWP"||c="tăng khi thay_đổi tư_thế" 2:17 2:20
+c="tăng khi thay_đổi tư_thế" 2:17 2:20||r="PIP"||c="nôn ra thuốc" 2:42 2:44
+c="nhà uống thuốc" 2:23 2:25||r="TrWP"||c="nôn ra thuốc" 2:42 2:44
+c="Concor" 2:29 2:29||r="TrWP"||c="nôn ra thuốc" 2:42 2:44
+c="Nootropyl" 2:35 2:35||r="TrWP"||c="nôn ra thuốc" 2:42 2:44
+c="FeB9" 2:39 2:39||r="TrWP"||c="nôn ra thuốc" 2:42 2:44

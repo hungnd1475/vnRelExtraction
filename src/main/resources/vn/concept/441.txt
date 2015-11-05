@@ -1,0 +1,7 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="mệt" 2:3 2:3||t="problem"
+c="đau lưng" 4:4 4:5||t="problem"
+c="hông ( T" 4:7 4:9||t="problem"
+c="sốt lạng run" 4:12 4:14||t="problem"
+c="mệt" 4:16 4:16||t="problem"
+c="điều_trị" 4:28 4:28||t="treatment"

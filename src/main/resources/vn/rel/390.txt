@@ -1,0 +1,2 @@
+c="nhập ICU điều_trị" 6:8 6:10||r="TrIP"||c="tự độc thuốc" 6:2 6:4
+c="điều_trị ngăn hấp_thu thuốc" 6:16 6:19||r="TrIP"||c="tự độc thuốc" 6:2 6:4

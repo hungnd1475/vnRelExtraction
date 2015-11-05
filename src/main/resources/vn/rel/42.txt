@@ -1,0 +1,2 @@
+c="đau bụng dọc theo khung đại_tràng trái" 4:3 4:9||r="PIP"||c="tiêu phân nhầy nhớt" 4:11 4:14
+c="mệt" 5:4 5:4||r="PIP"||c="sốt cao" 5:6 5:7

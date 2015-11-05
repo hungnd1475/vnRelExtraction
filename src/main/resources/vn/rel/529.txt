@@ -1,0 +1,10 @@
+c="khám và dùng thuốc" 2:8 2:11||r="TrWP"||c="đau thượng" 2:2 2:3
+c="đau thượng" 2:2 2:3||r="PIP"||c="đau quặn bụng thượng_vị nhiều kèm buồn_nôn" 2:18 2:24
+c="đau thượng" 2:2 2:3||r="PIP"||c="tiêu lòng 2 lần không đàm máu" 2:26 2:32
+c="đau thượng" 2:2 2:3||r="PIP"||c="mệt" 2:34 2:34
+c="khám và dùng thuốc" 2:8 2:11||r="TrWP"||c="đau quặn bụng thượng_vị nhiều kèm buồn_nôn" 2:18 2:24
+c="khám và dùng thuốc" 2:8 2:11||r="TrWP"||c="tiêu lòng 2 lần không đàm máu" 2:26 2:32
+c="khám và dùng thuốc" 2:8 2:11||r="TrWP"||c="mệt" 2:34 2:34
+c="đau quặn bụng thượng_vị nhiều kèm buồn_nôn" 2:18 2:24||r="PIP"||c="tiêu lòng 2 lần không đàm máu" 2:26 2:32
+c="đau quặn bụng thượng_vị nhiều kèm buồn_nôn" 2:18 2:24||r="PIP"||c="mệt" 2:34 2:34
+c="tiêu lòng 2 lần không đàm máu" 2:26 2:32||r="PIP"||c="mệt" 2:34 2:34

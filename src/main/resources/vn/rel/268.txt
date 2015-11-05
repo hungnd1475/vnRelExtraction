@@ -1,0 +1,8 @@
+c="nỗi mề_đay 5 ngày" 4:3 4:6||r="PIP"||c="sốt nhiều" 4:10 4:11
+c="uống thuốc" 4:13 4:14||r="TrWP"||c="nỗi mề_đay 5 ngày" 4:3 4:6
+c="nỗi mề_đay 5 ngày" 4:3 4:6||r="PIP"||c="mệt nhiều" 4:19 4:20
+c="cấp_cứu tại Bệnh_viện Vũ_Anh" 4:26 4:29||r="TrAP"||c="nỗi mề_đay 5 ngày" 4:3 4:6
+c="uống thuốc" 4:13 4:14||r="TrWP"||c="sốt nhiều" 4:10 4:11
+c="sốt nhiều" 4:10 4:11||r="PIP"||c="mệt nhiều" 4:19 4:20
+c="cấp_cứu tại Bệnh_viện Vũ_Anh" 4:26 4:29||r="TrAP"||c="sốt nhiều" 4:10 4:11
+c="cấp_cứu tại Bệnh_viện Vũ_Anh" 4:26 4:29||r="TrAP"||c="mệt nhiều" 4:19 4:20

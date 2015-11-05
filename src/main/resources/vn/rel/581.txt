@@ -1,0 +1,15 @@
+c="ho khạc đàm vàng nhạt" 5:6 5:10||r="PIP"||c="ho nhiều" 5:14 5:15
+c="ho khạc đàm vàng nhạt" 5:6 5:10||r="PIP"||c="đàm màu vàng đặc" 5:18 5:21
+c="ho khạc đàm vàng nhạt" 5:6 5:10||r="PIP"||c="chảy mũi nước_màu vàng" 5:23 5:26
+c="ho khạc đàm vàng nhạt" 5:6 5:10||r="PIP"||c="ngạt_mũi" 5:28 5:28
+c="ho khạc đàm vàng nhạt" 5:6 5:10||r="PIP"||c="mệt" 5:30 5:30
+c="ho nhiều" 5:14 5:15||r="PIP"||c="đàm màu vàng đặc" 5:18 5:21
+c="ho nhiều" 5:14 5:15||r="PIP"||c="chảy mũi nước_màu vàng" 5:23 5:26
+c="ho nhiều" 5:14 5:15||r="PIP"||c="ngạt_mũi" 5:28 5:28
+c="ho nhiều" 5:14 5:15||r="PIP"||c="mệt" 5:30 5:30
+c="đàm màu vàng đặc" 5:18 5:21||r="PIP"||c="chảy mũi nước_màu vàng" 5:23 5:26
+c="đàm màu vàng đặc" 5:18 5:21||r="PIP"||c="ngạt_mũi" 5:28 5:28
+c="đàm màu vàng đặc" 5:18 5:21||r="PIP"||c="mệt" 5:30 5:30
+c="chảy mũi nước_màu vàng" 5:23 5:26||r="PIP"||c="ngạt_mũi" 5:28 5:28
+c="chảy mũi nước_màu vàng" 5:23 5:26||r="PIP"||c="mệt" 5:30 5:30
+c="ngạt_mũi" 5:28 5:28||r="PIP"||c="mệt" 5:30 5:30

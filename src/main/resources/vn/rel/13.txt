@@ -1,0 +1,29 @@
+c="ho" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
+c="điều_trị" 4:13 4:13||r="TrWP"||c="ho sổ_mũi trong" 4:7 4:9
+c="ho sổ_mũi trong" 4:7 4:9||r="PIP"||c="sốt vưa" 4:21 4:22
+c="ho sổ_mũi trong" 4:7 4:9||r="PIP"||c="dao_động" 4:24 4:24
+c="ho sổ_mũi trong" 4:7 4:9||r="PIP"||c="thở mệt" 4:29 4:30
+c="ho sổ_mũi trong" 4:7 4:9||r="PIP"||c="ho nhiều" 4:32 4:33
+c="ho sổ_mũi trong" 4:7 4:9||r="PIP"||c="ho có đàm" 4:35 4:37
+c="ho sổ_mũi trong" 4:7 4:9||r="PIP"||c="khò_khè" 4:39 4:39
+c="điều_trị" 4:13 4:13||r="TrWP"||c="sốt vưa" 4:21 4:22
+c="điều_trị" 4:13 4:13||r="TrWP"||c="dao_động" 4:24 4:24
+c="điều_trị" 4:13 4:13||r="TrWP"||c="thở mệt" 4:29 4:30
+c="điều_trị" 4:13 4:13||r="TrWP"||c="ho nhiều" 4:32 4:33
+c="điều_trị" 4:13 4:13||r="TrWP"||c="ho có đàm" 4:35 4:37
+c="điều_trị" 4:13 4:13||r="TrWP"||c="khò_khè" 4:39 4:39
+c="sốt vưa" 4:21 4:22||r="PIP"||c="dao_động" 4:24 4:24
+c="sốt vưa" 4:21 4:22||r="PIP"||c="thở mệt" 4:29 4:30
+c="sốt vưa" 4:21 4:22||r="PIP"||c="ho nhiều" 4:32 4:33
+c="sốt vưa" 4:21 4:22||r="PIP"||c="ho có đàm" 4:35 4:37
+c="sốt vưa" 4:21 4:22||r="PIP"||c="khò_khè" 4:39 4:39
+c="dao_động" 4:24 4:24||r="PIP"||c="thở mệt" 4:29 4:30
+c="dao_động" 4:24 4:24||r="PIP"||c="ho nhiều" 4:32 4:33
+c="dao_động" 4:24 4:24||r="PIP"||c="ho có đàm" 4:35 4:37
+c="dao_động" 4:24 4:24||r="PIP"||c="khò_khè" 4:39 4:39
+c="thở mệt" 4:29 4:30||r="PIP"||c="ho nhiều" 4:32 4:33
+c="thở mệt" 4:29 4:30||r="PIP"||c="ho có đàm" 4:35 4:37
+c="thở mệt" 4:29 4:30||r="PIP"||c="khò_khè" 4:39 4:39
+c="ho nhiều" 4:32 4:33||r="PIP"||c="ho có đàm" 4:35 4:37
+c="ho nhiều" 4:32 4:33||r="PIP"||c="khò_khè" 4:39 4:39
+c="ho có đàm" 4:35 4:37||r="PIP"||c="khò_khè" 4:39 4:39

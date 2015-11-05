@@ -1,0 +1,7 @@
+c="Khó thở" 2:1 2:2||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"
+c="khó thở nặng" 6:2 6:4||t="problem"
+c="nhập ICU" 6:6 6:7||t="problem"
+c="điều_trị bằng Albumin" 6:11 6:13||t="treatment"
+c="điều_trị" 7:4 7:4||t="treatment"
+c="nội_khoa" 9:1 9:1||t="treatment"

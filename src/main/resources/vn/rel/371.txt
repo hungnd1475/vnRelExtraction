@@ -1,0 +1,15 @@
+c="nôn ói nhiều" 4:11 4:13||r="PIP"||c="nhợn ói liên_tục" 4:15 4:17
+c="nôn ói nhiều" 4:11 4:13||r="PIP"||c="không ăn_uống được" 4:19 4:21
+c="nôn ói nhiều" 4:11 4:13||r="PIP"||c="tức ngực" 4:23 4:24
+c="nôn ói nhiều" 4:11 4:13||r="PIP"||c="mệt_mỏi nhiều" 4:26 4:27
+c="điều_trị" 4:39 4:39||r="TrIP"||c="nôn ói nhiều" 4:11 4:13
+c="nhợn ói liên_tục" 4:15 4:17||r="PIP"||c="không ăn_uống được" 4:19 4:21
+c="nhợn ói liên_tục" 4:15 4:17||r="PIP"||c="tức ngực" 4:23 4:24
+c="nhợn ói liên_tục" 4:15 4:17||r="PIP"||c="mệt_mỏi nhiều" 4:26 4:27
+c="điều_trị" 4:39 4:39||r="TrWP"||c="nhợn ói liên_tục" 4:15 4:17
+c="không ăn_uống được" 4:19 4:21||r="PIP"||c="tức ngực" 4:23 4:24
+c="không ăn_uống được" 4:19 4:21||r="PIP"||c="mệt_mỏi nhiều" 4:26 4:27
+c="điều_trị" 4:39 4:39||r="TrIP"||c="không ăn_uống được" 4:19 4:21
+c="tức ngực" 4:23 4:24||r="PIP"||c="mệt_mỏi nhiều" 4:26 4:27
+c="điều_trị" 4:39 4:39||r="TrIP"||c="tức ngực" 4:23 4:24
+c="điều_trị" 4:39 4:39||r="TrIP"||c="mệt_mỏi nhiều" 4:26 4:27

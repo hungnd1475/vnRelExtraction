@@ -1,0 +1,7 @@
+c="đau tức vùng thượng_vị" 2:9 2:12||t="problem"
+c="ợ hơi" 2:14 2:15||t="problem"
+c="đau bụng nhiều" 3:3 3:5||t="problem"
+c="đau_đầu" 3:7 3:7||t="problem"
+c="chóng_mặt" 3:9 3:9||t="problem"
+c="uống thuốc không giảm" 3:13 3:16||t="problem"
+c="Hạ_áp" 6:1 6:1||t="treatment"

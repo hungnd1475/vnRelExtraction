@@ -1,0 +1,6 @@
+c="tiêu lỏng không đàm máu 3-4 lần / ngày" 2:10 2:18||r="PIP"||c="đau quặn bụng quanh rốn" 2:22 2:26
+c="tiêu lỏng không đàm máu 3-4 lần / ngày" 2:10 2:18||r="PIP"||c="nôn ói thức_ăn sau ăn" 2:28 2:32
+c="tiêu lỏng không đàm máu 3-4 lần / ngày" 2:10 2:18||r="PIP"||c="mệt" 2:34 2:34
+c="đau quặn bụng quanh rốn" 2:22 2:26||r="PIP"||c="nôn ói thức_ăn sau ăn" 2:28 2:32
+c="đau quặn bụng quanh rốn" 2:22 2:26||r="PIP"||c="mệt" 2:34 2:34
+c="nôn ói thức_ăn sau ăn" 2:28 2:32||r="PIP"||c="mệt" 2:34 2:34

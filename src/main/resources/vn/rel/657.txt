@@ -1,0 +1,6 @@
+c="đau quăn bụng từng cơn" 6:13 6:17||r="PIP"||c="bụng chướng nhẹ" 6:19 6:21
+c="đau quăn bụng từng cơn" 6:13 6:17||r="PIP"||c="tiêu phân ít_nhiều lần" 6:23 6:26
+c="đau quăn bụng từng cơn" 6:13 6:17||r="PIP"||c="ấn đau bụng vùng hố_chậu" 6:40 6:44
+c="bụng chướng nhẹ" 6:19 6:21||r="PIP"||c="tiêu phân ít_nhiều lần" 6:23 6:26
+c="bụng chướng nhẹ" 6:19 6:21||r="PIP"||c="ấn đau bụng vùng hố_chậu" 6:40 6:44
+c="tiêu phân ít_nhiều lần" 6:23 6:26||r="PIP"||c="ấn đau bụng vùng hố_chậu" 6:40 6:44

@@ -1,0 +1,7 @@
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nhập ICU - - - > điều_trị tiếp kháng_sinh - - > lọc máu định_kỳ - - > nâng đở cơ_thể .
+Bênh nhân ổn dịnh - - > cho bệnh_nhân xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+kháng_sinh

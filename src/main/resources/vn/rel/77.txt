@@ -1,0 +1,11 @@
+c="sốt" 4:7 4:7||r="PIP"||c="ho khò_khè" 4:9 4:10
+c="uống thuốc" 6:11 6:12||r="TrWP"||c="sốt" 6:6 6:6
+c="sốt" 6:6 6:6||r="PIP"||c="sốt cao hơn" 6:16 6:18
+c="sốt" 6:6 6:6||r="PIP"||c="bứt_rứt quấy khóc" 6:20 6:22
+c="sốt" 6:6 6:6||r="PIP"||c="ăn_uống kém" 6:24 6:25
+c="uống thuốc" 6:11 6:12||r="TrWP"||c="sốt cao hơn" 6:16 6:18
+c="uống thuốc" 6:11 6:12||r="TrWP"||c="bứt_rứt quấy khóc" 6:20 6:22
+c="uống thuốc" 6:11 6:12||r="TrWP"||c="ăn_uống kém" 6:24 6:25
+c="sốt cao hơn" 6:16 6:18||r="PIP"||c="bứt_rứt quấy khóc" 6:20 6:22
+c="sốt cao hơn" 6:16 6:18||r="PIP"||c="ăn_uống kém" 6:24 6:25
+c="bứt_rứt quấy khóc" 6:20 6:22||r="PIP"||c="ăn_uống kém" 6:24 6:25

@@ -1,0 +1,10 @@
+c="ho đàm hó khạc" 4:6 4:9||r="PIP"||c="sốt cao liên_tục" 4:12 4:14
+c="ho đàm hó khạc" 4:6 4:9||r="PIP"||c="ăn_uống kém" 4:16 4:17
+c="ho đàm hó khạc" 4:6 4:9||r="PIP"||c="nôn ói sau ăn" 4:19 4:22
+c="ho đàm hó khạc" 4:6 4:9||r="PIP"||c="mệt nhiều" 4:24 4:25
+c="sốt cao liên_tục" 4:12 4:14||r="PIP"||c="ăn_uống kém" 4:16 4:17
+c="sốt cao liên_tục" 4:12 4:14||r="PIP"||c="nôn ói sau ăn" 4:19 4:22
+c="sốt cao liên_tục" 4:12 4:14||r="PIP"||c="mệt nhiều" 4:24 4:25
+c="ăn_uống kém" 4:16 4:17||r="PIP"||c="nôn ói sau ăn" 4:19 4:22
+c="ăn_uống kém" 4:16 4:17||r="PIP"||c="mệt nhiều" 4:24 4:25
+c="nôn ói sau ăn" 4:19 4:22||r="PIP"||c="mệt nhiều" 4:24 4:25

@@ -1,0 +1,15 @@
+c="đau_đầu" 2:6 2:6||r="PIP"||c="ho_khan" 2:8 2:8
+c="đau_đầu" 2:6 2:6||r="PIP"||c="đau họng" 2:10 2:11
+c="đau_đầu" 2:6 2:6||r="PIP"||c="mất_ngủ" 2:13 2:13
+c="đau_đầu" 2:6 2:6||r="PIP"||c="ăn_uống kém" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="đau_đầu" 2:6 2:6
+c="ho_khan" 2:8 2:8||r="PIP"||c="đau họng" 2:10 2:11
+c="ho_khan" 2:8 2:8||r="PIP"||c="mất_ngủ" 2:13 2:13
+c="ho_khan" 2:8 2:8||r="PIP"||c="ăn_uống kém" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="ho_khan" 2:8 2:8
+c="đau họng" 2:10 2:11||r="PIP"||c="mất_ngủ" 2:13 2:13
+c="đau họng" 2:10 2:11||r="PIP"||c="ăn_uống kém" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="đau họng" 2:10 2:11
+c="mất_ngủ" 2:13 2:13||r="PIP"||c="ăn_uống kém" 2:15 2:16
+c="điều_trị" 2:27 2:27||r="TrIP"||c="mất_ngủ" 2:13 2:13
+c="điều_trị" 2:27 2:27||r="TrIP"||c="ăn_uống kém" 2:15 2:16

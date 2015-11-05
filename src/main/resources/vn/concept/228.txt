@@ -1,0 +1,7 @@
+c="đau_đầu nhiều" 2:6 2:7||t="problem"
+c="nặng ngực" 2:10 2:11||t="problem"
+c="tê tay" 2:13 2:14||t="problem"
+c="cảm_giác khó thở" 2:16 2:18||t="problem"
+c="mệt" 2:20 2:20||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"
+c="điều_trị" 4:2 4:2||t="treatment"

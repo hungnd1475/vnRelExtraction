@@ -1,0 +1,1 @@
+c="diều trị nội_khoa" 4:12 4:14||r="TrIP"||c="mệt" 4:2 4:2

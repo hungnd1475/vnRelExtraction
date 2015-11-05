@@ -1,0 +1,21 @@
+c="sốt" 2:2 2:2||r="PIP"||c="Sốt cao liên_tục" 2:12 2:14
+c="sốt" 2:2 2:2||r="PIP"||c="đau_nhức mắt" 2:17 2:18
+c="sốt" 2:2 2:2||r="PIP"||c="dau đàu nhiều" 2:20 2:22
+c="sốt" 2:2 2:2||r="PIP"||c="ói" 2:25 2:25
+c="uống hạ sốt" 2:27 2:29||r="TrWP"||c="sốt" 2:2 2:2
+c="sốt" 2:2 2:2||r="PIP"||c="sốt cao" 2:34 2:35
+c="Sốt cao liên_tục" 2:12 2:14||r="PIP"||c="đau_nhức mắt" 2:17 2:18
+c="Sốt cao liên_tục" 2:12 2:14||r="PIP"||c="dau đàu nhiều" 2:20 2:22
+c="Sốt cao liên_tục" 2:12 2:14||r="PIP"||c="ói" 2:25 2:25
+c="uống hạ sốt" 2:27 2:29||r="TrWP"||c="Sốt cao liên_tục" 2:12 2:14
+c="Sốt cao liên_tục" 2:12 2:14||r="PIP"||c="sốt cao" 2:34 2:35
+c="đau_nhức mắt" 2:17 2:18||r="PIP"||c="dau đàu nhiều" 2:20 2:22
+c="đau_nhức mắt" 2:17 2:18||r="PIP"||c="ói" 2:25 2:25
+c="uống hạ sốt" 2:27 2:29||r="TrWP"||c="đau_nhức mắt" 2:17 2:18
+c="đau_nhức mắt" 2:17 2:18||r="PIP"||c="sốt cao" 2:34 2:35
+c="dau đàu nhiều" 2:20 2:22||r="PIP"||c="ói" 2:25 2:25
+c="uống hạ sốt" 2:27 2:29||r="TrWP"||c="dau đàu nhiều" 2:20 2:22
+c="dau đàu nhiều" 2:20 2:22||r="PIP"||c="sốt cao" 2:34 2:35
+c="uống hạ sốt" 2:27 2:29||r="TrWP"||c="ói" 2:25 2:25
+c="ói" 2:25 2:25||r="PIP"||c="sốt cao" 2:34 2:35
+c="uống hạ sốt" 2:27 2:29||r="TrWP"||c="sốt cao" 2:34 2:35

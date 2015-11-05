@@ -1,0 +1,3 @@
+c="sốt" 4:9 4:9||r="PIP"||c="sốt nhẹ đến sốt cao lên_cơn co_giật ( mắt trợn , tay_chân gồng" 4:14 4:26
+c="sốt" 4:9 4:9||r="PIP"||c="sùi bọt mép" 4:28 4:30
+c="sốt nhẹ đến sốt cao lên_cơn co_giật ( mắt trợn , tay_chân gồng" 4:14 4:26||r="PIP"||c="sùi bọt mép" 4:28 4:30

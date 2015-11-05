@@ -1,0 +1,38 @@
+c="sỏi thận" 4:16 4:17||r="PIP"||c="đau nhiều vùng hông lưng ( T )" 4:20 4:27
+c="sỏi thận" 4:16 4:17||r="PIP"||c="thận ( T ) có sỏi" 4:38 4:43
+c="sỏi thận" 4:16 4:17||r="PIP"||c="ứ nước độ III" 4:45 4:48
+c="sỏi thận" 4:16 4:17||r="PIP"||c="sỏi kẹt niệu_quản đoạn 1/3 trên" 4:50 4:55
+c="sỏi thận" 4:16 4:17||r="PIP"||c="nang thận ( P )" 4:57 4:61
+c="đau nhiều vùng hông lưng ( T )" 4:20 4:27||r="PIP"||c="thận ( T ) có sỏi" 4:38 4:43
+c="đau nhiều vùng hông lưng ( T )" 4:20 4:27||r="PIP"||c="ứ nước độ III" 4:45 4:48
+c="đau nhiều vùng hông lưng ( T )" 4:20 4:27||r="PIP"||c="sỏi kẹt niệu_quản đoạn 1/3 trên" 4:50 4:55
+c="đau nhiều vùng hông lưng ( T )" 4:20 4:27||r="PIP"||c="nang thận ( P )" 4:57 4:61
+c="thận ( T ) có sỏi" 4:38 4:43||r="PIP"||c="ứ nước độ III" 4:45 4:48
+c="thận ( T ) có sỏi" 4:38 4:43||r="PIP"||c="sỏi kẹt niệu_quản đoạn 1/3 trên" 4:50 4:55
+c="thận ( T ) có sỏi" 4:38 4:43||r="PIP"||c="nang thận ( P )" 4:57 4:61
+c="ứ nước độ III" 4:45 4:48||r="PIP"||c="sỏi kẹt niệu_quản đoạn 1/3 trên" 4:50 4:55
+c="ứ nước độ III" 4:45 4:48||r="PIP"||c="nang thận ( P )" 4:57 4:61
+c="sỏi kẹt niệu_quản đoạn 1/3 trên" 4:50 4:55||r="PIP"||c="nang thận ( P )" 4:57 4:61
+c="Tiểu_đường" 7:1 7:1||r="PIP"||c="tăng huyết_áp" 7:3 7:4
+c="sỏi thận" 11:19 11:20||r="PIP"||c="đau nhiều vùng hông lưng ( T )" 11:23 11:30
+c="sỏi thận" 11:19 11:20||r="PIP"||c="thận ( T ) có sỏi" 11:41 11:46
+c="sỏi thận" 11:19 11:20||r="PIP"||c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 11:48 11:58
+c="sỏi thận" 11:19 11:20||r="PIP"||c="nang thận ( P )" 11:60 11:64
+c="đau nhiều vùng hông lưng ( T )" 11:23 11:30||r="PIP"||c="thận ( T ) có sỏi" 11:41 11:46
+c="đau nhiều vùng hông lưng ( T )" 11:23 11:30||r="PIP"||c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 11:48 11:58
+c="đau nhiều vùng hông lưng ( T )" 11:23 11:30||r="PIP"||c="nang thận ( P )" 11:60 11:64
+c="thận ( T ) có sỏi" 11:41 11:46||r="PIP"||c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 11:48 11:58
+c="thận ( T ) có sỏi" 11:41 11:46||r="PIP"||c="nang thận ( P )" 11:60 11:64
+c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 11:48 11:58||r="PIP"||c="nang thận ( P )" 11:60 11:64
+c="tăng huyết_áp" 13:4 13:5||r="PIP"||c="tiểu_đường" 13:7 13:7
+c="sỏi thận" 16:19 16:20||r="PIP"||c="đau nhiều vùng hông lưng ( T )" 16:23 16:30
+c="sỏi thận" 16:19 16:20||r="PIP"||c="thận ( T ) có sỏi" 16:41 16:46
+c="sỏi thận" 16:19 16:20||r="PIP"||c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 16:48 16:58
+c="sỏi thận" 16:19 16:20||r="PIP"||c="nang thận ( P )" 16:60 16:64
+c="đau nhiều vùng hông lưng ( T )" 16:23 16:30||r="PIP"||c="thận ( T ) có sỏi" 16:41 16:46
+c="đau nhiều vùng hông lưng ( T )" 16:23 16:30||r="PIP"||c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 16:48 16:58
+c="đau nhiều vùng hông lưng ( T )" 16:23 16:30||r="PIP"||c="nang thận ( P )" 16:60 16:64
+c="thận ( T ) có sỏi" 16:41 16:46||r="PIP"||c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 16:48 16:58
+c="thận ( T ) có sỏi" 16:41 16:46||r="PIP"||c="nang thận ( P )" 16:60 16:64
+c="ứ nước độ III do sỏi kẹt niệu_quản đoạn 1/3 trên" 16:48 16:58||r="PIP"||c="nang thận ( P )" 16:60 16:64
+c="tăng huyết_áp" 18:4 18:5||r="PIP"||c="tiểu_đường" 18:7 18:7

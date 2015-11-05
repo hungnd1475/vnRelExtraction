@@ -1,0 +1,3 @@
+c="đau lâm_râm vùng thượng_vị" 4:9 4:12||r="PIP"||c="buồn_nôn" 4:16 4:16
+c="đau lâm_râm vùng thượng_vị" 4:9 4:12||r="PIP"||c="nôn nhiều ra thức_ăn" 4:18 4:21
+c="buồn_nôn" 4:16 4:16||r="PIP"||c="nôn nhiều ra thức_ăn" 4:18 4:21

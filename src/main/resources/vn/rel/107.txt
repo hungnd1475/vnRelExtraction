@@ -1,0 +1,12 @@
+c="Ho" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
+c="ho" 4:2 4:2||r="PIP"||c="chảy mũi nhẹ" 4:4 4:6
+c="khám" 4:13 4:13||r="TrWP"||c="ho" 4:2 4:2
+c="điều_trị" 4:15 4:15||r="TrWP"||c="ho" 4:2 4:2
+c="Singule" 4:22 4:22||r="TrWP"||c="ho" 4:2 4:2
+c="HoAstex" 4:24 4:24||r="TrWP"||c="ho" 4:2 4:2
+c="phun khí dung" 4:37 4:39||r="TrWP"||c="ho" 4:2 4:2
+c="khám" 4:13 4:13||r="TrWP"||c="chảy mũi nhẹ" 4:4 4:6
+c="điều_trị" 4:15 4:15||r="TrWP"||c="chảy mũi nhẹ" 4:4 4:6
+c="Singule" 4:22 4:22||r="TrWP"||c="chảy mũi nhẹ" 4:4 4:6
+c="HoAstex" 4:24 4:24||r="TrWP"||c="chảy mũi nhẹ" 4:4 4:6
+c="phun khí dung" 4:37 4:39||r="TrWP"||c="chảy mũi nhẹ" 4:4 4:6

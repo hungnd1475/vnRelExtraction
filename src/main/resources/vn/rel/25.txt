@@ -1,0 +1,15 @@
+c="đau bụng" 4:3 4:4||r="PIP"||c="ầm ỉ vùng quanh rốn" 4:12 4:16
+c="đau bụng" 4:3 4:4||r="PIP"||c="đau bụng ầm ỉ quanh rốn lan xuống hố_chậu ( P )" 4:24 4:35
+c="đau bụng" 4:3 4:4||r="PIP"||c="tiêu phân lỏng" 4:38 4:40
+c="đau bụng" 4:3 4:4||r="PIP"||c="buồn_nôn" 4:48 4:48
+c="đau bụng" 4:3 4:4||r="PIP"||c="ói" 4:50 4:50
+c="ầm ỉ vùng quanh rốn" 4:12 4:16||r="PIP"||c="đau bụng ầm ỉ quanh rốn lan xuống hố_chậu ( P )" 4:24 4:35
+c="ầm ỉ vùng quanh rốn" 4:12 4:16||r="PIP"||c="tiêu phân lỏng" 4:38 4:40
+c="ầm ỉ vùng quanh rốn" 4:12 4:16||r="PIP"||c="buồn_nôn" 4:48 4:48
+c="ầm ỉ vùng quanh rốn" 4:12 4:16||r="PIP"||c="ói" 4:50 4:50
+c="đau bụng ầm ỉ quanh rốn lan xuống hố_chậu ( P )" 4:24 4:35||r="PIP"||c="tiêu phân lỏng" 4:38 4:40
+c="đau bụng ầm ỉ quanh rốn lan xuống hố_chậu ( P )" 4:24 4:35||r="PIP"||c="buồn_nôn" 4:48 4:48
+c="đau bụng ầm ỉ quanh rốn lan xuống hố_chậu ( P )" 4:24 4:35||r="PIP"||c="ói" 4:50 4:50
+c="tiêu phân lỏng" 4:38 4:40||r="PIP"||c="buồn_nôn" 4:48 4:48
+c="tiêu phân lỏng" 4:38 4:40||r="PIP"||c="ói" 4:50 4:50
+c="buồn_nôn" 4:48 4:48||r="PIP"||c="ói" 4:50 4:50

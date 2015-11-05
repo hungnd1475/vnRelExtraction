@@ -1,0 +1,6 @@
+c="sốt" 4:8 4:8||r="PIP"||c="sốt cao" 4:16 4:17
+c="uống thuốc" 4:26 4:27||r="TrWP"||c="sốt" 4:8 4:8
+c="sốt" 4:8 4:8||r="PIP"||c="ói 1 lần" 4:35 4:37
+c="uống thuốc" 4:26 4:27||r="TrWP"||c="sốt cao" 4:16 4:17
+c="sốt cao" 4:16 4:17||r="PIP"||c="ói 1 lần" 4:35 4:37
+c="uống thuốc" 4:26 4:27||r="TrWP"||c="ói 1 lần" 4:35 4:37

@@ -1,0 +1,6 @@
+c="đau quặn bụng thượng_vị" 6:6 6:9||r="PIP"||c="ăn_uống kém" 6:13 6:14
+c="đau quặn bụng thượng_vị" 6:6 6:9||r="PIP"||c="tiêu lỏng không đàm máu" 6:16 6:20
+c="đau quặn bụng thượng_vị" 6:6 6:9||r="PIP"||c="mệt" 6:26 6:26
+c="ăn_uống kém" 6:13 6:14||r="PIP"||c="tiêu lỏng không đàm máu" 6:16 6:20
+c="ăn_uống kém" 6:13 6:14||r="PIP"||c="mệt" 6:26 6:26
+c="tiêu lỏng không đàm máu" 6:16 6:20||r="PIP"||c="mệt" 6:26 6:26

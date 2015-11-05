@@ -1,0 +1,10 @@
+c="sốt vừa" 4:8 4:9||r="PIP"||c="xuất_hiện chấm xuất_huyết dưới da quanh 2 hốc mắt" 4:15 4:23
+c="sốt vừa" 4:8 4:9||r="PIP"||c="đau ngực" 4:27 4:28
+c="sốt vừa" 4:8 4:9||r="PIP"||c="đau tăng khi ho" 4:30 4:33
+c="sốt vừa" 4:8 4:9||r="PIP"||c="mệt" 4:36 4:36
+c="xuất_hiện chấm xuất_huyết dưới da quanh 2 hốc mắt" 4:15 4:23||r="PIP"||c="đau ngực" 4:27 4:28
+c="xuất_hiện chấm xuất_huyết dưới da quanh 2 hốc mắt" 4:15 4:23||r="PIP"||c="đau tăng khi ho" 4:30 4:33
+c="xuất_hiện chấm xuất_huyết dưới da quanh 2 hốc mắt" 4:15 4:23||r="PIP"||c="mệt" 4:36 4:36
+c="đau ngực" 4:27 4:28||r="PIP"||c="đau tăng khi ho" 4:30 4:33
+c="đau ngực" 4:27 4:28||r="PIP"||c="mệt" 4:36 4:36
+c="đau tăng khi ho" 4:30 4:33||r="PIP"||c="mệt" 4:36 4:36

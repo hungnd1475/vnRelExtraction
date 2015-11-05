@@ -1,0 +1,10 @@
+c="sốt cao về chiều" 4:7 4:10||r="PIP"||c="tiểu sậm màu" 4:14 4:16
+c="sốt cao về chiều" 4:7 4:10||r="PIP"||c="đau tức bụng thượng_vị và hạ sườn ( P )" 4:18 4:27
+c="sốt cao về chiều" 4:7 4:10||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="sốt cao về chiều" 4:7 4:10||r="PIP"||c="mệt nhiều" 4:32 4:33
+c="tiểu sậm màu" 4:14 4:16||r="PIP"||c="đau tức bụng thượng_vị và hạ sườn ( P )" 4:18 4:27
+c="tiểu sậm màu" 4:14 4:16||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="tiểu sậm màu" 4:14 4:16||r="PIP"||c="mệt nhiều" 4:32 4:33
+c="đau tức bụng thượng_vị và hạ sườn ( P )" 4:18 4:27||r="PIP"||c="ăn_uống kém" 4:29 4:30
+c="đau tức bụng thượng_vị và hạ sườn ( P )" 4:18 4:27||r="PIP"||c="mệt nhiều" 4:32 4:33
+c="ăn_uống kém" 4:29 4:30||r="PIP"||c="mệt nhiều" 4:32 4:33

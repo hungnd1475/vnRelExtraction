@@ -1,0 +1,35 @@
+c="ho nhiều" 4:7 4:8||r="PIP"||c="sổ_mũi trong" 4:10 4:11
+c="ho nhiều" 4:7 4:8||r="PIP"||c="ăn kém" 4:13 4:14
+c="ho nhiều" 4:7 4:8||r="PIP"||c="ho có đàm" 4:22 4:24
+c="ho nhiều" 4:7 4:8||r="PIP"||c="sổ_mũi nhiều" 4:26 4:27
+c="ho nhiều" 4:7 4:8||r="PIP"||c="mũi xanh" 4:29 4:30
+c="ho nhiều" 4:7 4:8||r="PIP"||c="nghẹt mũi" 4:32 4:33
+c="ho nhiều" 4:7 4:8||r="PIP"||c="thở mệt , nhanh" 4:35 4:38
+c="sổ_mũi trong" 4:10 4:11||r="PIP"||c="ăn kém" 4:13 4:14
+c="sổ_mũi trong" 4:10 4:11||r="PIP"||c="ho nhiều" 4:19 4:20
+c="sổ_mũi trong" 4:10 4:11||r="PIP"||c="ho có đàm" 4:22 4:24
+c="sổ_mũi trong" 4:10 4:11||r="PIP"||c="sổ_mũi nhiều" 4:26 4:27
+c="sổ_mũi trong" 4:10 4:11||r="PIP"||c="mũi xanh" 4:29 4:30
+c="sổ_mũi trong" 4:10 4:11||r="PIP"||c="nghẹt mũi" 4:32 4:33
+c="sổ_mũi trong" 4:10 4:11||r="PIP"||c="thở mệt , nhanh" 4:35 4:38
+c="ăn kém" 4:13 4:14||r="PIP"||c="ho nhiều" 4:19 4:20
+c="ăn kém" 4:13 4:14||r="PIP"||c="ho có đàm" 4:22 4:24
+c="ăn kém" 4:13 4:14||r="PIP"||c="sổ_mũi nhiều" 4:26 4:27
+c="ăn kém" 4:13 4:14||r="PIP"||c="mũi xanh" 4:29 4:30
+c="ăn kém" 4:13 4:14||r="PIP"||c="nghẹt mũi" 4:32 4:33
+c="ăn kém" 4:13 4:14||r="PIP"||c="thở mệt , nhanh" 4:35 4:38
+c="ho nhiều" 4:19 4:20||r="PIP"||c="ho có đàm" 4:22 4:24
+c="ho nhiều" 4:19 4:20||r="PIP"||c="sổ_mũi nhiều" 4:26 4:27
+c="ho nhiều" 4:19 4:20||r="PIP"||c="mũi xanh" 4:29 4:30
+c="ho nhiều" 4:19 4:20||r="PIP"||c="nghẹt mũi" 4:32 4:33
+c="ho nhiều" 4:19 4:20||r="PIP"||c="thở mệt , nhanh" 4:35 4:38
+c="ho có đàm" 4:22 4:24||r="PIP"||c="sổ_mũi nhiều" 4:26 4:27
+c="ho có đàm" 4:22 4:24||r="PIP"||c="mũi xanh" 4:29 4:30
+c="ho có đàm" 4:22 4:24||r="PIP"||c="nghẹt mũi" 4:32 4:33
+c="ho có đàm" 4:22 4:24||r="PIP"||c="thở mệt , nhanh" 4:35 4:38
+c="sổ_mũi nhiều" 4:26 4:27||r="PIP"||c="mũi xanh" 4:29 4:30
+c="sổ_mũi nhiều" 4:26 4:27||r="PIP"||c="nghẹt mũi" 4:32 4:33
+c="sổ_mũi nhiều" 4:26 4:27||r="PIP"||c="thở mệt , nhanh" 4:35 4:38
+c="mũi xanh" 4:29 4:30||r="PIP"||c="nghẹt mũi" 4:32 4:33
+c="mũi xanh" 4:29 4:30||r="PIP"||c="thở mệt , nhanh" 4:35 4:38
+c="nghẹt mũi" 4:32 4:33||r="PIP"||c="thở mệt , nhanh" 4:35 4:38

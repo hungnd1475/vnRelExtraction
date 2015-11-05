@@ -1,0 +1,15 @@
+c="Ho" 2:1 2:1||r="PIP"||c="khò_khè" 2:3 2:3
+c="sốt" 4:2 4:2||r="PIP"||c="ho" 4:4 4:4
+c="sốt" 4:2 4:2||r="PIP"||c="Viêm phế_quản" 4:10 4:11
+c="Zenodem" 4:13 4:13||r="TrWP"||c="sốt" 4:2 4:2
+c="sốt" 4:2 4:2||r="PIP"||c="ho nhiều" 4:22 4:23
+c="ho" 4:4 4:4||r="PIP"||c="Viêm phế_quản" 4:10 4:11
+c="Zenodem" 4:13 4:13||r="TrWP"||c="ho" 4:4 4:4
+c="ho" 4:4 4:4||r="PIP"||c="sốt" 4:20 4:20
+c="ho" 4:4 4:4||r="PIP"||c="ho nhiều" 4:22 4:23
+c="Zenodem" 4:13 4:13||r="TrWP"||c="Viêm phế_quản" 4:10 4:11
+c="Viêm phế_quản" 4:10 4:11||r="PIP"||c="sốt" 4:20 4:20
+c="Viêm phế_quản" 4:10 4:11||r="PIP"||c="ho nhiều" 4:22 4:23
+c="Zenodem" 4:13 4:13||r="TrWP"||c="sốt" 4:20 4:20
+c="Zenodem" 4:13 4:13||r="TrWP"||c="ho nhiều" 4:22 4:23
+c="sốt" 4:20 4:20||r="PIP"||c="ho nhiều" 4:22 4:23

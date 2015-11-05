@@ -1,0 +1,19 @@
+Lý Do
+Sỏi túi_mật
+Tiền Sử Bệnh
+Khỏe
+Điều Trị
+ngoại_khoa
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 44 tuổi vào viện với lý_do : Bệnh_nhân khai đã đi khám và phát_hiện sỏi túi_mật .
+Hiện_tại đau bụng vùng hạ sườn ( P ) , đầy bụng - - > vào viện
+Siêu_âm bụng : Sỏi túi_mật
+Chẩn_đoán : sỏi túi_mật
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 44 tuổi vào viện với lý_do : Bệnh_nhân khai đã đi khám và phát_hiện sỏi túi_mật .
+Hiện_tại đau bụng vùng hạ sườn ( P ) , đầy bụng - - > vào viện
+Siêu_âm bụng : Sỏi túi_mật
+Chẩn_đoán : Sỏi túi_mật
+Phẫu_thuật cắt túi_mật nội_soi , sau điều_trị , bệnh ổn , VM khô , bụng mềm , ăn_uống tạm - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+Phẫu_thuật cắt túi_mật nội_soi

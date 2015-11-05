@@ -1,0 +1,9 @@
+Tiền Sử Bệnh
+Tăng huyết_áp
+Điều Trị
+nội_khoa
+Tổng Kết Bệnh Lý
+Bệnh_nhân nặng - - > nhập ICU - - > truyền máu , truyền Nexium
+Bệnh_nhân tạm ổn_định , hết nôn máu , soi dạ_dày loét tá_tràng D2 . - - > xuất_viện
+Tổng Kết Phương Pháp Điều Trị
+ức_chế bơm proton

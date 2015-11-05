@@ -1,0 +1,85 @@
+c="đau bụng" 4:3 4:4||r="PIP"||c="đau tức vùng thượng_vị" 4:11 4:14
+c="đau bụng" 4:3 4:4||r="PIP"||c="ợ hơi" 4:18 4:19
+c="đau bụng" 4:3 4:4||r="PIP"||c="ợ chua" 4:21 4:22
+c="đau bụng" 4:3 4:4||r="PIP"||c="đau quặn từng cơn" 4:24 4:27
+c="đau bụng" 4:3 4:4||r="PIP"||c="cảm_giác tức ngực" 4:30 4:32
+c="đau bụng" 4:3 4:4||r="PIP"||c="ăn_không tiêu" 4:34 4:35
+c="đau bụng" 4:3 4:4||r="PIP"||c="người mệt mõi" 4:37 4:39
+c="đau tức vùng thượng_vị" 4:11 4:14||r="PIP"||c="ợ hơi" 4:18 4:19
+c="đau tức vùng thượng_vị" 4:11 4:14||r="PIP"||c="ợ chua" 4:21 4:22
+c="đau tức vùng thượng_vị" 4:11 4:14||r="PIP"||c="đau quặn từng cơn" 4:24 4:27
+c="đau tức vùng thượng_vị" 4:11 4:14||r="PIP"||c="cảm_giác tức ngực" 4:30 4:32
+c="đau tức vùng thượng_vị" 4:11 4:14||r="PIP"||c="ăn_không tiêu" 4:34 4:35
+c="đau tức vùng thượng_vị" 4:11 4:14||r="PIP"||c="người mệt mõi" 4:37 4:39
+c="ợ hơi" 4:18 4:19||r="PIP"||c="ợ chua" 4:21 4:22
+c="ợ hơi" 4:18 4:19||r="PIP"||c="đau quặn từng cơn" 4:24 4:27
+c="ợ hơi" 4:18 4:19||r="PIP"||c="cảm_giác tức ngực" 4:30 4:32
+c="ợ hơi" 4:18 4:19||r="PIP"||c="ăn_không tiêu" 4:34 4:35
+c="ợ hơi" 4:18 4:19||r="PIP"||c="người mệt mõi" 4:37 4:39
+c="ợ chua" 4:21 4:22||r="PIP"||c="đau quặn từng cơn" 4:24 4:27
+c="ợ chua" 4:21 4:22||r="PIP"||c="cảm_giác tức ngực" 4:30 4:32
+c="ợ chua" 4:21 4:22||r="PIP"||c="ăn_không tiêu" 4:34 4:35
+c="ợ chua" 4:21 4:22||r="PIP"||c="người mệt mõi" 4:37 4:39
+c="đau quặn từng cơn" 4:24 4:27||r="PIP"||c="cảm_giác tức ngực" 4:30 4:32
+c="đau quặn từng cơn" 4:24 4:27||r="PIP"||c="ăn_không tiêu" 4:34 4:35
+c="đau quặn từng cơn" 4:24 4:27||r="PIP"||c="người mệt mõi" 4:37 4:39
+c="cảm_giác tức ngực" 4:30 4:32||r="PIP"||c="ăn_không tiêu" 4:34 4:35
+c="cảm_giác tức ngực" 4:30 4:32||r="PIP"||c="người mệt mõi" 4:37 4:39
+c="ăn_không tiêu" 4:34 4:35||r="PIP"||c="người mệt mõi" 4:37 4:39
+c="đau bụng" 10:6 10:7||r="PIP"||c="đau tức vùng thượng_vị" 10:14 10:17
+c="đau bụng" 10:6 10:7||r="PIP"||c="ợ hơi" 10:21 10:22
+c="đau bụng" 10:6 10:7||r="PIP"||c="ợ chua" 10:24 10:25
+c="đau bụng" 10:6 10:7||r="PIP"||c="đau quặn từng cơn" 10:27 10:30
+c="đau bụng" 10:6 10:7||r="PIP"||c="cảm_giác tức ngực" 10:33 10:35
+c="đau bụng" 10:6 10:7||r="PIP"||c="ăn_không tiêu" 10:37 10:38
+c="đau bụng" 10:6 10:7||r="PIP"||c="người mệt mõi" 10:40 10:42
+c="đau tức vùng thượng_vị" 10:14 10:17||r="PIP"||c="ợ hơi" 10:21 10:22
+c="đau tức vùng thượng_vị" 10:14 10:17||r="PIP"||c="ợ chua" 10:24 10:25
+c="đau tức vùng thượng_vị" 10:14 10:17||r="PIP"||c="đau quặn từng cơn" 10:27 10:30
+c="đau tức vùng thượng_vị" 10:14 10:17||r="PIP"||c="cảm_giác tức ngực" 10:33 10:35
+c="đau tức vùng thượng_vị" 10:14 10:17||r="PIP"||c="ăn_không tiêu" 10:37 10:38
+c="đau tức vùng thượng_vị" 10:14 10:17||r="PIP"||c="người mệt mõi" 10:40 10:42
+c="ợ hơi" 10:21 10:22||r="PIP"||c="ợ chua" 10:24 10:25
+c="ợ hơi" 10:21 10:22||r="PIP"||c="đau quặn từng cơn" 10:27 10:30
+c="ợ hơi" 10:21 10:22||r="PIP"||c="cảm_giác tức ngực" 10:33 10:35
+c="ợ hơi" 10:21 10:22||r="PIP"||c="ăn_không tiêu" 10:37 10:38
+c="ợ hơi" 10:21 10:22||r="PIP"||c="người mệt mõi" 10:40 10:42
+c="ợ chua" 10:24 10:25||r="PIP"||c="đau quặn từng cơn" 10:27 10:30
+c="ợ chua" 10:24 10:25||r="PIP"||c="cảm_giác tức ngực" 10:33 10:35
+c="ợ chua" 10:24 10:25||r="PIP"||c="ăn_không tiêu" 10:37 10:38
+c="ợ chua" 10:24 10:25||r="PIP"||c="người mệt mõi" 10:40 10:42
+c="đau quặn từng cơn" 10:27 10:30||r="PIP"||c="cảm_giác tức ngực" 10:33 10:35
+c="đau quặn từng cơn" 10:27 10:30||r="PIP"||c="ăn_không tiêu" 10:37 10:38
+c="đau quặn từng cơn" 10:27 10:30||r="PIP"||c="người mệt mõi" 10:40 10:42
+c="cảm_giác tức ngực" 10:33 10:35||r="PIP"||c="ăn_không tiêu" 10:37 10:38
+c="cảm_giác tức ngực" 10:33 10:35||r="PIP"||c="người mệt mõi" 10:40 10:42
+c="ăn_không tiêu" 10:37 10:38||r="PIP"||c="người mệt mõi" 10:40 10:42
+c="đau bụng" 14:6 14:7||r="PIP"||c="đau tức vùng thượng_vị" 14:14 14:17
+c="đau bụng" 14:6 14:7||r="PIP"||c="ợ hơi" 14:21 14:22
+c="đau bụng" 14:6 14:7||r="PIP"||c="ợ chua" 14:24 14:25
+c="đau bụng" 14:6 14:7||r="PIP"||c="đau quặn từng cơn" 14:27 14:30
+c="đau bụng" 14:6 14:7||r="PIP"||c="cảm_giác tức ngực" 14:33 14:35
+c="đau bụng" 14:6 14:7||r="PIP"||c="ăn_không tiêu" 14:37 14:38
+c="đau bụng" 14:6 14:7||r="PIP"||c="người mệt mõi" 14:40 14:42
+c="đau tức vùng thượng_vị" 14:14 14:17||r="PIP"||c="ợ hơi" 14:21 14:22
+c="đau tức vùng thượng_vị" 14:14 14:17||r="PIP"||c="ợ chua" 14:24 14:25
+c="đau tức vùng thượng_vị" 14:14 14:17||r="PIP"||c="đau quặn từng cơn" 14:27 14:30
+c="đau tức vùng thượng_vị" 14:14 14:17||r="PIP"||c="cảm_giác tức ngực" 14:33 14:35
+c="đau tức vùng thượng_vị" 14:14 14:17||r="PIP"||c="ăn_không tiêu" 14:37 14:38
+c="đau tức vùng thượng_vị" 14:14 14:17||r="PIP"||c="người mệt mõi" 14:40 14:42
+c="ợ hơi" 14:21 14:22||r="PIP"||c="ợ chua" 14:24 14:25
+c="ợ hơi" 14:21 14:22||r="PIP"||c="đau quặn từng cơn" 14:27 14:30
+c="ợ hơi" 14:21 14:22||r="PIP"||c="cảm_giác tức ngực" 14:33 14:35
+c="ợ hơi" 14:21 14:22||r="PIP"||c="ăn_không tiêu" 14:37 14:38
+c="ợ hơi" 14:21 14:22||r="PIP"||c="người mệt mõi" 14:40 14:42
+c="ợ chua" 14:24 14:25||r="PIP"||c="đau quặn từng cơn" 14:27 14:30
+c="ợ chua" 14:24 14:25||r="PIP"||c="cảm_giác tức ngực" 14:33 14:35
+c="ợ chua" 14:24 14:25||r="PIP"||c="ăn_không tiêu" 14:37 14:38
+c="ợ chua" 14:24 14:25||r="PIP"||c="người mệt mõi" 14:40 14:42
+c="đau quặn từng cơn" 14:27 14:30||r="PIP"||c="cảm_giác tức ngực" 14:33 14:35
+c="đau quặn từng cơn" 14:27 14:30||r="PIP"||c="ăn_không tiêu" 14:37 14:38
+c="đau quặn từng cơn" 14:27 14:30||r="PIP"||c="người mệt mõi" 14:40 14:42
+c="cảm_giác tức ngực" 14:33 14:35||r="PIP"||c="ăn_không tiêu" 14:37 14:38
+c="cảm_giác tức ngực" 14:33 14:35||r="PIP"||c="người mệt mõi" 14:40 14:42
+c="ăn_không tiêu" 14:37 14:38||r="PIP"||c="người mệt mõi" 14:40 14:42
+c="Soi dạ_dày" 11:1 11:2||r="TeRP"||c="Viêm xung huyết toàn_bộ dạ_dày mức_độ nặng Clotest ( + )" 11:5 11:15

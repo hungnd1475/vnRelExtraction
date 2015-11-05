@@ -1,0 +1,2 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="nội_khoa" 6:1 6:1||t="treatment"

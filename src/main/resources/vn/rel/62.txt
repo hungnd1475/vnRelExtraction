@@ -1,0 +1,5 @@
+c="amlor" 4:15 4:15||r="TrAP"||c="ho" 4:6 4:6
+c="mệt" 5:4 5:4||r="PIP"||c="đau 2 vai" 5:6 5:8
+c="mệt" 5:4 5:4||r="PIP"||c="đau từ hông trái đến vai trái" 5:10 5:16
+c="đau 2 vai" 5:6 5:8||r="PIP"||c="đau từ hông trái đến vai trái" 5:10 5:16
+c="huyết_áp_cao" 4:9 4:9||r="TeCP"||c="ho" 4:6 4:6

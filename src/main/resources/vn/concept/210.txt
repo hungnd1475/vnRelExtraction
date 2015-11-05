@@ -1,0 +1,6 @@
+c="đau quặn bụng thượng_vị từ sáng" 2:2 2:7||t="problem"
+c="tiêu phân lỏng nhiều lần" 2:9 2:13||t="problem"
+c="buồn_nôn" 2:15 2:15||t="problem"
+c="sốt" 2:17 2:17||t="problem"
+c="lạnh run" 2:19 2:20||t="problem"
+c="Kháng_sinh" 5:1 5:1||t="treatment"

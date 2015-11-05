@@ -1,0 +1,8 @@
+c="loét miệng" 2:1 2:2||t="problem"
+c="sốt nhẹ" 5:9 5:10||t="problem"
+c="biếng ăn" 5:14 5:15||t="problem"
+c="loét miệng" 5:17 5:18||t="problem"
+c="khó ngủ" 6:2 6:3||t="problem"
+c="kháng_sinh" 10:1 10:1||t="treatment"
+c="điều_trị triệu_chứng" 10:3 10:4||t="treatment"
+c="nâng_đỡ" 10:6 10:6||t="treatment"

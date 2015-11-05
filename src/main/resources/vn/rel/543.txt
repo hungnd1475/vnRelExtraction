@@ -1,0 +1,5 @@
+c="nhập Icu" 6:6 6:7||r="TrAP"||c="Bệnh_nhân nặng" 6:1 6:2
+c="thở máy" 6:11 6:12||r="TrAP"||c="Bệnh_nhân nặng" 6:1 6:2
+c="kháng_sinh" 6:16 6:16||r="TrAP"||c="Bệnh_nhân nặng" 6:1 6:2
+c="kháng nấm" 6:20 6:21||r="TrAP"||c="Bệnh_nhân nặng" 6:1 6:2
+c="nâng đở cơ_thể" 6:25 6:27||r="TrAP"||c="Bệnh_nhân nặng" 6:1 6:2

@@ -1,0 +1,37 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="sốt cao" 6:6 6:7||r="PIP"||c="ớn lạnh từng cơn" 6:9 6:12
+c="sốt cao" 6:6 6:7||r="PIP"||c="ho nhiều" 6:14 6:15
+c="sốt cao" 6:6 6:7||r="PIP"||c="ho đàm" 6:17 6:18
+c="sốt cao" 6:6 6:7||r="PIP"||c="đau họng" 6:20 6:21
+c="sốt cao" 6:6 6:7||r="PIP"||c="đau_đầu nhiều" 6:23 6:24
+c="sốt cao" 6:6 6:7||r="PIP"||c="mệt_mỏi" 6:26 6:26
+c="sốt cao" 6:6 6:7||r="PIP"||c="đau_nhức toàn_thân" 6:28 6:29
+c="sốt cao" 6:6 6:7||r="PIP"||c="đắng miệng" 6:31 6:32
+c="ớn lạnh từng cơn" 6:9 6:12||r="PIP"||c="ho nhiều" 6:14 6:15
+c="ớn lạnh từng cơn" 6:9 6:12||r="PIP"||c="ho đàm" 6:17 6:18
+c="ớn lạnh từng cơn" 6:9 6:12||r="PIP"||c="đau họng" 6:20 6:21
+c="ớn lạnh từng cơn" 6:9 6:12||r="PIP"||c="đau_đầu nhiều" 6:23 6:24
+c="ớn lạnh từng cơn" 6:9 6:12||r="PIP"||c="mệt_mỏi" 6:26 6:26
+c="ớn lạnh từng cơn" 6:9 6:12||r="PIP"||c="đau_nhức toàn_thân" 6:28 6:29
+c="ớn lạnh từng cơn" 6:9 6:12||r="PIP"||c="đắng miệng" 6:31 6:32
+c="ho nhiều" 6:14 6:15||r="PIP"||c="ho đàm" 6:17 6:18
+c="ho nhiều" 6:14 6:15||r="PIP"||c="đau họng" 6:20 6:21
+c="ho nhiều" 6:14 6:15||r="PIP"||c="đau_đầu nhiều" 6:23 6:24
+c="ho nhiều" 6:14 6:15||r="PIP"||c="mệt_mỏi" 6:26 6:26
+c="ho nhiều" 6:14 6:15||r="PIP"||c="đau_nhức toàn_thân" 6:28 6:29
+c="ho nhiều" 6:14 6:15||r="PIP"||c="đắng miệng" 6:31 6:32
+c="ho đàm" 6:17 6:18||r="PIP"||c="đau họng" 6:20 6:21
+c="ho đàm" 6:17 6:18||r="PIP"||c="đau_đầu nhiều" 6:23 6:24
+c="ho đàm" 6:17 6:18||r="PIP"||c="mệt_mỏi" 6:26 6:26
+c="ho đàm" 6:17 6:18||r="PIP"||c="đau_nhức toàn_thân" 6:28 6:29
+c="ho đàm" 6:17 6:18||r="PIP"||c="đắng miệng" 6:31 6:32
+c="đau họng" 6:20 6:21||r="PIP"||c="đau_đầu nhiều" 6:23 6:24
+c="đau họng" 6:20 6:21||r="PIP"||c="mệt_mỏi" 6:26 6:26
+c="đau họng" 6:20 6:21||r="PIP"||c="đau_nhức toàn_thân" 6:28 6:29
+c="đau họng" 6:20 6:21||r="PIP"||c="đắng miệng" 6:31 6:32
+c="đau_đầu nhiều" 6:23 6:24||r="PIP"||c="mệt_mỏi" 6:26 6:26
+c="đau_đầu nhiều" 6:23 6:24||r="PIP"||c="đau_nhức toàn_thân" 6:28 6:29
+c="đau_đầu nhiều" 6:23 6:24||r="PIP"||c="đắng miệng" 6:31 6:32
+c="mệt_mỏi" 6:26 6:26||r="PIP"||c="đau_nhức toàn_thân" 6:28 6:29
+c="mệt_mỏi" 6:26 6:26||r="PIP"||c="đắng miệng" 6:31 6:32
+c="đau_nhức toàn_thân" 6:28 6:29||r="PIP"||c="đắng miệng" 6:31 6:32

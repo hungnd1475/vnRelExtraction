@@ -1,0 +1,6 @@
+c="khàn tiếng kèm ho đàm đục" 4:5 4:10||r="PIP"||c="sốt ớn lạnh" 4:12 4:14
+c="khàn tiếng kèm ho đàm đục" 4:5 4:10||r="PIP"||c="thở khò_khè" 4:16 4:17
+c="thuốc nmhu 7ng" 4:20 4:22||r="TrWP"||c="khàn tiếng kèm ho đàm đục" 4:5 4:10
+c="sốt ớn lạnh" 4:12 4:14||r="PIP"||c="thở khò_khè" 4:16 4:17
+c="thuốc nmhu 7ng" 4:20 4:22||r="TrWP"||c="sốt ớn lạnh" 4:12 4:14
+c="thuốc nmhu 7ng" 4:20 4:22||r="TrWP"||c="thở khò_khè" 4:16 4:17

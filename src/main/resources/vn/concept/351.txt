@@ -1,0 +1,7 @@
+c="nội_khoa" 2:1 2:1||t="treatment"
+c="nhập ICU" 4:6 4:7||t="treatment"
+c="truyền máu" 4:11 4:12||t="treatment"
+c="kháng_sinh" 4:15 4:15||t="treatment"
+c="nâng đở thể_trạng" 4:18 4:20||t="treatment"
+c="điều_trị" 5:4 5:4||t="treatment"
+c="kháng_sinh" 7:1 7:1||t="treatment"

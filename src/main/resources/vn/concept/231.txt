@@ -1,0 +1,4 @@
+c="đau thượng_vị liên_tục" 2:2 2:4||t="problem"
+c="lan đau lưng" 2:6 2:8||t="problem"
+c="buồn ói" 2:10 2:11||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"

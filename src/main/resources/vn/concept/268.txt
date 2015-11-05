@@ -1,0 +1,8 @@
+c="sốt" 2:1 2:1||t="problem"
+c="nỗi mề_đay 5 ngày" 4:3 4:6||t="problem"
+c="sốt nhiều" 4:10 4:11||t="problem"
+c="uống thuốc" 4:13 4:14||t="treatment"
+c="mệt nhiều" 4:19 4:20||t="problem"
+c="cấp_cứu tại Bệnh_viện Vũ_Anh" 4:26 4:29||t="treatment"
+c="điều_trị" 5:2 5:2||t="treatment"
+c="Kháng_sinh" 7:1 7:1||t="treatment"

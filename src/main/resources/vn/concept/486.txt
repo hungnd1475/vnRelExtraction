@@ -1,0 +1,6 @@
+c="đau nhiều vùng hạ sườn ( P ) và thượng_vị" 2:7 2:16||t="problem"
+c="buồn_nôn sau ăn" 2:20 2:22||t="problem"
+c="ăn_uống kém" 2:24 2:25||t="problem"
+c="mất_ngủ" 2:27 2:27||t="problem"
+c="mệt nhiều suy_kiệt" 2:29 2:31||t="problem"
+c="khám" 3:5 3:5||t="test"

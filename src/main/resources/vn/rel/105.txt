@@ -1,0 +1,23 @@
+c="thuốc hạ sốt" 4:10 4:12||r="TrWP"||c="sốt cao" 4:4 4:5
+c="sốt cao" 5:3 5:4||r="PIP"||c="hơi đừ" 5:6 5:7
+c="sốt cao" 5:3 5:4||r="PIP"||c="biêm mũi họng cấp" 5:18 5:21
+c="sốt cao" 5:3 5:4||r="PIP"||c="sốt cao ngày 2" 5:23 5:26
+c="augmentine" 5:30 5:30||r="TrWP"||c="sốt cao" 5:3 5:4
+c="noflux" 5:32 5:32||r="TrWP"||c="sốt cao" 5:3 5:4
+c="acc" 5:34 5:34||r="TrWP"||c="sốt cao" 5:3 5:4
+c="prospan" 5:36 5:36||r="TrWP"||c="sốt cao" 5:3 5:4
+c="hơi đừ" 5:6 5:7||r="PIP"||c="biêm mũi họng cấp" 5:18 5:21
+c="hơi đừ" 5:6 5:7||r="PIP"||c="sốt cao ngày 2" 5:23 5:26
+c="augmentine" 5:30 5:30||r="TrWP"||c="hơi đừ" 5:6 5:7
+c="noflux" 5:32 5:32||r="TrWP"||c="hơi đừ" 5:6 5:7
+c="acc" 5:34 5:34||r="TrWP"||c="hơi đừ" 5:6 5:7
+c="prospan" 5:36 5:36||r="TrWP"||c="hơi đừ" 5:6 5:7
+c="biêm mũi họng cấp" 5:18 5:21||r="PIP"||c="sốt cao ngày 2" 5:23 5:26
+c="augmentine" 5:30 5:30||r="TrWP"||c="biêm mũi họng cấp" 5:18 5:21
+c="noflux" 5:32 5:32||r="TrWP"||c="biêm mũi họng cấp" 5:18 5:21
+c="acc" 5:34 5:34||r="TrWP"||c="biêm mũi họng cấp" 5:18 5:21
+c="prospan" 5:36 5:36||r="TrWP"||c="biêm mũi họng cấp" 5:18 5:21
+c="augmentine" 5:30 5:30||r="TrWP"||c="sốt cao ngày 2" 5:23 5:26
+c="noflux" 5:32 5:32||r="TrWP"||c="sốt cao ngày 2" 5:23 5:26
+c="acc" 5:34 5:34||r="TrWP"||c="sốt cao ngày 2" 5:23 5:26
+c="prospan" 5:36 5:36||r="TrWP"||c="sốt cao ngày 2" 5:23 5:26

@@ -1,0 +1,4 @@
+c="khám" 8:14 8:14||r="TrWP"||c="sỏi túi_mật" 8:17 8:18
+c="đau bụng vùng hạ sườn ( P )" 9:2 9:9||r="PIP"||c="đầy bụng" 9:11 9:12
+c="đau bụng vùng hạ sườn" 14:2 14:6||r="PIP"||c="đầy bụng" 14:11 14:12
+c="Siêu_âm bụng" 10:1 10:2||r="TeRP"||c="Sỏi túi_mật" 10:4 10:5

@@ -1,0 +1,8 @@
+c="rốn rỉ dịch vàng" 2:11 2:14||t="problem"
+c="cồn" 3:7 3:7||t="treatment"
+c="milian" 3:9 3:9||t="treatment"
+c="vitamin D" 3:12 3:13||t="treatment"
+c="Kháng_sinh" 6:1 6:1||t="treatment"
+c="chăm_sóc rốn" 6:3 6:4||t="treatment"
+c="nhỏ mũi" 6:6 6:7||t="treatment"
+c="chống ọc" 6:9 6:10||t="treatment"

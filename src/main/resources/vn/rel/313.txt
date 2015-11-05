@@ -1,0 +1,10 @@
+c="đau lói vùng mạn sườn ( T )" 2:6 2:13||r="PIP"||c="đau thượng_vị từng cơn" 2:16 2:19
+c="đau lói vùng mạn sườn ( T )" 2:6 2:13||r="PIP"||c="ăn_uống kém" 2:21 2:22
+c="đau lói vùng mạn sườn ( T )" 2:6 2:13||r="PIP"||c="cảm_giác đầy bụng kh 1o tiêu sau ăn" 2:24 2:31
+c="đau lói vùng mạn sườn ( T )" 2:6 2:13||r="PIP"||c="mệt nhiều" 2:33 2:34
+c="đau thượng_vị từng cơn" 2:16 2:19||r="PIP"||c="ăn_uống kém" 2:21 2:22
+c="đau thượng_vị từng cơn" 2:16 2:19||r="PIP"||c="cảm_giác đầy bụng kh 1o tiêu sau ăn" 2:24 2:31
+c="đau thượng_vị từng cơn" 2:16 2:19||r="PIP"||c="mệt nhiều" 2:33 2:34
+c="ăn_uống kém" 2:21 2:22||r="PIP"||c="cảm_giác đầy bụng kh 1o tiêu sau ăn" 2:24 2:31
+c="ăn_uống kém" 2:21 2:22||r="PIP"||c="mệt nhiều" 2:33 2:34
+c="cảm_giác đầy bụng kh 1o tiêu sau ăn" 2:24 2:31||r="PIP"||c="mệt nhiều" 2:33 2:34

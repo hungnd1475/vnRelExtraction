@@ -1,0 +1,6 @@
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="ăn_uống kém" 2:11 2:12
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="tiêu lỏng 3-4 lần / ngày" 2:14 2:19
+c="mệt nhiều" 2:6 2:7||r="PIP"||c="đau quặn bụng thượng_vị" 2:21 2:24
+c="ăn_uống kém" 2:11 2:12||r="PIP"||c="tiêu lỏng 3-4 lần / ngày" 2:14 2:19
+c="ăn_uống kém" 2:11 2:12||r="PIP"||c="đau quặn bụng thượng_vị" 2:21 2:24
+c="tiêu lỏng 3-4 lần / ngày" 2:14 2:19||r="PIP"||c="đau quặn bụng thượng_vị" 2:21 2:24

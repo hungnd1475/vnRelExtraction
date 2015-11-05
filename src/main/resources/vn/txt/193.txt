@@ -1,0 +1,11 @@
+Tiền Sử Bệnh
+Chưa rõ
+Tóm Tắt Khám Bệnh
+Bệnh_nhân nam 42 tuổi , đang điều_trị áp xe cạnh hậu_môn , hiện_tại đau vùng hậu_môn , rĩ dịch , vào viện tái khám có chỉ_định phẫu_thuật .
+Chẩn_đoán : Áp xe cạnh hậu_môn .
+Tổng Kết Bệnh Lý
+Bệnh_nhân nam 42 tuổi , đang điều_trị áp xe cạnh hậu_môn , hiện_tại đau vùng hậu_môn , rĩ dịch , vào viện tái khám có chỉ_định phẫu_thuật .
+Chẩn_đoán : Áp xe cạnh hậu_môn .
+Phẫu_thuật rạch áp xe cạnh hậu_môn , sau phẫu_thuật bệnh ổn_định , bớt đau , cho bệnh_nhân xuất_viện , hẹn tái khám .
+Tổng Kết Phương Pháp Điều Trị
+Phẫu_thuật

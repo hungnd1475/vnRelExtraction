@@ -1,0 +1,5 @@
+c="nôn" 4:2 4:2||r="PIP"||c="mệt nhiều" 4:4 4:5
+c="nhập ICU điều_trị" 4:7 4:9||r="TrAP"||c="nôn" 4:2 4:2
+c="truyền dịch ổn_định Natri" 4:14 4:17||r="TrAP"||c="nôn" 4:2 4:2
+c="nhập ICU điều_trị" 4:7 4:9||r="TrAP"||c="mệt nhiều" 4:4 4:5
+c="truyền dịch ổn_định Natri" 4:14 4:17||r="TrAP"||c="mệt nhiều" 4:4 4:5

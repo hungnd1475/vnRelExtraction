@@ -1,0 +1,1 @@
+c="đau nhiều vùng thượng_vị" 2:4 2:7||r="PIP"||c="tiêu phân lỏng toàn nước > 10 lần" 2:13 2:20

@@ -1,0 +1,6 @@
+c="ho nhiều" 5:5 5:6||r="PIP"||c="ho đàm" 5:8 5:9
+c="ho nhiều" 5:5 5:6||r="PIP"||c="đau bụng" 5:13 5:14
+c="ho nhiều" 5:5 5:6||r="PIP"||c="tức ngực" 5:16 5:17
+c="ho đàm" 5:8 5:9||r="PIP"||c="đau bụng" 5:13 5:14
+c="ho đàm" 5:8 5:9||r="PIP"||c="tức ngực" 5:16 5:17
+c="đau bụng" 5:13 5:14||r="PIP"||c="tức ngực" 5:16 5:17

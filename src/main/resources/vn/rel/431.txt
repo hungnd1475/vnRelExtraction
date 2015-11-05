@@ -1,0 +1,10 @@
+c="ho_khan nhiều" 4:7 4:8||r="PIP"||c="ngứa họng khi ho" 4:10 4:13
+c="ho_khan nhiều" 4:7 4:8||r="PIP"||c="ăn_uống kém" 4:15 4:16
+c="ho_khan nhiều" 4:7 4:8||r="PIP"||c="mệt" 4:18 4:18
+c="ho_khan nhiều" 4:7 4:8||r="PIP"||c="chóng_mặt khi đi_lại" 4:20 4:22
+c="ngứa họng khi ho" 4:10 4:13||r="PIP"||c="ăn_uống kém" 4:15 4:16
+c="ngứa họng khi ho" 4:10 4:13||r="PIP"||c="mệt" 4:18 4:18
+c="ngứa họng khi ho" 4:10 4:13||r="PIP"||c="chóng_mặt khi đi_lại" 4:20 4:22
+c="ăn_uống kém" 4:15 4:16||r="PIP"||c="mệt" 4:18 4:18
+c="ăn_uống kém" 4:15 4:16||r="PIP"||c="chóng_mặt khi đi_lại" 4:20 4:22
+c="mệt" 4:18 4:18||r="PIP"||c="chóng_mặt khi đi_lại" 4:20 4:22

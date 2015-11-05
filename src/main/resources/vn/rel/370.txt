@@ -1,0 +1,9 @@
+c="đầy bụng" 2:6 2:7||r="PIP"||c="chướng hơi" 2:9 2:10
+c="khám uống thuốc" 2:14 2:16||r="TrAP"||c="đầy bụng" 2:6 2:7
+c="đầy bụng" 2:6 2:7||r="PIP"||c="viêm dạ_dày ruột" 2:19 2:21
+c="khám uống thuốc" 2:14 2:16||r="TrAP"||c="chướng hơi" 2:9 2:10
+c="chướng hơi" 2:9 2:10||r="PIP"||c="viêm dạ_dày ruột" 2:19 2:21
+c="khám uống thuốc" 2:14 2:16||r="TrAP"||c="viêm dạ_dày ruột" 2:19 2:21
+c="đầy bụng" 3:7 3:8||r="PIP"||c="khó thở" 3:10 3:11
+c="điều_trị" 3:24 3:24||r="TrIP"||c="đầy bụng" 3:7 3:8
+c="điều_trị" 3:24 3:24||r="TrIP"||c="khó thở" 3:10 3:11

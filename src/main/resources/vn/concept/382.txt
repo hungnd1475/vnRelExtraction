@@ -1,0 +1,4 @@
+c="sụt 10kg" 2:7 2:8||t="problem"
+c="ăn_uống kém" 2:10 2:11||t="problem"
+c="mệt nhiều" 2:13 2:14||t="problem"
+c="điều_trị" 2:25 2:25||t="treatment"

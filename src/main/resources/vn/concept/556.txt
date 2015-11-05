@@ -1,0 +1,4 @@
+c="Bệnh_nhân hậu_phẫu ngày 1 rút đinh xương đùi ( P ) tại Bv_Sai Gon ITO - - > nhập_viện viện Vũ_Anh tiếp_tục điều_trị" 4:10 4:32||t="problem"
+c="có khối phồng ở vùng bẹn ( T )" 5:2 5:10||t="problem"
+c="Siêu_âm bụng" 6:1 6:2||t="test"
+c="phẫu_thuật phục_hồi thành bẹn pp Lichtenstein + Hạ tinh_hoàn ( T )" 9:2 9:13||t="treatment"

@@ -1,0 +1,6 @@
+c="sốt âm_ỉ" 4:6 4:7||r="PIP"||c="ho_khan" 4:11 4:11
+c="sốt âm_ỉ" 4:6 4:7||r="PIP"||c="đau rát họng khi nuốt" 4:13 4:17
+c="sốt âm_ỉ" 4:6 4:7||r="PIP"||c="mệt nhiều" 4:19 4:20
+c="ho_khan" 4:11 4:11||r="PIP"||c="đau rát họng khi nuốt" 4:13 4:17
+c="ho_khan" 4:11 4:11||r="PIP"||c="mệt nhiều" 4:19 4:20
+c="đau rát họng khi nuốt" 4:13 4:17||r="PIP"||c="mệt nhiều" 4:19 4:20

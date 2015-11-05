@@ -1,0 +1,6 @@
+c="chóng_mặt khi đi_lại" 2:6 2:8||r="PIP"||c="buồn_nôn sau ăn" 2:12 2:14
+c="chóng_mặt khi đi_lại" 2:6 2:8||r="PIP"||c="đau_đầu" 2:16 2:16
+c="chóng_mặt khi đi_lại" 2:6 2:8||r="PIP"||c="mệt" 2:18 2:18
+c="buồn_nôn sau ăn" 2:12 2:14||r="PIP"||c="đau_đầu" 2:16 2:16
+c="buồn_nôn sau ăn" 2:12 2:14||r="PIP"||c="mệt" 2:18 2:18
+c="đau_đầu" 2:16 2:16||r="PIP"||c="mệt" 2:18 2:18

@@ -1,0 +1,2 @@
+c="Đau bụng" 2:1 2:2||t="problem"
+c="đau quặn vùng hố_chậu ( T ) , mạn sườn ( T )" 4:4 4:16||t="problem"

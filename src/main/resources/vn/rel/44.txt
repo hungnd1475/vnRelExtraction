@@ -1,0 +1,3 @@
+c="ho_khan" 5:9 5:9||r="PIP"||c="sổ_mũi trong" 5:11 5:12
+c="ho_khan" 5:9 5:9||r="PIP"||c="phát_ban sau tai , chân tóc - - > mặt" 5:16 5:25
+c="sổ_mũi trong" 5:11 5:12||r="PIP"||c="phát_ban sau tai , chân tóc - - > mặt" 5:16 5:25

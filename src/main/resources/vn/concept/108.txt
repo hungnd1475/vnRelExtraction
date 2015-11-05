@@ -1,0 +1,6 @@
+c="sốt" 2:2 2:2||t="problem"
+c="ho" 2:4 2:4||t="problem"
+c="uống thuốc" 2:11 2:12||t="treatment"
+c="Kháng_sinh" 4:1 4:1||t="treatment"
+c="kháng_viêm" 4:3 4:3||t="treatment"
+c="nâng tổng trạng" 4:5 4:7||t="treatment"

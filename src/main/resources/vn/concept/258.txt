@@ -1,0 +1,6 @@
+c="cảm_giác mệt" 2:4 2:5||t="problem"
+c="hồi_hộp đánh_trống_ngực" 2:7 2:8||t="problem"
+c="buồn_nôn sau ăn" 2:10 2:12||t="problem"
+c="tiểu ít hơn bình_thường" 2:14 2:17||t="problem"
+c="điều tr 5i" 3:2 3:4||t="treatment"
+c="Hạ_áp" 6:1 6:1||t="treatment"

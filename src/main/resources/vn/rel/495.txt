@@ -1,0 +1,6 @@
+c="sốt cao liên_tục" 2:6 2:8||r="PIP"||c="kèm theo lạnh run" 2:10 2:13
+c="sốt cao liên_tục" 2:6 2:8||r="PIP"||c="ho đàm khó khạc" 2:15 2:18
+c="kèm theo lạnh run" 2:10 2:13||r="PIP"||c="ho đàm khó khạc" 2:15 2:18
+c="Lúc sốt_lạnh run kèm theo co_giật" 3:1 3:6||r="PIP"||c="khó thở" 3:8 3:9
+c="Lúc sốt_lạnh run kèm theo co_giật" 3:1 3:6||r="PIP"||c="mệt" 3:11 3:11
+c="khó thở" 3:8 3:9||r="PIP"||c="mệt" 3:11 3:11

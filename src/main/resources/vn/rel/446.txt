@@ -1,0 +1,15 @@
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ho_khan" 4:12 4:12
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="nghẹt mũi" 4:14 4:15
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="đau họng khi nuốt" 4:17 4:20
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ăn_uống kém" 4:22 4:23
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="mệt" 4:25 4:25
+c="ho_khan" 4:12 4:12||r="PIP"||c="nghẹt mũi" 4:14 4:15
+c="ho_khan" 4:12 4:12||r="PIP"||c="đau họng khi nuốt" 4:17 4:20
+c="ho_khan" 4:12 4:12||r="PIP"||c="ăn_uống kém" 4:22 4:23
+c="ho_khan" 4:12 4:12||r="PIP"||c="mệt" 4:25 4:25
+c="nghẹt mũi" 4:14 4:15||r="PIP"||c="đau họng khi nuốt" 4:17 4:20
+c="nghẹt mũi" 4:14 4:15||r="PIP"||c="ăn_uống kém" 4:22 4:23
+c="nghẹt mũi" 4:14 4:15||r="PIP"||c="mệt" 4:25 4:25
+c="đau họng khi nuốt" 4:17 4:20||r="PIP"||c="ăn_uống kém" 4:22 4:23
+c="đau họng khi nuốt" 4:17 4:20||r="PIP"||c="mệt" 4:25 4:25
+c="ăn_uống kém" 4:22 4:23||r="PIP"||c="mệt" 4:25 4:25

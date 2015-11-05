@@ -1,0 +1,6 @@
+c="đau quặn bụng thượng_vị và quanh rốn" 4:6 4:12||r="PIP"||c="ăn_uống kém" 4:16 4:17
+c="đau quặn bụng thượng_vị và quanh rốn" 4:6 4:12||r="PIP"||c="tiêu bón" 4:19 4:20
+c="đau quặn bụng thượng_vị và quanh rốn" 4:6 4:12||r="PIP"||c="mệt nhiều" 4:22 4:23
+c="ăn_uống kém" 4:16 4:17||r="PIP"||c="tiêu bón" 4:19 4:20
+c="ăn_uống kém" 4:16 4:17||r="PIP"||c="mệt nhiều" 4:22 4:23
+c="tiêu bón" 4:19 4:20||r="PIP"||c="mệt nhiều" 4:22 4:23

@@ -1,0 +1,5 @@
+c="ho_khan" 4:5 4:5||t="problem"
+c="sốt cơn nhẹ" 4:7 4:9||t="problem"
+c="augmentin" 4:17 4:17||t="treatment"
+c="ói" 5:6 5:6||t="problem"
+c="mệt nhiều" 5:16 5:17||t="problem"

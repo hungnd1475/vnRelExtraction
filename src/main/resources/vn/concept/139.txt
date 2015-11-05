@@ -1,0 +1,7 @@
+c="ói" 2:48 2:48||t="problem"
+c="điều_trị" 3:3 3:3||t="treatment"
+c="nhiễm siêu_vi" 3:5 3:6||t="problem"
+c="sốt vừa" 3:18 3:19||t="problem"
+c="ói" 4:15 4:15||t="problem"
+c="ói" 4:17 4:17||t="problem"
+c="nội" 7:1 7:1||t="treatment"

@@ -1,0 +1,7 @@
+c="sốt" 2:1 2:1||r="PIP"||c="mệt" 2:3 2:3
+c="xuất_hiện mảng mụn nước vùng ngực - mông - chân trái" 4:6 4:16||r="PIP"||c="sốt" 4:19 4:19
+c="xuất_hiện mảng mụn nước vùng ngực - mông - chân trái" 4:6 4:16||r="PIP"||c="lạnh run" 4:21 4:22
+c="xuất_hiện mảng mụn nước vùng ngực - mông - chân trái" 4:6 4:16||r="PIP"||c="mệt vã mồ_hôi" 4:24 4:26
+c="sốt" 4:19 4:19||r="PIP"||c="lạnh run" 4:21 4:22
+c="sốt" 4:19 4:19||r="PIP"||c="mệt vã mồ_hôi" 4:24 4:26
+c="lạnh run" 4:21 4:22||r="PIP"||c="mệt vã mồ_hôi" 4:24 4:26

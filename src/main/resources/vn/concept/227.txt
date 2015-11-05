@@ -1,0 +1,3 @@
+c="chóng_mặt khi thay_đổi tư_thế" 2:4 2:7||t="problem"
+c="buồn_nôn nhiều" 2:9 2:10||t="problem"
+c="điều_trị" 3:2 3:2||t="treatment"

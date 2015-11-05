@@ -1,0 +1,5 @@
+c="chóng_mặt" 2:2 2:2||t="problem"
+c="cảm_giác nhà_cửa xoay tròn" 2:7 2:10||t="problem"
+c="nôn ói liên_tục" 2:12 2:14||t="problem"
+c="mệt_mỏi" 2:16 2:16||t="problem"
+c="điều_trị" 2:27 2:27||t="treatment"

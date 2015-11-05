@@ -1,0 +1,5 @@
+c="ho_khan" 2:11 2:11||t="problem"
+c="sốt nhẹ" 2:13 2:14||t="problem"
+c="uể_oải" 2:16 2:16||t="problem"
+c="mệt_mỏi" 2:18 2:18||t="problem"
+c="nội_khoa" 4:1 4:1||t="treatment"

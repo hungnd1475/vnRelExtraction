@@ -1,0 +1,2 @@
+c="Sốt" 2:1 2:1||t="problem"
+c="sốt kèm đau_nhức lưng nhiều" 4:5 4:9||t="problem"

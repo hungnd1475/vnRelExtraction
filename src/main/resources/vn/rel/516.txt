@@ -1,0 +1,28 @@
+c="khám và điều_trị ngoại_trú" 4:9 4:12||r="TrWP"||c="sốt" 4:2 4:2
+c="sốt" 4:2 4:2||r="PIP"||c="không bớt sốt" 4:18 4:20
+c="sốt" 4:2 4:2||r="PIP"||c="ho nhiều hơn" 4:22 4:24
+c="sốt" 4:2 4:2||r="PIP"||c="Bệnh_nhân sốt cao liên_tục kèm thêm đau họng" 4:29 4:36
+c="sốt" 4:2 4:2||r="PIP"||c="ho" 4:38 4:38
+c="sốt" 4:2 4:2||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="sốt" 4:2 4:2||r="PIP"||c="mệt_mỏi" 4:43 4:43
+c="khám và điều_trị ngoại_trú" 4:9 4:12||r="TrWP"||c="không bớt sốt" 4:18 4:20
+c="khám và điều_trị ngoại_trú" 4:9 4:12||r="TrWP"||c="ho nhiều hơn" 4:22 4:24
+c="khám và điều_trị ngoại_trú" 4:9 4:12||r="TrWP"||c="Bệnh_nhân sốt cao liên_tục kèm thêm đau họng" 4:29 4:36
+c="khám và điều_trị ngoại_trú" 4:9 4:12||r="TrWP"||c="ho" 4:38 4:38
+c="khám và điều_trị ngoại_trú" 4:9 4:12||r="TrWP"||c="ăn_uống kém" 4:40 4:41
+c="khám và điều_trị ngoại_trú" 4:9 4:12||r="TrWP"||c="mệt_mỏi" 4:43 4:43
+c="không bớt sốt" 4:18 4:20||r="PIP"||c="ho nhiều hơn" 4:22 4:24
+c="không bớt sốt" 4:18 4:20||r="PIP"||c="Bệnh_nhân sốt cao liên_tục kèm thêm đau họng" 4:29 4:36
+c="không bớt sốt" 4:18 4:20||r="PIP"||c="ho" 4:38 4:38
+c="không bớt sốt" 4:18 4:20||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="không bớt sốt" 4:18 4:20||r="PIP"||c="mệt_mỏi" 4:43 4:43
+c="ho nhiều hơn" 4:22 4:24||r="PIP"||c="Bệnh_nhân sốt cao liên_tục kèm thêm đau họng" 4:29 4:36
+c="ho nhiều hơn" 4:22 4:24||r="PIP"||c="ho" 4:38 4:38
+c="ho nhiều hơn" 4:22 4:24||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="ho nhiều hơn" 4:22 4:24||r="PIP"||c="mệt_mỏi" 4:43 4:43
+c="Bệnh_nhân sốt cao liên_tục kèm thêm đau họng" 4:29 4:36||r="PIP"||c="ho" 4:38 4:38
+c="Bệnh_nhân sốt cao liên_tục kèm thêm đau họng" 4:29 4:36||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="Bệnh_nhân sốt cao liên_tục kèm thêm đau họng" 4:29 4:36||r="PIP"||c="mệt_mỏi" 4:43 4:43
+c="ho" 4:38 4:38||r="PIP"||c="ăn_uống kém" 4:40 4:41
+c="ho" 4:38 4:38||r="PIP"||c="mệt_mỏi" 4:43 4:43
+c="ăn_uống kém" 4:40 4:41||r="PIP"||c="mệt_mỏi" 4:43 4:43

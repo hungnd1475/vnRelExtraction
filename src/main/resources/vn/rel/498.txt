@@ -1,0 +1,17 @@
+c="đang điều_trị viêm xoang" 2:2 2:5||r="PIP"||c="Beshmadol" 2:19 2:19
+c="chóng_mặt nhiều" 3:4 3:5||r="PIP"||c="buồn_nôn" 3:7 3:7
+c="chóng_mặt nhiều" 3:4 3:5||r="PIP"||c="nôn" 3:9 3:9
+c="chóng_mặt nhiều" 3:4 3:5||r="PIP"||c="đau họng" 3:11 3:12
+c="chóng_mặt nhiều" 3:4 3:5||r="PIP"||c="mệt_mỏi" 3:14 3:14
+c="điều_trị" 3:25 3:25||r="TrIP"||c="chóng_mặt nhiều" 3:4 3:5
+c="buồn_nôn" 3:7 3:7||r="PIP"||c="nôn" 3:9 3:9
+c="buồn_nôn" 3:7 3:7||r="PIP"||c="đau họng" 3:11 3:12
+c="buồn_nôn" 3:7 3:7||r="PIP"||c="mệt_mỏi" 3:14 3:14
+c="điều_trị" 3:25 3:25||r="TrIP"||c="buồn_nôn" 3:7 3:7
+c="nôn" 3:9 3:9||r="PIP"||c="đau họng" 3:11 3:12
+c="nôn" 3:9 3:9||r="PIP"||c="mệt_mỏi" 3:14 3:14
+c="điều_trị" 3:25 3:25||r="TrIP"||c="nôn" 3:9 3:9
+c="đau họng" 3:11 3:12||r="PIP"||c="mệt_mỏi" 3:14 3:14
+c="điều_trị" 3:25 3:25||r="TrIP"||c="đau họng" 3:11 3:12
+c="điều_trị" 3:25 3:25||r="TrIP"||c="mệt_mỏi" 3:14 3:14
+c="điều_trị" 3:25 3:25||r="TrWP"||c="ho" 3:31 3:31

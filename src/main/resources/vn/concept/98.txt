@@ -1,0 +1,6 @@
+c="Ho" 2:1 2:1||t="problem"
+c="ho nhiều về đêm" 4:8 4:11||t="problem"
+c="nặng ngực ( T )" 4:13 4:17||t="problem"
+c="khó thở nhẹ" 4:19 4:21||t="problem"
+c="nhiều đàm nhớt" 4:23 4:25||t="problem"
+c="mệt_mỏi" 4:27 4:27||t="problem"

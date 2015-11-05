@@ -1,0 +1,6 @@
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 2:7 2:11||r="PIP"||c="đau vùng thường" 2:13 2:15
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 2:7 2:11||r="PIP"||c="đi_tiêu phân sống" 2:18 2:20
+c="chóng_mặt nhiều khi thay_đổi tư_thế" 2:7 2:11||r="PIP"||c="đau_nhức chân khi đi_lại" 2:22 2:25
+c="đau vùng thường" 2:13 2:15||r="PIP"||c="đi_tiêu phân sống" 2:18 2:20
+c="đau vùng thường" 2:13 2:15||r="PIP"||c="đau_nhức chân khi đi_lại" 2:22 2:25
+c="đi_tiêu phân sống" 2:18 2:20||r="PIP"||c="đau_nhức chân khi đi_lại" 2:22 2:25

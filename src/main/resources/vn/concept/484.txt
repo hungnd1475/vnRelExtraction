@@ -1,0 +1,2 @@
+c="đau_đầu chóng_mặt" 2:10 2:11||t="problem"
+c="điều_trị" 2:22 2:22||t="treatment"

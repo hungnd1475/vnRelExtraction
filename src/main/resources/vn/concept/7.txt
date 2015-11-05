@@ -1,0 +1,4 @@
+c="sốt cao" 2:1 2:2||t="problem"
+c="ho nhiều" 2:4 2:5||t="problem"
+c="sốt" 4:9 4:9||t="problem"
+c="nội" 11:1 11:1||t="treatment"

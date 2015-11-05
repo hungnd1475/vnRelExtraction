@@ -1,0 +1,8 @@
+c="tiêu lỏng 4-5 lần" 2:6 2:9||t="problem"
+c="ho đàm trắng" 3:6 3:8||t="problem"
+c="đau họng khi nuốt" 3:10 3:13||t="problem"
+c="cảm_giác hồi_hộp đánh_trống_ngực" 3:15 3:17||t="problem"
+c="sốt ớn lạnh" 3:19 3:21||t="problem"
+c="mệt" 3:23 3:23||t="problem"
+c="điều_trị" 4:2 4:2||t="treatment"
+c="điều_trị" 5:2 5:2||t="treatment"

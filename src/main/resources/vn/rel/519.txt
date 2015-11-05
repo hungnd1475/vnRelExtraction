@@ -1,0 +1,10 @@
+c="chóng_mặt" 4:2 4:2||r="PIP"||c="chóng_mặt khi thay_đổi tư_thế" 4:13 4:16
+c="chóng_mặt" 4:2 4:2||r="PIP"||c="không nôn ói" 4:18 4:20
+c="chóng_mặt" 4:2 4:2||r="PIP"||c="mệt_mỏi" 4:22 4:22
+c="điều_trị" 4:33 4:33||r="TrIP"||c="chóng_mặt" 4:2 4:2
+c="chóng_mặt khi thay_đổi tư_thế" 4:13 4:16||r="PIP"||c="không nôn ói" 4:18 4:20
+c="chóng_mặt khi thay_đổi tư_thế" 4:13 4:16||r="PIP"||c="mệt_mỏi" 4:22 4:22
+c="điều_trị" 4:33 4:33||r="TrIP"||c="chóng_mặt khi thay_đổi tư_thế" 4:13 4:16
+c="không nôn ói" 4:18 4:20||r="PIP"||c="mệt_mỏi" 4:22 4:22
+c="điều_trị" 4:33 4:33||r="TrIP"||c="không nôn ói" 4:18 4:20
+c="điều_trị" 4:33 4:33||r="TrIP"||c="mệt_mỏi" 4:22 4:22

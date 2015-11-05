@@ -1,0 +1,24 @@
+c="đau tức vùng thượng_vị" 2:7 2:10||r="PIP"||c="ợ hơi" 2:12 2:13
+c="đau tức vùng thượng_vị" 2:7 2:10||r="PIP"||c="ợ chua" 2:15 2:16
+c="đau tức vùng thượng_vị" 2:7 2:10||r="PIP"||c="đau họng" 2:20 2:21
+c="đau tức vùng thượng_vị" 2:7 2:10||r="PIP"||c="khàn tiếng" 2:23 2:24
+c="đau tức vùng thượng_vị" 2:7 2:10||r="PIP"||c="ho" 2:26 2:26
+c="uống thuốc điều_trị nhưng không giảm" 2:29 2:34||r="TrWP"||c="đau tức vùng thượng_vị" 2:7 2:10
+c="ợ hơi" 2:12 2:13||r="PIP"||c="ợ chua" 2:15 2:16
+c="ợ hơi" 2:12 2:13||r="PIP"||c="đau họng" 2:20 2:21
+c="ợ hơi" 2:12 2:13||r="PIP"||c="khàn tiếng" 2:23 2:24
+c="ợ hơi" 2:12 2:13||r="PIP"||c="ho" 2:26 2:26
+c="uống thuốc điều_trị nhưng không giảm" 2:29 2:34||r="TrWP"||c="ợ hơi" 2:12 2:13
+c="ợ chua" 2:15 2:16||r="PIP"||c="đau họng" 2:20 2:21
+c="ợ chua" 2:15 2:16||r="PIP"||c="khàn tiếng" 2:23 2:24
+c="ợ chua" 2:15 2:16||r="PIP"||c="ho" 2:26 2:26
+c="uống thuốc điều_trị nhưng không giảm" 2:29 2:34||r="TrWP"||c="ợ chua" 2:15 2:16
+c="đau họng" 2:20 2:21||r="PIP"||c="khàn tiếng" 2:23 2:24
+c="đau họng" 2:20 2:21||r="PIP"||c="ho" 2:26 2:26
+c="uống thuốc điều_trị nhưng không giảm" 2:29 2:34||r="TrWP"||c="đau họng" 2:20 2:21
+c="khàn tiếng" 2:23 2:24||r="PIP"||c="ho" 2:26 2:26
+c="uống thuốc điều_trị nhưng không giảm" 2:29 2:34||r="TrWP"||c="khàn tiếng" 2:23 2:24
+c="uống thuốc điều_trị nhưng không giảm" 2:29 2:34||r="TrWP"||c="ho" 2:26 2:26
+c="Viêm dạ_dày" 3:3 3:4||r="PIP"||c="Viêm thanh_quản" 3:6 3:7
+c="Viêm dạ_dày" 3:3 3:4||r="PIP"||c="Hạt dây thanh" 3:9 3:11
+c="Viêm thanh_quản" 3:6 3:7||r="PIP"||c="Hạt dây thanh" 3:9 3:11

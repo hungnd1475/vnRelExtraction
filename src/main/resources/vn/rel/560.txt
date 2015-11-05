@@ -1,0 +1,8 @@
+c="Trĩ nội độ II" 7:4 7:7||r="PIP"||c="Da thừa hậu_môn" 7:9 7:11
+c="Trĩ nội" 8:4 8:5||r="PIP"||c="Da thừa hậu_môn" 8:7 8:9
+c="Trĩ nội độ II" 9:3 9:6||r="PIP"||c="Da thừa hậu_môn" 9:8 9:10
+c="khoảng 1 tuần nay có khối trĩ lòi ra ngoài mỗi khi đi_cầu" 11:12 11:24||r="PIP"||c="chưa điều_trị gì" 11:26 11:28
+c="Thăm HMTT" 7:1 7:2||r="TeRP"||c="Trĩ nội độ II" 7:4 7:7
+c="Thăm HMTT" 7:1 7:2||r="TeRP"||c="Da thừa hậu_môn" 7:9 7:11
+c="Soi trực_tràng" 8:1 8:2||r="TeRP"||c="Trĩ nội" 8:4 8:5
+c="Soi trực_tràng" 8:1 8:2||r="TeRP"||c="Da thừa hậu_môn" 8:7 8:9

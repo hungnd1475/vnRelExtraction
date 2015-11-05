@@ -1,0 +1,21 @@
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="đau_đầu" 4:12 4:12
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="tức ngực sau xương ức" 4:14 4:18
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="cảm_giác khó thở" 4:20 4:22
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="ăn_uống kém" 4:24 4:25
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="buồn_nôn sau ăn" 4:27 4:29
+c="sốt cao liên_tục" 4:6 4:8||r="PIP"||c="mệt" 4:31 4:31
+c="đau_đầu" 4:12 4:12||r="PIP"||c="tức ngực sau xương ức" 4:14 4:18
+c="đau_đầu" 4:12 4:12||r="PIP"||c="cảm_giác khó thở" 4:20 4:22
+c="đau_đầu" 4:12 4:12||r="PIP"||c="ăn_uống kém" 4:24 4:25
+c="đau_đầu" 4:12 4:12||r="PIP"||c="buồn_nôn sau ăn" 4:27 4:29
+c="đau_đầu" 4:12 4:12||r="PIP"||c="mệt" 4:31 4:31
+c="tức ngực sau xương ức" 4:14 4:18||r="PIP"||c="cảm_giác khó thở" 4:20 4:22
+c="tức ngực sau xương ức" 4:14 4:18||r="PIP"||c="ăn_uống kém" 4:24 4:25
+c="tức ngực sau xương ức" 4:14 4:18||r="PIP"||c="buồn_nôn sau ăn" 4:27 4:29
+c="tức ngực sau xương ức" 4:14 4:18||r="PIP"||c="mệt" 4:31 4:31
+c="cảm_giác khó thở" 4:20 4:22||r="PIP"||c="ăn_uống kém" 4:24 4:25
+c="cảm_giác khó thở" 4:20 4:22||r="PIP"||c="buồn_nôn sau ăn" 4:27 4:29
+c="cảm_giác khó thở" 4:20 4:22||r="PIP"||c="mệt" 4:31 4:31
+c="ăn_uống kém" 4:24 4:25||r="PIP"||c="buồn_nôn sau ăn" 4:27 4:29
+c="ăn_uống kém" 4:24 4:25||r="PIP"||c="mệt" 4:31 4:31
+c="buồn_nôn sau ăn" 4:27 4:29||r="PIP"||c="mệt" 4:31 4:31

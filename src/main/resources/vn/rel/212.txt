@@ -1,0 +1,10 @@
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="mất_ngủ" 2:9 2:9
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="choáng_váng khi đi_lại" 2:11 2:13
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="mệt" 2:15 2:15
+c="đau_đầu nhiều" 2:6 2:7||r="PIP"||c="buốn nôn sau ăn" 2:17 2:20
+c="mất_ngủ" 2:9 2:9||r="PIP"||c="choáng_váng khi đi_lại" 2:11 2:13
+c="mất_ngủ" 2:9 2:9||r="PIP"||c="mệt" 2:15 2:15
+c="mất_ngủ" 2:9 2:9||r="PIP"||c="buốn nôn sau ăn" 2:17 2:20
+c="choáng_váng khi đi_lại" 2:11 2:13||r="PIP"||c="mệt" 2:15 2:15
+c="choáng_váng khi đi_lại" 2:11 2:13||r="PIP"||c="buốn nôn sau ăn" 2:17 2:20
+c="mệt" 2:15 2:15||r="PIP"||c="buốn nôn sau ăn" 2:17 2:20

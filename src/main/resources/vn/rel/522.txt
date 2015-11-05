@@ -1,0 +1,10 @@
+c="sốt cao liên_tục" 2:2 2:4||r="PIP"||c="sốt cao không giảm" 2:9 2:12
+c="sốt cao liên_tục" 2:2 2:4||r="PIP"||c="Đau_đầu dữ_dội" 2:14 2:15
+c="sốt cao liên_tục" 2:2 2:4||r="PIP"||c="ăn_uống kém" 2:17 2:18
+c="điều_trị" 2:29 2:29||r="TrIP"||c="sốt cao liên_tục" 2:2 2:4
+c="sốt cao không giảm" 2:9 2:12||r="PIP"||c="Đau_đầu dữ_dội" 2:14 2:15
+c="sốt cao không giảm" 2:9 2:12||r="PIP"||c="ăn_uống kém" 2:17 2:18
+c="điều_trị" 2:29 2:29||r="TrIP"||c="sốt cao không giảm" 2:9 2:12
+c="Đau_đầu dữ_dội" 2:14 2:15||r="PIP"||c="ăn_uống kém" 2:17 2:18
+c="điều_trị" 2:29 2:29||r="TrIP"||c="Đau_đầu dữ_dội" 2:14 2:15
+c="điều_trị" 2:29 2:29||r="TrIP"||c="ăn_uống kém" 2:17 2:18

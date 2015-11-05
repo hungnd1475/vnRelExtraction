@@ -1,0 +1,16 @@
+c="chóng_mặt nhiều" 4:4 4:5||r="PIP"||c="buồn_nôn" 4:7 4:7
+c="chóng_mặt nhiều" 4:4 4:5||r="PIP"||c="đau nhứt cơ" 4:9 4:11
+c="chóng_mặt nhiều" 4:4 4:5||r="PIP"||c="đau nhiều vùng vai gáy =" 4:13 4:18
+c="buồn_nôn" 4:7 4:7||r="PIP"||c="đau nhứt cơ" 4:9 4:11
+c="buồn_nôn" 4:7 4:7||r="PIP"||c="đau nhiều vùng vai gáy =" 4:13 4:18
+c="đau nhứt cơ" 4:9 4:11||r="PIP"||c="đau nhiều vùng vai gáy =" 4:13 4:18
+c="RLTĐ" 6:1 6:1||r="PIP"||c="THA" 6:3 6:3
+c="RLTĐ" 6:1 6:1||r="PIP"||c="VDD" 6:5 6:5
+c="RLTĐ" 6:1 6:1||r="PIP"||c="RLCH lipit" 6:7 6:8
+c="RLTĐ" 6:1 6:1||r="PIP"||c="Rối_loạn dung_nạp gluco" 6:10 6:12
+c="THA" 6:3 6:3||r="PIP"||c="VDD" 6:5 6:5
+c="THA" 6:3 6:3||r="PIP"||c="RLCH lipit" 6:7 6:8
+c="THA" 6:3 6:3||r="PIP"||c="Rối_loạn dung_nạp gluco" 6:10 6:12
+c="VDD" 6:5 6:5||r="PIP"||c="RLCH lipit" 6:7 6:8
+c="VDD" 6:5 6:5||r="PIP"||c="Rối_loạn dung_nạp gluco" 6:10 6:12
+c="RLCH lipit" 6:7 6:8||r="PIP"||c="Rối_loạn dung_nạp gluco" 6:10 6:12

@@ -1,0 +1,7 @@
+c="phân lỏng" 2:1 2:2||t="problem"
+c="ói" 2:4 2:4||t="problem"
+c="ói" 4:8 4:8||t="problem"
+c="phân lỏng" 4:12 4:13||t="problem"
+c="ăn được rất ít" 4:28 4:31||t="problem"
+c="uống háo_hức nhưng ói gần hết" 4:33 4:38||t="problem"
+c="nội" 9:1 9:1||t="treatment"

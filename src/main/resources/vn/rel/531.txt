@@ -1,0 +1,3 @@
+c="Thoát_vị thành bụng quanh hậu_môn nhân_tạo" 5:3 5:8||r="PIP"||c="Đợt cấp COPD" 5:10 5:12
+c="Thoát_vị thành bụng quanh hậu_môn nhân_tạo" 5:3 5:8||r="PIP"||c="Tăng HA" 5:14 5:15
+c="Đợt cấp COPD" 5:10 5:12||r="PIP"||c="Tăng HA" 5:14 5:15

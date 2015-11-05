@@ -1,0 +1,26 @@
+c="Sốt" 2:1 2:1||r="PIP"||c="ho" 2:3 2:3
+c="dùng thuốc hạ sốt" 4:11 4:14||r="TrWP"||c="sốt cao" 4:5 4:6
+c="sốt cao" 4:5 4:6||r="PIP"||c="viêm họng cấp" 4:29 4:31
+c="điều_trị bằng noflux và cezil , efferangal , ceelin" 4:33 4:41||r="TrWP"||c="sốt cao" 4:5 4:6
+c="sốt cao" 4:5 4:6||r="PIP"||c="số cao" 4:50 4:51
+c="thuốc hạ sốt" 4:53 4:55||r="TrWP"||c="sốt cao" 4:5 4:6
+c="sốt cao" 4:5 4:6||r="PIP"||c="bé đừ người" 4:59 4:61
+c="sốt cao" 4:5 4:6||r="PIP"||c="ăn_uống kém" 4:63 4:64
+c="dùng thuốc hạ sốt" 4:11 4:14||r="TrWP"||c="viêm họng cấp" 4:29 4:31
+c="dùng thuốc hạ sốt" 4:11 4:14||r="TrWP"||c="số cao" 4:50 4:51
+c="dùng thuốc hạ sốt" 4:11 4:14||r="TrWP"||c="bé đừ người" 4:59 4:61
+c="dùng thuốc hạ sốt" 4:11 4:14||r="TrWP"||c="ăn_uống kém" 4:63 4:64
+c="điều_trị bằng noflux và cezil , efferangal , ceelin" 4:33 4:41||r="TrWP"||c="viêm họng cấp" 4:29 4:31
+c="viêm họng cấp" 4:29 4:31||r="PIP"||c="số cao" 4:50 4:51
+c="thuốc hạ sốt" 4:53 4:55||r="TrWP"||c="viêm họng cấp" 4:29 4:31
+c="viêm họng cấp" 4:29 4:31||r="PIP"||c="bé đừ người" 4:59 4:61
+c="viêm họng cấp" 4:29 4:31||r="PIP"||c="ăn_uống kém" 4:63 4:64
+c="điều_trị bằng noflux và cezil , efferangal , ceelin" 4:33 4:41||r="TrWP"||c="số cao" 4:50 4:51
+c="điều_trị bằng noflux và cezil , efferangal , ceelin" 4:33 4:41||r="TrWP"||c="bé đừ người" 4:59 4:61
+c="điều_trị bằng noflux và cezil , efferangal , ceelin" 4:33 4:41||r="TrWP"||c="ăn_uống kém" 4:63 4:64
+c="thuốc hạ sốt" 4:53 4:55||r="TrWP"||c="số cao" 4:50 4:51
+c="số cao" 4:50 4:51||r="PIP"||c="bé đừ người" 4:59 4:61
+c="số cao" 4:50 4:51||r="PIP"||c="ăn_uống kém" 4:63 4:64
+c="thuốc hạ sốt" 4:53 4:55||r="TrWP"||c="bé đừ người" 4:59 4:61
+c="thuốc hạ sốt" 4:53 4:55||r="TrWP"||c="ăn_uống kém" 4:63 4:64
+c="bé đừ người" 4:59 4:61||r="PIP"||c="ăn_uống kém" 4:63 4:64

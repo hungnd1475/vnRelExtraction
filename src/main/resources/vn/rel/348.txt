@@ -1,0 +1,3 @@
+c="điều_trị thuốc" 2:6 2:7||r="TrAP"||c="THA" 2:4 2:4
+c="thuốc" 3:7 3:7||r="TrWP"||c="HA tăng cao" 3:3 3:5
+c="ho" 4:7 4:7||r="PIP"||c="rát họng" 4:9 4:10
