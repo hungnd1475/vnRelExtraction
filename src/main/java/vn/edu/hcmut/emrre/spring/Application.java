@@ -14,8 +14,7 @@ public class Application {
         // ContactService contactService =
         // appContext.getBean(ContactService.class);
         // System.out.println(contactService.ping());
-        System.out.println("hello");
 
-        SpringApplication.exit(appContext);
+//        SpringApplication.exit(appContext);
     }
 }
