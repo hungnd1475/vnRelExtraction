@@ -5,16 +5,5 @@ target/
 logging.log
 MyLog.log
 similar-datatrain
-src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/DataPreprocess.java
-src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/LevenshteinDistance.java
-src/main/java/vn/edu/hcmut/emrre/core/svm/SVM.java
-src/main/java/vn/edu/hcmut/emrre/core/svm/SVM.java
-src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/SimilaritySequence.java
-src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/NLPHelper.java
-src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/SimilarityDataHandler.java
-src/main/java/vn/edu/hcmut/emrre/core/entity/record/App.java
-src/main/java/vn/edu/hcmut/emrre/core/entity/record/App.java
-src/main/java/vn/edu/hcmut/emrre/core/entity/record/App.java
-src/main/java/vn/edu/hcmut/emrre/core/feature/similarity/SimilarityFeaturesExtractor.java
 src/main/resources/log4j.properties
 trainSequences.data
