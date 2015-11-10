@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
+import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
@@ -58,8 +59,13 @@ public class ProcessENText implements ProcessText {
         return listTokenSens;
     }
 
-    public String posTagging(String text) {
+    @Override
+    public List<Sentence> processDocument(String content, boolean isSentenceSegmented) {
         // TODO Auto-generated method stub
+        return null;
+    }
+
+    public String posTagging(String text) {
         return null;
     }
 
