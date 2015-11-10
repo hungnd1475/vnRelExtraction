@@ -23,12 +23,11 @@ public class Sentence {
     @Column(name = "position")
     private Long index;
 
-//  @Column(name = "record_id")
+    // @Column(name = "record_id")
     private Long recordId;
 
     @Column(name = "content")
     private String content;
-    
 
     private Long includePattern;
     private Long isHandle;
@@ -50,10 +49,6 @@ public class Sentence {
 
     public long getIndex() {
         return index;
-    }
-
-    public void setIndex(long index) {
-        this.index = index;
     }
 
     public Record getRecord() {
@@ -107,10 +102,10 @@ public class Sentence {
     public void setWords(List<Word> words) {
         this.words = words;
     }
-    
+
     @Override
     public String toString() {
-
-        return String.format("record: %s|index:%d | content: %s", record.getName(), index, content);
+        return String.format("record: %s|index:%d | content: %s", record != null ? record.getName() : "", index,
+                content);
     }
 }
