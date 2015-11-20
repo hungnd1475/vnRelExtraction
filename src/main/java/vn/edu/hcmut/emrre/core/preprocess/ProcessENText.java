@@ -1,10 +1,5 @@
 package vn.edu.hcmut.emrre.core.preprocess;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Properties;
-
-import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
@@ -13,6 +8,11 @@ import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.StringUtils;
+import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Properties;
 
 public class ProcessENText implements ProcessText {
 
@@ -57,6 +57,12 @@ public class ProcessENText implements ProcessText {
         listTokenSens = new String[listSens.size()];
         listTokenSens = listSens.toArray(listTokenSens);
         return listTokenSens;
+    }
+
+    @Override
+    public List<String> preProcessDoc(String content) {
+        // TODO Auto-generated method stub
+        return null;
     }
 
     @Override
