@@ -12,6 +12,7 @@ import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import vn.edu.hcmut.emrre.core.entity.word.Word;
 
 public class ProcessVNText implements ProcessText {
+
     public static final String modelsPath = "src/main/resources/jvnTextPro/models";
     private static final Logger LOG = LoggerFactory.getLogger(ProcessVNText.class);
     private static ProcessVNText processVNText;
@@ -66,6 +67,24 @@ public class ProcessVNText implements ProcessText {
         }
 
         return sentences;
+    }
+
+    @Override
+    public List<String> preProcessDoc(String content) {
+        List<String> result = new ArrayList<>();
+        try {
+            String tmp = content;
+            tmp = jVnTextPro.senSegment(tmp);
+            tmp = jVnTextPro.senTokenize(tmp);
+            tmp = jVnTextPro.wordSegment(tmp);
+            String[] sens = tmp.split("\n");
+            for (String each : sens){
+                result.add(each.trim());
+            }
+        } catch (Exception e) {
+            LOG.error(e.getMessage(), e);
+        }
+        return result;
     }
 
     private List<Word> parseSenToWords(String senContent) {

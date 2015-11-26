@@ -12,4 +12,6 @@ public interface ProcessText {
     public String posTagging(String text);
     
     public List<Sentence> processDocument(String content , boolean isSentenceSegmented);
+    
+    public List<String> preProcessDoc(String content);
 }

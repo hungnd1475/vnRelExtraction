@@ -1,12 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="vnEMRRE">
 <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
 <!-- SCROLLS -->
 <!-- load bootstrap and fontawesome via CDN -->
 <link rel="stylesheet" href="../css/bootstrap.min.css" />
 <link rel="stylesheet"
 	href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" />
 
+<link
+	href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css"
+	rel="stylesheet" />
+<link href="../css/label.css" rel="stylesheet" />
+<link href="../css/pnotify.custom.min.css" rel="stylesheet" />
+<link href="../css/nu-context-menu.css" rel="stylesheet" />
 <!-- SPELLS -->
 <!-- load angular and angular route via CDN -->
 <!-- <script -->
@@ -25,7 +33,7 @@
 				</div>
 
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="/"><i class="fa fa-home"></i> Home</a></li>
 					<li><a href="#about"><i class="fa fa-shield"></i> About</a></li>
 					<li><a href="#contact"><i class="fa fa-comment"></i>
 							Contact</a></li>
@@ -35,37 +43,123 @@
 	</header>
 
 	<!-- MAIN CONTENT AND INJECTED VIEWS -->
-	<div id="main" class="container">
+	<div id="main" class="container" ng-controller="vnExtractor">
 		<div class="row">
-			<form action="/vn-extractor/extract" method="post">
-				<div class="col-md-6">
-					<h3>Chi Tiết Bệnh Án</h3>
-					<textarea rows="30" cols="70" name="record"></textarea>
+			<div class="col-md-3">
+				<div class="panel panel-default">
+					<div class="panel-heading clickable problem">
+						<h3 class="panel-title">Problem</h3>
+					</div>
+					<div class="panel-body" style="min-height: 50px;">Những bất
+						thường về sức khỏe</div>
 				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12">
-							<h3>Thực thể</h3>
-							<textarea rows="12" cols="70" name="concepts"></textarea>
-						</div>
-						<div class="col-md-12">
-							<h3>Quan hệ</h3>
-							<textarea rows="12" cols="70" name="relations"></textarea>
-						</div>
-						<div class="col-md-12">
-							<button type="submit" class="btn btn-default btn-success">RUN</button>
+			</div>
+			<div class="col-md-3">
+				<div class="panel panel-default">
+					<div class="panel-heading clickable treatment">
+						<h3 class="panel-title">Treatment</h3>
+					</div>
+					<div class="panel-body" style="min-height: 50px;">Những thủ
+						tục chữa trị</div>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div class="panel panel-default">
+					<div class="panel-heading clickable test">
+						<h3 class="panel-title">Test</h3>
+					</div>
+					<div class="panel-body" style="min-height: 50px;">Những thủ
+						tục xét nghiệm</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="panel panel-default">
+							<div class="panel-heading">
+								<h3 class="panel-title pull-left">Chi Tiết Bệnh Án</h3>
+								<div class="btn-group pull-right">
+									<button type="button" class="btn btn-default btn-sm"
+										ng-click="editRecord()" ng-show="!editMode">
+										<span class="glyphicon glyphicon-pencil"></span> Edit
+									</button>
+
+									<button type="button" class="btn btn-default btn-sm"
+										ng-click="postRecord()" ng-show="editMode">
+										<span class="glyphicon glyphicon-ok"></span> Ok
+									</button>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="panel-body" style="height: 60vh;">
+								<textarea class="text-area" ng-model="record" ng-show="editMode"></textarea>
+								<div id="emr-doc" ng-show="!editMode" class="text-area">
+									<div class="sentence"
+										ng-repeat="line in sentences track by $index"
+										ng-bind-html="line | unsafe"></div>
+								</div>
+							</div>
+
 						</div>
 					</div>
 				</div>
-				
-			</form>
+			</div>
 
+
+			<div class="col-md-4">
+				<div class="row">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title pull-left">Thực thể</h3>
+							<div class="btn-group pull-right">
+								<button type="button" class="btn btn-danger btn-sm"
+									ng-click="clearConcepts()">
+									<span class="glyphicon glyphicon-trash"></span>Clear
+								</button>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div id="concept" class="doc panel-body">
+							<div ng-repeat="concept in concepts">{{concept}}</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Quan hệ</h3>
+						</div>
+						<div id="relation" class="doc panel-body">
+							<div ng-repeat="relation in relations">{{relation}}</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 
-		<!-- angular templating -->
-		<!-- this is where content will be injected -->
-
+		<div id="dialog" title="Select Label" style="display: none;">
+			<input type="radio" name="label" value="problem" /> Problem <br />
+			<input type="radio" name="label" value="treatment" /> Treatment<br />
+			<input type="radio" name="label" value="test" /> Test<br /> <input
+				type="radio" name="label" value="clear" /> Clear<br />
+		</div>
 	</div>
+	<!-- 	<script type="text/javascript" -->
+	<!-- 		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
 
+	<script type="text/javascript" src="../js/lib/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript"
+		src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<script type="text/javascript" src="../js/lib/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../js/lib/angular.min.js"></script>
+	<script type="text/javascript" src="../js/app/app.js"></script>
+	<script type="text/javascript" src="../js/lib/pnotify.custom.min.js"></script>
+	<script type="text/javascript"
+		src="../js/lib/jquery.nu-context-menu.js"></script>
+	<script type="text/javascript"
+		src="../js/lib/jquery.nu-context-menu.min.js"></script>
+	<script type="text/javascript" src="../js/app/label.js"></script>
 </body>
 </html>
