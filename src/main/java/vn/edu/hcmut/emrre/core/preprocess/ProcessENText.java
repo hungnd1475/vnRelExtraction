@@ -79,4 +79,10 @@ public class ProcessENText implements ProcessText {
         }
         
     }
+
+	@Override
+	public List<String> preProcessDoc(String content) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
