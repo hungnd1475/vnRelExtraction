@@ -25,9 +25,17 @@ public class VNExtractorController {
         return res;
     }
 
-    @RequestMapping(value = "extract-relation", method = RequestMethod.POST)
+    @RequestMapping(value = "manual", method = RequestMethod.POST)
     public @ResponseBody Object extractRelation(@RequestBody Map<String, Object> req){
         Map<String, List<String>> res = new HashMap<>();
+        return res;
+    }
+
+    @RequestMapping(value = "automatic", method = RequestMethod.POST)
+    public @ResponseBody Object autoExtract(@RequestBody Map<String, Object> req){
+        String record = req.get("record").toString();
+        Map<String, Object> res = new HashMap<>();
+        res.put("message","OK");
         return res;
     }
 }
