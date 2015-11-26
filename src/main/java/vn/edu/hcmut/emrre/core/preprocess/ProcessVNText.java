@@ -106,6 +106,6 @@ public class ProcessVNText implements ProcessText {
 
         ProcessText processText = ProcessVNText.getInstance();
         List<Sentence> sens = processText.processDocument(text1, false);
-        // System.out.println(sens.get(0).getWords());
+        System.out.println(sens.get(1).getContent());
     }
 }

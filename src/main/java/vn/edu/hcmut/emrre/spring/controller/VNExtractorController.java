@@ -10,10 +10,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/vn-extractor")
 public class VNExtractorController {
 
-    @RequestMapping(value = "extract", method = RequestMethod.POST)
-    public @ResponseBody Object extract(@RequestParam("record") String record, @RequestParam("concepts") String concepts) {
-        System.out.println(record);
-        System.out.println(concepts);
-        return "Chào em" + record;
-    }
+	@RequestMapping(value = "extract", method = RequestMethod.POST)
+	public @ResponseBody Object extract(@RequestParam("record") String record,
+			@RequestParam("concepts") String concepts) {
+		System.out.println(record);
+		System.out.println(concepts);
+		String res = "<pre>Chào em,Trần Quang Trường " + record + "</pre>";
+		System.out.println(res);
+		return res;
+	}
 }
