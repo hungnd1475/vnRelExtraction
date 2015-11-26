@@ -1,24 +1,19 @@
 package vn.edu.hcmut.emrre.main;
 
 import java.io.IOException;
+import java.util.List;
 
 import de.bwaldvogel.liblinear.InvalidInputDataException;
 import vn.edu.hcmut.emrre.core.entity.Concept;
+import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 
 public class Main {
 	public static void main(String[] args) throws IOException, InvalidInputDataException {
-		EMRCore emr = new EMRCore();
-		emr.crossValidation(2);
-		// emr.generateModel();
-
-		// Main run = new Main();
-		// run.test();
-	}
-
-	private void test() {
-		Concept.Type type = Concept.Type.PROBLEM;
-		Concept.Type type1 = Concept.Type.PROBLEM;
-		System.out.println(type.equals(Concept.Type.PROBLEM));
-		System.out.println(type == type1);
+		RelationCore emr = new RelationCore();
+		//emr.extractRel("Tôi bị ho, đi điều trị ho nhưng không hết bệnh");
+		//emr.extractRel("Tôi bị ho, đi điều trị ho và đã hết bệnh");
+		List<Concept> conceptLst = null;
+		List<Sentence> sentenceLst = null;
+		emr.extractRelation("Tôi bị ho, đau đầu", conceptLst, sentenceLst);
 	}
 }

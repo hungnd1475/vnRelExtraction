@@ -1,21 +1,21 @@
 package vn.edu.hcmut.emrre.core.utils;
 
 import vn.edu.hcmut.emrre.core.entity.DocLine;
-import vn.edu.hcmut.emrre.main.EMRCore;
+import vn.edu.hcmut.emrre.main.RelationCore;
 
 public class WordHandle {
-	static private String[] tokenizeSentence(String sentence){
+	static public String[] tokenizeSentence(String sentence){
 		return sentence.trim().split(" ");
 	}
 	
-	static private String getWord(String sentence, int position){
+	static public String getWord(String sentence, int position){
 		String[] wordLst = tokenizeSentence(sentence);
-		if (wordLst != null && position < wordLst.length)
+		if (wordLst != null && position < wordLst.length && position >= 0)
 			return wordLst[position];
 		return null;
 	}
 	
-	static private String getWords(String sentence, int start, int end){
+	static public String getWords(String sentence, int start, int end){
 		String[] wordLst = tokenizeSentence(sentence);
 		String result = "";
 		if (wordLst == null)
@@ -31,7 +31,7 @@ public class WordHandle {
 	}
 	
 	static public String getWord(String fileName, int lineIndex, int position){
-		DocLine dl = DocLine.getDocLine(EMRCore.getDoclines(), lineIndex, fileName);
+		DocLine dl = DocLine.getDocLine(RelationCore.getDoclines(), lineIndex, fileName);
 		if (dl == null)
 			return null;
 		return getWord(dl.getContent(), position - 1);
@@ -39,7 +39,7 @@ public class WordHandle {
 	}
 	
 	static public String getWords(String fileName, int lineIndex, int start, int end){
-		DocLine dl = DocLine.getDocLine(EMRCore.getDoclines(), lineIndex, fileName);
+		DocLine dl = DocLine.getDocLine(RelationCore.getDoclines(), lineIndex, fileName);
 		if (dl == null){
 			System.out.println("file " + fileName + " line " + lineIndex + " start " + start + " end " + end);
 			return null;
@@ -48,7 +48,7 @@ public class WordHandle {
 	}
 	
 	static public String getSentence(String fileName, int lineIdx){
-		DocLine dl = DocLine.getDocLine(EMRCore.getDoclines(), lineIdx, fileName);
+		DocLine dl = DocLine.getDocLine(RelationCore.getDoclines(), lineIdx, fileName);
 		if (dl == null){
 			return null;
 		}

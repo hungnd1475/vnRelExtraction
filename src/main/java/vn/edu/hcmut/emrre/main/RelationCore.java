@@ -2,13 +2,17 @@ package vn.edu.hcmut.emrre.main;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 import de.bwaldvogel.liblinear.InvalidInputDataException;
 import vn.edu.hcmut.emrre.core.entity.Concept;
 import vn.edu.hcmut.emrre.core.entity.DocLine;
 import vn.edu.hcmut.emrre.core.entity.Relation;
-import vn.edu.hcmut.emrre.core.feature.FeatureVn;
+import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
+import vn.edu.hcmut.emrre.core.feature.RelationFeatureVn;
+import vn.edu.hcmut.emrre.core.preprocess.ProcessText;
+import vn.edu.hcmut.emrre.core.preprocess.ProcessVNText;
 import vn.edu.hcmut.emrre.core.svm.SVM;
 import vn.edu.hcmut.emrre.core.utils.Constant;
 import vn.edu.hcmut.emrre.core.utils.Dictionary;
@@ -16,14 +20,14 @@ import vn.edu.hcmut.emrre.core.utils.ReadFile;
 import vn.edu.hcmut.emrre.core.utils.WordHandle;
 import vn.edu.hcmut.emrre.core.utils.WriteFile;
 
-public class EMRCore {
+public class RelationCore {
 	private static List<Relation> relations;
 	private static List<Concept> concepts;
 	private static List<DocLine> doclines;
-	private FeatureVn featureExtractor;
+	private RelationFeatureVn featureExtractor;
 
-	public EMRCore() {
-		featureExtractor = new FeatureVn();
+	public RelationCore() {
+		featureExtractor = new RelationFeatureVn();
 	}
 
 	public static List<Relation> getRelations() {
@@ -31,7 +35,7 @@ public class EMRCore {
 	}
 
 	public static void setRelations(List<Relation> relations) {
-		EMRCore.relations = relations;
+		RelationCore.relations = relations;
 	}
 
 	public static List<DocLine> getDoclines() {
@@ -43,22 +47,22 @@ public class EMRCore {
 	}
 
 	public static void setConcepts(List<Concept> concepts) {
-		EMRCore.concepts = concepts;
+		RelationCore.concepts = concepts;
 	}
 
 	public void getConceptData() {
-		if (EMRCore.concepts == null) {
+		if (RelationCore.concepts == null) {
 			ReadFile read = new ReadFile();
 			read.setFolder("vn/concept");
-			EMRCore.concepts = read.getAllConcept(0);
+			RelationCore.concepts = read.getAllConcept(0);
 		}
 	}
 
 	public void getRelationData() {
-		if (EMRCore.relations == null && EMRCore.concepts != null) {
+		if (RelationCore.relations == null && RelationCore.concepts != null) {
 			ReadFile read = new ReadFile();
 			read.setFolder("vn/rel");
-			EMRCore.relations = read.getAllRelation(concepts, true);
+			RelationCore.relations = read.getAllRelation(concepts, true);
 		}
 	}
 
@@ -95,7 +99,8 @@ public class EMRCore {
 		getConceptData();
 		getRelationData();
 		getDoclineData();
-		SVM svm = new SVM(Constant.MODEL_FILE_PATH);
+		featureExtractor.setLstConcept(concepts);
+		SVM svm = new SVM(Constant.MODEL_FILE_PATH_CROSS);
 		int correctTt = 0, total = 0, predict = 0;
 		int[][] result = new int[][] { { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 },
 				{ 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 } };
@@ -197,6 +202,7 @@ public class EMRCore {
 		getConceptData();
 		getRelationData();
 		getDoclineData();
+		featureExtractor.setLstConcept(concepts);
 		SVM svm = new SVM(Constant.MODEL_FILE_PATH);
 		
 		// preprocess
@@ -244,5 +250,83 @@ public class EMRCore {
 		}
 		wf.close();
 		svm.svmTrainCore(new File(Constant.DATA_TRAIN_FILE_PATH));
+	}
+
+	/* 
+	 * @function: extractRelation 
+	 * @description: extract relations from list of sentences and list of concepts
+	 * @parameters: senLst: list of sentences (input)
+	 * 				concepts: list of concepts (input)
+	 * @return: null if senLst = null or concepts = null
+	 * 			list of relations
+	 */
+	public List<Relation> extractRelation(List<Sentence> senLst, List<Concept> concepts) throws IOException {
+		//SVM to predict
+		if (senLst == null || concepts == null) {
+			return null;
+		}
+		SVM svm = new SVM(Constant.MODEL_FILE_PATH);
+		List<Relation> relLst = new ArrayList<Relation>();
+		for (Sentence sentence : senLst) {
+			featureExtractor.setPredict(true);
+			featureExtractor.setSentence(sentence);
+			featureExtractor.setLstWord(sentence.getWords());
+			featureExtractor.setLstConcept(concepts);
+			//get vector
+			for (int i = 0; i < concepts.size(); i ++)
+				for (int j = i + 1; j <concepts.size(); j ++) {
+					if (Relation.canRelate(concepts.get(i), concepts.get(j))) {
+						double[] vector;
+						Concept pre, post;
+						Relation.Type type;
+						if (concepts.get(i).getBegin() < concepts.get(j).getBegin()) {
+							pre = concepts.get(i);
+							post = concepts.get(j);
+						}
+						else {
+							pre = concepts.get(j);
+							post = concepts.get(i);
+						}
+						vector = featureExtractor.buildFeatures(pre, post);
+						vector = preProcess(vector);
+						if (vector != null) {
+							int label = (int) svm.svmTestCore(vector, true);
+							type = Relation.typeOfDouble(label);
+							if (type != Relation.Type.NONE) {
+								Relation rel = new Relation(pre, post, type, 0);
+								relLst.add(rel);
+							}
+						}
+					}
+				}
+		}
+		return relLst;
+	}
+	
+	/*
+	 * @function: extractRelation
+	 * @description: full pipeline for extracting relations 
+	 * @parameters: input: text (input)
+	 *				conceptLstOut: list concepts (output)
+	 *				sentenceLstOut: list sentences (output)
+	 *@return: list of relations
+	 */
+	public List<Relation> extractRelation(String input, List<Concept> conceptLstOut, List<Sentence> sentenceLstOut) throws IOException {
+		ConceptCore cc = new ConceptCore();
+		RelationCore rc = new RelationCore();
+		ProcessText pt = ProcessVNText.getInstance();
+		sentenceLstOut = pt.processDocument(input, false);
+		conceptLstOut = cc.extractConcept(sentenceLstOut);
+		List<Relation> relLst = rc.extractRelation(sentenceLstOut, conceptLstOut);
+		System.out.println("Concept List: ");
+		for (Concept concept : conceptLstOut) {
+			System.out.println(concept.toString());
+		}
+		System.out.println("Relation List: ");
+		for (Relation rel : relLst) {
+			System.out.println(rel.toString());
+		}
+		
+		return relLst;
 	}
 }

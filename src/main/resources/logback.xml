@@ -11,14 +11,9 @@
         <layout class="ch.qos.logback.classic.PatternLayout">
             <Pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</Pattern>
         </layout>
-        <filter class="ch.qos.logback.classic.filter.LevelFilter">
-            <level>ERROR</level>
-            <onMatch>ACCEPT</onMatch>
-            <onMismatch>DENY</onMismatch>
-        </filter>
     </appender>
 
-    <root level="DEBUG">
+    <root level="debug">
         <appender-ref ref="STDOUT" />
         <appender-ref ref="FILE" />
     </root>

@@ -1,0 +1,4 @@
+Correct: 164, total: 1303, predict: 429
+Precision = 38,228438%
+Recall = 12,586339%
+F1 = 18,937644%

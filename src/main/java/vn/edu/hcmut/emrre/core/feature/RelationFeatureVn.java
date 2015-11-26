@@ -11,9 +11,8 @@ import vn.edu.hcmut.emrre.core.entity.word.Word;
 import vn.edu.hcmut.emrre.core.utils.Constant;
 import vn.edu.hcmut.emrre.core.utils.Dictionary;
 import vn.edu.hcmut.emrre.core.utils.WordHandle;
-import vn.edu.hcmut.emrre.main.EMRCore;
 
-public class FeatureVn {
+public class RelationFeatureVn {
 	private int dimension;
 	private double[] vector;
 
@@ -22,10 +21,30 @@ public class FeatureVn {
 	private Dictionary conceptDic;
 	private Dictionary wordBetweenDic;
 	private SentenceDAO senDao;
+	private Sentence sentence;
 	private List<Word> lstWord;
+	private List<Concept> lstConcept;
+	private boolean isPredict;
 
-	public FeatureVn() {
+	public RelationFeatureVn() {
+		this.isPredict = false;
 		this.senDao = new SentenceDAOImpl();
+	}
+
+	public void setSentence(Sentence sentence) {
+		this.sentence = sentence;
+	}
+
+	public void setLstWord(List<Word> lstWord) {
+		this.lstWord = lstWord;
+	}
+
+	public void setLstConcept(List<Concept> lstConcept) {
+		this.lstConcept = lstConcept;
+	}
+
+	public void setPredict(boolean isPredict) {
+		this.isPredict = isPredict;
 	}
 
 	private int postagEncode(String postag) {
@@ -68,7 +87,12 @@ public class FeatureVn {
 	 * Context feature
 	 */
 	private int cfStringMatcher(int idx) {
-		String sentence = WordHandle.getSentence(this.preConcept.getFileName(), this.preConcept.getLine());
+		String sentence;
+		if (this.isPredict) {
+			sentence = this.sentence.getContent();
+		} else {
+			sentence = WordHandle.getSentence(this.preConcept.getFileName(), this.preConcept.getLine());
+		}
 		if (sentence != null) {
 			// define string matchers
 			Pattern ppPatt1 = Pattern.compile(Constant.PP_MATCHER);
@@ -107,7 +131,11 @@ public class FeatureVn {
 		String word;
 		int key;
 		for (int i = this.preConcept.getEnd() + 1; i < this.posConcept.getBegin(); i++) {
-			word = WordHandle.getWord(preConcept.getFileName(), preConcept.getLine(), i);
+			if (this.isPredict) {
+				word = this.lstWord.get(i - 1).getContent();
+			} else {
+				word = WordHandle.getWord(preConcept.getFileName(), preConcept.getLine(), i);
+			}
 			key = this.wordBetweenDic.getValue(word);
 			if (key != -1) {
 				this.vector[key + idx] = 1;
@@ -137,13 +165,24 @@ public class FeatureVn {
 	private int scContent(int idx) {
 		String cContent;
 		int key;
-		cContent = WordHandle.getWords(preConcept.getFileName(), preConcept.getLine(), preConcept.getBegin(),
-				preConcept.getEnd());
+		if (this.isPredict) {
+			cContent = WordHandle.getWords(this.sentence.getContent(), preConcept.getBegin() - 1,
+					preConcept.getEnd() - 1);
+		} else {
+			cContent = WordHandle.getWords(preConcept.getFileName(), preConcept.getLine(), preConcept.getBegin(),
+					preConcept.getEnd());
+		}
+
 		key = this.conceptDic.getValue(cContent);
 		if (key != -1)
 			this.vector[key + idx] = 1;
-		cContent = WordHandle.getWords(posConcept.getFileName(), posConcept.getLine(), posConcept.getBegin(),
-				posConcept.getEnd());
+		if (this.isPredict) {
+			cContent = WordHandle.getWords(this.sentence.getContent(), posConcept.getBegin() - 1,
+					posConcept.getEnd() - 1);
+		} else {
+			cContent = WordHandle.getWords(posConcept.getFileName(), posConcept.getLine(), posConcept.getBegin(),
+					posConcept.getEnd());
+		}
 		key = this.conceptDic.getValue(cContent);
 		if (key != -1)
 			this.vector[key + idx] = 1;
@@ -171,30 +210,6 @@ public class FeatureVn {
 		return idx + Constant.SC_TYPE_SIZE;
 	}
 
-	private int scPostag(int idx) {
-		if (this.lstWord != null) {
-			for (int i = this.preConcept.getBegin(); i <= this.preConcept.getEnd(); i++) {
-				Word word = this.lstWord.get(i - 1);
-				int pos;
-				if (word != null) {
-					if ((pos = postagEncode(word.getPosTag())) != -1) {
-						this.vector[idx + pos] = 1;
-					}
-				}
-			}
-			for (int i = this.posConcept.getBegin(); i <= this.posConcept.getEnd(); i++) {
-				Word word = this.lstWord.get(i - 1);
-				int pos;
-				if (word != null) {
-					if ((pos = postagEncode(word.getPosTag())) != -1) {
-						this.vector[idx + pos] = 1;
-					}
-				}
-			}
-		}
-		return idx + Constant.SC_CONCEPT_POSTAG_SIZE;
-	}
-
 	/**
 	 * Concept vicinity feature
 	 */
@@ -216,8 +231,9 @@ public class FeatureVn {
 		Concept target = null;
 		int min = 0;
 		boolean isFind = false;
-		for (Concept concept : EMRCore.getConcepts()) {
-			if (concept.getFileName().equals(con.getFileName()) && concept.getLine() == con.getLine()) {
+		for (Concept concept : this.lstConcept) {
+			if ((concept.getFileName() == null && con.getFileName() == null
+					|| concept.getFileName().equals(con.getFileName())) && concept.getLine() == con.getLine()) {
 				if (before && con.getBegin() > concept.getEnd()) {
 					if (!isFind || con.getBegin() - concept.getEnd() < min) {
 						target = concept;
@@ -258,10 +274,12 @@ public class FeatureVn {
 	public double[] buildFeatures(Concept preConcept, Concept postConcept) {
 		this.preConcept = preConcept;
 		this.posConcept = postConcept;
-		Sentence sentence = this.senDao.findByRecordAndLineIndex(this.preConcept.getFileName(),
-				this.preConcept.getLine());
-		if (sentence != null) {
-			this.lstWord = sentence.getWords();
+		if (!this.isPredict) {
+			Sentence sentence = this.senDao.findByRecordAndLineIndex(this.preConcept.getFileName(),
+					this.preConcept.getLine());
+			if (sentence != null) {
+				this.lstWord = sentence.getWords();
+			}
 		}
 		if (this.conceptDic == null) {
 			this.conceptDic = new Dictionary();
@@ -278,7 +296,6 @@ public class FeatureVn {
 		int nextIdx;
 		nextIdx = scContent(0);
 		nextIdx = scType(nextIdx);
-		// nextIdx = scPostag(nextIdx);
 		nextIdx = cfStringMatcher(nextIdx);
 		nextIdx = cfPostagBetween(nextIdx);
 		nextIdx = cfWordBetween(nextIdx);
