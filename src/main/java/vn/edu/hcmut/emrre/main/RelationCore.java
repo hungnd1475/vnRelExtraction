@@ -25,6 +25,16 @@ public class RelationCore {
 	private static List<Concept> concepts;
 	private static List<DocLine> doclines;
 	private RelationFeatureVn featureExtractor;
+	private List<Concept> conceptLstOut;
+	private List<Sentence> sentenceLstOut;
+
+	public List<Concept> getConceptLstOut() {
+		return conceptLstOut;
+	}
+
+	public List<Sentence> getSentenceLstOut() {
+		return sentenceLstOut;
+	}
 
 	public RelationCore() {
 		featureExtractor = new RelationFeatureVn();
@@ -261,6 +271,8 @@ public class RelationCore {
 	 * 			list of relations
 	 */
 	public List<Relation> extractRelation(List<Sentence> senLst, List<Concept> concepts) throws IOException {
+		this.sentenceLstOut = senLst;
+		this.conceptLstOut = concepts;
 		//SVM to predict
 		if (senLst == null || concepts == null) {
 			return null;
@@ -307,26 +319,15 @@ public class RelationCore {
 	 * @function: extractRelation
 	 * @description: full pipeline for extracting relations 
 	 * @parameters: input: text (input)
-	 *				conceptLstOut: list concepts (output)
-	 *				sentenceLstOut: list sentences (output)
 	 *@return: list of relations
 	 */
-	public List<Relation> extractRelation(String input, List<Concept> conceptLstOut, List<Sentence> sentenceLstOut) throws IOException {
+	public List<Relation> extractRelation(String input) throws IOException {
 		ConceptCore cc = new ConceptCore();
 		RelationCore rc = new RelationCore();
 		ProcessText pt = ProcessVNText.getInstance();
-		sentenceLstOut = pt.processDocument(input, false);
-		conceptLstOut = cc.extractConcept(sentenceLstOut);
+		this.sentenceLstOut = pt.processDocument(input, false);
+		this. conceptLstOut = cc.extractConcept(sentenceLstOut);
 		List<Relation> relLst = rc.extractRelation(sentenceLstOut, conceptLstOut);
-		System.out.println("Concept List: ");
-		for (Concept concept : conceptLstOut) {
-			System.out.println(concept.toString());
-		}
-		System.out.println("Relation List: ");
-		for (Relation rel : relLst) {
-			System.out.println(rel.toString());
-		}
-		
 		return relLst;
 	}
 }

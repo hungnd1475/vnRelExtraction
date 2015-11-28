@@ -232,7 +232,6 @@ public class ConceptCore {
 					List<Concept> lstConcept = getDoclineConcepts(doc.getFileName(), doc.getLineIndex());
 					String cContent;
 					for (Concept concept : lstConcept) {
-						Concept.Type type = concept.getType();
 						for (int pos = concept.getBegin() - 1; pos < concept.getEnd(); pos++) {
 							cContent = WordHandle.getWord(doc.getContent(), pos);
 							if (cContent != null) {
