@@ -13,9 +13,6 @@ import java.util.regex.Pattern;
 import vn.edu.hcmut.emrre.core.entity.Concept;
 import vn.edu.hcmut.emrre.core.entity.DocLine;
 import vn.edu.hcmut.emrre.core.entity.Relation;
-import vn.edu.hcmut.emrre.core.entity.record.Record;
-import vn.edu.hcmut.emrre.core.entity.record.RecordDAO;
-import vn.edu.hcmut.emrre.core.entity.record.RecordDAOImpl;
 
 public class DataReader {
     private Pattern conceptPattern = Pattern.compile("^c=\"(.*)?\"\\s(\\d+):(\\d+)\\s(\\d+):(\\d+)\\|\\|t=\"(.*)?\"$");

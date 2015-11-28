@@ -47,6 +47,16 @@ public class Word {
     @Column(name = "lemma")
     private String lemma;
 
+    private String htmlContent = "";
+
+    public String getHtmlContent() {
+        return htmlContent;
+    }
+
+    public void setHtmlContent(String htmlContent) {
+        this.htmlContent = htmlContent;
+    }
+
     public long getId() {
         return id;
     }
