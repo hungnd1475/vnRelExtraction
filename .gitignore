@@ -7,3 +7,5 @@ MyLog.log
 similar-datatrain
 src/main/resources/log4j.properties
 trainSequences.data
+.idea/
+CSE-thesis-VNRelExtraction-2015.iml
