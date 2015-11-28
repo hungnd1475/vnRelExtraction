@@ -123,16 +123,17 @@ public class RelationCore {
 					Relation rel = relations.get(i);
 					Concept preConcept = rel.getPreConcept();
 					Concept posConcept = rel.getPosConcept();
-					String cContent = WordHandle.getWords(rel.getFileName(), preConcept.getLine(), preConcept.getBegin(),
-							preConcept.getEnd());
+					String cContent = WordHandle.getWords(rel.getFileName(), preConcept.getLine(),
+							preConcept.getBegin(), preConcept.getEnd());
 					if (cContent != null) {
 						conceptDic.addDictionary(cContent);
 					}
-					cContent = WordHandle.getWords(rel.getFileName(), posConcept.getLine(), posConcept.getBegin(), posConcept.getEnd());
+					cContent = WordHandle.getWords(rel.getFileName(), posConcept.getLine(), posConcept.getBegin(),
+							posConcept.getEnd());
 					if (cContent != null) {
 						conceptDic.addDictionary(cContent);
 					}
-					
+
 					for (int pos = preConcept.getEnd() + 1; pos < posConcept.getBegin(); pos++) {
 						cContent = WordHandle.getWord(rel.getFileName(), preConcept.getLine(), pos);
 						if (cContent != null) {
@@ -193,11 +194,11 @@ public class RelationCore {
 				}
 			}
 		}
-		
-		//print
+
+		// print
 		for (int i = 0; i < 9; i++) {
-			System.out.println(
-					String.format("%s: %d -- predict: %d -- correct: %d", Relation.typeOfDouble(i), result[i][0], result[i][1], result[i][2]));
+			System.out.println(String.format("%s: %d -- predict: %d -- correct: %d", Relation.typeOfDouble(i),
+					result[i][0], result[i][1], result[i][2]));
 		}
 		double precision = (double) correctTt / predict * 100;
 		double recall = (double) correctTt / total * 100;
@@ -214,7 +215,7 @@ public class RelationCore {
 		getDoclineData();
 		featureExtractor.setLstConcept(concepts);
 		SVM svm = new SVM(Constant.MODEL_FILE_PATH);
-		
+
 		// preprocess
 		Dictionary conceptDic = new Dictionary();
 		Dictionary wordBetween = new Dictionary();
@@ -227,11 +228,12 @@ public class RelationCore {
 			if (cContent != null) {
 				conceptDic.addDictionary(cContent);
 			}
-			cContent = WordHandle.getWords(rel.getFileName(), posConcept.getLine(), posConcept.getBegin(), posConcept.getEnd());
+			cContent = WordHandle.getWords(rel.getFileName(), posConcept.getLine(), posConcept.getBegin(),
+					posConcept.getEnd());
 			if (cContent != null) {
 				conceptDic.addDictionary(cContent);
 			}
-			
+
 			for (int pos = preConcept.getEnd() + 1; pos < posConcept.getBegin(); pos++) {
 				cContent = WordHandle.getWord(rel.getFileName(), preConcept.getLine(), pos);
 				if (cContent != null) {
@@ -262,40 +264,44 @@ public class RelationCore {
 		svm.svmTrainCore(new File(Constant.DATA_TRAIN_FILE_PATH));
 	}
 
-	/* 
-	 * @function: extractRelation 
-	 * @description: extract relations from list of sentences and list of concepts
-	 * @parameters: senLst: list of sentences (input)
-	 * 				concepts: list of concepts (input)
-	 * @return: null if senLst = null or concepts = null
-	 * 			list of relations
+	/*
+	 * @function: extractRelation
+	 * 
+	 * @description: extract relations from list of sentences and list of
+	 * concepts
+	 * 
+	 * @parameters: senLst: list of sentences (input) concepts: list of concepts
+	 * (input)
+	 * 
+	 * @return: null if senLst = null or concepts = null list of relations
 	 */
 	public List<Relation> extractRelation(List<Sentence> senLst, List<Concept> concepts) throws IOException {
 		this.sentenceLstOut = senLst;
 		this.conceptLstOut = concepts;
-		//SVM to predict
+		// SVM to predict
 		if (senLst == null || concepts == null) {
 			return null;
 		}
 		SVM svm = new SVM(Constant.MODEL_FILE_PATH);
 		List<Relation> relLst = new ArrayList<Relation>();
-		for (Sentence sentence : senLst) {
+		for (int idx = 0; idx < senLst.size(); idx++) {
+			Sentence sentence = senLst.get(idx);
 			featureExtractor.setPredict(true);
 			featureExtractor.setSentence(sentence);
 			featureExtractor.setLstWord(sentence.getWords());
 			featureExtractor.setLstConcept(concepts);
-			//get vector
-			for (int i = 0; i < concepts.size(); i ++)
-				for (int j = i + 1; j <concepts.size(); j ++) {
-					if (Relation.canRelate(concepts.get(i), concepts.get(j))) {
+			// get vector
+			for (int i = 0; i < concepts.size(); i++)
+				for (int j = i + 1; j < concepts.size(); j++) {
+					if (Relation.canRelate(concepts.get(i), concepts.get(j)) && concepts.get(i).getLine() == idx + 1
+							&& concepts.get(j).getLine() == idx + 1) {
 						double[] vector;
 						Concept pre, post;
 						Relation.Type type;
 						if (concepts.get(i).getBegin() < concepts.get(j).getBegin()) {
 							pre = concepts.get(i);
 							post = concepts.get(j);
-						}
-						else {
+						} else {
 							pre = concepts.get(j);
 							post = concepts.get(i);
 						}
@@ -314,19 +320,22 @@ public class RelationCore {
 		}
 		return relLst;
 	}
-	
+
 	/*
 	 * @function: extractRelation
-	 * @description: full pipeline for extracting relations 
+	 * 
+	 * @description: full pipeline for extracting relations
+	 * 
 	 * @parameters: input: text (input)
-	 *@return: list of relations
+	 * 
+	 * @return: list of relations
 	 */
 	public List<Relation> extractRelation(String input) throws IOException {
 		ConceptCore cc = new ConceptCore();
 		RelationCore rc = new RelationCore();
 		ProcessText pt = ProcessVNText.getInstance();
 		this.sentenceLstOut = pt.processDocument(input, false);
-		this. conceptLstOut = cc.extractConcept(sentenceLstOut);
+		this.conceptLstOut = cc.extractConcept(sentenceLstOut);
 		List<Relation> relLst = rc.extractRelation(sentenceLstOut, conceptLstOut);
 		return relLst;
 	}

@@ -14,7 +14,10 @@ public class Main {
 		RelationCore emr = new RelationCore();
 		//emr.extractRel("Tôi bị ho, đi điều trị ho nhưng không hết bệnh");
 		//emr.extractRel("Tôi bị ho, đi điều trị ho và đã hết bệnh");
-		List<Relation> relLst = emr.extractRelation("Tôi bị ho, đau đầu");
+		String text = "Tôi bị ho, đau đầu." +
+		" Tôi uống thuốc, điều trị ho nhưng không khỏi. "
+				+ "Tôi bị ho, đau đầu.";
+		List<Relation> relLst = emr.extractRelation(text);
 		List<Concept> conceptLst = emr.getConceptLstOut();
 		List<Sentence> sentenceLst = emr.getSentenceLstOut();
 		System.out.println("Sentence List: ");
