@@ -2,6 +2,9 @@
 
 ////////////////utils function///////////////
 function getNumWordInStr(str) {
+	if ($.trim(str).length == 0) {
+		return 0;
+	}
 	var words = $.trim(str).split(/\s+/);
 	return words.length;
 }
@@ -34,18 +37,15 @@ $(function() {
 
 			'problem' : {
 				title : 'Problem',
-				// Font awesome icons here
-				icon : 'archive',
 			},
 
 			'treatment' : {
 				title : 'Treatment',
-				icon : 'check',
+				icon: 'mark',
 			},
 
 			'test' : {
 				title : 'Test',
-				icon : 'check',
 			},
 
 			// If the value is 'separator' then an
@@ -53,8 +53,7 @@ $(function() {
 			'void' : 'separator',
 
 			'clear' : {
-				title : 'clear',
-				icon : 'remove',
+				title : 'Clear'
 			},
 		}
 	});
