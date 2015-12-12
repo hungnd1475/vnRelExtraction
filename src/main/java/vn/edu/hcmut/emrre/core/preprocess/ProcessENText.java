@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
+import vn.edu.hcmut.emrre.core.entity.Concept;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
@@ -15,6 +16,18 @@ import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.StringUtils;
 
 public class ProcessENText implements ProcessText {
+
+    @Override
+    public List<Concept> parseToConcepts(List<String> concepts) {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+    @Override
+    public List<Sentence> parseToSentences(List<String> lines) {
+        // TODO Auto-generated method stub
+        return null;
+    }
 
     public String wordSegment(String text) {
         // TODO Auto-generated method stub
@@ -73,16 +86,15 @@ public class ProcessENText implements ProcessText {
         ProcessText processText = new ProcessENText();
         String[] listSens = processText
                 .wordsSegment("The backbone of the CoreNLP package is formed by two classes: Annotation and Annotator. Annotations are the data structure which hold the results of annotators. Annotations are basically maps, from keys to bits of the annotation, such as the parse, the part-of-speech tags, or named entity tags.");
-        
+
         for (String string : listSens) {
             System.out.println(string);
         }
-        
+
     }
 
-	@Override
-	public List<String> preProcessDoc(String content) {
-		// TODO Auto-generated method stub
-		return null;
-	}
+    @Override
+    public List<String> preProcessDoc(String content) {
+        return null;
+    }
 }
