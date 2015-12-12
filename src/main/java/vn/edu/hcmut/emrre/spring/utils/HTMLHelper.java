@@ -9,6 +9,8 @@ import vn.edu.hcmut.emrre.core.entity.Relation;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import vn.edu.hcmut.emrre.core.entity.word.Word;
 import vn.edu.hcmut.emrre.core.io.DataReader;
+import vn.edu.hcmut.emrre.core.preprocess.ProcessText;
+import vn.edu.hcmut.emrre.core.preprocess.ProcessVNText;
 
 public class HTMLHelper {
     public static final String PROBLEM_TAG_BEGIN = "<span class=\"problem selected\">";
@@ -19,6 +21,14 @@ public class HTMLHelper {
 
     public static final String TEST_TAG_BEGIN = "<span class=\"test selected\">";
     public static final String TEST_TAG_END = "</span>";
+
+    public static <T> List<String> generateRawData(List<T> lst) {
+        List<String> result = new ArrayList<String>();
+        for (T entry : lst) {
+            result.add(entry.toString());
+        }
+        return result;
+    }
 
     public static List<String> generateHTMLSens(List<Sentence> sens, List<Concept> cons) {
         List<String> result = new ArrayList<String>();
@@ -36,13 +46,15 @@ public class HTMLHelper {
                         int start = concept.getBegin() - 1;
                         int end = concept.getEnd() - 1;
                         words.get(start).setHtmlContent(generateHTMLConcept(concept));
-                        for (int i = start + 1; i < end; i++) {
+                        for (int i = start + 1; i <= end; i++) {
                             words.get(i).setHtmlContent("");
                         }
                     }
                 }
                 for (Word word : words) {
-                    htmlContent.append(word.getHtmlContent() + " ");
+                    if (!word.getHtmlContent().equals("")) {
+                        htmlContent.append(word.getHtmlContent() + " ");
+                    }
                 }
                 result.add(htmlContent.toString().trim());
             }
@@ -74,13 +86,22 @@ public class HTMLHelper {
         String inputRelationFile = "vn/rel/1.txt";
         DataReader dataReader = new DataReader();
         List<DocLine> docLines = dataReader.readDocument(inputDocFile);
-        // List<Sentence> sens =
+        String text = "Lý Do "
+                + "\nHo , khò khè "
+                + "\nBệnh Lý "
+                + "\nCháu ho , khò khè đã 10 ngày nay , đã được khám và điều trị viêm mũi họng , phế quản với Zinnat 7 ngày hiện tại còn ho , khò khè -> KHám "
+                + "\nTiền Sử Bệnh \nViêm phế quản \nĐiều Trị"
+                + "\nKháng sinh , thuốc ho , men tiêu hóa , kháng viêm , giãn phế quản";
+        ProcessText processText = ProcessVNText.getInstance();
+        List<Sentence> sens = processText.processDocument(text, false);
         List<Concept> concepts = dataReader.readConcepts(inputConceptFile, 0);
         // dataReader.readAssertion(concepts, inputAssertionFile);
         List<Relation> relations = dataReader.readRelations(concepts, inputRelationFile);
-        for (Concept concept : concepts) {
 
-            System.out.println(generateHTMLConcept(concept));
+        List<String> htmls = generateHTMLSens(sens, concepts);
+        System.out.println(">>>>>>>>>>>>>>>>>>>>>");
+        for (String string : htmls) {
+            System.out.println(string);
         }
 
     }
