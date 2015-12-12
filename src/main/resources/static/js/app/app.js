@@ -5,14 +5,14 @@ app.filter('unsafe', function($sce) {
 	};
 });
 
-app.controller('vnExtractor', function($scope, $http) {
+app.controller('vnExtractor', function($scope, $sce, $http) {
 	$scope.record = "";
 	$scope.sentences = [];
 	$scope.rawHtmlSentences = [];
 	$scope.concepts = [];
 	$scope.relations = [ "empty", "there is nothing here!" ];
 	$scope.editMode = true;
-	$scope.mode = "" ;
+	$scope.mode = "automatic";
 	var urlBase = "vn-extractor/";
 
 	$scope.postRecord = function() {
@@ -49,14 +49,72 @@ app.controller('vnExtractor', function($scope, $http) {
 		$scope.editMode = !$scope.editMode;
 	}
 
+	$scope.getContent = function() {
+		$http.get('http://localhost/getFileContent.php?file=10.txt').success(
+				function(data) {
+					$scope.sentences = data.content;
+					$scope.concepts = data.mention;
+					// $scope.msg = "";
+					// $scope.relations = data.relation;
+					// console.log(data);
+				})
+	}
+
 	$scope.run = function() {
-		if($scope.mode == "automatic"){
-			
-		}else if($scope.mode = "manual"){
-			
+		if ($scope.mode == "automatic") {
+			if ($scope.record != "") {
+				var req = $http({
+					method : "post",
+					url : urlBase + "automatic",
+					data : {
+						record : $scope.record
+					},
+					headers : {
+						'Content-Type' : 'application/json'
+					}
+				});
+
+				req.success(function(res) {
+					$scope.concepts = res.concepts;
+					$scope.sentences = res.sentences;
+					$scope.relations = res.relations;
+					$scope.editMode = false;
+					new PNotify({
+						title : "Extracted!",
+						text : "Success",
+						type : "success",
+						delay : 1000
+					});
+				});
+			}
+		} else if ($scope.mode = "manual") {
+			if ($scope.record != "") {
+				var req = $http({
+					method : "post",
+					url : urlBase + "manual",
+					data : {
+						sentences : $scope.sentences,
+						concepts : $scope.concepts
+					},
+					headers : {
+						'Content-Type' : 'application/json'
+					}
+				});
+
+				req.success(function(res) {
+					$scope.relations = res.relations;
+					$scope.editMode = false;
+					new PNotify({
+						title : "Extracted!",
+						text : "Success",
+						type : "success",
+						delay : 1000
+					});
+				});
+			}
 		}
 		if ($scope.record != "" && $scope.concepts != "") {
-			
+
 		}
 		console.log($scope.mode);
 	}
