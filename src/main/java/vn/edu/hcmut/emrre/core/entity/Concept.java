@@ -3,7 +3,7 @@ package vn.edu.hcmut.emrre.core.entity;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Concept implements Comparable<Concept>{
+public class Concept implements Comparable<Concept> {
 
     private String fileName;
     private String content;
@@ -98,11 +98,22 @@ public class Concept implements Comparable<Concept>{
         this.content = content;
     }
 
+    // @Override
+    // public String toString() {
+    // return String
+    // .format("file name=%s - c=%s -lineIndex =%d - begin=%d - end=%d - type=%s - key=%d - number of relate followed=%d - assertion=%s",
+    // fileName, content, line, begin, end, type, key, this.relateLst.size(),
+    // assertion);
+    // }
+
     @Override
     public String toString() {
-        return String.format(
-                "file name=%s - c=%s -lineIndex =%d - begin=%d - end=%d - type=%s - key=%d - number of relate followed=%d - assertion=%s", fileName, content,
-                line, begin, end, type, key, this.relateLst.size(), assertion);
+        return String.format("c=\"%s\" %d:%d %d:%d||t=\"%s\"", this.content, this.line, this.begin, this.line,
+                this.end, this.type.toString().toLowerCase());
+    }
+
+    public String toStringWithoutType() {
+        return String.format("c=\"%s\" %d:%d %d:%d", this.content, this.line, this.begin, this.line, this.end);
     }
 
     public static enum Type {
@@ -110,9 +121,9 @@ public class Concept implements Comparable<Concept>{
     }
 
     public static void main(String[] args) {
-        // Concept concept = new Concept("panadol", 1, 5,
-        // Concept.TYPE.TREATMENT);
-        // System.out.println(concept.toString());
+        // Concept concept = new Concept("", "panadol", 1, 5, 7,
+        // Concept.Type.TREATMENT, 0);
+        // System.out.println(concept.toStringFileFormat());
     }
 
     @Override
