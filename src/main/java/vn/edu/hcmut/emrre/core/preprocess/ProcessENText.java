@@ -19,18 +19,15 @@ public class ProcessENText implements ProcessText {
 
     @Override
     public List<Concept> parseToConcepts(List<String> concepts) {
-        // TODO Auto-generated method stub
         return null;
     }
 
     @Override
     public List<Sentence> parseToSentences(List<String> lines) {
-        // TODO Auto-generated method stub
         return null;
     }
 
     public String wordSegment(String text) {
-        // TODO Auto-generated method stub
         return null;
     }
 
@@ -74,7 +71,6 @@ public class ProcessENText implements ProcessText {
 
     @Override
     public List<Sentence> processDocument(String content, boolean isSentenceSegmented) {
-        // TODO Auto-generated method stub
         return null;
     }
 
