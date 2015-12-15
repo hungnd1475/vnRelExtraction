@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+      ng-app="vnEMRRE">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>VN Relation Extraction</title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="../css/jquery-ui.min.css" rel="stylesheet"/>
+    <link href="../css/label.css" rel="stylesheet"/>
+    <link href="../css/pnotify.custom.min.css" rel="stylesheet"/>
+    <link href="../css/nu-context-menu.css" rel="stylesheet"/>
+    <link href="../css/font-awesome.min.css" rel="stylesheet"/>
+</head>
+<body>
+<!-- HEADER AND NAVBAR -->
+<header>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">VN Relation Extraction</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/"><i class="fa fa-home"></i> Home</a></li>
+                <li><a href="/vn-extractor"><i class="fa fa-home"></i> Extractor</a></li>
+                <li><a href="about"><i class="fa fa-shield"></i> About</a></li>
+                <li><a href="contact"><i class="fa fa-comment"></i>
+                    Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<!--<div class="navmenu navmenu-default navmenu-fixed-left offcanvas-sm">-->
+<!--<a class="navmenu-brand visible-md visible-lg" href="#">Project name</a>-->
+<!--<ul class="nav navmenu-nav">-->
+<!--<li class="active"><a href="./">Slide in</a></li>-->
+<!--<li><a href="../navmenu-push/">Push</a></li>-->
+<!--<li><a href="../navmenu-reveal/">Reveal</a></li>-->
+<!--<li><a href="../navbar-offcanvas/">Off canvas navbar</a></li>-->
+<!--</ul>-->
+<!--</div>-->
+<div class="container">
+    <h1 layout:fragment="tab-name">TAB NAME</h1>
+
+    <div layout:fragment="content">MAIN CONTENT</div>
+</div>
+
+<script type="text/javascript" src="../js/lib/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="../js/lib/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../js/lib/bootstrap.min.js"></script>
+<script type="text/javascript" src="../js/lib/angular.min.js"></script>
+<script type="text/javascript" src="../js/app/app.js"></script>
+<script type="text/javascript" src="../js/lib/pnotify.custom.min.js"></script>
+<script type="text/javascript" src="../js/lib/jquery.nu-context-menu.min.js"></script>
+<script type="text/javascript" src="../js/app/label.js"></script>
+</body>
+</html>
