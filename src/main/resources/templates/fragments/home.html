@@ -1,15 +1,140 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org"
-      xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
-      layout:decorator="layout">
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+    layout:decorator="layout">
 <head>
-    <title>HOME</title>
+<title>HOME</title>
 </head>
 <body>
-<h1 layout:fragment="tab-name">Welcome</h1>
+    <h2 layout:fragment="tab-name"></h2>
 
-<div layout:fragment="content">
-    <p>content of home page.kakak.kdkdsa</p>
-</div>
+    <div layout:fragment="content">
+        <div class="row">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h4 class="panel-title">Concept's Types</h4>
+                </div>
+                <div class="panel-body">
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading clickable problem">
+                                <h3 class="panel-title">Problem (P)</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">Những bất thường về sức khỏe thân
+                                thể hay tinh thần của một bệnh nhân, được mô tả bởi bệnh nhân hay quan sát của bác sĩ, y
+                                tá</div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading clickable treatment">
+                                <h3 class="panel-title">Treatment (Tr)</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">Những thủ tục y tế và quy trình áp
+                                dụng để đối phó với “Problem”, bao gồm: thuốc, phẫu thuật và phương pháp điều trị</div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading clickable test">
+                                <h3 class="panel-title">Test (Te)</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">Những thủ tục y tế như xét nghiệm,
+                                đo đạc, kiểm tra trên cơ thể bệnh nhân để cung cấp thêm thông tin cho “Problem” của bệnh
+                                nhân</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h4 class="panel-title">Relation's Types</h4>
+                </div>
+                <div class="panel-body">
+                    <div class="col-md-4">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">TrIP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Treatment improves medical problem) <br />Treatment cải thiện hoặc chữa được problem.
+                            </div>
+                        </div>
+
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">TrAP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Treatment administerd for medical problem)<br /> Treatment được áp dụng cho problem.
+
+                            </div>
+                        </div>
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">TrNAP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Treatment is not administered because of medical problem)<br /> Treatment bị tránh vì
+                                problem.
+
+                            </div>
+                        </div>
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">TrCP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Treatment causes medical problem)<br /> Treatment gây ra problem.
+                            </div>
+                        </div>
+
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">TrWP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Treatment worsens medical problem)<br /> Treatment không chữa trị, cải thiện hoặc làm
+                                cho problem trở nên xấu hơn.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">TeRP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Test reveals medical problem)<br /> Test để phát hiện ra problem.
+
+                            </div>
+                        </div>
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">TeCP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Test conducted to investigate medical problem)<br /> Test để nghiên cứu problem.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">PIP</h3>
+                            </div>
+                            <div class="panel-body" style="min-height: 50px;">
+                                (Medical problem indicates medical problem)<br /> Problem liên quan đến problem.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

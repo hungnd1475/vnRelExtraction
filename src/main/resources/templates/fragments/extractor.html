@@ -1,157 +1,106 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org"
-      xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
-      layout:decorator="layout">
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+    layout:decorator="layout">
 <head>
-    <title>HOME</title>
+<title>Application</title>
 </head>
 <body>
-<h1 layout:fragment="tab-name">VNEMR Extractor</h1>
-
-<div layout:fragment="content" ng-controller="vnExtractor" id="main">
-    <div class="row">
-        <div class="col-md-4 pull-left">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4 class="panel-title">Mode</h4>
-                </div>
-                <div class="panel-body">
-                    <form class="form">
-                        <div class="form-group">
-                            <select class="form-control" ng-model="mode">
-                                <option value="automatic">Automatic</option>
-                                <option value="manual">Manual</option>
-                            </select>
-                        </div>
-                        <a type="button"
-                           class="btn btn-success" ng-click="run()"><span
-                                class="glyphicon glyphicon-play"></span>RUN</a>
-                    </form>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-md-8 pull-right">
-            <div class="panel-group">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" href="#collapse1">Concepts Type</a>
-                        </h4>
-                    </div>
-                    <div id="collapse1" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            <div class="col-md-4">
-                                <div class="panel panel-default">
-                                    <div class="panel-heading clickable problem">
-                                        <h3 class="panel-title">Problem</h3>
-                                    </div>
-                                    <div class="panel-body" style="min-height: 50px;">Nhá»¯ng
-                                        báº¥t thÆ°á»�ng vá»� sá»©c khá»�e
+    <h2 layout:fragment="tab-name"></h2>
+    <div layout:fragment="content" ng-controller="vnExtractor" id="main">
+        <div class="row">
+            <div class="col-md-6">
+                <form class="form form-inline">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <div class="panel-title">
+                                <h4 class="pull-left">Medical Record</h4>
+                                <div class="form-group" style="margin-left: 20px;">
+                                    <div class="input-group">
+                                        <div class="input-group-addon">Mode</div>
+                                        <select class="form-control" ng-model="mode">
+                                            <option value="automatic">Automatic</option>
+                                            <option value="manual">Manual</option>
+                                        </select>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="panel panel-default">
-                                    <div class="panel-heading clickable treatment">
-                                        <h3 class="panel-title">Treatment</h3>
-                                    </div>
-                                    <div class="panel-body" style="min-height: 50px;">Nhá»¯ng
-                                        thá»§ tá»¥c chá»¯a trá»‹
-                                    </div>
+                                <div class="btn-group pull-right">
+                                    <button type="button" class="btn btn-primary btn-sm" ng-click="editRecord()"
+                                        ng-show="!editMode">
+                                        <span class="glyphicon glyphicon-edit"></span> Edit
+                                    </button>
+
+                                    <button type="button" class="btn btn-primary btn-sm" ng-click="postRecord()"
+                                        ng-show="editMode">
+                                        <span class="glyphicon glyphicon-file"></span> Preprocess
+                                    </button>
                                 </div>
+                                <div class="clearfix"></div>
                             </div>
-                            <div class="col-md-4">
-                                <div class="panel panel-default">
-                                    <div class="panel-heading clickable test">
-                                        <h3 class="panel-title">Test</h3>
-                                    </div>
-                                    <div class="panel-body" style="min-height: 50px;">Nhá»¯ng
-                                        thá»§ tá»¥c xÃ©t nghiá»‡m
-                                    </div>
-                                </div>
+
+                        </div>
+                        <div class="panel-body" style="height: 60vh;">
+                            <textarea class="text-area" ng-model="record" ng-show="editMode"></textarea>
+
+                            <div id="emr-doc" ng-show="!editMode" class="text-area">
+                                <div class="sentence" ng-repeat="line in sentences track by $index"
+                                    ng-bind-html="line | unsafe"></div>
                             </div>
+                        </div>
+                        <!-- 						<div class="panel-footer pull-right"> -->
+                        <!-- 							<span class="problem panel-heading"> Problem</span> <span -->
+                        <!-- 								class="treatment panel-heading"> Treatment</span> <span -->
+                        <!-- 								class="test panel-heading"> Test</span> -->
+                        <!-- 						</div> -->
+                        <div class="panel-footer">
+                            <button type="button" class="btn btn-success " ng-click="run()">Submit</button>
+                            <button type="button" class="btn btn-danger " ng-click="clearConcepts()">Clear</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-md-6">
+                <!-- 				<div class="row"> -->
+                <!-- 					<div class="panel panel-default"> -->
+                <!-- 						<div class="panel-heading"> -->
+                <!-- 							<h4 class="panel-title pull-left"> -->
+                <!-- 								<a data-toggle="collapse" href="#concepts">Concepts</a> -->
+                <!-- 							</h4> -->
+
+                <!-- 							<div class="btn-group pull-right"> -->
+                <!-- 								<button type="button" class="btn btn-danger btn-sm" -->
+                <!-- 									ng-click="clearConcepts()"> -->
+                <!-- 									<span class="glyphicon glyphicon-trash"></span>Clear -->
+                <!-- 								</button> -->
+                <!-- 							</div> -->
+                <!-- 							<div class="clearfix"></div> -->
+                <!-- 						</div> -->
+                <!-- 						<div id="concepts" class="doc panel-body"> -->
+                <!-- 							<div ng-repeat="concept in concepts">{{concept}}</div> -->
+                <!-- 						</div> -->
+                <!-- 					</div> -->
+                <!-- 				</div> -->
+                <div class="row">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <div class="panel-title">
+                                <h4>Relations</h4>
+                            </div>
+                        </div>
+                        <div id="relations" class="doc panel-body" style="height: 60vh;">
+                            <div ng-repeat="relation in relations">{{relation}}</div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="clearfix"></div>
+
+        <!-- 		<div id="dialog" title="Select Label" style="display: none;"> -->
+        <!-- 			<input type="radio" name="label" value="problem" />Problem <br /> -->
+        <!-- 			<input type="radio" name="label" value="treatment" />Treatment<br /> -->
+        <!-- 			<input type="radio" name="label" value="test" />Test<br /> <input -->
+        <!-- 				type="radio" name="label" value="clear" />Clear<br /> -->
+        <!-- 		</div> -->
     </div>
-    <div class="row">
-        <div class="col-md-6">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h3 class="panel-title pull-left">Medical Record</h3>
-
-                    <div class="btn-group pull-right">
-                        <button type="button" class="btn btn-default btn-sm"
-                                ng-click="editRecord()" ng-show="!editMode">
-                            <span class="glyphicon glyphicon-pencil"></span> Edit
-                        </button>
-
-                        <button type="button" class="btn btn-default btn-sm"
-                                ng-click="postRecord()" ng-show="editMode">
-                            <span class="glyphicon glyphicon-ok"></span> Ok
-                        </button>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-                <div class="panel-body" style="height: 60vh;">
-                    <textarea class="text-area" ng-model="record" ng-show="editMode"></textarea>
-
-                    <div id="emr-doc" ng-show="!editMode" class="text-area">
-                        <div class="sentence"
-                             ng-repeat="line in sentences track by $index"
-                             ng-bind-html="line | unsafe"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col-md-6">
-            <div class="row">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title pull-left">
-                            <a data-toggle="collapse" href="#concepts">Concepts</a>
-                        </h4>
-
-                        <div class="btn-group pull-right">
-                            <button type="button" class="btn btn-danger btn-sm"
-                                    ng-click="clearConcepts()">
-                                <span class="glyphicon glyphicon-trash"></span>Clear
-                            </button>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                    <div id="concepts" class="doc panel-body">
-                        <div ng-repeat="concept in concepts">{{concept}}</div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3 class="panel-title">
-                            <a href="#relations" data-toggle="collapse">Relations</a>
-                        </h3>
-                    </div>
-                    <div id="relations" class="doc panel-body">
-                        <div ng-repeat="relation in relations">{{relation}}</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="dialog" title="Select Label" style="display: none;">
-        <input type="radio" name="label" value="problem"/> Problem <br/>
-        <input type="radio" name="label" value="treatment"/> Treatment<br/>
-        <input type="radio" name="label" value="test"/> Test<br/>
-        <input type="radio" name="label" value="clear"/> Clear<br/>
-    </div>
-</div>
 </body>
 </html>
