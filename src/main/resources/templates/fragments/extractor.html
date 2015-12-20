@@ -18,7 +18,7 @@
                                     <div class="input-group">
                                         <div class="input-group-addon">Mode</div>
                                         <select class="form-control" ng-model="mode">
-                                            <option value="automatic">Automatic</option>
+                                            <option value="automatic">Automation</option>
                                             <option value="manual">Manual</option>
                                         </select>
                                     </div>
@@ -46,11 +46,6 @@
                                     ng-bind-html="line | unsafe"></div>
                             </div>
                         </div>
-                        <!-- 						<div class="panel-footer pull-right"> -->
-                        <!-- 							<span class="problem panel-heading"> Problem</span> <span -->
-                        <!-- 								class="treatment panel-heading"> Treatment</span> <span -->
-                        <!-- 								class="test panel-heading"> Test</span> -->
-                        <!-- 						</div> -->
                         <div class="panel-footer">
                             <button type="button" class="btn btn-success " ng-click="run()">Submit</button>
                             <button type="button" class="btn btn-danger " ng-click="clearConcepts()">Clear</button>
