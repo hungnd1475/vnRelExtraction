@@ -111,6 +111,7 @@ public class RelationCore {
 		getDoclineData();
 		featureExtractor.setLstConcept(concepts);
 		SVM svm = new SVM(Constant.MODEL_FILE_PATH_CROSS);
+		int noneTt = 0, nonePre = 0, noneTo = 0;
 		int correctTt = 0, total = 0, predict = 0;
 		int[][] result = new int[][] { { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 },
 				{ 0, 0, 0 }, { 0, 0, 0 }, { 0, 0, 0 } };
@@ -184,6 +185,8 @@ public class RelationCore {
 						if (label != 0)
 							predict++;
 						result[label][1]++;
+						if (rel.getType().getValue() != 0 && label != 0) 
+							noneTt ++;
 						if (label == rel.getType().getValue()) {
 							result[label][2]++;
 							System.out.println("Correct " + label);
@@ -203,6 +206,14 @@ public class RelationCore {
 		double precision = (double) correctTt / predict * 100;
 		double recall = (double) correctTt / total * 100;
 		double f1 = 2 * precision * recall / (precision + recall);
+		System.out.println(String.format("total: %d -- predict: %d -- correct: %d", total, predict, correctTt));
+		System.out.println(String.format("Precision = %f%%", precision));
+		System.out.println(String.format("Recall = %f%%", recall));
+		System.out.println(String.format("F1 = %f%%", f1));
+		
+		precision = (double) noneTt / predict * 100;
+		recall = (double) noneTt / total * 100;
+		f1 = 2 * precision * recall / (precision + recall);
 		System.out.println(String.format("total: %d -- predict: %d -- correct: %d", total, predict, correctTt));
 		System.out.println(String.format("Precision = %f%%", precision));
 		System.out.println(String.format("Recall = %f%%", recall));

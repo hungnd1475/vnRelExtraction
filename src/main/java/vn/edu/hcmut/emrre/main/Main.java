@@ -14,9 +14,11 @@ import de.bwaldvogel.liblinear.InvalidInputDataException;
 public class Main {
     public static void main(String[] args) throws IOException, InvalidInputDataException {
         RelationCore emr = new RelationCore();
-        // emr.extractRel("Tôi bị ho, đi điều trị ho nhưng không hết bệnh");
+        emr.generateModel();
+        //emr.crossValidation(5);
+        // emr.extractRelation("Tôi bị ho, đi điều trị ho nhưng không hết bệnh");
         // emr.extractRel("Tôi bị ho, đi điều trị ho và đã hết bệnh");
-        String str = "Lý Do :  Ho , khò khè. "
+/*        String str = "Lý Do :  Ho , khò khè. "
                 + "Bệnh Lý : "
                 + "Cháu ho , khò khè đã 10 ngày nay , đã được khám và điều trị viêm mũi họng , phế quản với Zinnat 7 ngày hiện tại còn ho , khò khè - > KHám Tiền Sử Bệnh Viêm phế quản"
                 + ". Điều Trị: Kháng sinh , thuốc ho , men tiêu hóa , kháng viêm , giãn phế quản  . ";
@@ -40,7 +42,7 @@ public class Main {
         List<String> htmls = HTMLHelper.generateHTMLSens(sentenceLst, conceptLst);
         for (String string : htmls) {
             System.out.println(string);
-        }
+        }*/
 
     }
 }

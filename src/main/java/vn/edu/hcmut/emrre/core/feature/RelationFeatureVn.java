@@ -107,8 +107,15 @@ public class RelationFeatureVn {
 				}
 			} else
 				if (this.preConcept.getType() == Concept.Type.TEST || this.posConcept.getType() == Concept.Type.TEST) {
-				String ctBetween = WordHandle.getWords(this.preConcept.getFileName(), this.preConcept.getLine(),
+				
+					String ctBetween;
+					if (isPredict) {
+						ctBetween = WordHandle.getWords(sentence, this.preConcept.getEnd() + 1, this.posConcept.getBegin() - 1);
+					}
+					else {
+						ctBetween = WordHandle.getWords(this.preConcept.getFileName(), this.preConcept.getLine(),
 						this.preConcept.getEnd() + 1, this.posConcept.getBegin() - 1);
+					}
 				if (ctBetween != null && ptePatt1.matcher(ctBetween.toLowerCase()).find()) {
 					this.vector[idx + 1] = 1;
 				}
@@ -294,12 +301,12 @@ public class RelationFeatureVn {
 		this.vector = new double[this.dimension];
 
 		int nextIdx;
-		nextIdx = scContent(0);
-		nextIdx = scType(nextIdx);
-		nextIdx = cfStringMatcher(nextIdx);
-		nextIdx = cfPostagBetween(nextIdx);
-		nextIdx = cfWordBetween(nextIdx);
-		nextIdx = cvConceptType(nextIdx);
+		nextIdx = cfPostagBetween(0);
+		nextIdx = scContent(nextIdx); // feature 5 - thực thể lân cận
+		nextIdx = scType(nextIdx); // feature 4 - tương đồng
+		nextIdx = cfStringMatcher(nextIdx); // feature 3 - thực thể quan hệ
+		nextIdx = cfWordBetween(nextIdx); //feature 2 - ngữ cảnh
+		nextIdx = cvConceptType(nextIdx); //feature 1 - wiki
 
 		return this.vector;
 	}
