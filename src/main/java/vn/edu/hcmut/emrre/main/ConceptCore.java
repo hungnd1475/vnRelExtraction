@@ -9,9 +9,11 @@ import java.util.regex.Pattern;
 import org.apache.xalan.xsltc.ProcessorVersion;
 
 import de.bwaldvogel.liblinear.InvalidInputDataException;
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.DocLine;
-import vn.edu.hcmut.emrre.core.entity.Relation;
+import vn.edu.hcmut.emrre.common.Constant;
+import vn.edu.hcmut.emrre.common.Dictionary;
+import vn.edu.hcmut.emrre.common.ReadFile;
+import vn.edu.hcmut.emrre.common.WordHandle;
+import vn.edu.hcmut.emrre.common.WriteFile;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import vn.edu.hcmut.emrre.core.entity.sentence.SentenceDAO;
 import vn.edu.hcmut.emrre.core.entity.sentence.SentenceDAOImpl;
@@ -20,11 +22,9 @@ import vn.edu.hcmut.emrre.core.feature.ConceptFeatureVn;
 import vn.edu.hcmut.emrre.core.preprocess.ProcessText;
 import vn.edu.hcmut.emrre.core.preprocess.ProcessVNText;
 import vn.edu.hcmut.emrre.core.svm.SVM;
-import vn.edu.hcmut.emrre.core.utils.Constant;
-import vn.edu.hcmut.emrre.core.utils.Dictionary;
-import vn.edu.hcmut.emrre.core.utils.ReadFile;
-import vn.edu.hcmut.emrre.core.utils.WordHandle;
-import vn.edu.hcmut.emrre.core.utils.WriteFile;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
+import vn.edu.hcmut.emrre.modal.entity.DocLine;
+import vn.edu.hcmut.emrre.modal.entity.Relation;
 
 public class ConceptCore {
 	private static List<int[]> BIOs;

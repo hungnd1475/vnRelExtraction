@@ -6,19 +6,19 @@ import java.util.ArrayList;
 import java.util.List;
 
 import de.bwaldvogel.liblinear.InvalidInputDataException;
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.DocLine;
-import vn.edu.hcmut.emrre.core.entity.Relation;
+import vn.edu.hcmut.emrre.common.Constant;
+import vn.edu.hcmut.emrre.common.Dictionary;
+import vn.edu.hcmut.emrre.common.ReadFile;
+import vn.edu.hcmut.emrre.common.WordHandle;
+import vn.edu.hcmut.emrre.common.WriteFile;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import vn.edu.hcmut.emrre.core.feature.RelationFeatureVn;
 import vn.edu.hcmut.emrre.core.preprocess.ProcessText;
 import vn.edu.hcmut.emrre.core.preprocess.ProcessVNText;
 import vn.edu.hcmut.emrre.core.svm.SVM;
-import vn.edu.hcmut.emrre.core.utils.Constant;
-import vn.edu.hcmut.emrre.core.utils.Dictionary;
-import vn.edu.hcmut.emrre.core.utils.ReadFile;
-import vn.edu.hcmut.emrre.core.utils.WordHandle;
-import vn.edu.hcmut.emrre.core.utils.WriteFile;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
+import vn.edu.hcmut.emrre.modal.entity.DocLine;
+import vn.edu.hcmut.emrre.modal.entity.Relation;
 
 public class RelationCore {
 	private static List<Relation> relations;
@@ -272,7 +272,8 @@ public class RelationCore {
 			wf.writeln("");
 		}
 		wf.close();
-		svm.svmTrainCore(new File(Constant.DATA_TRAIN_FILE_PATH));
+		System.out.println("Done");
+//		svm.svmTrainCore(new File(Constant.DATA_TRAIN_FILE_PATH));
 	}
 
 	/*
@@ -349,5 +350,16 @@ public class RelationCore {
 		this.conceptLstOut = cc.extractConcept(sentenceLstOut);
 		List<Relation> relLst = rc.extractRelation(sentenceLstOut, conceptLstOut);
 		return relLst;
+	}
+	
+	public static void main(String[] args) {
+		String str = "Hôm qua, tôi thấy 1 con chim sâu. Chim hót rất hay trên cành cao.";
+		ProcessText pt = ProcessVNText.getInstance();
+		List<Sentence> sents = pt.processDocument(str, false);
+		for (Sentence sent : sents) {
+			System.out.println(sent.getContent());
+		}
+		
+		
 	}
 }

@@ -5,7 +5,7 @@ import java.util.List;
 import org.hibernate.Query;
 import org.hibernate.Session;
 
-import vn.edu.hcmut.emrre.core.utils.HibernateUtil;
+import vn.edu.hcmut.emrre.common.HibernateUtil;
 	
 public class SentenceDAOImpl implements SentenceDAO {
     private Session session;

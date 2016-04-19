@@ -12,12 +12,13 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import org.springframework.web.servlet.ModelAndView;
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.Relation;
+
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import vn.edu.hcmut.emrre.core.preprocess.ProcessText;
 import vn.edu.hcmut.emrre.core.preprocess.ProcessVNText;
 import vn.edu.hcmut.emrre.main.RelationCore;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
+import vn.edu.hcmut.emrre.modal.entity.Relation;
 import vn.edu.hcmut.emrre.spring.utils.HTMLHelper;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -10,9 +10,9 @@ import jvntextpro.JVnTextPro;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import vn.edu.hcmut.emrre.core.entity.Concept;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import vn.edu.hcmut.emrre.core.entity.word.Word;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
 
 public class ProcessVNText implements ProcessText {
 

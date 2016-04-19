@@ -10,9 +10,9 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.DocLine;
-import vn.edu.hcmut.emrre.core.entity.Relation;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
+import vn.edu.hcmut.emrre.modal.entity.DocLine;
+import vn.edu.hcmut.emrre.modal.entity.Relation;
 
 public class DataReader {
     private Pattern conceptPattern = Pattern.compile("^c=\"(.*)?\"\\s(\\d+):(\\d+)\\s(\\d+):(\\d+)\\|\\|t=\"(.*)?\"$");

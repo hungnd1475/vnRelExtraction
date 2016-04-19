@@ -5,9 +5,9 @@ import java.util.List;
 
 import javax.swing.text.html.HTML;
 
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.Relation;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
+import vn.edu.hcmut.emrre.modal.entity.Relation;
 import vn.edu.hcmut.emrre.spring.utils.HTMLHelper;
 import de.bwaldvogel.liblinear.InvalidInputDataException;
 

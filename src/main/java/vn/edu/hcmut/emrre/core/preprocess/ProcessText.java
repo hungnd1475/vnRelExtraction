@@ -2,8 +2,8 @@ package vn.edu.hcmut.emrre.core.preprocess;
 
 import java.util.List;
 
-import vn.edu.hcmut.emrre.core.entity.Concept;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
 
 public interface ProcessText {
     public String wordSegment(String text);

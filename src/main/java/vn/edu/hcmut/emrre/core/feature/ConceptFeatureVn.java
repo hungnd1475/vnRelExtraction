@@ -3,15 +3,15 @@ package vn.edu.hcmut.emrre.core.feature;
 import java.util.List;
 import java.util.regex.Pattern;
 
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.DocLine;
+import vn.edu.hcmut.emrre.common.Constant;
+import vn.edu.hcmut.emrre.common.Dictionary;
+import vn.edu.hcmut.emrre.common.WordHandle;
 import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
 import vn.edu.hcmut.emrre.core.entity.sentence.SentenceDAO;
 import vn.edu.hcmut.emrre.core.entity.sentence.SentenceDAOImpl;
 import vn.edu.hcmut.emrre.core.entity.word.Word;
-import vn.edu.hcmut.emrre.core.utils.Constant;
-import vn.edu.hcmut.emrre.core.utils.Dictionary;
-import vn.edu.hcmut.emrre.core.utils.WordHandle;
+import vn.edu.hcmut.emrre.modal.entity.Concept;
+import vn.edu.hcmut.emrre.modal.entity.DocLine;
 
 public class ConceptFeatureVn {
 	private int dimension;
