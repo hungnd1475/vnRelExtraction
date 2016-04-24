@@ -12,12 +12,13 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import org.springframework.web.servlet.ModelAndView;
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.Relation;
-import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
-import vn.edu.hcmut.emrre.core.preprocess.ProcessText;
-import vn.edu.hcmut.emrre.core.preprocess.ProcessVNText;
-import vn.edu.hcmut.emrre.main.RelationCore;
+
+import vn.edu.hcmut.emrre.NLP.ProcessText;
+import vn.edu.hcmut.emrre.NLP.ProcessVNText;
+import vn.edu.hcmut.emrre.entity.Concept;
+import vn.edu.hcmut.emrre.entity.Relation;
+import vn.edu.hcmut.emrre.entity.Sentence;
+import vn.edu.hcmut.emrre.main.RelationExtractor;
 import vn.edu.hcmut.emrre.spring.utils.HTMLHelper;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -26,7 +27,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @RequestMapping(value = "/vn-extractor", produces = "application/json; charset=utf-8", headers = "Accept=application/json")
 public class VNExtractorController {
     private ProcessText processText = ProcessVNText.getInstance();
-    private RelationCore relationCore = new RelationCore();
+    private RelationExtractor relationCore = new RelationExtractor();
 
     @RequestMapping(value = "preprocess", method = RequestMethod.POST)
     public @ResponseBody Object preProcess(@RequestBody Map<String, Object> req) {

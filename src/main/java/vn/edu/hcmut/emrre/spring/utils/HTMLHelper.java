@@ -3,14 +3,14 @@ package vn.edu.hcmut.emrre.spring.utils;
 import java.util.ArrayList;
 import java.util.List;
 
-import vn.edu.hcmut.emrre.core.entity.Concept;
-import vn.edu.hcmut.emrre.core.entity.DocLine;
-import vn.edu.hcmut.emrre.core.entity.Relation;
-import vn.edu.hcmut.emrre.core.entity.sentence.Sentence;
-import vn.edu.hcmut.emrre.core.entity.word.Word;
-import vn.edu.hcmut.emrre.core.io.DataReader;
-import vn.edu.hcmut.emrre.core.preprocess.ProcessText;
-import vn.edu.hcmut.emrre.core.preprocess.ProcessVNText;
+import vn.edu.hcmut.emrre.NLP.ProcessText;
+import vn.edu.hcmut.emrre.NLP.ProcessVNText;
+import vn.edu.hcmut.emrre.common.DataReader;
+import vn.edu.hcmut.emrre.entity.Concept;
+import vn.edu.hcmut.emrre.entity.DocLine;
+import vn.edu.hcmut.emrre.entity.Relation;
+import vn.edu.hcmut.emrre.entity.Sentence;
+import vn.edu.hcmut.emrre.entity.Word;
 
 public class HTMLHelper {
     public static final String PROBLEM_TAG_BEGIN = "<span class=\"problem selected\">";
