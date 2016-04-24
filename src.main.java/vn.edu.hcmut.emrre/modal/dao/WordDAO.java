@@ -6,7 +6,7 @@ import org.hibernate.Session;
 
 import vn.edu.hcmut.emrre.common.HibernateUtil;
 
-public class WordDAOImpl implements WordDAO {
+public class WordDAO {
 
     public void save(Word word) {
         Session session = HibernateUtil.getSessionFactory().openSession();

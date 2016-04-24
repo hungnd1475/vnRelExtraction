@@ -7,7 +7,7 @@ import org.hibernate.Session;
 
 import vn.edu.hcmut.emrre.common.HibernateUtil;
 	
-public class SentenceDAOImpl implements SentenceDAO {
+public class SentenceDAO {
     private Session session;
     
     public SentenceDAOImpl(){
