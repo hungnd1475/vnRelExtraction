@@ -23,17 +23,10 @@ public class HomeController {
     public ModelAndView extrator() {
         return new ModelAndView("fragments/extractor");
     }
-
-
-    @RequestMapping(value = "/test", method = RequestMethod.GET)
-    public String test() {
-        return "index";
+    
+    @RequestMapping(value = "/training", method = RequestMethod.GET)
+    public ModelAndView training() {
+        return new ModelAndView("fragments/training_run");
     }
 
-    @RequestMapping(value = "/error", method = RequestMethod.GET)
-    public
-    @ResponseBody
-    String error() {
-        return new String("error");
-    }
 }

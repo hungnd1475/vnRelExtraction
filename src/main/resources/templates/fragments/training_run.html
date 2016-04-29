@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+    layout:decorator="layout">
+<head>
+<title>Training</title>
+</head>
+<body>
+    <h2 layout:fragment="tab-name"></h2>
+    <div layout:fragment="content" ng-controller="vnTraining" id="main">
+    	<ul class="nar nar-tabs">
+            <li><a href="/training/model">File Model</a></li>
+            <li><a href="/training/run" class="active">Training</a></li>
+        </ul>
+        <div class="row">
+        	<div class="col-md-6" style="margin-bottom: 30px">
+        		<button type="button" class="btn btn-success" ng-click="run()">Start Training</button>
+       		 </div>
+       		 <button class="btn btn-lg btn-warning col-md-6" id="refresh" style="visibility: hidden"><span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Loading...</button>
+        	<div class="col-md-7">
+        		<span>Import Text files</span>
+        		<form action="/training/run">
+        			<div class="form-group">
+						<div class="col-xs-12">
+							<input multiple="multiple" type="file" class="id-input-file-3" />
+							<input type="hidden" name="type" value="text"/>
+							<!-- /section:custom/file-input -->
+						</div>
+					</div>
+        		</form>
+        	</div>
+        	<div class="col-md-7">
+        		<span>Import Concept files</span>
+        		<form action="/training/run">
+        			<div class="form-group">
+						<div class="col-xs-12">
+							<input multiple="multiple" type="file" class="id-input-file-3" />
+							<input type="hidden" name="type" value="concept"/>
+							<!-- /section:custom/file-input -->
+						</div>
+					</div>
+        		</form>
+        	</div>
+        	<div class="col-md-7">
+        		<span>Import Relation files</span>
+        		<form action="/training/run">
+        			<div class="form-group">
+						<div class="col-xs-12">
+							<input multiple="multiple" type="file" class="id-input-file-3" />
+							<input type="hidden" name="type" value="relation"/>
+							<!-- /section:custom/file-input -->
+						</div>
+					</div>
+        		</form>
+        	</div>
+        	
+        </div>
+
+        <!-- 		<div id="dialog" title="Select Label" style="display: none;"> -->
+        <!-- 			<input type="radio" name="label" value="problem" />Problem <br /> -->
+        <!-- 			<input type="radio" name="label" value="treatment" />Treatment<br /> -->
+        <!-- 			<input type="radio" name="label" value="test" />Test<br /> <input -->
+        <!-- 				type="radio" name="label" value="clear" />Clear<br /> -->
+        <!-- 		</div> -->
+    </div>
+   
+</body>
+</html>

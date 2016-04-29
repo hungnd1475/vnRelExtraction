@@ -5,6 +5,58 @@ app.filter('unsafe', function($sce) {
     };
 });
 
+app.controller('vnTraining', function($scope, $sce, $http) {
+	$('.id-input-file-3').ace_file_input({
+		style:'well',
+		btn_choose:'Drop files here or click to choose',
+		btn_change:null,
+		no_icon:'ace-icon glyphicon-cloud',
+		droppable:true,
+		thumbnail:'small'//large | fit
+		,
+		preview_error : function(filename, error_code) {
+			
+		}
+	
+	}).on('change', function(){
+	});
+	
+	var urlBase = "training/";
+	
+	$scope.run = function() {
+		$('#refresh').show();
+		var req = $http({
+            method : "post",
+            url : urlBase + "start",
+            data : {
+                action: "training"
+            },
+        });
+		
+		req.success(function(res) {
+			$('#refresh').hide();
+			if (res.err >= 0) {
+	            new PNotify({
+	                title : "Training Process",
+	                text : "Success",
+	                type : "success",
+	                delay : 1000
+	            });
+			} else {
+				new PNotify({
+	                title : "Training Process",
+	                text : "Fail",
+	                type : "Fail",
+	                delay : 1000
+	            });
+			}
+        });
+	}
+});
+
+app.controller('vnTrainingModel', function($scope, $sce, $http) {
+});
+
 app.controller('vnExtractor', function($scope, $sce, $http) {
     $scope.record = "";
     $scope.sentences = [];

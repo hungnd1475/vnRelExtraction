@@ -5,6 +5,9 @@ import java.util.List;
 
 import javax.swing.text.html.HTML;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import vn.edu.hcmut.emrre.dao.RecordDAO;
 import vn.edu.hcmut.emrre.entity.Concept;
 import vn.edu.hcmut.emrre.entity.Record;
@@ -15,10 +18,13 @@ import de.bwaldvogel.liblinear.InvalidInputDataException;
 
 public class Main {
     public static void main(String[] args) throws IOException, InvalidInputDataException {
-//        RelationCore emr = new RelationCore();
-//        emr.generateModel();
-    	List<Record> records = RecordDAO.Instance.findAll();
-    	System.out.println(records.size());
+//        Logger log = LoggerFactory.getLogger(Main.class);
+//    	RelationExtractor rel = new RelationExtractor();
+//        rel.generateModel();
+//        log.debug("Train relation end");
+//        ConceptExtractor con = new ConceptExtractor();
+//        con.generateModel();
+//        log.debug("Train concept end");
 
     }
 }

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+    layout:decorator="layout">
+<head>
+<title>Training</title>
+
+</head>
+<body>
+    <h2 layout:fragment="tab-name"></h2>
+    <div layout:fragment="content" ng-controller="vnTrainingModel" id="main">
+    	<ul class="nar nar-tabs">
+            <li><a href="/training/model" class="active">File Model</a></li>
+            <li><a href="/training/run">Training</a></li>
+        </ul>
+        <div class="row">
+        	<div class="col-md-12" th:with="conModel=${con_model}">
+	        	 <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="panel-title">
+                            <h4>Concept Model</h4>
+                        </div>
+                    </div>
+	        		<div id="con_model" class="doc panel-body" style="height: 60vh;" th:text="${conModel}">
+	                </div>
+                </div>
+        	</div>
+        	<div class="col-md-12" th:with="relModel=${rel_model}">
+        		<div class="panel panel-default">
+                    <div class="panel-heading">
+                        <div class="panel-title">
+                            <h4>Relation Model</h4>
+                        </div>
+                    </div>
+	        		<div id="con_model" class="doc panel-body" style="height: 60vh;" th:text="${relModel}">
+	                </div>
+                </div>
+        	</div>
+        </div>
+    </div>
+   
+</body>
+</html>

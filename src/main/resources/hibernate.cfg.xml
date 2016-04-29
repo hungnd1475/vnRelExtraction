@@ -14,8 +14,8 @@
         <property name="generate_statistics">false</property>
         <property name="use_sql_comments">false</property>
         <property name="hibernate.current_session_context_class">thread</property>
-        <mapping class="vn.edu.hcmut.emrre.core.entity.Record" />
-        <mapping class="vn.edu.hcmut.emrre.core.entity.Sentence" />
-        <mapping class="vn.edu.hcmut.emrre.core.entity.Word" />
+        <mapping class="vn.edu.hcmut.emrre.entity.Record" />
+        <mapping class="vn.edu.hcmut.emrre.entity.Sentence" />
+        <mapping class="vn.edu.hcmut.emrre.entity.Word" />
     </session-factory>
 </hibernate-configuration>

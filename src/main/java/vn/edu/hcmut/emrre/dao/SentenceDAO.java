@@ -12,7 +12,9 @@ public class SentenceDAO {
 	
 	public static final SentenceDAO Instance = new SentenceDAO();
 	
-	private SentenceDAO() {}
+	private SentenceDAO() {
+		session = HibernateUtil.getSessionFactory().openSession();
+	}
 	
     private Session session;
     
